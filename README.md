@@ -18,5 +18,5 @@ contents, and then commit and push the changes with `git`.
 ## Guidelines
 You can submit pull requests to have your changes published. If you would like
 to preview your changes, you can set up your own copy of the handbook by
-configuring your clone using the instructions in 
+configuring your clone using the instructions in
 [jobindjohn/obsidian-publish-mkdocs](https://github.com/jobindjohn/obsidian-publish-mkdocs).
