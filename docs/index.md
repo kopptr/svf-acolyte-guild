@@ -1,11 +1,15 @@
-# Obsidian Notes
+---
+aliases: ["Handbook"]
+---
+This site serves as the handbook for the [[Parish of St. Vincent Ferrer and St. Catherine of Siena]] chapter of the [[Guild of St. Stephen]]. Here you will find rubrics for [[Mass]], and resources for serving more effectively and reverently.
 
-Publish your public notes with MkDocs
-
-## Hello World!
-
-The `index.md` in the `/docs` folder is the homepage you see here.
-
-The folders in `/docs` appear as the main sections on the navigation bar.
-
-The notes appear as pages within these sections. For example, [[Note 1]] in `Topic 1`
+## Quick Links
+- Calendar of liturgies and rehearsals:
+	- [Web view](https://calendar.google.com/calendar/embed?src=acolytes@svsc.info)
+	- Add the following to your favorite calendar app:
+```
+https://calendar.google.com/calendar/ical/acolytes%40svsc.info/public/basic.ics
+```
+- [[The Guild Prayer]], to be prayed each day by enrolled [[Guild of St. Stephen|Guild]] members.
+- Rubrics for [[Roman Rite Solemn Mass]], i.e. typical Sunday [[Mass]].
+- A listing of the different [[Mass|Masses]] the [[Guild of St. Stephen|Guild]] serves.

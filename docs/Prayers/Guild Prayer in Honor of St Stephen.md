@@ -1,0 +1,1 @@
+>Help us, we pray you Lord, to imitate St. Stephen, your deacon, whom we venerate as the patron of our Guild. May we serve the Church with the same dedication and learn to love our enemies just as he prayed for those who persecuted him. We ask this through Christ our Lord. Amen.
