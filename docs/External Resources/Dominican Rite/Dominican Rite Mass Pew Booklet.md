@@ -1,0 +1,2 @@
+- [Purchase Link](https://www.lulu.com/shop/dominican-liturgy-publications/dominican-rite-mass-pew-booklet/paperback/product-18nqz2yd.html?page=1&pageSize=4)
+- Copies are available for study in the [[Sacristy]], but not to borrow.

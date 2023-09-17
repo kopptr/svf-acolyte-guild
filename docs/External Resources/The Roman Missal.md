@@ -1,0 +1,2 @@
+- [PDF](https://www.resurrectionparishjohnstown.com/uploads/1/1/4/3/114314907/theromanmissal.pdf)
+- The Midwest Theological Forum publishes excellent [Daily Missals](https://www.theologicalforum.org/Category/112/Daily_Roman_Missals) which contain the text of the Missal plus the readings.

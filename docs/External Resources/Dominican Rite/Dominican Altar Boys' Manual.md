@@ -1,0 +1,2 @@
+- [PDF](https://media.musicasacra.com/dominican/Texts/altarboy.pdf)
+- [Purchase Link](https://www.lulu.com/shop/eastern-dominican-province/dominican-altar-boys-manual/paperback/product-14n2zvgv.html?page=1&pageSize=4)
