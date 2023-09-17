@@ -1,7 +1,7 @@
 Procession of the Eucharist in a [[Monstrance]], typically following [[Mass]].
 
-#todo [[Psalter 68#v25]]
-
+>Thy solemn processions are seen, O God, the processions of my God, my King, into the sanctuary the singers in front, the minstrels last, between them maidens playing timbrels.
+>-- Psalm 68:24-25
 
 ## Roles
 Up to 16 roles, can omit / double up some roles if needed.
