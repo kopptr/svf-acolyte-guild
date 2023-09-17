@@ -1,0 +1,1 @@
+The Celebrant is the primary priest or bishop celebrating the [[Mass]]. Most #dominican liturgical [[Preservation of Dominican Customs|Customs]] are ordered toward the Celebrant's contemplation of the mysteries of the [[Mass]].

@@ -1,0 +1,2 @@
+- [[Mass]] parts tend to be short, simple, chants, which affects timing. In particular, the [[Thurifer]] must charge the incense quickly at the _Sanctus_.
+- Sunday [[Roman Rite Solemn Mass]] will end with a Marian Hymn. At the [[Roman Rite Solemn Mass#Recession]], the formation stays at the foot of the [[Sanctuary]] until the hymn is finished.

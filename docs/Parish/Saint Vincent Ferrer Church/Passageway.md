@@ -1,0 +1,1 @@
+The short hallway connecting the Northeast side of the [[Friars' Chapel]], near the altar, to the [[Sanctuary]]. Has a smaller hallway that connects to the [[Back Sacristy]].

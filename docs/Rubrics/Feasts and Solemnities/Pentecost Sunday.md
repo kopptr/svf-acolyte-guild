@@ -1,0 +1,1 @@
+CotLY#328 suggests a procession of the Paschal candle to the Baptistery on the last Mass of Pentecost.

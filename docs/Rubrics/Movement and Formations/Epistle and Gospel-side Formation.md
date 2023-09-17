@@ -1,0 +1,13 @@
+---
+aliases: ["Epistle-side Formation", "Gospel-side Formation"]
+---
+- [[Celebrant]] on the Epistle/Gospel side of the [[High Ambo]] platform.
+- [[Deacon]] on the next step to the [[Celebrant]]'s right/left
+- [[Subdeacon]] on the next step to the [[Deacon]]'s right/left
+- [[Senior Acolyte]] on the next step to the [[Subdeacon]]'s right/left
+- [[Junior Acolyte]] on the next step to the [[Senior Acolyte]]'s right/left
+- When [[Crucifer]] and [[Thurifer]] are present (i.e. during the _Credo_):
+	- [[Acolytes]] are holding candles
+	- [[Crucifer]] is in between the Acolytes, on the Junior Acolyte's usual step.
+	- [[Junior Acolyte]] is on the [[Presbytery]] floor.
+	- [[Thurifer]] is next to the [[Junior Acolyte]], depending on spacing. He is the outside-most person.

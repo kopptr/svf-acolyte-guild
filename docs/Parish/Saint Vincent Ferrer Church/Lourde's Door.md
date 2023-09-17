@@ -1,0 +1,1 @@
+The door between the [[Main Church]] and the [[Cloister Walk]] in the Southeast corner of the church. So-called because it's near the Our Lady of Lourdes statue.

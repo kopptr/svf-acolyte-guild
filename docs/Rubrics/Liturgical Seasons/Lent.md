@@ -1,0 +1,4 @@
+- No [[Gloria]], except on non-Sunday [[Solemnity|Solemnities]].
+- A Tract replaces the [[Alleluia]].
+- No organ Prelude or Postlude, except on [[Fourth Sunday of Lent]].
+- Unbleached candles are used wherever we have them.

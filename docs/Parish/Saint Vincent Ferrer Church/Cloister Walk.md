@@ -1,0 +1,1 @@
+Hallway connecting the Baptistery and the [[Sacristy]], with doors to the [[Lower Church]] and [[Confessionals]], and also the [[Lourde's Door]].
