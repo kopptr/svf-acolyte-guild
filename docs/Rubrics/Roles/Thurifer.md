@@ -11,6 +11,3 @@ The Thurifer is the server in charge of the [[Thurible]].
 - If no [[Deacon]] is present, forgetting to incense the [[Celebrant]], [[Concelebrant|Concelebrants]], and [[Congregation]] after the [[Celebrant]] incenses the [[SVF Acolyte Guild/Liturgical Items/Altar|Altar]] during the Offertory.
 - Forgetting to add more charcoal to the [[Thurible]] at appropriate times, especially during the Homily.
 - Not carrying the [[Thurible]] high enough, resulting in it swinging into the ground or a step.
-
-## References
-[[GIRM#Incensation]]

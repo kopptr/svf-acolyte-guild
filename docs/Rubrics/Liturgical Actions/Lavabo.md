@@ -1,3 +1,3 @@
 
 ## References
-- [[GIRM#p76]]
+- [[General Instruction of the Roman Missal|GIRM > par. 76]]

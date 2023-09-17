@@ -21,7 +21,7 @@ We carry the [[Missal]], and any other ceremonial books, according to the #domin
 - Book held at about a 45 degree angle.
 - Stand facing the [[Celebrant]], slightly to his right, so that he can read the book while facing different directions.
 
-[^go_to_minister]: See: [[GIRM#p189]].
+[^go_to_minister]: See: [[General Instruction of the Roman Missal|GIRM > par. 189]].
 
 ## Manner of opening the Missal
 - Approach the [[Celebrant]], keeping the book closed, place the tip of the spine against the chest with the covers and pages protruding the to [[Celebrant]], and the bottom of the spine held with two hands.

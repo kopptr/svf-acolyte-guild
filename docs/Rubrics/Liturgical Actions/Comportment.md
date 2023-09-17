@@ -9,7 +9,7 @@ Parishioners will begin to recognize you as an [[Altar Server]], so always condu
 - **Entrance**: Enter the [[Sacristy]] discreetly if possible. Ideally enter through the [[Baptistery]] or [[Lourde's Door]]. Otherwise enter through the [[Friars' Chapel]]. We don't want people in the congregation to think they are allowed in the [[Sanctuary]], [[Friars' Chapel]], or [[Sacristy]], and so we don't want to be seen entering that way.
 - **Silence**: Try to keep silence in the [[Sacristy]][^silence], especially before a liturgy. Hold conversations in the [[Back Sacristy]] only. Be sensitive to the state of the [[SVF Acolyte Guild/Rubrics/Roles/Priest|Priest]]. If it's thirty minutes before the liturgy and he's politely greeting you, go ahead and converse. If it's five minutes before the liturgy starts and he's vesting, keep silence.
 
-[^silence]: [[GIRM#p45]]
+[^silence]: [[General Instruction of the Roman Missal|GIRM > par. 45]]
 
 ### Vest and Prepare the Sanctuary
 - **Modesty**: When changing in the [[Back Sacristy]], make sure you are not in the doorway so no one walking by in the [[Sacristy]] can see you. Alternatively, close the door.

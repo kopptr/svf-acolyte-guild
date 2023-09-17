@@ -147,6 +147,4 @@ Typically accompanied by a hymn.
 - Enter the [[Sanctuary]], not stopping to reverence the [[Tabernacle]] and passing the [[Crossing Altar]] on the right side.
 
 ## References
-- [[GIRM#p119]]
-- [[GIRM#p120]]
-- [[GIRM#p188]]
+- [[General Instruction of the Roman Missal|GIRM > par. 119-120, 188]]

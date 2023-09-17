@@ -10,4 +10,4 @@ The altar has a small crucifix which must be on the center-West of it during Mas
 There are six candles on the South and North sides of the altar.
 
 ## References
-- [[GIRM#p117]]
+- [[General Instruction of the Roman Missal|GIRM > par. 117]].

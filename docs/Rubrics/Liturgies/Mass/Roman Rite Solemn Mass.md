@@ -31,7 +31,7 @@ Four servers:
 	- [ ] [[Incense Boat]] filled before [[Mass]].
 	- [ ] Charcoal lit shortly (10min) before [[Mass]].
 
-[^missal_location]: Should this be next to the [[Celebrant]]'s chair? See: [[GIRM#p118]]a. #liturgy-todo
+[^missal_location]: Should this be next to the [[Celebrant]]'s chair? See: [[General Instruction of the Roman Missal|GIRM > par. 118a]].
 [^missal_pref]: Unless [[Celebrant]] prefers to say the prayers at the [[Crossing Altar]].
 [^chalice_pref]: Unless [[Celebrant]] prefers it to start on the [[Crossing Altar]].
 
@@ -51,8 +51,8 @@ Form up in [[Sacristy]], [[Pre-Mass Prayer with Ministers]].
 	- [[Crucifer]] deposits [[Processional Crucifix]] and goes to [[Choir Stalls#Low]].
 	- [[Lucifer|Lucifers]] return [[Processional Candle|Processional Candles]] to their spot against the wall behind the [[Ambo]][^processional_candle_location] and go to [[Choir Stalls#Low]].
 
-[^entrance_genuflection]: See: [[GIRM#p49]].
-[^processional_candle_location]: See: [[GIRM#p122]]. Should we place the [[Processional Candle]]s on/near the altar? Is the current spot "near" the altar? Do we care? #liturgy-todo
+[^entrance_genuflection]: See: [[General Instruction of the Roman Missal|GIRM > par. 49]].
+[^processional_candle_location]: See: [[General Instruction of the Roman Missal|GIRM > par. 122]]. Should we place the [[Processional Candle]]s on/near the altar? Is the current spot "near" the altar? Do we care? #liturgy-todo
 
 #### Reverence to the Altar
 After the [[Celebrant]] (and and [[Concelebrant|Concelebrants]] and [[Deacon|Deacons]]) reverence the [[Crossing Altar]]:
@@ -60,7 +60,7 @@ After the [[Celebrant]] (and and [[Concelebrant|Concelebrants]] and [[Deacon|Dea
 - Others in [[Standby Formation]].
 - When [[Celebrant]] is finished incensing, [[Thurifer]] retrieves [[Thurible]] and goes to [[Choir Stalls#Low]].
 
-[^first_incense]: See: [[GIRM#p49]], [[GIRM#p123]].
+[^first_incense]: See: [[General Instruction of the Roman Missal|GIRM > par. 49, 123]].
 
 #### Greeting, Penitential Act, Kyrie, Gloria
 Wait in [[Choir Stalls#Low]]. According to [[Celebrant|Celebrant's]] preference, [[Book Bearer]] may hold the [[Missal]] for the [[Celebrant]] for all, part, or none of these parts.
@@ -68,7 +68,7 @@ Wait in [[Choir Stalls#Low]]. According to [[Celebrant|Celebrant's]] preference,
 #### Collect
 [[Book Bearer]] holds the [[Missal]][^book_bearing] for the [[Celebrant]]. After _Amen_, he returns to [[Choir Stalls#Low]], and all the [[Altar Server|Altar Servers]] sit together.
 
-[^book_bearing]: See: [[GIRM#p189]].
+[^book_bearing]: See: [[General Instruction of the Roman Missal|GIRM > par. 189]].
 
 ### The Liturgy of the Word
 
@@ -84,18 +84,18 @@ Sit.
 	- If there is no [[Deacon]], the [[Celebrant]] may wish to proclaim the Gospel from the [[High Ambo]], in which case the [[Lucifer|Lucifers]] form up in front of that, and the [[Thurifer]] leads the [[Celebrant]] to the [[High Ambo]], letting him ascend the steps first.
 - [[Lucifer|Lucifers]] flank the [[Ambo]], facing inward.
 
-[^alleluia_incense]: See: [[GIRM#p132]].
-[^book_of_gospels]: See: [[GIRM#p44]]. Should the Deacon carry the Book of the Gospels to the [[Ambo]]? #liturgy-todo
-[^gospel_procession]: See: [[GIRM#p133]].
-[^alleluia_gospel_deacon]: See: [[GIRM#p175]]
-[^gospel_book_location]: See: [[GIRM#p117]], [[GIRM#p122]], [[GIRM#p133]], [[GIRM#p172]], [[GIRM#p173]], [[GIRM#p175]]. Should the Book of the Gospels have been placed on the [[Crossing Altar]], either at the beginning of Mass, or by the Deacon as part of the Procession? #liturgy-todo
+[^alleluia_incense]: See: [[General Instruction of the Roman Missal|GIRM > par. 132]].
+[^book_of_gospels]: See: [[General Instruction of the Roman Missal|GIRM > par. 44]]. Should the Deacon carry the Book of the Gospels to the [[Ambo]]? #liturgy-todo
+[^gospel_procession]: See: [[General Instruction of the Roman Missal|GIRM > par. 133]].
+[^alleluia_gospel_deacon]: See: [[General Instruction of the Roman Missal|GIRM > par. 175]].
+[^gospel_book_location]: See: [[General Instruction of the Roman Missal|GIRM > parm. 117, 122, 133, 172, 173, 175]]. Should the Book of the Gospels have been placed on the [[Crossing Altar]], either at the beginning of Mass, or by the Deacon as part of the Procession? #liturgy-todo
 
 #### Gospel
 During Gospel:
 - [[Thurifer]] assists with incensing the Book of the Gospels[^gospel_incense], then stands behind the [[Ambo]] with the [[Thurible]] while the Gospel is read.
 - [[Lucifer|Lucifers]] remain in place flanking the [[Ambo]] and facing inward.
 
-[^gospel_incense]: [[GIRM#p134]]
+[^gospel_incense]: [[General Instruction of the Roman Missal|GIRM > par. 134]].
 
 After Gospel is completed:
 - [[Thurifer]] returns [[Thurible]] to [[Thurible Stand]].
@@ -128,7 +128,7 @@ All stand in [[Choir Stalls#Low]]. When the preface begins, turn and face West.
 - [[Bell Ringer]] readies the bells.
 - When _Sanctus_ is finished, all kneel[^sanctus_kneel].
 
-[^sanctus_kneel]: See: [[GIRM#p43]].
+[^sanctus_kneel]: See: [[General Instruction of the Roman Missal|GIRM > par. 43]].
 
 #### Eucharistic Prayer through Great Amen
 - [[Bell Ringer]] rings bells when appropriate[^bells].
@@ -140,7 +140,7 @@ All stand in [[Choir Stalls#Low]]. When the preface begins, turn and face West.
 	- All stand in [[Choir Stalls#Low]] and face [[Crossing Altar]].
  
  [^bells]: See [[Bell Ringer#Roman Rite]].
-[^consecration_incense]: See [[GIRM#p150]].
+[^consecration_incense]: See [[General Instruction of the Roman Missal|GIRM > par. 150]].
 
 #### Our Father, Rite of Peace, Agnus Dei
 Stand in [[Choir Stalls#Low]], facing [[Crossing Altar]].
@@ -148,7 +148,7 @@ Stand in [[Choir Stalls#Low]], facing [[Crossing Altar]].
 - [[Sign of Peace]].
 - After the _Agnus Dei_ is complete, kneel in the [[Choir Stalls#Low]][^agnus_kneel].
 
-[^agnus_kneel]: See: [[GIRM#p43]].
+[^agnus_kneel]: See: [[General Instruction of the Roman Missal|GIRM > par. 43]].
 
 #### Communion
 - [[Bell Ringer]] rings bell once as [[Celebrant]] receives the Precious Blood[^blood_ring].
@@ -156,7 +156,7 @@ Stand in [[Choir Stalls#Low]], facing [[Crossing Altar]].
 - Receive Communion.
 - All [[Altar Server|Servers]] stand together, turn together, and file back into [[Choir Stalls#Low]].
 
-[^blood_ring]: This is a local custom, and does not appear in the [[GIRM]]. James assures us it's allowed if the local custom is established, which it is.
+[^blood_ring]: This is a local custom, and does not appear in the [[General Instruction of the Roman Missal|GIRM]]. James assures us it's allowed if the local custom is established, which it is.
 
 #### Ablutions
 See [[Ablutions]].
@@ -164,7 +164,7 @@ See [[Ablutions]].
 #### Postcommunion Prayer
 [[Book Bearer]] holds book at chair[^postcommunion_prayer].
 
-[^postcommunion_prayer]: See: [[GIRM#p189]], [[GIRM#p165]],
+[^postcommunion_prayer]: See: [[General Instruction of the Roman Missal|GIRM > par. 165, 189]].
 
 ### The Concluding Rites
 The _Concluding Rites_[^concluding_rites] consist of announcements, a blessing, the dismissal, reverencing of the altar by the Ministers, and the recession. 
@@ -181,5 +181,5 @@ The _Concluding Rites_[^concluding_rites] consist of announcements, a blessing, 
 - [[Genuflection|Genuflect]] with the [[Celebrant]]. Turn, and process down the center aisle to the [[Narthex]][^recession_destination].
 - Form up in [[Narthex]], [[Post-Mass Prayer with Ministers]].
 
-[^concluding_rites]: See: [[GIRM#p90]].
-[^recession_destination]: See [[GIRM#p193]], which says that we should recess to the [[Sacristy]] along the route we used in procession. We don't do this so the [[Celebrant]] and [[Deacon]] can greet the people. #liturgy-todo 
+[^concluding_rites]: See: [[General Instruction of the Roman Missal|GIRM > par. 90]].
+[^recession_destination]: See [[General Instruction of the Roman Missal|GIRM > par. 193]], which says that we should recess to the [[Sacristy]] along the route we used in procession. We don't do this so the [[Celebrant]] and [[Deacon]] can greet the people. #liturgy-todo 

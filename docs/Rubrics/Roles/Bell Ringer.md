@@ -8,6 +8,6 @@ Eight bell rings:
 - Once when the [[Celebrant]] receives from the [[Chalice]][^last].
 	- If a [[Lector]] is reading the Communion Antiphon and happens to start speaking before the last bell ring, wait until the [[Lector]] finishes the Antiphon before ringing the bell.
 
-[^epiclesis]: See: [[GIRM#p150]], which says "A little before the Consecration". We ring it at the Epiclesis because that is the Roman and Dominican tradition, and nowhere else makes sense.
-[^elevations]: See: [[GIRM#p150]], which doesn't specify three times, but instead says "according to local custom". We ring three times at the elevations, a reference the three rings at the Consecration in the Tridentine Roman and Dominican Rites.
+[^epiclesis]: See: [[General Instruction of the Roman Missal|GIRM > par. 150]], which says "A little before the Consecration". We ring it at the Epiclesis because that is the Roman and Dominican tradition, and nowhere else makes sense.
+[^elevations]: See: [[General Instruction of the Roman Missal|GIRM > par. 150]], which doesn't specify three times, but instead says "according to local custom". We ring three times at the elevations, a reference the three rings at the Consecration in the Tridentine Roman and Dominican Rites.
 [^last]: This is not specified in the [[General Instruction of the Roman Missal|GIRM]], but is a local custom.

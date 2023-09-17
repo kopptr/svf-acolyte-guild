@@ -18,7 +18,7 @@ In the [[Roman Rite]], the Ablutions occur immediately after Communion.
 	- **Cue**: The [[Celebrant]] drinks the Ablutions from the [[Chalice]].
 - The last item the [[Acolyte]] should take is the [[Chalice Stack]]. When everything is taken from the [[SVF Acolyte Guild/Liturgical Items/Altar|Altar]], all [[Altar Server|Servers]] return to their seats. The [[Book Bearer]] should take the most convenient position for the Postcommunion Prayer.
 
-[^ablutions]: See: [[GIRM#p163]], [[GIRM#p192]]. The latter says that only an instituted [[Acolyte]] may assist with the Ablutions. It seems that this is in the context of actually purifying the vessels. Since we only assist with the water cruet, and the [[Celebrant]] or [[Deacon]] purifies the vessels, this is okay.
+[^ablutions]: See: [[General Instruction of the Roman Missal|GIRM > par. 163, 192]]. The latter says that only an instituted [[Acolyte]] may assist with the Ablutions. It seems that this is in the context of actually purifying the vessels. Since we only assist with the water cruet, and the [[Celebrant]] or [[Deacon]] purifies the vessels, this is okay.
 
 ### If there is a Deacon
 If there is a [[Deacon]], he will perform some or all of the duties of the [[Celebrant]] for the Ablutions. This is the [[Celebrant]]'s preference; the [[Celebrant]] may sit down to let the [[Deacon]] perform the Ablutions, or move to the [[SVF Acolyte Guild/Liturgical Items/Altar|Altar]] to do them himself.

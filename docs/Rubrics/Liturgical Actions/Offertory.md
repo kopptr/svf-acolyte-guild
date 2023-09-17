@@ -11,13 +11,13 @@ If there is an Offertory Chant, [[Altar Server|Servers]] with duties stand when 
 - [[SVF Acolyte Guild/Liturgical Items/Altar|Altar]] is incensed[^offertory_incense].
 - [[Lavabo]] is performed[^lavabo].
 
-[^offertory_chant]: See: [[GIRM#p139]].
+[^offertory_chant]: See: [[General Instruction of the Roman Missal|GIRM > par. 139]].
 [^which_altar]: See [[Standby Formation]] for differences between the [[High Altar]] and [[Crossing Altar]].
-[^bring_to_altar]: See: [[GIRM#p72]], [[GIRM#p178]]. Also, when a Deacon is not present, [[GIRM#p139]] and [[GIRM#p190]] specifically say that a lay minister moves the [[Chalice Stack]] to the altar, and that he places the [[Corporal]] and [[Purificator]], and [[Pall]]. (I would prefer we didn't do this). #liturgy-todo 
-[^cruets]: See: [[GIRM#p142]].
-[^people_bring_gifts]:  Some churches have the people bring up the gifts, but this is optional, see: [[GIRM#p73]], [[GIRM#p190]]. (I would prefer we didn't do this). #liturgy-todo
-[^offertory_incense]: See: [[GIRM#p75]], [[GIRM#p144]], [[GIRM#p178]], [[GIRM#p190]].
-[^lavabo]: See: [[GIRM#p76]], [[GIRM#p145]].
+[^bring_to_altar]: See: [[General Instruction of the Roman Missal|GIRM > par. 72, 178]]. Also, when a Deacon is not present, [[General Instruction of the Roman Missal|GIRM > par. 139, 190]] specifically say that a lay minister moves the [[Chalice Stack]] to the altar, and that he places the [[Corporal]] and [[Purificator]], and [[Pall]]. (I would prefer we didn't do this). #liturgy-todo 
+[^cruets]: See: [[General Instruction of the Roman Missal|GIRM > par. 142]].
+[^people_bring_gifts]:  Some churches have the people bring up the gifts, but this is optional, see: [[General Instruction of the Roman Missal|GIRM > par. 73, 190]].
+[^offertory_incense]: See: [[General Instruction of the Roman Missal|GIRM > par. 75, 144, 178, 190]].
+[^lavabo]: See: [[General Instruction of the Roman Missal|GIRM > par. 76, 145]].
 
 ### If there is no Deacon
 If there is no [[Deacon]], the [[Altar Server|Servers]] are responsible for all parts of the Offertory not performed by the [[Celebrant]].
