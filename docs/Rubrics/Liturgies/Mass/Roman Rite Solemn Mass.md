@@ -1,10 +1,11 @@
 ## Overview
-[[Roman Rite]] Solemn Mass celebrated at the [[Crossing Altar]]. These rubrics are used for the 12pm Sunday [[Mass]] at [[Saint Vincent Ferrer Church|SVF]], which is the "principal liturgy of the parish". Typically with one [[Deacon]], though sometimes there are zero or two[^deacon_thurifer] [[Deacon|Deacons]]. Typically with one [[SVF Acolyte Guild/Rubrics/Roles/Priest|Priest]] [[Celebrant]], though sometimes there are one or more [[Concelebrant|Concelebrants]].
+[[Roman Rite]] Solemn Mass celebrated at the [[Crossing Altar]]. These rubrics are used for the 12pm Sunday [[Mass]] at [[Saint Vincent Ferrer Church|SVF]], which is the "principal liturgy of the parish". Typically with one [[Deacon]], though sometimes there are zero or two[^deacon_thurifer] [[Deacon|Deacons]]. Typically with one [[Priest]] [[Celebrant]], though sometimes there are one or more [[Concelebrant|Concelebrants]].
 
 [^deacon_thurifer]: When there are two [[Deacon|Deacons]], it is apparently proper for the second [[Deacon]] to perform the [[Incensation]] during the Eucharistic Prayer instead of the [[Thurifer]]. We omit that rubric since we rarely have two [[Deacon|Deacons]], most [[Deacon|Deacons]] don't know it, and I don't know where the rubric is specified.
 
 ## Roles
 Four servers:
+
 - [[Thurifer]]
 - [[Crucifer]], [[Book Bearer]], [[Bell Ringer]]
 - [[Acolyte]] 1, [[Lucifer]] 1
@@ -92,12 +93,14 @@ Sit.
 
 #### Gospel
 During Gospel:
+
 - [[Thurifer]] assists with incensing the Book of the Gospels[^gospel_incense], then stands behind the [[Ambo]] with the [[Thurible]] while the Gospel is read.
 - [[Lucifer|Lucifers]] remain in place flanking the [[Ambo]] and facing inward.
 
 [^gospel_incense]: [[General Instruction of the Roman Missal|GIRM > par. 134]].
 
 After Gospel is completed:
+
 - [[Thurifer]] returns [[Thurible]] to [[Thurible Stand]].
 - [[Lucifer|Lucifers]] return [[Processional Candle|Processional Candles]] and sit in [[Choir Stalls#Low]].
 	- If necessary, let the [[Deacon]] pass in front of you; do not cut him off.
@@ -121,6 +124,7 @@ All stand in [[Choir Stalls#Low]]. When the preface begins, turn and face West.
 
 #### Sanctus
 **Cue**: [[Schola Cantorum]] or [[Cantor]] intone the _Sanctus_.
+
 - [[Thurifer#Charge at the Stand]], [[Lucifer|Lucifers]] retrieve [[Torch|Torches]] and line up in a pair behind the [[Ambo]], facing South.
 	- If it is a short, chanted _Sanctus_, the [[Thurifer]] should act as quickly as possible without appearing to be rushed.
 	- If it a long _Sanctus_, he may wish to delay charging the [[Thurible]], so that the incense lasts longer.
@@ -144,6 +148,7 @@ All stand in [[Choir Stalls#Low]]. When the preface begins, turn and face West.
 
 #### Our Father, Rite of Peace, Agnus Dei
 Stand in [[Choir Stalls#Low]], facing [[Crossing Altar]].
+
 - Sing the _Our Father_ aloud.
 - [[Sign of Peace]].
 - After the _Agnus Dei_ is complete, kneel in the [[Choir Stalls#Low]][^agnus_kneel].
@@ -174,6 +179,7 @@ The _Concluding Rites_[^concluding_rites] consist of announcements, a blessing, 
 
 #### Recession
 **Cue**: [[Schola Cantorum]] or [[Cantor]] starts the Recessional hymn or chant.
+
 - [[Crucifer]] retrieves [[Processional Crucifix]], [[Lucifer|Lucifers]] retrieve [[Processional Candle|Processional Candles]], [[Thurifer]] stands by.
 - [[Crucifer]] leads [[Altar Server|Servers]] to the foot of the [[Crossing Altar]] while [[Celebrant]] and [[Deacon]] reverence it.
 - [[Crucifer]] and [[Lucifer|Lucifers]] line up with the front pews facing the [[Crossing Altar]], [[Crucifer]] in the middle. [[Thurifer]] lines up just in front of the [[Crucifer]] (between the [[Crucifer]] and the [[Crossing Altar]]).
