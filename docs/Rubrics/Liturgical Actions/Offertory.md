@@ -29,11 +29,11 @@ If there is no [[Deacon]], the [[Altar Server|Servers]] are responsible for all 
 	- A [[Minister]] may place items on the Northeast corner of the [[Altar]] to indicate they should be taken away. [[Acolyte|Acolytes]] retrieve the items and return them to the [[Credence Table]]. This usually only applies to the [[Chalice Veil]] and extra [[Burse|Burses]].
 3. The [[Celebrant]] offers the bread on the [[Paten]].
 4. The [[Acolyte|Acolytes]] assist the [[Celebrant]] with preparing the [[Chalice]]:
-	- The [[Acolyte]] on the right takes the wine [[Cruet]], the one of the left takes the water [[Cruet]]. Both wait in [[Standby Formation]].
+	- The [[Acolyte]] on the right takes the wine [[Cruets|Cruet]], the one of the left takes the water [[Cruets|Cruet]]. Both wait in [[Standby Formation]].
 	- **Cue**: The [[Celebrant]] [[Inclination|Bows]] after raising the bread.
-	- The [[Acolyte|Acolytes]] approach in a pair, each holding one [[Cruet]]. Wine on the right, water on the left. They offer the wine [[Cruet]] first, then the water [[Cruet]]:
-		- Hold the [[Cruet]] at an appropriate level so as to make it visible to the People and easily taken by the [[Celebrant]]. The handle should face the [[Celebrant]]. The caps of the [[Cruets]] should be removed at the [[Credence Table]] and left there.
-	- After receiving the water [[Cruet]] back, [[Acolyte|Acolytes]] [[Minor Inclination|Head Bow]] and return the [[Cruets]] to the [[Credence Table]].
+	- The [[Acolyte|Acolytes]] approach in a pair, each holding one [[Cruets|Cruet]]. Wine on the right, water on the left. They offer the wine [[Cruets|Cruet]] first, then the water [[Cruets|Cruet]]:
+		- Hold the [[Cruets|Cruet]] at an appropriate level so as to make it visible to the People and easily taken by the [[Celebrant]]. The handle should face the [[Celebrant]]. The caps of the [[Cruets]] should be removed at the [[Credence Table]] and left there.
+	- After receiving the water [[Cruets|Cruet]] back, [[Acolyte|Acolytes]] [[Minor Inclination|Head Bow]] and return the [[Cruets]] to the [[Credence Table]].
 5. The [[Thurifer]] assists with the [[Incensation]]:
 	- **Cue**: [[Celebrant]] [[Inclination|Bows]] after raising the [[Chalice]].
 	- [[Thurifer]] assists [[Celebrant]] in [[Imposition of Incense]], then returns [[Incense Boat]] and waits in [[Standby Formation]].
@@ -69,6 +69,6 @@ For [[Roman Rite Low Mass|Roman Rite Sung Mass]] and [[Roman Rite Low Mass]], th
 - One [[Altar Server|Server]] must take on the role of both [[Acolyte|Acolytes]] and the [[Book Bearer]].
 - The order is [[Chalice Stack]], [[Missal]], and then other items. The [[Celebrant]] or [[Deacon]] will likely take the [[Chalice Stack]], but if he does not the [[Acolyte]] should do so before the [[Missal]].
 - One [[Acolyte]] must bring both [[Cruets]], he holds one in each hand.
-- One [[Acolyte]] must perform the [[Lavabo]] alone, with the [[Finger Towel]] over his left arm, dish in his left hand, and pitcher/[[Cruet]] in his right hand.
+- One [[Acolyte]] must perform the [[Lavabo]] alone, with the [[Finger Towel]] over his left arm, dish in his left hand, and pitcher/[[Cruets|Cruet]] in his right hand.
 
 [^server_deacon_parts]: The [[Acolyte|Acolytes]] should pay attention even if a [[Deacon]] is present. For example, if the [[Deacon]] does not bring the [[Chalice Stack]] to the [[Altar]], the [[Acolyte]] should do it instead.
