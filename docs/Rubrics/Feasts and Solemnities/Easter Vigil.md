@@ -45,7 +45,7 @@ aliases: ["Great Vigil of Easter"]
 	- [ ] [[Ceremonial]]
 	- [ ] Two sets of [[Hand Bells]]
 	- [ ] Pamphlets
-	- [ ] Three [[Hand Candle]]s for [[Lucifer 1]], [[Thurifer]] and [[Book Bearer]] 1
+	- [ ] Three [[Hand Candle|Hand Candles]] for [[Lucifer]] 1, [[Thurifer]] and [[Book Bearer]] 1
 - [ ] In front of the [[Ambo]], where the Baptisms will take place:
 	- [ ] [[Baptismal Font]]
 	- [ ] Table
@@ -83,7 +83,7 @@ Go to the 66th St. Entrance outside near the ramp. Move so as to be hidden: leav
 - [[Lucifer]] 1 has shortest [[Taper]].
 - [[Book Bearer]] 1 bears [[Missal]] and carries it in procession.
 - A priest, not the Celebrant, carries the [[Paschal Candle]].
-- Everyone else holds [[Hand Candle]]s. Someone should have extra [[Hand Candle]]s for Celebrant, Deacon, and [[Boat Bearer]].
+- Everyone else holds [[Hand Candle|Hand Candles]]. Someone should have extra [[Hand Candle|Hand Candles]] for Celebrant, Deacon, and [[Boat Bearer]].
 
 Form up:
 - [[Book Bearer]] 1 near priest.
@@ -108,8 +108,8 @@ Form up:
 		- Servers other than the [[Thurifer]] form up behind in pairs.
 		- [[Book Bearer]] 1 carries the [[Missal]] in the procession and should be in the last pair.
 	2. Into the church through the 66th St. Entrance. West down the side aisle, South toward the rear entrance, stop at the back of the church, facing the [[Sanctuary]].
-		- [[Lucifer]] 1 lights [[Taper]] from [[Paschal Candle]], and all servers' [[Hand Candle]]s are lit.
-		- Five servers, everyone except [[Thurifer]] and [[Book Bearer]] 1, use [[Hand Candle]]s/[[Taper]]s and spread out, one on every edge of the main sets of pews, except the edge closest to the Confessionals. They start lighting peoples' candles from the back moving forward. Only light every other or every third person's [[Hand Candle]] so as to keep pace with the moving [[Paschal Candle]].
+		- [[Lucifer]] 1 lights [[Taper]] from [[Paschal Candle]], and all servers' [[Hand Candle|Hand Candles]] are lit.
+		- Five servers, everyone except [[Thurifer]] and [[Book Bearer]] 1, use [[Hand Candle|Hand Candles]]/[[Taper|Tapers]] and spread out, one on every edge of the main sets of pews, except the edge closest to the Confessionals. They start lighting peoples' candles from the back moving forward. Only light every other or every third person's [[Hand Candle]] so as to keep pace with the moving [[Paschal Candle]].
 		- [[Book Bearer]] 1 processes behind the [[Paschal Candle]] while other servers do the lighting.
 	4. To the foot of the [[Sanctuary]]. [[Thurifer]] stands off to the North side during intonation.
 		- [[Thurifer]] leads [[Paschal Candle]] to its stand in front of the ambo.
@@ -117,7 +117,7 @@ Form up:
 			- [[Boat Bearer]] returns tongs to [[Thurible Stand]].
 			- [[Book Bearer]] 1 returns [[Missal]] to stand in [[Choir Stalls#Low]].
 			- [[Lucifer]] 1 returns [[Taper]].
-			- All stand in [[Choir Stalls#Low]] with lit [[Hand Candle]]s, facing the [[Ambo]] where the [[#Exsultet]] is to be sung.
+			- All stand in [[Choir Stalls#Low]] with lit [[Hand Candle|Hand Candles]], facing the [[Ambo]] where the [[#Exsultet]] is to be sung.
 		- When [[Paschal Candle]] is in place, [[Thurifer]] returns to [[Choir Stalls]] by most direct route ( #todo should he go to foot of altar and bow instead?)
 
 #### Exsultet
@@ -214,9 +214,9 @@ Go **Very** slowly. _Litany of Saints_ is long, and it will take a long time for
 - [[Master of Ceremonies]] assists with baptismal candles.
 
 ##### Renewal of Baptismal Promises
-- Godparents light the newly baptized's [[Hand Candle]]s.
-- Servers without other tasks light [[Hand Candle]]s from the newly baptized, and then light the peoples' [[Hand Candle]]s throughought the whole church. **The newly baptized may also be helping light the people's candles**.
-	- #todo [[Lucifer]]s 2 and 4 should help. Should they come down with [[Hand Candle]]s at this point? Instead, should they have processed with hand candles so they're nearby?
+- Godparents light the newly baptized's [[Hand Candle|Hand Candles]].
+- Servers without other tasks light [[Hand Candle|Hand Candles]] from the newly baptized, and then light the peoples' [[Hand Candle|Hand Candles]] throughout the whole church. **The newly baptized may also be helping light the people's candles**.
+	- #todo [[Lucifer]]s 2 and 4 should help. Should they come down with [[Hand Candle|Hand Candles]] at this point? Instead, should they have processed with hand candles so they're nearby?
 - [[Book Bearer]] 1 bears [[Missal]]
 - [[Holy Water Bearer]] helps Celebrant fill the [[Aspersorium]], and then bears it with him as he moves about the church, sprinkling. Route:
 		- Down Confessional aisle
