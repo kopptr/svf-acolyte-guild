@@ -1,11 +1,11 @@
 ## Overview
-[[Roman Rite Solemn Mass at the High Altar]], with the [[Litany of the Saints]]. Mass concludes with a [[Solemn Blessing]].
+[[Roman Rite Solemn Mass at the High Altar]], with the Litany of the Saints. Mass concludes with a [[Solemn Blessing]].
 
 ## Preparation
 [[Roman Rite Solemn Mass at the High Altar#Preparation]], except:
 - [ ] [[High Altar#Angel Candles]] lit.
 ## Order of Mass
-As normal for [[Roman Rite Solemn Mass at the High Altar]], except the [[Litany of the Saints]] immediately follows the _Homily_.
+As normal for [[Roman Rite Solemn Mass at the High Altar]], except the Litany of the Saints immediately follows the _Homily_.
 
 ### Homily
 After the Homily, the [[Celebrant]] returns to his seat. The [[Altar Server|Servers]] go to the [[Passageway]] to collect their things. The [[Thurifer]] imposes incense #liturgy-todo .
