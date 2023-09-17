@@ -16,37 +16,37 @@ Solemn High [[Mass]] in the [[Dominican Rite]]. In addition to the [[Altar Serve
 - Should Acolytes [[Genuflection|Genuflect]] during Creed, since they're flanking the Crucifix with candles? CDR#p2c1a2p11
 
 ## Preparation
-- [x] [[Sanctuary]]
-	- [x] [[Sanctuary#Polychrome Candles]] lit.
-	- [x] Epistle Lectern in middle of Sanctuary before steps to [[Presbytery]] facing the [[High Altar]], CDR#p2c1a1p3
-	- [x] [[Aspersorium]] stowed out of the way.
-	- [x] Gospel Lectern between [[Low Pulpit]] and [[Choir Stalls#Low]], facing North.
+- [ ] [[Sanctuary]]
+	- [ ] [[Sanctuary#Polychrome Candles]] lit.
+	- [ ] Epistle Lectern in middle of Sanctuary before steps to [[Presbytery]] facing the [[High Altar]], CDR#p2c1a1p3
+	- [ ] [[Aspersorium]] stowed out of the way.
+	- [ ] Gospel Lectern between [[Ambo]] and [[Choir Stalls#Low]], facing North.
 - [ ] [[High Altar]]:
-	- [x] [[High Altar#Candles]] lit.
-	- [x] Two **Unlit** Sanctus candles, one on each side of the high altar.
-	- [x] [[High Altar#Angel Candles]] lit depending on the solemnity of the occasion.
-	- [x] Two short [[Taper]]s, one behind either side of the altar.
-	- [x] [[Vesperale]] removed (and stowed on the [[Cathedra]]).
-	- [x] Three altar cards placed out.
-	- [x] Missal stand on Epistle side.
+	- [ ] [[High Altar#Candles]] lit.
+	- [ ] Two **Unlit** Sanctus candles, one on each side of the high altar.
+	- [ ] [[High Altar#Angel Candles]] lit depending on the solemnity of the occasion.
+	- [ ] Two short [[Taper]]s, one behind either side of the altar.
+	- [ ] [[Vesperale]] removed (and stowed on the [[Cathedra]]).
+	- [ ] Three altar cards placed out.
+	- [ ] Missal stand on Epistle side.
 	- [ ] Book of Epistles against super-altar on Epistle side, near or behind Missal stand, CDR#p2c1a1p2
-	- [x] Three prayer sheets on the first step of the [[High Altar]].
-- [x] [[Presbytery]]:
-	- [x] Two stools to the left of the [[Sedilia]] on the Epistle Side.
-	- [x] Two stools to the left of the [[Cathedra]] on the Gospel Side, with:
+	- [ ] Three prayer sheets on the first step of the [[High Altar]].
+- [ ] [[Presbytery]]:
+	- [ ] Two stools to the left of the [[Sedilia]] on the Epistle Side.
+	- [ ] Two stools to the left of the [[Cathedra]] on the Gospel Side, with:
 		- [ ] [[Hand Bells]] on one stool.
 		- [ ] [[Communion Cloth]] on the other stool.
-- [x] [[Presbytery#Niche]]
-	- [x] Lavabo Bowl and pitcher filled almost to the brim (there are many lavabo actions).
-	- [x] Finger towel.
-	- [x] Paten(s).
-	- [x] Cruets.[^cruets]
-- [x] [[Presbytery#Lip]]:
+- [ ] [[Presbytery#Niche]]
+	- [ ] Lavabo Bowl and pitcher filled almost to the brim (there are many lavabo actions).
+	- [ ] Finger towel.
+	- [ ] Paten(s).
+	- [ ] Cruets.[^cruets]
+- [ ] [[Presbytery#Lip]]:
 	- [ ] Cloth for covering the Ministers when seated. (How to spell Gremule? #liturgy-todo  )
 - [ ] [[Sacristy]]:
 	- [ ] [[Chalice Stack]].
-	- [x] [[Humeral Veil]].
-- [x] [[Passageway]] / [[Friars' Chapel]]:
+	- [ ] [[Humeral Veil]].
+- [ ] [[Passageway]] / [[Friars' Chapel]]:
 	- [ ] [[Processional Crucifix]]
 	- [ ] [[Thurible]], [[Thurible Stand]], full [[Incense Boat]], charcoal, lighter, tongs. Incense **unlit**, as it will be awhile before it is used.
 - [ ] [[Crossing Altar]], either:

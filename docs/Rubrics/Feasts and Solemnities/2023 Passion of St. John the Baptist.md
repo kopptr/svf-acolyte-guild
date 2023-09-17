@@ -28,23 +28,23 @@
 ## Preparation
 
 ### The days before:
-- [x] Take from [[Saint Vincent Ferrer Church|SVF]]:
-	- [X] Two [[Torch|Torches]].
-	- [X] Two [[Processional Candle|Processional Candles]].
-	- [x] [[Altar Server|Servers]]' clothes, shoes, etc.
-	- [x] [[Server Vestments]].
+- [ ] Take from [[Saint Vincent Ferrer Church|SVF]]:
+	- [ ] Two [[Torch|Torches]].
+	- [ ] Two [[Processional Candle|Processional Candles]].
+	- [ ] [[Altar Server|Servers]]' clothes, shoes, etc.
+	- [ ] [[Server Vestments]].
  
 ### The day of:
 [[Roman Rite Solemn Pontifical Mass#Preparation]], except:
-- [x] [[Missal]] on the [[Sedilia]].
-- [x] [[Missal Stand]] on the table next to the organ console.
+- [ ] [[Missal]] on the [[Sedilia]].
+- [ ] [[Missal Stand]] on the table next to the organ console.
 - [ ] Find a [[SVF Acolyte Guild/Rubrics/Roles/Priest|Priest]] [[Concelebrant]] to hold the pamphlet for the [[SVF Acolyte Guild/Rubrics/Roles/Bishop|Bishop]] [[Celebrant]] at the Station.
 - [ ] Find a metal platter (or similar) for the [[SVF Acolyte Guild/Rubrics/Roles/Bishop|Bishop]]'s skullcap.
 - [ ] Determine the route for the [[#Recession]].
-- [x] (Reminder:) A second [[Lavabo]] set for the [[SVF Acolyte Guild/Rubrics/Roles/Bishop|Bishop]].
-- [x] (Reminder:) Move bells to Sedilia.
+- [ ] (Reminder:) A second [[Lavabo]] set for the [[SVF Acolyte Guild/Rubrics/Roles/Bishop|Bishop]].
+- [ ] (Reminder:) Move bells to Sedilia.
 - [ ] (Reminder:) Does Cdl. Dolan want book for the intro rites?
-- [x] Find offertory missal page during Homily
+- [ ] Find offertory missal page during Homily
 
 ## General Movement
 - When crossing between the [[Crossing Altar]] and [[High Altar]], stop and [[Moderate Inclination|Moderate Bow]] to the [[Crossing Altar]].
