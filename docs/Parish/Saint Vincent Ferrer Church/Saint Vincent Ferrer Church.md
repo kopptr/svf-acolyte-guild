@@ -1,9 +1,9 @@
 ---
 aliases: ["SVF"]
 ---
-
 ## Floorplan
 ![[svf-floor-plan.png]]
+
 - A. [[High Altar]]
 - B. Great Rood (front: Crucifixion)
 - C. Great Rood (reverse: Immaculate Conception)
