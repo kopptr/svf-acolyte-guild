@@ -13,5 +13,5 @@
 As usual for [[Roman Rite Solemn Mass at the High Altar]].
 
 ## References
-- [[SVF Acolyte Guild/External Resources/Ceremonies of the Liturgical Year|CotLY > par. 394 - 398]]
-- [[SVF Acolyte Guild/External Resources/Ceremonies of the Modern Roman Rite|CotMRR > par. 70, 135]]
+- [[CotLY > par. 394 - 398]]
+- [[CotMRR > par. 70, 135]]

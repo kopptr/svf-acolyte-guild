@@ -81,7 +81,7 @@ See [[Eucharistic Procession]].
 
 ### Stations
 Three Stations along this route:
-1. [[SVF Acolyte Guild/Liturgical Items/Altar|Altar]] in [[Holy Name Chapel]]
+1. [[Altar]] in [[Holy Name Chapel]]
 	- [[Benediction]] will be given.
 2. St. John Nepomucene Church
 	- Pastor of St. John Nepomucene will give a short homily.
@@ -93,7 +93,7 @@ Three Stations along this route:
 ### Route
 - Down the main aisle.
 - Turn left, South into [[Holy Name Chapel]].
-- **First Station** at the [[Holy Name Chapel]] [[SVF Acolyte Guild/Liturgical Items/Altar|Altar]].
+- **First Station** at the [[Holy Name Chapel]] [[Altar]].
 - Form up, head North toward 66th St.
 - Turn left into [[Narthex]].
 - Turn right, exit 66th St. door.

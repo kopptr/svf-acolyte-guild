@@ -48,4 +48,4 @@ All [[Altar Server|Servers]] go to [[Passageway]] after Dismissal.
 ### At the station
 - All [[Altar Server|Servers]], [[Celebrant]], and [[Deacon]] enter the [[Holy Name Chapel]]. [[Schola Cantorum]] waits outside.
 - [[Crucifer]] and [[Lucifer|Candle bearers]] break off to the right side and face inward.
-- [[Thurifer]] assists the [[Celebrant]] with incensing the [[SVF Acolyte Guild/Liturgical Items/Altar|Altar]].
+- [[Thurifer]] assists the [[Celebrant]] with incensing the [[Altar]].

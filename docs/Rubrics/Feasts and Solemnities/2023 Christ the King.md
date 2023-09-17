@@ -52,13 +52,13 @@ As usual for [[Roman Rite Solemn Mass at the High Altar#Procession]], except:
 
 ### Mass Proper
 As normal for [[Roman Rite Solemn Pontifical Mass]], with adjustments made for [[Roman Rite Solemn Mass at the High Altar|being at the High Altar]]. Notably:
-- [[Crozier Bearer]], [[Mitre Bearer]], and [[Book Bearer]] attend to the [[SVF Acolyte Guild/Rubrics/Roles/Bishop|Bishop]] [[Celebrant]] under direction from the [[Master of Ceremonies|MC]].
+- [[Crozier Bearer]], [[Mitre Bearer]], and [[Book Bearer]] attend to the [[Bishop]] [[Celebrant]] under direction from the [[Master of Ceremonies|MC]].
 - The Missal and stand will stay on the altar, Book-bearer holds the Prayers at the Chair book instead of the Missal. #liturgy-todo 
 #### Gospel
 As normal for [[Roman Rite Solemn Pontifical Mass]], with adjustments made for [[Roman Rite Solemn Mass at the High Altar|being at the High Altar]]. Notably:
 - No [[Lucifer|Candle bearers]] attend the _Gospel Procession_ ( #liturgy-todo why? )
 - _Gospel_ will be proclaimed from the [[High Ambo]] by a [[Concelebrant]].
-- [[SVF Acolyte Guild/Rubrics/Roles/Bishop|Bishop]] [[Celebrant]] give the _Homily_, possibly escorted by [[Crozier Bearer]] and [[Mitre Bearer]] under direction of the [[Master of Ceremonies|MC]], possibly to the [[High Ambo]].
+- [[Bishop]] [[Celebrant]] give the _Homily_, possibly escorted by [[Crozier Bearer]] and [[Mitre Bearer]] under direction of the [[Master of Ceremonies|MC]], possibly to the [[High Ambo]].
 #### Preparation, Consecration, Communion
 As normal for [[Roman Rite Solemn Pontifical Mass]], with adjustments made for [[Roman Rite Solemn Mass at the High Altar|being at the High Altar]]. Notably:
 - Four [[Torch|Torches]] are used at the Consecration.
@@ -70,12 +70,12 @@ As normal for [[Roman Rite Solemn Pontifical Mass]], with adjustments made for [
 #### Ablutions
 As normal for [[Roman Rite Solemn Pontifical Mass]], with adjustments made for [[Roman Rite Solemn Mass at the High Altar|being at the High Altar]] and [[Exposition of the Blessed Sacrament|Exposition]], but at the [[High Altar]]:
 - [[Acolyte|Acolytes]] 1 and 2 assist with the _Ablutions_ and bring the [[Monstrance]] and [[Monstrance Stand]] to the [[High Altar]]. No [[Candelabrae]] are used.
-- [[Acolyte|Acolytes]] 3 and 4 wash the [[SVF Acolyte Guild/Rubrics/Roles/Bishop|Bishop]] [[Celebrant]]'s hands, assist the [[SVF Acolyte Guild/Rubrics/Roles/Bishop|Bishop]] [[Celebrant]] with his vestment change, then move the [[Prie-dieu]] to the foot of the [[High Altar]].
+- [[Acolyte|Acolytes]] 3 and 4 wash the [[Bishop]] [[Celebrant]]'s hands, assist the [[Bishop]] [[Celebrant]] with his vestment change, then move the [[Prie-dieu]] to the foot of the [[High Altar]].
 - The [[Crucifer]] assists the [[Concelebrant|Concelebrants]] with their vestment changes, if needed.
 - All [[Altar Server|Servers]] except the [[Book Bearer]], [[Crozier Bearer]], [[Mitre Bearer]], and [[Master of Ceremonies|MC]] wait in the [[Passageway]] with their procession items readied.
 #### Postcommunion Prayer
 - The [[Book Bearer]] holds the [[Missal]].
-- [[Thurifer]] 2 imposes incense ([[Thurifer]] 1 lets the [[SVF Acolyte Guild/Rubrics/Roles/Bishop|Bishop]] [[Celebrant]] do it).
+- [[Thurifer]] 2 imposes incense ([[Thurifer]] 1 lets the [[Bishop]] [[Celebrant]] do it).
 
 ### Exposition
 See [[Eucharistic Procession#Eucharistic Exposition]]
@@ -86,11 +86,11 @@ All form up for Exposition:
 - [[Mitre Bearer]] and [[Crozier Bearer]] stay in their places.
 - [[Crucifer]] and [[Lucifer|Candle bearers]] line up just outside the [[Passageway]].
 
-After _Exposition_, the [[SVF Acolyte Guild/Rubrics/Roles/Bishop|Bishop]] [[Celebrant]] leads the consecration prayer to Christ the King. When he rises:
-- [[Umbrellino Bearer]] assists [[SVF Acolyte Guild/Rubrics/Roles/Bishop|Bishop]] [[Celebrant]] with the [[Humeral Veil]]. Then he gets the [[Umbrellino]] and waits on the Epistle side.
-- [[Lucifer|Torch bearers]] stand and face inward in two rows for the [[SVF Acolyte Guild/Rubrics/Roles/Bishop|Bishop]] [[Celebrant]] to walk through.
+After _Exposition_, the [[Bishop]] [[Celebrant]] leads the consecration prayer to Christ the King. When he rises:
+- [[Umbrellino Bearer]] assists [[Bishop]] [[Celebrant]] with the [[Humeral Veil]]. Then he gets the [[Umbrellino]] and waits on the Epistle side.
+- [[Lucifer|Torch bearers]] stand and face inward in two rows for the [[Bishop]] [[Celebrant]] to walk through.
 - [[Thurifer]]s and [[Boat Bearer]] get into formation in front of the [[Torch|Torches]].
-- [[Umbrellino Bearer]] trails [[SVF Acolyte Guild/Rubrics/Roles/Bishop|Bishop]] [[Celebrant]] with the [[Umbrellino]].
+- [[Umbrellino Bearer]] trails [[Bishop]] [[Celebrant]] with the [[Umbrellino]].
 - [[Crucifer]] and [[Lucifer|Candle bearers]] start the procession, going very slowly at the beginning so that others can file in.
 
 ## Procession
@@ -110,12 +110,12 @@ See [[Eucharistic Procession#Formation]], [[Eucharistic Procession#Transition to
 
 ## Benediction
 - [[Crucifer]] and [[Lucifer|Candle bearers]] stand off to the side
-- [[Mitre Bearer]] and [[Crozier Bearer]] attend to [[SVF Acolyte Guild/Rubrics/Roles/Bishop|Bishop]] [[Celebrant]]
+- [[Mitre Bearer]] and [[Crozier Bearer]] attend to [[Bishop]] [[Celebrant]]
 - [[Thurifer]]s lead Eucharist to altar, and then kneel at foot with [[Boat Bearer]] for [[Benediction]].
 - [[Lucifer|Torch bearers]] kneel and plant [[Torch|Torches]] on either side.
 - After [[Benediction]], try to exit in a dignified way
 
 ## References
-- [[SVF Acolyte Guild/External Resources/Ceremonies of the Liturgical Year|CotLY > 404 - 405]]
+- [[CotLY > 404 - 405]]
 - [[Eucharistic Procession#References]]
 - [[Roman Rite Solemn Pontifical Mass#References]]

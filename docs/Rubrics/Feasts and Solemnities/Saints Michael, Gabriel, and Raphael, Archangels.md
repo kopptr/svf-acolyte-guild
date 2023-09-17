@@ -6,4 +6,4 @@ aliases:
 [[Roman Rite Solemn Mass at the High Altar]], with the [[High Altar#Angel Candles]] lit.
 
 ## References
-- [[SVF Acolyte Guild/External Resources/Ceremonies of the Liturgical Year|CotLY > par 360]]
+- [[CotLY > par 360]]

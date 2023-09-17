@@ -8,12 +8,12 @@
 ## Roles and seating
 ### Ministers
 - [[Celebrant]]'s seat:
-	- [[SVF Acolyte Guild/Rubrics/Roles/Bishop|Bishop]] [[Celebrant]], Cdl. Dolan
+	- [[Bishop]] [[Celebrant]], Cdl. Dolan
 - Chairs near [[Celebrant]]'s seat: Assistant [[Deacon|Deacons]]
 	- Cdl. Dolan's secretary, next to Cdl. Dolan. He will also act as [[Master of Ceremonies]].
 	- Dcn. Powers, behind Cdl. Dolan's secretary.
 - [[Choir Stalls]]:
-	- Many [[SVF Acolyte Guild/Rubrics/Roles/Priest|Priest]] [[Concelebrant|Concelebrants]], ~12.
+	- Many [[Priest]] [[Concelebrant|Concelebrants]], ~12.
 
 ### Servers
 - [[Sedilia]]:
@@ -38,10 +38,10 @@
 [[Roman Rite Solemn Pontifical Mass#Preparation]], except:
 - [ ] [[Missal]] on the [[Sedilia]].
 - [ ] [[Missal Stand]] on the table next to the organ console.
-- [ ] Find a [[SVF Acolyte Guild/Rubrics/Roles/Priest|Priest]] [[Concelebrant]] to hold the pamphlet for the [[SVF Acolyte Guild/Rubrics/Roles/Bishop|Bishop]] [[Celebrant]] at the Station.
-- [ ] Find a metal platter (or similar) for the [[SVF Acolyte Guild/Rubrics/Roles/Bishop|Bishop]]'s skullcap.
+- [ ] Find a [[Priest]] [[Concelebrant]] to hold the pamphlet for the [[Bishop]] [[Celebrant]] at the Station.
+- [ ] Find a metal platter (or similar) for the [[Bishop]]'s skullcap.
 - [ ] Determine the route for the [[#Recession]].
-- [ ] (Reminder:) A second [[Lavabo]] set for the [[SVF Acolyte Guild/Rubrics/Roles/Bishop|Bishop]].
+- [ ] (Reminder:) A second [[Lavabo]] set for the [[Bishop]].
 - [ ] (Reminder:) Move bells to Sedilia.
 - [ ] (Reminder:) Does Cdl. Dolan want book for the intro rites?
 - [ ] Find offertory missal page during Homily
@@ -66,12 +66,12 @@ See [[Procession#When there is a Bishop]].
 	- [[Thurifer]]: Go left, wait behind Northeast corner of [[Crossing Altar|Altar]].
 	- [[Crucifer]]: Go left, return [[Processional Crucifix]]. Go to [[Sedilia]] along North side of [[Crossing Altar|Altar]], then behind the [[Crossing Altar|Altar]].
 	- [[Lucifer|Candle bearers]]: Go right to [[Sedilia]] along South side of the [[Crossing Altar|Altar]].
-			- [[Crozier Bearer]] and [[Mitre Bearer]], when [[SVF Acolyte Guild/Rubrics/Roles/Bishop|Bishop]] [[Celebrant]] heads to the [[High Altar|Altar]], go right and directly to seats in [[Choir Stalls]].
+			- [[Crozier Bearer]] and [[Mitre Bearer]], when [[Bishop]] [[Celebrant]] heads to the [[High Altar|Altar]], go right and directly to seats in [[Choir Stalls]].
 
 ##### Station
 - [[Crozier Bearer]] and [[Mitre Bearer]] standby off to the side.
 - All other [[Altar Server|Servers]] stand in place.
-- [[Priest]] [[Concelebrant]] holds the pamphlet or [[SVF Acolyte Guild/Liturgical Items/Ritual|Ceremonial]] for the [[SVF Acolyte Guild/Rubrics/Roles/Bishop|Bishop]].
+- [[Priest]] [[Concelebrant]] holds the pamphlet or [[Ceremonial]] for the [[Bishop]].
 #### Reverence to the Altar, through Gradual
 As normal for [[Roman Rite Solemn Pontifical Mass]], except:
 - _Gloria_ is sung.
@@ -80,7 +80,7 @@ As normal for [[Roman Rite Solemn Pontifical Mass]], except:
 #### Acclamation
 - [[Lucifer|Candle bearers]] and [[Thurifer]] collect items.
 - [[Lucifer|Candle bearers]] proceed to tiles on the West side of the [[Crossing Altar|Altar]] on the lower step. Wait, facing East.
-- [[Thurifer]] proceeds to [[SVF Acolyte Guild/Rubrics/Roles/Bishop|Bishop]] [[Celebrant]] to charge [[Thurible]]. When finished, join the [[Lucifer|Candle bearers]] in the middle tile between them.
+- [[Thurifer]] proceeds to [[Bishop]] [[Celebrant]] to charge [[Thurible]]. When finished, join the [[Lucifer|Candle bearers]] in the middle tile between them.
 - [[Lucifer|Candle bearers]] and [[Thurifer]] wait for [[Deacon]] to join their formation and reverence the [[Crossing Altar|Altar]].
 - All break formation:
 	- [[Thurifer]] proceeds to [[Ambo]].
@@ -108,9 +108,9 @@ As normal for [[Roman Rite Solemn Pontifical Mass]], except:
 #### Communion
 All [[Altar Server|Servers]] kneel at their seats to receive communion, as the [[Sanctuary]] will be crowded with many [[Concelebrant|Concelebrants]].
 #### Ablutions
-- Since there are no [[Acolyte|Acolytes]] 3 and 4, the [[Master of Ceremonies|MC]] and [[Thurifer]] wash the [[SVF Acolyte Guild/Rubrics/Roles/Bishop|Bishop]] [[Celebrant]]'s hands at his seat.
+- Since there are no [[Acolyte|Acolytes]] 3 and 4, the [[Master of Ceremonies|MC]] and [[Thurifer]] wash the [[Bishop]] [[Celebrant]]'s hands at his seat.
 ### The Concluding Rites
-- The [[SVF Acolyte Guild/Rubrics/Roles/Bishop|Bishop]] will have the _Pontifical Blessing_ memorized, so the [[Book Bearer]] can go away immediately following the _Postcommunion Prayer_.
+- The [[Bishop]] will have the _Pontifical Blessing_ memorized, so the [[Book Bearer]] can go away immediately following the _Postcommunion Prayer_.
 #### Recession
 - Route TBD.
 - Regardless, up just outside the [[Sanctuary]] to reverence. 

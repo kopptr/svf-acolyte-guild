@@ -2,7 +2,7 @@
 Attend to books and related items needed for the liturgy.
 
 - Carry [[Missal]] from place to place.
-- Move the [[Missal]] and its [[Missal Stand|Stand]] to and from the [[SVF Acolyte Guild/Liturgical Items/Altar|Altar]], or to different parts of the [[SVF Acolyte Guild/Liturgical Items/Altar|Altar]].
+- Move the [[Missal]] and its [[Missal Stand|Stand]] to and from the [[Altar]], or to different parts of the [[Altar]].
 - Hold the [[Missal]], and occasionally other books, binders, leaflets, etc., for a Minister to read from[^go_to_minister].
 
 ## Manner of carrying the Missal

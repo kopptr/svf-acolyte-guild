@@ -21,12 +21,12 @@ As [[Dominican Rite Solemn High Mass]], except:
 As normal for [[Dominican Rite Solemn High Mass]], except the [[Subdeacon]] carries the [[Chalice Stack]].
 
 ### Confiteor
-As normal for [[Dominican Rite Solemn High Mass]], except the [[Subdeacon]] places the [[Chalice Stack]] on the [[SVF Acolyte Guild/Liturgical Items/Altar|Altar]] while the [[Acolyte|Acolytes]] drop their [[Processional Candle|Processional Candles]].
+As normal for [[Dominican Rite Solemn High Mass]], except the [[Subdeacon]] places the [[Chalice Stack]] on the [[Altar]] while the [[Acolyte|Acolytes]] drop their [[Processional Candle|Processional Candles]].
 
 ### Introit, Kyrie, Collect
 As normal for [[Dominican Rite Solemn High Mass]], except:
 - There is no _Gloria_:
-	- The [[Chalice Stack]] and [[Humeral Veil]] are already on the [[SVF Acolyte Guild/Liturgical Items/Altar|Altar]].
+	- The [[Chalice Stack]] and [[Humeral Veil]] are already on the [[Altar]].
 - There are two pairs of [[Swing Movement]]s to and from the [[Epistle and Gospel-side Formation|Epistle-side Formation]], one for the _Introit/Kyrie_ and one for the _Collect_.
 	- There is no option to sit for the sung _Kyrie_, so the [[Minister|Ministers]] remain on their steps.
 - The _Collect_ happens as normal including the transition into the Priest's and People's _Epistle_.

@@ -5,10 +5,10 @@ In the [[Roman Rite]], the Offertory occurs immediately after the _Universal Pra
 
 ### Overview
 If there is an Offertory Chant, [[Altar Server|Servers]] with duties stand when it begins[^offertory_chant]. [[Altar Server|Servers]] work out of [[Standby Formation]][^which_altar]:
-- [[SVF Acolyte Guild/Liturgical Items/Altar|Altar]] is prepared[^bring_to_altar].
+- [[Altar]] is prepared[^bring_to_altar].
 - [[Chalice]] is prepared[^cruets][^people_bring_gifts].
 - Bread and wine are offered by the [[Celebrant]].
-- [[SVF Acolyte Guild/Liturgical Items/Altar|Altar]] is incensed[^offertory_incense].
+- [[Altar]] is incensed[^offertory_incense].
 - [[Lavabo]] is performed[^lavabo].
 
 [^offertory_chant]: See: [[General Instruction of the Roman Missal|GIRM > par. 139]].
@@ -21,12 +21,12 @@ If there is an Offertory Chant, [[Altar Server|Servers]] with duties stand when 
 
 ### If there is no Deacon
 If there is no [[Deacon]], the [[Altar Server|Servers]] are responsible for all parts of the Offertory not performed by the [[Celebrant]].
-1. Essential items are brought to the [[SVF Acolyte Guild/Liturgical Items/Altar|Altar]]:
+1. Essential items are brought to the [[Altar]]:
 	- [[Book Bearer]] brings the [[Missal]] and [[Missal Stand|Stand]], and places it center-left, at a 45-degree angle. His Offertory duties are finished, he returns to the [[Choir Stalls]]. He may wish to light the [[Torch|Torches]] to make duties easier for the [[Lucifer|Lucifers]].
-	- [[Acolyte]] brings the [[Chalice Stack]] and places it on the Northeast corner of the [[SVF Acolyte Guild/Liturgical Items/Altar|Altar]], veil facing the people.
-2. Other items brought to and taken from the [[SVF Acolyte Guild/Liturgical Items/Altar|Altar]]:
+	- [[Acolyte]] brings the [[Chalice Stack]] and places it on the Northeast corner of the [[Altar]], veil facing the people.
+2. Other items brought to and taken from the [[Altar]]:
 	- [[Acolyte|Acolytes]] bring [[Ciborium|Ciboria]], [[Personal Chalice|Personal Chalices]], and [[Pyxe|Pyxes]], placing them on the Northeast corner of the [[High Altar|Altar]].
-	- A [[Minister]] may place items on the Northeast corner of the [[SVF Acolyte Guild/Liturgical Items/Altar|Altar]] to indicate they should be taken away. [[Acolyte|Acolytes]] retrieve the items and return them to the [[Credence Table]]. This usually only applies to the [[Chalice Veil]] and extra [[Burse|Burses]].
+	- A [[Minister]] may place items on the Northeast corner of the [[Altar]] to indicate they should be taken away. [[Acolyte|Acolytes]] retrieve the items and return them to the [[Credence Table]]. This usually only applies to the [[Chalice Veil]] and extra [[Burse|Burses]].
 3. The [[Celebrant]] offers the bread on the [[Paten]].
 4. The [[Acolyte|Acolytes]] assist the [[Celebrant]] with preparing the [[Chalice]]:
 	- The [[Acolyte]] on the right takes the wine [[Cruet]], the one of the left takes the water [[Cruet]]. Both wait in [[Standby Formation]].
@@ -37,8 +37,8 @@ If there is no [[Deacon]], the [[Altar Server|Servers]] are responsible for all 
 5. The [[Thurifer]] assists with the [[Incensation]]:
 	- **Cue**: [[Celebrant]] [[Inclination|Bows]] after raising the [[Chalice]].
 	- [[Thurifer]] assists [[Celebrant]] in [[Imposition of Incense]], then returns [[Incense Boat]] and waits in [[Standby Formation]].
-	- [[Celebrant]] incenses the [[SVF Acolyte Guild/Liturgical Items/Altar|Altar]].
-	- **Cue**: [[Celebrant]] [[Inclination|Bows]] to the [[SVF Acolyte Guild/Liturgical Items/Altar|Altar]] after incensing it.
+	- [[Celebrant]] incenses the [[Altar]].
+	- **Cue**: [[Celebrant]] [[Inclination|Bows]] to the [[Altar]] after incensing it.
 	- [[Thurifer]] retrieves [[Thurible]] from the [[Celebrant]] and stays in front of him.
 	- [[Thurifer]] incenses the [[Celebrant]] three times, center, left, then right[^incense_direction].
 	- If there are [[Concelebrant|Concelebrants]], [[Thurifer]] incenses them in groups in the same manner.
@@ -49,14 +49,14 @@ If there is no [[Deacon]], the [[Altar Server|Servers]] are responsible for all 
 	- [[Acolyte|Acolytes]] approach the [[Celebrant]] in a pair, right having the dish and water, left having the [[Finger Towel]].
 	- [[Acolyte]] pours water over [[Celebrant]]'s fingers, the other offers the towel.
 	- When [[Celebrant]] returns the towel, [[Minor Inclination|Head Bow]] and return items to [[Credence Table]].
-7. The [[Lucifer|Lucifers]] light the [[Torch|Torches]]. This can be done at any time, but should never delay the [[Acolyte|Acolytes]]' duties at the [[SVF Acolyte Guild/Liturgical Items/Altar|Altar]].
+7. The [[Lucifer|Lucifers]] light the [[Torch|Torches]]. This can be done at any time, but should never delay the [[Acolyte|Acolytes]]' duties at the [[Altar]].
 8. All return to [[Choir Stalls]].
 
 [^incense_direction]: Center-left-right is the [[Roman Rite]] tradition. I think the #dominican [[Preservation of Dominican Customs|Custom]] is to do Center-center-center. Should we do that instead? #liturgy-todo.
 
 ### If there is a Deacon
 If there is a [[Deacon]], he will perform some of the duties the [[Celebrant]] would in his absence, and some of the duties a [[Altar Server|Server]] would perform in his absence[^server_deacon_parts]. Notably:
-- The [[Deacon]] brings the [[Chalice Stack]] to the [[SVF Acolyte Guild/Liturgical Items/Altar|Altar]] instead of an [[Acolyte]].
+- The [[Deacon]] brings the [[Chalice Stack]] to the [[Altar]] instead of an [[Acolyte]].
 - The [[Deacon]] prepares the wine and water for the [[Chalice]] instead of the [[Celebrant]]. As a result:
 	- The [[Cruets]] are brought to the [[Deacon]], not the [[Celebrant]].
 	- The [[Chalice]] may be prepared _before_ the bread is offered by the [[Celebrant]]. The [[Acolyte|Acolytes]] must pay close attention to know when the [[Deacon]] needs the [[Cruets]].
@@ -64,11 +64,11 @@ If there is a [[Deacon]], he will perform some of the duties the [[Celebrant]] w
 
 ### Sung and Low Mass
 For [[Roman Rite Low Mass|Roman Rite Sung Mass]] and [[Roman Rite Low Mass]], the rubrics are identical, except:
-- There is no [[Incensation]] of the [[SVF Acolyte Guild/Liturgical Items/Altar|Altar]], [[Celebrant]], [[Concelebrant|Concelebrants]], and People. As a result, there is no [[Thurifer]].
+- There is no [[Incensation]] of the [[Altar]], [[Celebrant]], [[Concelebrant|Concelebrants]], and People. As a result, there is no [[Thurifer]].
 - [[Torch|Torches]] are not used, so there is no need to light them.
 - One [[Altar Server|Server]] must take on the role of both [[Acolyte|Acolytes]] and the [[Book Bearer]].
 - The order is [[Chalice Stack]], [[Missal]], and then other items. The [[Celebrant]] or [[Deacon]] will likely take the [[Chalice Stack]], but if he does not the [[Acolyte]] should do so before the [[Missal]].
 - One [[Acolyte]] must bring both [[Cruets]], he holds one in each hand.
 - One [[Acolyte]] must perform the [[Lavabo]] alone, with the [[Finger Towel]] over his left arm, dish in his left hand, and pitcher/[[Cruet]] in his right hand.
 
-[^server_deacon_parts]: The [[Acolyte|Acolytes]] should pay attention even if a [[Deacon]] is present. For example, if the [[Deacon]] does not bring the [[Chalice Stack]] to the [[SVF Acolyte Guild/Liturgical Items/Altar|Altar]], the [[Acolyte]] should do it instead.
+[^server_deacon_parts]: The [[Acolyte|Acolytes]] should pay attention even if a [[Deacon]] is present. For example, if the [[Deacon]] does not bring the [[Chalice Stack]] to the [[Altar]], the [[Acolyte]] should do it instead.

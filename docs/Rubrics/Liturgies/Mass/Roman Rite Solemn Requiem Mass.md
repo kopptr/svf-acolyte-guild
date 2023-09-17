@@ -16,12 +16,12 @@ If we only have 4 [[Altar Server|Servers]]:
 
 ## Preparation
 As usual for [[Roman Rite Solemn Mass]], with:
-- [ ] [[Catafalque]] set at the foot of the [[Sanctuary]]. Feet facing the [[Crossing Altar|Altar]] (unless the deceased is a [[SVF Acolyte Guild/Rubrics/Roles/Priest|Priest]] or [[SVF Acolyte Guild/Rubrics/Roles/Bishop|Bishop]], in which case the head faces the [[Crossing Altar|Altar]])[^catafalqe].
+- [ ] [[Catafalque]] set at the foot of the [[Sanctuary]]. Feet facing the [[Crossing Altar|Altar]] (unless the deceased is a [[Priest]] or [[Bishop]], in which case the head faces the [[Crossing Altar|Altar]])[^catafalqe].
 - [ ] [[Paschal Candle]] lit.
 - [ ] [[Aspersorium]] on [[Credence Table]].
 - [ ] Extra charcoal near the [[Thurible Stand]].
 
-[^catafalque]: [[SVF Acolyte Guild/External Resources/Ceremonies Explained for Servers|CEfS > par. 590]]
+[^catafalque]: [[CEfS > par. 590]]
 
 ## Order of Mass
 As usual for [[Roman Rite Solemn Mass#Order of Mass]], except after the _Postcommunion Prayer_, there is the _Final Commendation and Farewell_.
@@ -36,24 +36,24 @@ As usual for [[Roman Rite Solemn Mass#Order of Mass]], except:
 
 ### Transition
 - [[Crucifer]] and [[Lucifer|Candle bearers]] get their items and process out of the [[Sanctuary]], and stand several paces down the main aisle, facing East.
-- [[Thurifer]] (with [[Thurible]] and [[Incense Boat]]) and [[Holy Water Bearer]] (with [[Aspersorium]]), and [[Book Bearer]] (with [[SVF Acolyte Guild/Liturgical Items/Ritual|Ritual]]) go to [[Catafalque]] and wait off to the South side, facing North, flush with the main aisle pews.
+- [[Thurifer]] (with [[Thurible]] and [[Incense Boat]]) and [[Holy Water Bearer]] (with [[Aspersorium]]), and [[Book Bearer]] (with [[Ritual]]) go to [[Catafalque]] and wait off to the South side, facing North, flush with the main aisle pews.
 - [[Celebrant]] joins the [[Thurifer]], [[Holy Water Bearer]], and [[Book Bearer]].
 
 ### Final Commendation and Farewell
 If the [[Celebrant]] turns to bow to the [[Processional Crucifix]] at any point, [[Altar Server|Servers]] (other than the [[Crucifer]] and [[Lucifer|Candle bearers]]) do the same.
-- [[Book Bearer]] holds the [[SVF Acolyte Guild/Liturgical Items/Ritual|Ritual]].
+- [[Book Bearer]] holds the [[Ritual]].
 - [[Holy Water Bearer]] assists with [[Aspersorium]], then retrieves it.
 - [[Thurifer]] assists with incense, then retrieves it.
-- [[Book Bearer]] holds the [[SVF Acolyte Guild/Liturgical Items/Ritual|Ritual]] (again).
+- [[Book Bearer]] holds the [[Ritual]] (again).
 
 ### Recession
 - When [[Celebrant]] is finished, all get into position for the Recession:
 	- [[Thurifer]] walks past [[Crucifer]] so as to lead the recession
 	- [[Crucifer]] and [[Lucifer|Candle bearers]] stay in place.
-	- [[Holy Water Bearer]] and [[Book Bearer]] in a pair immediately behind [[Crucifer]] (still holding [[Aspersorium]] and [[SVF Acolyte Guild/Liturgical Items/Ritual|Ritual]]).
+	- [[Holy Water Bearer]] and [[Book Bearer]] in a pair immediately behind [[Crucifer]] (still holding [[Aspersorium]] and [[Ritual]]).
 - [[Concelebrant|Concelebrants]] will leave the [[Sanctuary]] and join the [[Celebrant]].
 - All reverence and turn to recess out as usual.
 
 ## References
-- [[SVF Acolyte Guild/External Resources/Ceremonies Explained for Servers|CEfS > ch. 7]]
-- [[SVF Acolyte Guild/External Resources/Ceremonies of the Modern Roman Rite|CotMRR > par. 130, 461-62, 794-96, 798, 800]]
+- [[CEfS > ch. 7]]
+- [[CotMRR > par. 130, 461-62, 794-96, 798, 800]]

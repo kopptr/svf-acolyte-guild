@@ -17,7 +17,7 @@ As normal for [[Roman Rite Solemn Mass]], except:
 	- [ ] [[Wedding Crucifix]], if used.
 - [ ] Large kneeler at foot of the [[Sanctuary]].
 - [ ] Two low stools just in front of the North set of pews.
-- [ ] [[SVF Acolyte Guild/Liturgical Items/Ritual|Ritual]] near the [[Celebrant]]'s seat.
+- [ ] [[Ritual]] near the [[Celebrant]]'s seat.
 - [ ] [[Rosary Altar]]:
 	- [ ] Four altar candles lit.
 	- [ ] Gate open, cushion set aside.
@@ -37,7 +37,7 @@ As [[Roman Rite Solemn Mass]], with changes outlined in the following subsection
 - The [[Thurifer]] should not wait for an entrance antiphon, he should reverence and break formation immediately.
 
 ### Officium through Homily
-- [[Book Bearer]] holds the [[SVF Acolyte Guild/Liturgical Items/Ritual|Ritual]] for the [[Celebrant]] at his seat immediately after the first incensation for the opening prayers.
+- [[Book Bearer]] holds the [[Ritual]] for the [[Celebrant]] at his seat immediately after the first incensation for the opening prayers.
 - The _Penitential Act_ is omitted.
 - The _Gloria_ is sung.
 
@@ -64,7 +64,7 @@ After the _Homily_, the [[Celebrant]] will likely return to his seat for a momen
 The _Credo_ is omitted.
 
 ### Offertory
-- There will be an extra [[Personal Chalice]] from which the Bride and Groom will receive the Precious Blood. This must be brought to the [[SVF Acolyte Guild/Liturgical Items/Altar|Altar]] after the [[Missal]] and [[Chalice Stack]].
+- There will be an extra [[Personal Chalice]] from which the Bride and Groom will receive the Precious Blood. This must be brought to the [[Altar]] after the [[Missal]] and [[Chalice Stack]].
 - The [[Thurifer]] incenses the Bride and Groom after the [[Celebrant]] (and [[Concelebrant|Concelebrants]]) and before the People. He:
 	- Descends to the bottom step of the [[Sanctuary]] on the Northwest corner. He may need to instruct the couple to rise. Then he incenses them from that spot.
 	- Ascends to the platform in front of the [[Crossing Altar|Altar]] (from where he would normally incense the people), and incenses the people. Again, he may need to signal that they should stand.
@@ -89,7 +89,7 @@ __ __ Br Gr __ __
 	- They fall into formation standing West of the couple (i.e. behind them), but lined up (North-South-wise) with the places in which they will kneel. One [[Lucifer|Torch bearer]] and the [[Thurifer]] must walk _behind_ the couple to do this.
 	- As the _Sanctus_ ends, they move East to ascend the steps and kneel in their places.
 - When leaving this formation at the _Great Amen_, [[Altar Server|Servers]]:
-	- Stand, turn inward, descend, walk to place where they lined up during _Sanctus_, and turn inward again to face the [[SVF Acolyte Guild/Liturgical Items/Altar|Altar]].
+	- Stand, turn inward, descend, walk to place where they lined up during _Sanctus_, and turn inward again to face the [[Altar]].
 	- [[Genuflection|Genuflect]].
 	- [[Thurifer]] and South [[Lucifer|Torch bearer]] walk _behind_ the couple, all four [[Altar Server|Servers]] form up in pairs ([[Lucifer|Torch bearers]] second), and return to the [[Sanctuary]] by way of the steps North of the [[Crossing Altar|Altar]].
 
@@ -98,11 +98,11 @@ __ __ Br Gr __ __
 ### Communion
 
 #### Our Father
-After the _Our Father_, the _Nuptial Blessing_ takes the place of the "Deliver us" prayer, and the [[Book Bearer]] holds the [[SVF Acolyte Guild/Liturgical Items/Ritual|Ritual]] for it:
+After the _Our Father_, the _Nuptial Blessing_ takes the place of the "Deliver us" prayer, and the [[Book Bearer]] holds the [[Ritual]] for it:
 - **Cue**: _Our Father_ ends, [[Celebrant]] starts to leave the [[Sanctuary]]
-- [[Book Bearer]] meets the [[Celebrant]] at the couple's place and holds the [[SVF Acolyte Guild/Liturgical Items/Ritual|Ritual]] for the him as he gives the _Nuptial Blessing_.
+- [[Book Bearer]] meets the [[Celebrant]] at the couple's place and holds the [[Ritual]] for the him as he gives the _Nuptial Blessing_.
 	- [[Book Bearer]] should follow along **so he can turn the pages for the celebrant**.
-- When finished, he returns the [[SVF Acolyte Guild/Liturgical Items/Ritual|Ritual]] and goes back to his seat.
+- When finished, he returns the [[Ritual]] and goes back to his seat.
 
 #### Agnus Dei through Priest's Communion
 As usual.
@@ -129,12 +129,12 @@ As usual.
 #### Final Blessing and Dismissal
 [[Celebrant]] will give the final blessing at the foot of the [[Crossing Altar|Altar]] in front of the Bride and Groom:
 - **Cue**: [[Celebrant]] approaches the couple.
-- [[Book Bearer]] meets [[Celebrant]] in front of the [[Crossing Altar|Altar]], takes the [[SVF Acolyte Guild/Liturgical Items/Ritual|Ritual]] from him, and holds it while the [[Concelebrant]] reads. He stands by until the [[Celebrant]] returns to reverence the [[SVF Acolyte Guild/Liturgical Items/Altar|Altar]].
+- [[Book Bearer]] meets [[Celebrant]] in front of the [[Crossing Altar|Altar]], takes the [[Ritual]] from him, and holds it while the [[Concelebrant]] reads. He stands by until the [[Celebrant]] returns to reverence the [[Altar]].
 - Other [[Altar Server|Servers]] standby.
 
 ### Recession
 **Cue**: [[Celebrant]] returns from giving the final blessing:
-- [[Book Bearer]] returns the [[SVF Acolyte Guild/Liturgical Items/Ritual|Ritual]] and then gets the [[Processional Crucifix]].
+- [[Book Bearer]] returns the [[Ritual]] and then gets the [[Processional Crucifix]].
 - Other [[Altar Server|Servers]] retrieve their items and form up near their [[Choir Stalls]], stand by.
 - After the [[Celebrant]] has reverenced the [[Crossing Altar|Altar]] and the wedding party has recessed.
 - Form up at the foot of the [[Sanctuary]] as normal.
@@ -143,8 +143,8 @@ As usual.
 
 ## If there is a Deacon
 If there is a [[Deacon]]:
-- [[Deacon]] holds the [[SVF Acolyte Guild/Liturgical Items/Ritual|Ritual]] for the _Nuptial Blessing_ after the [[#Our Father]] (instead of the [[Book Bearer]]).
-- [[Book Bearer]] still holds the [[SVF Acolyte Guild/Liturgical Items/Ritual|Ritual]] for the [[#Final Blessing and Dismissal]].
+- [[Deacon]] holds the [[Ritual]] for the _Nuptial Blessing_ after the [[#Our Father]] (instead of the [[Book Bearer]]).
+- [[Book Bearer]] still holds the [[Ritual]] for the [[#Final Blessing and Dismissal]].
 
 ## Adjustments for fewer servers
 If there are only three [[Altar Server|Servers]]:

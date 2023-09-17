@@ -39,7 +39,7 @@ When approaching foot of the altar, [[Inclination#Major Inclination]], go up the
 [[Book Bearer]] attends with [[Missal]] for the whole opening sequence.
 
 ### Readings, Gradual, Tract, Gospel, Homily
-Same as [[SVF Acolyte Guild/Rubrics/Feasts and Solemnities/Palm Sunday]].
+Same as [[Palm Sunday]].
 
 ### Universal Prayer
 [[Book Bearer]] places [[Missal]] (without stand, possibly a priest preference) on the altar for the Universal Prayer.

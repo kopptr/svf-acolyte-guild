@@ -1,4 +1,4 @@
-There are no formal guidelines given in the [[SVF Acolyte Guild/External Resources/The Roman Missal|The Roman Missal]] for the order of a [[Eucharistic Procession]]. The local [[Christianity/Biblical Events, Figures, and Themes/Bishop]] has the authority to give guidelines. The [[Ceremonial of Bishops]] has a suggested order that includes a [[Christianity/Biblical Events, Figures, and Themes/Bishop]] and his attendants.
+There are no formal guidelines given in the [[The Roman Missal]] for the order of a [[Eucharistic Procession]]. The local [[Christianity/Biblical Events, Figures, and Themes/Bishop]] has the authority to give guidelines. The [[Ceremonial of Bishops]] has a suggested order that includes a [[Christianity/Biblical Events, Figures, and Themes/Bishop]] and his attendants.
 
 ## Order
 The order of procession is:[^usage]
@@ -9,7 +9,7 @@ The order of procession is:[^usage]
 5. [[Deacon|Deacons]]
 6. Flower girls and their families
 7. [[Thurifer]]s and [[Boat Bearer]]
-8. [[Canopy]] (four [[Canopy]] bearers), [[SVF Acolyte Guild/Rubrics/Roles/Priest|Priest]] with [[Monstrance]] under it, [[Lucifer|Torch bearers]]
+8. [[Canopy]] (four [[Canopy]] bearers), [[Priest]] with [[Monstrance]] under it, [[Lucifer|Torch bearers]]
 	- If two [[Lucifer|Torch bearers]], flanking the [[Monstrance]] outside of the [[Canopy]].
 	- If four [[Lucifer|Torch bearers]], one at each corner of the [[Canopy]], outside it.
 9. [[Umbrellino Bearer]], extra [[Altar Server|Servers]]
@@ -35,7 +35,7 @@ These are the guidelines the local [[Christianity/Biblical Events, Figures, and 
 8. Musical Instruments.
 
 ### According to Ceremonies Explained for Servers
-These guidelines differ, but are notable. [[SVF Acolyte Guild/External Resources/Ceremonies Explained for Servers|Ceremonies Explained for Servers]], paragraphs 488-494:
+These guidelines differ, but are notable. [[Ceremonies Explained for Servers]], paragraphs 488-494:
 - [[Lucifer|Candle bearer]], [[Crucifer]] (OR Eucharistic Banner), [[Lucifer|Candle bearer]] 
 - [[Altar Server|Servers]] without duties
 - Clergy in choir dress / [[Deacon|Deacons]] / [[Concelebrant|Concelebrants]].
@@ -44,7 +44,7 @@ These guidelines differ, but are notable. [[SVF Acolyte Guild/External Resources
 - Congregation.
 
 ## References
-- [[SVF Acolyte Guild/External Resources/Ceremonies Explained for Servers|Ceremonies Explained for Servers]]
+- [[Ceremonies Explained for Servers]]
 - [[Guidelines for the Worship of the Eucharist Outside of Mass]]
 - [[Holy Communion and the Worship of the Eucharist Outside Mass]]
 - [[Ceremonial of Bishops]]

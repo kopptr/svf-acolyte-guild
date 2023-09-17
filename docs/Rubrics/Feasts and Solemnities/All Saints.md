@@ -27,4 +27,4 @@ After the Homily, the [[Celebrant]] returns to his seat. The [[Altar Server|Serv
 The rest of Mass proceeds as usual for [[Roman Rite Solemn Mass at the High Altar]].
 
 ## References
-- [[SVF Acolyte Guild/External Resources/Ceremonies of the Liturgical Year|CotLY > par. 393]]
+- [[CotLY > par. 393]]

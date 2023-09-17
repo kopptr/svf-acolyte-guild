@@ -1,5 +1,5 @@
 ## Overview
-Solemn High [[Mass]] in the [[Dominican Rite]]. In addition to the [[Altar Server|Servers]] and [[SVF Acolyte Guild/Rubrics/Roles/Priest|Priest]] [[Celebrant]], there is a [[Deacon]] and a [[Subdeacon]].
+Solemn High [[Mass]] in the [[Dominican Rite]]. In addition to the [[Altar Server|Servers]] and [[Priest]] [[Celebrant]], there is a [[Deacon]] and a [[Subdeacon]].
 
 ## Roles
 - [[Senior Acolyte]]

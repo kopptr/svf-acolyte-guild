@@ -152,6 +152,6 @@ As normal, except:
 - [[Saint Catherine of Siena Church|SCS]]'s [[Thurible]] and [[Incense Boat]] remain at [[Saint Vincent Ferrer Church|SVF]], since it is needed for [[Holy Thursday]].
 
 ## References
-- [[SVF Acolyte Guild/External Resources/The Roman Missal|The Roman Missal]], pages 271-286.
-- [[SVF Acolyte Guild/External Resources/Ceremonies Explained for Servers|Ceremonies Explained for Servers]], paragraphs 736-753, 760-762.
-- [[SVF Acolyte Guild/External Resources/Ceremonies of the Liturgical Year|Ceremonies of the Liturgical Year]], paragraphs 125-150.
+- [[The Roman Missal]], pages 271-286.
+- [[Ceremonies Explained for Servers]], paragraphs 736-753, 760-762.
+- [[Ceremonies of the Liturgical Year]], paragraphs 125-150.

@@ -44,7 +44,7 @@ As [[Roman Rite Solemn Mass at the High Altar]], with changes outlined in the fo
 - The [[Thurifer]] should not wait for an entrance antiphon, he should reverence and break formation immediately.
 
 ### Officium through Homily
-- [[Book Bearer]] holds the [[SVF Acolyte Guild/Liturgical Items/Ritual|Ritual]] for the [[Celebrant]] at the [[Sedilia]] immediately after the first incensation for the opening prayers.
+- [[Book Bearer]] holds the [[Ritual]] for the [[Celebrant]] at the [[Sedilia]] immediately after the first incensation for the opening prayers.
 - The _Penitential Act_ is omitted.
 - The _Gloria_ is sung.
 - Gospel Procession:
@@ -57,7 +57,7 @@ Immediately after the Homily, as the [[Celebrant]] is returning to the [[Presbyt
 - [[Wedding Crucifix Bearer]] and [[Holy Water Bearer]] move to the [[Friars' Chapel]].
 - [[Holy Water Bearer]] and [[Wedding Crucifix Bearer]] ready the [[Wedding Crucifix]] and [[Aspersorium]].
 
-[[Celebrant]] will enter the [[Presbytery]] and go to his chair and sit for a moment. He then meets the couple in their spot in the [[Sanctuary]], holding the [[SVF Acolyte Guild/Liturgical Items/Ritual|Ritual]] for himself.
+[[Celebrant]] will enter the [[Presbytery]] and go to his chair and sit for a moment. He then meets the couple in their spot in the [[Sanctuary]], holding the [[Ritual]] for himself.
 
 #### Questions & Consent
 If no [[Wedding Crucifix]] is used, this is omitted.
@@ -94,9 +94,9 @@ As normal for [[Roman Rite Solemn Mass at the High Altar]], except [[Bell Ringer
 After the _Our Father_, the _Nuptial Blessing_ takes the place of the "Deliver us" prayer.
 
 **Cue**: [[Celebrant]] descends the [[High Altar]]:
-- [[Book Bearer]] meets the [[Celebrant]] at the couple's place and holds the [[SVF Acolyte Guild/Liturgical Items/Ritual|Ritual]] for the him as he gives the _Nuptial Blessing_.
+- [[Book Bearer]] meets the [[Celebrant]] at the couple's place and holds the [[Ritual]] for the him as he gives the _Nuptial Blessing_.
 	- [[Book Bearer]] should follow along **so he can turn the pages for the celebrant**.
-- When finished, he returns the [[SVF Acolyte Guild/Liturgical Items/Ritual|Ritual]] and goes back to his seat.
+- When finished, he returns the [[Ritual]] and goes back to his seat.
 
 #### Agnus Dei
 As usual.
@@ -122,7 +122,7 @@ As normal. [[Acolyte|Acolytes]] must remember to take both [[Chalice]]s.
 
 #### Final Blessing and Dismissal
 [[Celebrant]] will give the final blessing on the [[Presbytery]] steps in front of the Bride and Groom:
-- [[Book Bearer]] bears [[SVF Acolyte Guild/Liturgical Items/Ritual|Ritual]].
+- [[Book Bearer]] bears [[Ritual]].
 - Other [[Altar Server|Servers]] standby.
 
 ### Recession
@@ -133,8 +133,8 @@ As normal. [[Acolyte|Acolytes]] must remember to take both [[Chalice]]s.
 
 ## If there is a Deacon
 If there is a [[Deacon]]:
-- [[Deacon]] holds the [[SVF Acolyte Guild/Liturgical Items/Ritual|Ritual]] for the _Nuptial Blessing_ after the [[#Our Father]] (instead of the [[Book Bearer]]).
-- [[Book Bearer]] still holds the [[SVF Acolyte Guild/Liturgical Items/Ritual|Ritual]] for the [[#Final Blessing and Dismissal]].
+- [[Deacon]] holds the [[Ritual]] for the _Nuptial Blessing_ after the [[#Our Father]] (instead of the [[Book Bearer]]).
+- [[Book Bearer]] still holds the [[Ritual]] for the [[#Final Blessing and Dismissal]].
 
 ## Adjustments for fewer servers
 If there are only three [[Altar Server|Servers]]:

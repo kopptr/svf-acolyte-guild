@@ -25,7 +25,7 @@ Where:
 - `S` are additional [[Altar Server|Servers]], if any. They are empty-handed.
 	- `S` are in pairs, if there is an odd [[Altar Server|Server]], he is at the end in the middle.
 
-[^diagram]: c.f. [[SVF Acolyte Guild/External Resources/Ceremonies of the Modern Roman Rite|CotMRR > Diagram 2]].
+[^diagram]: c.f. [[CotMRR > Diagram 2]].
 
 ### Adjustments for fewer Servers
 
@@ -71,16 +71,16 @@ Where:
 - `Cb` are [[Lucifer|Candle bearers]]
 - `Cr` is the [[Crucifer]]
 - `Se` are other [[Altar Server|Servers]]
-- `MC` are the [[Master of Ceremonies|Masters of Ceremonies]]. If there is only one, he takes the spot closer to the [[SVF Acolyte Guild/Rubrics/Roles/Bishop|Bishop]].
+- `MC` are the [[Master of Ceremonies|Masters of Ceremonies]]. If there is only one, he takes the spot closer to the [[Bishop]].
 - `Ch` are those in Choir Dress, Canons follow Clergy.
 - `De` are [[Deacon|Deacons]]. If there is only one, he takes the position closer to the [[Crucifer]].
 - `Cc` are [[Concelebrant|Concelebrants]].
-- `Bi` is the [[SVF Acolyte Guild/Rubrics/Roles/Bishop|Bishop]].
+- `Bi` is the [[Bishop]].
 - `Cz` is the [[Crozier Bearer]].
 - `Bb` is the [[Book Bearer]].
 - `Mb` is the [[Mitre Bearer]].
 
-[^bishop]: See [[SVF Acolyte Guild/External Resources/Ceremonies of the Modern Roman Rite|CotMRR > Diagram 5]]
+[^bishop]: See [[CotMRR > Diagram 5]]
 
 ## Routes
 

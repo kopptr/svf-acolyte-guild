@@ -1,1 +1,1 @@
-Liturgically, this is the big red book form of [[SVF Acolyte Guild/External Resources/The Roman Missal|The Roman Missal]]. The [[Celebrant]] uses it to read words and actions of the [[Mass]].
+Liturgically, this is the big red book form of [[The Roman Missal]]. The [[Celebrant]] uses it to read words and actions of the [[Mass]].

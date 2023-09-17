@@ -1,14 +1,14 @@
 In the [[Roman Rite]], the [[Altar Server|Server]] duties during the Eucharistic Prayer depend on how many [[Altar Server|Servers]] there are and the solemnity of the [[Mass]].
 
 ## Formation
-On a maximally solemn occasion, the [[Altar Server|Servers]] line up at the foot of the appropriate [[SVF Acolyte Guild/Liturgical Items/Altar|Altar]] as shown below.
+On a maximally solemn occasion, the [[Altar Server|Servers]] line up at the foot of the appropriate [[Altar]] as shown below.
 
 ```
          AA
 L3 L1 __ Th Bb L2 L4
 ```
 In the diagram:
-- `AA` is the center of the [[SVF Acolyte Guild/Liturgical Items/Altar|Altar]].
+- `AA` is the center of the [[Altar]].
 - `L1-4` are [[Lucifer|Lucifers]] bearing [[Torch|Torches]].
 - `Th` is the [[Thurifer]].
 - `Bb` is the [[Boat Bearer]].

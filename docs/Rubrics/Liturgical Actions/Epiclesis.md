@@ -11,6 +11,6 @@ See the [full text](https://catholic-resources.org/ChurchDocs/RM3-EP1-4.htm) for
 ## Other cues
 In addition to knowing the words of the Epiclesis, one can tell the Epiclesis is being said because:
 - The [[Celebrant]] will move both hands over the chalice.
-- The [[Deacon]], if present, will kneel, possibly stepping away from the [[SVF Acolyte Guild/Liturgical Items/Altar|Altar]] first (this happens just _after_ the Epiclesis).
+- The [[Deacon]], if present, will kneel, possibly stepping away from the [[Altar]] first (this happens just _after_ the Epiclesis).
 
 Frequently, these signals will either be hard to see or will happen too late. Therefore, it's best to have the words memorized.
