@@ -1,5 +1,6 @@
 ## Overview
 [[Roman Rite Solemn Mass]], with:
+
 - Mass beginning with lowest [[Church Lights]] setting, at the [[#Gloria]] the full [[Church Lights]] setting is turned on.
 - Ringing [[Hand Bells]] during the _Gloria_.
 - Everyone (including Congregation) has [[Hand Candle]]s, which are lit before Mass.
@@ -15,6 +16,7 @@
 
 ## Roles
 Six/Seven [[Altar Server|Altar Servers]]:
+
 - Tim: [[Thurifer]], [[Acolyte]] 3 (Baptism)
 - Seamus: [[Crucifer]], [[Book Bearer]] 1 ([[Missal]]), [[Bell Ringer]]
 - Alex: [[Master of Ceremonies]], [[Boat Bearer]], [[Book Bearer]] 2 ([[Ceremonial]])
@@ -25,6 +27,7 @@ Six/Seven [[Altar Server|Altar Servers]]:
 
 ## Preparation
 As usual for [[Roman Rite Solemn Mass]], except:
+
 - [ ] Light setting set to lowest setting (someone else will lower the lights)
 - [ ] [[High Altar#Angel Candles]] lit.
 - [ ] [[Credence Table]]:
