@@ -1,2 +1,2 @@
 ## References
-- [[Exodus 27#The Oil for the Lamp]]
+- Exodus 27:20-21.

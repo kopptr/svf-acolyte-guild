@@ -3,6 +3,7 @@ aliases: ["SCS"]
 ---
 ## Floorplan
 ![[scs-floor-plan.png]]
+
 - A. High Altar  
 - B. Altar of Sacrifice  
 - C. Spired Pulpit  
