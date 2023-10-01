@@ -22,6 +22,7 @@
 
 ## Head Bow
 Perform a [[Minor Inclination|Head Bow]] when the following is said at Mass:
+
 - The name of Jesus.
 - The name of Mary.
 - If a Mass for a saint's feast, at that saint's name.

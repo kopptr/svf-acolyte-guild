@@ -5,6 +5,7 @@ In the [[Roman Rite]], the Ablutions occur immediately after Communion.
 
 ### If there is no Deacon
 [[Acolyte|Acolytes]] and [[Book Bearer]] stand, get into [[Standby Formation]] and work out of it for the duration of the Ablutions[^ablutions]. **Cue**: The [[Celebrant]] returns to the [[Sanctuary]] after distributing Communion.
+
 - An [[Acolyte]] brings the water [[Cruet]] to the [[Altar]]. Depending on the [[Celebrant]]'s preference:
 	- [[Acolyte]] pours water over the [[Celebrant]]'s fingers and into the [[Chalice]] until the [[Celebrant]] indicates he should stop, by saying so or raising the [[Chalice]].
 	- [[Acolyte]] gives the [[Celebrant]] the water [[Cruet]] and stays near the [[Altar]] until the [[Celebrant]] returns it.
@@ -36,7 +37,8 @@ If [[Exposition of the Blessed Sacrament|Exposition]] follows [[Mass]], a [[Mini
 
 ### Sung and Low Mass
 For [[Roman Rite Low Mass|Roman Rite Sung Mass]] and [[Roman Rite Low Mass]], the rubrics are identical, except:
+
 - One [[Altar Server|Server]] must take on the role of both [[Acolyte|Acolytes]] and the [[Book Bearer]].
 - Be mindful of the [[Celebrant]]'s preferences:
-	- If the [[Celebrant]] prefers to pray the Postcommunion Prayer and Dismissal at the [[Altar]], do not remove the [[Missal]].
+	- If the [[Celebrant]] prefers to pray the _Postcommunion Prayer_ and _Dismissal_ at the [[Altar]], do not remove the [[Missal]].
 	- If the [[Celebrant]] prefers, do not remove the [[Chalice Stack]] from the [[Altar]].

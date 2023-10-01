@@ -20,6 +20,5 @@ With the [[Thurible]] on its [[Thurible Stand|Stand]], pull the ring and hook it
 
 ## Standing Self Charge
 This is only used by the [[Thurifer]] during the [[Dominican Rite Solemn High Mass]].
-- #handbook-todo 
+
 - If [[Celebrant]] is present, present the first scoop of incense to him to bless. 
-- #handbook-todo 

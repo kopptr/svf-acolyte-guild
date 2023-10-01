@@ -5,6 +5,7 @@ The Guild of St. Stephen ([official website](https://guildofststephen.org/)) is 
 
 ## Guild member responsibilities
 Guild members promise to:
+
 - Pray [[The Guild Prayer]] every day.
 - Serve regularly, especially when needed.
 - Serve with care and reverence.

@@ -4,6 +4,7 @@ aliases: ["Bow", "Bows", "Inclines"]
 A bow.
 
 In the [[Dominican Rite]], there are three types of inclination:
+
 - [[Minor Inclination]]
 - [[Moderate Inclination]]
 - [[Major Inclination]]

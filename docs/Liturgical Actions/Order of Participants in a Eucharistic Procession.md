@@ -2,6 +2,7 @@ There are no formal guidelines given in the [[The Roman Missal]] for the order o
 
 ## Order
 The order of procession is:[^usage]
+
 1. [[Lucifer|Candle bearer]], [[Crucifer]], [[Lucifer|Candle bearer]]
 2. Banners
 3. Religious in choir dress
@@ -25,6 +26,7 @@ The order of procession is:[^usage]
 These are the guidelines the local [[Christianity/Biblical Events, Figures, and Themes/Bishop]] has promulgated for the Archdiocese of New York, and therefore the ones we follow most closely.
 
 [[Guidelines for the Worship of the Eucharist Outside of Mass]], pages 8-9:
+
 1. [[Lucifer|Candle bearer]], [[Crucifer]], [[Lucifer|Candle bearer]].
 2. Clergy in [[Cope]]s / [[Mass]] vestments.
 3. [[Deacon|Deacons]].
@@ -36,6 +38,7 @@ These are the guidelines the local [[Christianity/Biblical Events, Figures, and 
 
 ### According to Ceremonies Explained for Servers
 These guidelines differ, but are notable. [[Ceremonies Explained for Servers]], paragraphs 488-494:
+
 - [[Lucifer|Candle bearer]], [[Crucifer]] (OR Eucharistic Banner), [[Lucifer|Candle bearer]] 
 - [[Altar Server|Servers]] without duties
 - Clergy in choir dress / [[Deacon|Deacons]] / [[Concelebrant|Concelebrants]].

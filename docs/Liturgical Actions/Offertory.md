@@ -5,6 +5,7 @@ In the [[Roman Rite]], the Offertory occurs immediately after the _Universal Pra
 
 ### Overview
 If there is an Offertory Chant, [[Altar Server|Servers]] with duties stand when it begins[^offertory_chant]. [[Altar Server|Servers]] work out of [[Standby Formation]][^which_altar]:
+
 - [[Altar]] is prepared[^bring_to_altar].
 - [[Chalice]] is prepared[^cruets][^people_bring_gifts].
 - Bread and wine are offered by the [[Celebrant]].
@@ -21,6 +22,7 @@ If there is an Offertory Chant, [[Altar Server|Servers]] with duties stand when 
 
 ### If there is no Deacon
 If there is no [[Deacon]], the [[Altar Server|Servers]] are responsible for all parts of the Offertory not performed by the [[Celebrant]].
+
 1. Essential items are brought to the [[Altar]]:
 	- [[Book Bearer]] brings the [[Missal]] and [[Missal Stand|Stand]], and places it center-left, at a 45-degree angle. His Offertory duties are finished, he returns to the [[Choir Stalls]]. He may wish to light the [[Torch|Torches]] to make duties easier for the [[Lucifer|Lucifers]].
 	- [[Acolyte]] brings the [[Chalice Stack]] and places it on the Northeast corner of the [[Altar]], veil facing the people.
@@ -56,6 +58,7 @@ If there is no [[Deacon]], the [[Altar Server|Servers]] are responsible for all 
 
 ### If there is a Deacon
 If there is a [[Deacon]], he will perform some of the duties the [[Celebrant]] would in his absence, and some of the duties a [[Altar Server|Server]] would perform in his absence[^server_deacon_parts]. Notably:
+
 - The [[Deacon]] brings the [[Chalice Stack]] to the [[Altar]] instead of an [[Acolyte]].
 - The [[Deacon]] prepares the wine and water for the [[Chalice]] instead of the [[Celebrant]]. As a result:
 	- The [[Cruets]] are brought to the [[Deacon]], not the [[Celebrant]].
@@ -64,6 +67,7 @@ If there is a [[Deacon]], he will perform some of the duties the [[Celebrant]] w
 
 ### Sung and Low Mass
 For [[Roman Rite Low Mass|Roman Rite Sung Mass]] and [[Roman Rite Low Mass]], the rubrics are identical, except:
+
 - There is no [[Incensation]] of the [[Altar]], [[Celebrant]], [[Concelebrant|Concelebrants]], and People. As a result, there is no [[Thurifer]].
 - [[Torch|Torches]] are not used, so there is no need to light them.
 - One [[Altar Server|Server]] must take on the role of both [[Acolyte|Acolytes]] and the [[Book Bearer]].

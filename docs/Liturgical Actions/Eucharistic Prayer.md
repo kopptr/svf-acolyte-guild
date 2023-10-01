@@ -7,7 +7,9 @@ On a maximally solemn occasion, the [[Altar Server|Servers]] line up at the foot
          AA
 L3 L1 __ Th Bb L2 L4
 ```
+
 In the diagram:
+
 - `AA` is the center of the [[Altar]].
 - `L1-4` are [[Lucifer|Lucifers]] bearing [[Torch|Torches]].
 - `Th` is the [[Thurifer]].
