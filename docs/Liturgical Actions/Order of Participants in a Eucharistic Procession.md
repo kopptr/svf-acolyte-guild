@@ -1,4 +1,4 @@
-There are no formal guidelines given in the [[The Roman Missal]] for the order of a [[Eucharistic Procession]]. The local [[Christianity/Biblical Events, Figures, and Themes/Bishop]] has the authority to give guidelines. The [[Ceremonial of Bishops]] has a suggested order that includes a [[Christianity/Biblical Events, Figures, and Themes/Bishop]] and his attendants.
+There are no formal guidelines given in the [[The Roman Missal]] for the order of a [[Eucharistic Procession]]. The local [[Bishop]] has the authority to give guidelines. The [[Ceremonial of Bishops]] has a suggested order that includes a [[Bishop]] and his attendants.
 
 ## Order
 The order of procession is:[^usage]
@@ -23,7 +23,7 @@ The order of procession is:[^usage]
 ## Other possible orders and guidelines
 
 ### Archdiocese of NY Guidelines for the Worship of the Eucharist Outside of Mass
-These are the guidelines the local [[Christianity/Biblical Events, Figures, and Themes/Bishop]] has promulgated for the Archdiocese of New York, and therefore the ones we follow most closely.
+These are the guidelines the local [[Bishop]] has promulgated for the Archdiocese of New York, and therefore the ones we follow most closely.
 
 [[Guidelines for the Worship of the Eucharist Outside of Mass]], pages 8-9:
 

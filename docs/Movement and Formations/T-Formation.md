@@ -1,4 +1,4 @@
 - [[Celebrant]] on the platform of high altar
 - [[Deacon]] on the step below Priest
 - [[Subdeacon]] on the step below Deacon
-- [[Acolytes]] in a pair at the foot of the altar, centered (use squares). Senior Acolyte on the right, Junior Acolyte on the left.
+- [[Acolyte|Acolytes]] in a pair at the foot of the altar, centered (use squares). Senior Acolyte on the right, Junior Acolyte on the left.

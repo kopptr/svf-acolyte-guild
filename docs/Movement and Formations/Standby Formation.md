@@ -3,6 +3,7 @@ Used in [[Roman Rite]] [[Mass|Masses]], when one or more [[Altar Server|Servers]
 
 ## Form
 All of the [[Altar Server|Servers]] who are not performing a liturgical action stand in a line perpendicular to the [[Altar]] and facing it.
+
 - [[Altar Server|Servers]] who _do not_ need to take a liturgical action sit in the [[Choir Stalls]] to free up space. For example, the [[Thurifer]] during the [[Roman Rite Solemn Mass#Ablutions]][^should_they_stand].
 - [[Altar Server|Servers]] who _do_ need to take a liturgical action, stand in the line to promote ease of movement.
 	- If the server will act next, he should be in the line closest to the [[Altar]]. For example, the [[Acolyte|Acolytes]] waiting to bring the [[Cruets]] while the [[Chalice Stack]] is being disassembled.
@@ -18,6 +19,7 @@ For [[Mass|Masses]] at the [[Crossing Altar]], the formation looks best if the l
 
 ## Considerations for the High Altar
 For [[Mass|Masses]] at the [[High Altar]]:
+
 - There is more space in the [[Presbytery]], so the [[Acolyte|Acolytes]] can stand in front of the [[Presbytery#Niche]] so as to have easy access to it, and the [[Thurifer]] can stand to their left when not acting next, and to their right when acting next. All three stand in an orderly line facing North.
 - The [[Book Bearer]] waits for cues and approaches the [[High Altar]] from the Gospel side. He should wait in a position that mirrors the [[Acolyte|Acolytes]] and [[Thurifer]] on the Gospel side, facing South. He must be mindful to [[Major Inclination|Profound Bow]] to the [[High Altar]] when crossing the middle of it.
 - When assisting at the [[High Altar]], all [[Altar Server|Servers]] approach from the steps on the sides of the [[High Altar|Altar]], never from the steps in front of it.

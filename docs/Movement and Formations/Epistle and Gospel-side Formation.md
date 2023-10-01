@@ -7,7 +7,7 @@ aliases: ["Epistle-side Formation", "Gospel-side Formation"]
 - [[Senior Acolyte]] on the next step to the [[Subdeacon]]'s right/left
 - [[Junior Acolyte]] on the next step to the [[Senior Acolyte]]'s right/left
 - When [[Crucifer]] and [[Thurifer]] are present (i.e. during the _Credo_):
-	- [[Acolytes]] are holding candles
+	- [[Acolyte|Acolytes]] are holding candles
 	- [[Crucifer]] is in between the Acolytes, on the Junior Acolyte's usual step.
 	- [[Junior Acolyte]] is on the [[Presbytery]] floor.
 	- [[Thurifer]] is next to the [[Junior Acolyte]], depending on spacing. He is the outside-most person.

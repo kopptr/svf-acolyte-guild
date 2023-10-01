@@ -1,9 +1,11 @@
 Generally:
+
 - Left turns are for penitential seasons and occasions, right turns are for festive seasons and occasions.
 - Longer processions are for more solemn occasions.
 
 ## Formation
 Processions that do not include the Eucharist (see [[Eucharistic Procession]] for those) are arranged as shown below[^diagram].
+
 ```
   T
  B
@@ -15,7 +17,9 @@ L C L
  S S
   S
 ```
+
 Where:
+
 - `T` is the [[Thurifer]] with the [[Thurible]].
 	- If incense is not used in the procession, [[Thurifer]] as treated as an additional [[Altar Server|Server]] (`S`).
 - `B` is the [[Boat Bearer]] with the [[Incense Boat]].
@@ -65,7 +69,9 @@ Cb  Cr  Cb
   De  De
 Cz  Bb  Mb
 ```
+
 Where:
+
 - `Th` is the [[Thurifer]]
 - `Bo` is the [[Boat Bearer]]
 - `Cb` are [[Lucifer|Candle bearers]]

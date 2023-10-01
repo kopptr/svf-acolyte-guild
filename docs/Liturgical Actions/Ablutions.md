@@ -6,12 +6,12 @@ In the [[Roman Rite]], the Ablutions occur immediately after Communion.
 ### If there is no Deacon
 [[Acolyte|Acolytes]] and [[Book Bearer]] stand, get into [[Standby Formation]] and work out of it for the duration of the Ablutions[^ablutions]. **Cue**: The [[Celebrant]] returns to the [[Sanctuary]] after distributing Communion.
 
-- An [[Acolyte]] brings the water [[Cruet]] to the [[Altar]]. Depending on the [[Celebrant]]'s preference:
+- An [[Acolyte]] brings the water [[Cruets|Cruet]] to the [[Altar]]. Depending on the [[Celebrant]]'s preference:
 	- [[Acolyte]] pours water over the [[Celebrant]]'s fingers and into the [[Chalice]] until the [[Celebrant]] indicates he should stop, by saying so or raising the [[Chalice]].
-	- [[Acolyte]] gives the [[Celebrant]] the water [[Cruet]] and stays near the [[Altar]] until the [[Celebrant]] returns it.
+	- [[Acolyte]] gives the [[Celebrant]] the water [[Cruets|Cruet]] and stays near the [[Altar]] until the [[Celebrant]] returns it.
 	- [[Acolyte]] pours water into vessels as indicated by the [[Celebrant]].
 	- More than one of the above.
-	- When finished, the [[Acolyte]] returns the water [[Cruet]] to the [[Credence Table]].
+	- When finished, the [[Acolyte]] returns the water [[Cruets|Cruet]] to the [[Credence Table]].
 - If there are items on the [[Credence Table]] that need to be returned to the [[Altar]], such as a [[Chalice Veil]], an [[Acolyte]] places them on the Northeast corner of the [[High Altar|Altar]].
 - The [[Celebrant]] indicates that items are purified by placing them on the Northeast corner of the [[Altar]]. These include [[Ciborium|Ciboria]], [[Pyxe|Pyxes]], and [[Personal Chalice|Personal Chalices]]. The [[Acolyte|Acolytes]] take turns taking purified items from the Northeast corner of the [[Altar]] and returning them to the [[Credence Table]].
 	- If the [[Celebrant]] places a folded [[Corporal]] on the corner of the [[Altar]], the [[Acolyte]] brings an empty [[Burse]] from the [[Credence Table]] to the [[High Altar|Altar]], places the [[Corporal]] in the [[Burse]], and returns both to the [[Credence Table]]. The [[Acolyte|Acolytes]] should anticipate this by noting if the [[Celebrant]] is folding an extra [[Corporal]].

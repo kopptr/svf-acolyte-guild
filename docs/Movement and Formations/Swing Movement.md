@@ -1,7 +1,7 @@
 - Transition from [[T-Formation]]/[[Approach Formation]] to Epistle/Gospel-side formation (or vice versa).
-- [[Acolytes]] ascend so that the [[Celebrant]], [[Deacon]], [[Subdeacon]], [[Senior Acolyte]], and [[Junior Acolyte]] are all in a line straight from the [[Tabernacle]] down the [[High Altar]] steps, one per step.
+- [[Acolyte|Acolytes]] ascend so that the [[Celebrant]], [[Deacon]], [[Subdeacon]], [[Senior Acolyte]], and [[Junior Acolyte]] are all in a line straight from the [[Tabernacle]] down the [[High Altar]] steps, one per step.
 - They all turn shoulders together and walk on their own steps toward the correct side. Lower steps must walk more quickly to keep up.
 - Reverse to return to [[T-Formation]]/[[Approach Formation]].
 - When [[Crucifer]] and [[Thurifer]] are present (i.e. during the _Credo_):
-	- [[Acolytes]] are holding [[Processional Candle|Processional Candles]].
+	- [[Acolyte|Acolytes]] are holding [[Processional Candle|Processional Candles]].
 	- Use the order of the [[Epistle and Gospel-side Formation]], and move in the same manner as a (larger) line.

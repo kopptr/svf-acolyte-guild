@@ -1,5 +1,6 @@
 ## Overview
 [[Roman Rite Solemn Pontifical Mass]] at [[Saint Catherine of Siena Church]] at the [[Crossing Altar]] for the 125th anniversary of Dominicans' serving at [[Saint Catherine of Siena Church|SCS]]:
+
 - Celebrated by Cardinal Dolan. 
 - Station at the statue of St. Catherine of Siena during the [[#Entrance]] procession.
 - _Credo_ omitted.
@@ -38,6 +39,7 @@
 ### The day of:
 
 [[Roman Rite Solemn Pontifical Mass#Preparation]], except:
+
 - [ ] [[Missal]] on the [[Sedilia]].
 - [ ] [[Missal Stand]] on the table next to the organ console.
 - [ ] Find a [[Priest]] [[Concelebrant]] to hold the pamphlet for the [[Bishop]] [[Celebrant]] at the Station.
