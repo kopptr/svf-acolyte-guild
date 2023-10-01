@@ -10,7 +10,6 @@
 As usual for [[Roman Rite Low Mass|Roman Rite Sung Mass]], except:
 
 - After the _Ablutions_ and before the _Postcommunion Prayer_, the [[Altar Server|Server]] assists the [[Celebrant]] in removing his [[Chasuble]] and donning his [[Cope]].
-
 - The [[Celebrant]] enters the [[Presbytery]] to retrieve the relic from the [[High Altar]], and all [[Altar Server|Servers]] form up at the foot of the [[Presbytery]].
 - All [[Reverence]] the [[High Altar]] with the [[Celebrant]] #liturgy-todo .
 - All turn and begin the [[Procession]], using the usual [[Procession#Formation]].

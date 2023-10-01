@@ -6,6 +6,7 @@
 
 ## Preparation
 [[Roman Rite Solemn Mass at the High Altar#Preparation]], except:
+
 - [[Crossing Altar]] present, with candles unlit, and [[Crossing Altar#Crucifix]] stowed away.
 - [[Credence Table]]:
 	- [[Aspersorium]].
@@ -16,7 +17,8 @@
 
 ## Order of Mass
 [[Roman Rite Solemn Mass at the High Altar#Order of Mass]], except:
-- After the [[Homily]] and before the [[Universal Prayer]], the [[#Blessing and Imposition of Ashes]].
+
+- After the _Homily_ and before the _Universal Prayer_, the [[#Blessing and Imposition of Ashes]].
 - [[#Ablutions]] to prepare for [[Exposition of the Blessed Sacrament]]
 
 ### Procession Route
@@ -26,21 +28,21 @@
 ### Blessing and Imposition of Ashes
 The [[Book Bearer]] approaches the celebrant with the [[Prayers at the Chair]] book, and he says the blessing. The [[Book Bearer]] then returns to his seat in [[Choir Stalls#Low]].
 
-While priest is blessing the ashes with Water, [[Thurifer]] and [[Candlebearer]]s approach. When done, all servers line up for ashes as at Communion #todo how is this not awkward?
+While priest is blessing the ashes with Water, [[Thurifer]] and [[Lucifer|Candle bearers]] approach. When done, all servers line up for ashes as at Communion #todo how is this not awkward?
 
-When finished receiving ashes, [[Thurifer]] and [[Candlebearer]]s return to [[Choir Stalls#High]], [[Crucifer]] returns to [[Choir Stalls#Low]].
+When finished receiving ashes, [[Thurifer]] and [[Lucifer|Candle bearers]] return to [[Choir Stalls#High]], [[Crucifer]] returns to [[Choir Stalls#Low]].
 
 When Ministers are finished imposing ashes, [[Crucifer]] assists Ministers with cleaning hands.
 
 ### Ablutions
-- [[Candlebearer]]s perform [[Ablutions#High Altar]] as usual.
+- [[Lucifer|Candle bearers]] perform [[Ablutions#High Altar]] as usual.
 - [[Crucifer]] and [[Thurifer]] prepare [[Crossing Altar]] for [[Exposition of the Blessed Sacrament]]:
 	- [[Crossing Altar#Candles]] lit.
-	- [[Candelabrae]] lit and in place.
+	- [[Candelabra|Candelabrae]] lit and in place.
 	- [[Corporal]], [[Monstrance Stand]], and [[Monstrance]].
 	- Move [[Aspersorium]] to [[Rosary Altar#Niche]]
 	- Move [[Thurible Stand]] to foot of [[Crossing Altar]] on Epistle Side. Add coals.
-- When finished, [[Candlebearer]]s return to [[Choir Stalls#High]], [[Thurifer]] and [[Crucifer]] to [[Choir Stalls#Low]].
+- When finished, [[Lucifer|Candle bearers]] return to [[Choir Stalls#High]], [[Thurifer]] and [[Crucifer]] to [[Choir Stalls#Low]].
 
 ### Postcommunion prayer through Dismissal
 [[Roman Rite Solemn Mass at the High Altar#Postcommunion Prayer through Dismissal]] as usual.

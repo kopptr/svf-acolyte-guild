@@ -13,6 +13,7 @@ As usual for [[Roman Rite Solemn Mass at the High Altar#Order of Mass]], until _
 
 ### Communion
 After receiving Communion:
+
 - The [[Thurifer]] adds charcoal to the [[Thurible]], then moves the [[Thurible Stand]] and items to its usual spot for [[Exposition of the Blessed Sacrament|Exposition]] and [[Benediction]].
 - The [[Acolyte|Acolytes]] prepare the [[Crossing Altar]] for [[Exposition of the Blessed Sacrament|Exposition]]. Since _Ablutions_ will occur at the [[High Altar]], complete preparations can be made immediately.
 ### Ablutions

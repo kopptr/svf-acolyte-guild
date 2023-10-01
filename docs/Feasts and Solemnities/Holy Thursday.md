@@ -2,7 +2,8 @@ Evening Mass of the Lord's Supper.
 
 ## Overview
 [[Roman Rite Solemn Mass]] with:
-- Many concelebrants, as this is the only Mass in the entire parish this day.
+
+- Many [[Concelebrant|Concelebrants]], as this is the only Mass in the entire parish this day.
 - [[#Washing of Feet]]
 - [[Hand Bells]] during the [[#Gloria]].
 - [[Crotalus]] instead of [[Hand Bells]] during the [[#Eucharistic Prayer]].
@@ -10,36 +11,37 @@ Evening Mass of the Lord's Supper.
 - [[#Exposition/Benediction of the Blessed Sacrament]]
 
 ## Roles
-- Alex: [[Master of Ceremonies]], [[Umbrellino Bearer]]
-- Tim: [[Crucifer]], [[Book Bearer]], [[Crotalus]] clapper
-- Dylan: [[Thurifer]] 1
-- Bernardo: [[Boat Bearer]], [[Thurifer]] 2
-- Seamus: [[Acolyte]] 1, [[Lucifer]] 1, 
-- Luke: [[Acolyte]] 2, [[Lucifer]] 2
-- Jay: [[Acolyte]] 3, [[Lucifer]] 3
-- Nick: [[Lucifer]] 4
+- [[Master of Ceremonies]], [[Umbrellino Bearer]]
+- [[Crucifer]], [[Book Bearer]], [[Crotalus]] clapper
+- [[Thurifer]] 1
+- [[Boat Bearer]], [[Thurifer]] 2
+- [[Acolyte]] 1, [[Lucifer]] 1, 
+- [[Acolyte]] 2, [[Lucifer]] 2
+- [[Acolyte]] 3, [[Lucifer]] 3
+- [[Lucifer]] 4
 
 ## Preparation
 As normal for [[Roman Rite Solemn Mass]], except:
-- [x] [[Crossing Altar]]:
-	- [x] [[Crossing Altar#Crucifix]] is veiled in white.
-	- [x] Small table for reception of Holy Oils in front of [[Crossing Altar]].
+
+- [ ] [[Crossing Altar]]:
+	- [ ] [[Crossing Altar#Crucifix]] is veiled in white.
+	- [ ] Small table for reception of Holy Oils in front of [[Crossing Altar]].
 - [ ] [[High Altar#Candles]] lit, but [[High Altar#Angel Candles]] removed to [[Cloister Walk]], since it's impractical to get at them when stripping the altar.
-- [x] White [[Humeral Veil]] accessible for the [[#Procession of the Blessed Sacrament]], either near [[Credence Table]] or in [[Choir Stalls]] behind Celebrants' chair.
+- [ ] White [[Humeral Veil]] accessible for the [[#Procession of the Blessed Sacrament]], either near [[Credence Table]] or in [[Choir Stalls]] behind Celebrants' chair.
 - [ ] [[Credence Table]]:
-	- [x] 12 folded towels
+	- [ ] 12 folded towels
 	- [ ] Large ewer of water and basin.
-	- [x] Gremial or Amice or Apron or equivalent. (CotLY#202)
-- [x] One [[Thurible]] and full [[Incense Boat]] near [[Thurible Stand]], lit before Mass. Blowtorch, extra coals, tongs, etc. nearby.
-- [x] Other [[Thurible]] in cave or convenient place, with unlit coals.
-- [x] Other [[Incense Boat]] full and near the [[Rosary Altar]].
-- [x] Two [[Torch]]es ready
+	- [ ] Gremial or Amice or Apron or equivalent. (CotLY#202)
+- [ ] One [[Thurible]] and full [[Incense Boat]] near [[Thurible Stand]], lit before Mass. Blowtorch, extra coals, tongs, etc. nearby.
+- [ ] Other [[Thurible]] in cave or convenient place, with unlit coals.
+- [ ] Other [[Incense Boat]] full and near the [[Rosary Altar]].
+- [ ] Two [[Torch]]es ready
 	- [ ] Torch stands in position at the [[Rosary Altar]].
 	- #todo we could start them in their usual spot and move them during Communion.
-- [x] 12 seats for the [[#Washing of Feet]]
-- [x] [[Crotalus]] in [[Choir Stalls]] with bells.
-- [x] [[Tabernacle]] empty, unveiled.
-- [x] Altar of repose ([[Rosary Altar]]):
+- [ ] 12 seats for the [[#Washing of Feet]]
+- [ ] [[Crotalus]] in [[Choir Stalls]] with bells.
+- [ ] [[Tabernacle]] empty, unveiled.
+- [ ] Altar of repose ([[Rosary Altar]]):
 	- [ ] Four or Six candles **unlit**.
 	- [ ] White linens
 	- [ ] Corporal in front of open [[Tabernacle]].
@@ -59,8 +61,8 @@ As normal.
 ### Reception of the Holy Oils
 - Celebrant reads an explanation at his chair. (No book needed).
 - After explanation, [[Master of Ceremonies]] oversees transfer of the Holy Oils:
-	- [[Lucifer]]s 1, 2, and 3, take Holy Oils to the [[Ambry]] and return to their seats.
-	- [[Lucifer 4]] takes the Table into the [[Friars' Chapel]], and returns to his seat.
+	- [[Lucifer|Lucifers]] 1, 2, and 3, take Holy Oils to the [[Ambry]] and return to their seats.
+	- [[Lucifer]] 4 takes the Table into the [[Friars' Chapel]], and returns to his seat.
 
 ### Penitential Rite
 As normal.
@@ -111,18 +113,21 @@ Six servers process to front of [[Crossing Altar]], just like [[Palm Sunday]] (T
 
 ### Communion
 During the peoples' Communion:
+
 - Light the second [[Thurible]], possibly add coals to the first.
 - [[Lucifer]] 3 lights all the candles at the [[Rosary Altar]].
 	- Move the [[Torch]]es and stands to either side of the [[Rosary Altar]].
 
 ### Ablutions
 As usual, except:
+
 - One veiled [[Ciborium]] will remain on the [[Crossing Altar]] on a [[Corporal]].
 - Cleansing of Celebrant's hands may happen at his chair, CotLY#207.
 - Servers not assisting with Ablutions light the [[Hand Candle]]s of the Friars.
 
 ### Postcommunion prayer
 As usual, [[Book Bearer]] bearing [[Missal]], except:
+
 - There may be a hymn before the prayer. See pamphlet.
 - Blessing and dismissal are omitted.
 
@@ -153,6 +158,7 @@ As usual, [[Book Bearer]] bearing [[Missal]], except:
 
 ### Reposition of the Blessed Sacrament
 Form up:
+
 - [[Lucifer]] 3, [[Crucifer]], [[Lucifer]] 4 go left in front of the [[Rosary Altar]] and face inward.
 - Religious, Clergy, and [[Schola Cantorum]] file into the [[Rosary Altar]] pews, Clergy and religious in front.
 - [[Thurifer]]s and [[Umbrellino Bearer]] go right and face in. [[Umbrellino Bearer]] sets down [[Umbrellino]] and prepares to receive [[Humeral Veil]].
@@ -160,6 +166,7 @@ Form up:
 
 ### Exposition/Benediction of the Blessed Sacrament
 _Tantum Ergo_ is sung.
+
 - [[Umbrellino Bearer]] receives [[Humeral Veil]].
 - [[Thurifer]] 1 takes nearby [[Incense Boat]] and goes to priest to impose incense.
 - Priest incenses Eucharist.
@@ -187,8 +194,8 @@ _Tantum Ergo_ is sung.
 - At priest's direction, also help remove altar cloths.
 
 ## References
-- [[Reading Notes/Ceremonies Explained for Servers]], paragraphs 763-796.
-- [[Reading Notes/Ceremonies of the Liturgical Year]], paragraphs 180-215, 217.
+- [[Ceremonies Explained for Servers|CEfS > par. 763 - 796]].
+- [[Ceremonies of the Liturgical Year|CotLY > par. 180 - 215, 217]].
 
 ## TODO
 When blue globe? During altar stripping?

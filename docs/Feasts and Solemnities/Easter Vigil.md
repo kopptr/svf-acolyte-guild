@@ -15,7 +15,7 @@ aliases: ["Great Vigil of Easter"]
 - [[Boat Bearer]]
 - [[Crucifer]]
 - [[Book Bearer]] 1 ([[Missal]])
-- [[Book Bearer]] 2 ([[Ceremonial]]) 
+- [[Book Bearer]] 2 ([[Ritual]]) 
 - [[Acolyte]] 1
 - [[Acolyte]] 2
 - [[Lucifer]] 1 ([[Processional Candle]])
@@ -42,7 +42,7 @@ aliases: ["Great Vigil of Easter"]
 	- [ ] Lemon and bread
 - [ ] [[Choir Stalls#Low]]
 	- [ ] [[Missal]] and stand
-	- [ ] [[Ceremonial]]
+	- [ ] [[Ritual]]
 	- [ ] Two sets of [[Hand Bells]]
 	- [ ] Pamphlets
 	- [ ] Three [[Hand Candle|Hand Candles]] for [[Lucifer]] 1, [[Thurifer]] and [[Book Bearer]] 1
@@ -58,7 +58,7 @@ aliases: ["Great Vigil of Easter"]
 - [ ] Statues, etc. unveiled. Side altar candles in place and unlit.
 - [ ] All florals and decorations in place.
 - [ ] [[Processional Crucifix]] in stand in normal place
-- [ ] [[Processional Candle]]s in place behind ambo, unlit.
+- [ ] [[Processional Candle]]s in place behind [[Ambo]], unlit.
 - [ ] Every [[Taper]] near [[Choir Stalls#Low]], all with fresh wicks.
 	- [ ] A few extra wicks on [[Presbytery#Lip]] in case more are needed lighting things in the [[Presbytery]].
 	- [ ] A few pre-lit wicks in case we need to use them without tapers.
@@ -78,6 +78,7 @@ A.k.a. Service of Light.
 This is not a procession or solemn entrance. The Lucernarium starts when everyone is in place and the priest starts the prayers.
 
 Go to the 66th St. Entrance outside near the ramp. Move so as to be hidden: leave the [[Sacristy]] through the [[Baptistery]] into the [[Narthex]], then out the 66th St. door in the [[Narthex]], and East on 66th St. to the entrance near the [[Rosary Altar]]:
+
 - [[Thurifer]] has **unlit** [[Thurible]].
 - [[Boat Bearer]] has boat and tongs.
 - [[Lucifer]] 1 has shortest [[Taper]].
@@ -86,6 +87,7 @@ Go to the 66th St. Entrance outside near the ramp. Move so as to be hidden: leav
 - Everyone else holds [[Hand Candle|Hand Candles]]. Someone should have extra [[Hand Candle|Hand Candles]] for Celebrant, Deacon, and [[Boat Bearer]].
 
 Form up:
+
 - [[Book Bearer]] 1 near priest.
 - [[Thurifer]] and [[Boat Bearer]] with an easy path to the fire.
 - Everyone else in two lines out of the way.
@@ -148,6 +150,7 @@ During the _Gloria_, one team of servers lights candles, another rings bells.
 
 ##### Candles
 Other five servers light candles and turn on [[Church Lights]]. **There are a lot of candles. This should be done quickly, though still in a dignified manner**. The goal is to finish lighting everything and be back to our seats before the sung _Gloria_ ends.
+
 - **Before the _Gloria_, during the prayer after the last lesson**:
 	- [[Lucifer]]s 1 and 4 take [[Taper]]s, light them from the [[Paschal Candle]], and form up at the foot of the [[Crossing Altar]].
 	- [[Lucifer]] 5 grabs a [[Taper]], approaches the [[Presbytery]], [[Inclination#Major Inclination]] to the [[High Altar]], then enters the [[Sacristy]] and heads for the circuit breakers.
@@ -190,7 +193,7 @@ Go **Very** slowly. _Litany of Saints_ is long, and it will take a long time for
 ###### Order
 [[Master of Ceremonies]] may have to help direct the Baptismandi.
 - Priest with [[Paschal Candle]]
-- [[Book Bearer]]s 1 and 2 with [[Missal]] and [[Ceremonial]], respectively.
+- [[Book Bearer]]s 1 and 2 with [[Missal]] and [[Ritual]], respectively.
 - [[Holy Water Bearer]] and [[Garment Bearer]], empty-handed.
 - [[Master of Ceremonies]].
 - Baptismandi and their godparents in pairs.
@@ -208,7 +211,7 @@ Go **Very** slowly. _Litany of Saints_ is long, and it will take a long time for
 [[Book Bearer]] 1 bears [[Missal]] during Blessing of Water. When finished, he gets out of the way.
 
 ##### Baptism
-- [[Book Bearer]] 2 bears the [[Ceremonial]] for the Baptism.
+- [[Book Bearer]] 2 bears the [[Ritual]] for the Baptism.
 - [[Garment Bearer]] assists with the garments
 - [[Holy Water Bearer]] assists with towels.
 - [[Master of Ceremonies]] assists with baptismal candles.
@@ -228,12 +231,12 @@ Go **Very** slowly. _Litany of Saints_ is long, and it will take a long time for
 
 ##### Profession of Faith
 Whereby non-Catholic-but-baptized people are received into the church.
-- [[Book Bearer]] 2 bears the [[Ceremonial]] ( #todo confirm)
+- [[Book Bearer]] 2 bears the [[Ritual]] ( #todo confirm)
 
 ##### Confirmation
 - (Not a rubric, but) [[Master of Ceremonies]] takes the [[Missal]] from [[Book Bearer]] 1, so he can go be a Confirmation sponsor.
-- [[Book Bearer]] 2 bears [[Ceremonial]]. [[Oil Bearer]] bears the oil.
-- Both follow the Celebrant from Confirmandi to Confirmandi, [[Book Bearer 2]] one his left, [[Oil Bearer]] on his right.
+- [[Book Bearer]] 2 bears [[Ritual]]. [[Oil Bearer]] bears the oil.
+- Both follow the Celebrant from Confirmandi to Confirmandi, [[Book Bearer]] 2 one his left, [[Oil Bearer]] on his right.
 - [[Oil Bearer]] returns oil to table near [[Baptismal Font]].
 
 ##### Recession
@@ -246,7 +249,7 @@ Creed omitted, due to [[#Renewal of Baptismal Promises]].
 
 #### Offertory, Preface, Sanctus, [[Eucharistic Prayer]], Great Amen
 As usual, except:
-- Use the augmented formation for the [[Eucharistic Prayer]] as at [[Christianity/Biblical Events, Figures, and Themes/Events/Palm Sunday]] ( #todo refactor into a separate note ).
+- Use the augmented formation for the [[Eucharistic Prayer]] as at [[Palm Sunday]]
 - [[Bell Ringer]] 1 rings the bells for the [[Eucharistic Prayer]] as usual, other [[Bell Ringer]]s do not ring bells.
 
 #### Communion

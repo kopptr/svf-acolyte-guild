@@ -15,27 +15,30 @@ aliases: ["Feast of the Body and Blood of Christ"]
 
 ## Roles
 [[#Mass]] and [[#Eucharistic Procession]]:
-- Tim: [[Master of Ceremonies]]
-- Alex: [[Umbrellino Bearer]], [[Book Bearer]], [[Acolyte]] 1
-- Jack: [[Crucifer]], [[Bell Ringer]]
-- Mario: [[Lucifer|Candle bearer]] 1, [[Lucifer|Torch bearer]] 3 ([[Mass]])
-- Matthew: [[Lucifer|Candle bearer]] 2, [[Lucifer|Torch bearer]] 4 ([[Mass]]), [[Acolyte]] 2
-- Seamus: [[Thurifer]] 1 ([[Mass]], [[#Eucharistic Procession]], [[Exposition of the Blessed Sacrament|Exposition]])
-- Luke: [[Thurifer]] 2 ([[Eucharistic Procession]])
-- Jay: [[Boat bearer]]
-- Drey: [[Lucifer|Torch bearer]] 1 ([[Mass]], [[Eucharistic Procession]])
-- Nick: [[Lucifer|Torch bearer]] 2 ([[Mass]], [[Eucharistic Procession]])
-- Student Brother 1: [[Canopy]] Bearer 1
-- Student Brother 2: [[Canopy]] Bearer 2
-- Student Brother 3: [[Canopy]] Bearer 3
-- Student Brother 4: [[Canopy]] Bearer 4
+
+- [[Master of Ceremonies]]
+- [[Umbrellino Bearer]], [[Book Bearer]], [[Acolyte]] 1
+- [[Crucifer]], [[Bell Ringer]]
+- [[Lucifer|Candle bearer]] 1, [[Lucifer|Torch bearer]] 3 ([[Mass]])
+- [[Lucifer|Candle bearer]] 2, [[Lucifer|Torch bearer]] 4 ([[Mass]]), [[Acolyte]] 2
+- [[Thurifer]] 1 ([[Mass]], [[#Eucharistic Procession]], [[Exposition of the Blessed Sacrament|Exposition]])
+- [[Thurifer]] 2 ([[Eucharistic Procession]])
+- [[Boat bearer]]
+- [[Lucifer|Torch bearer]] 1 ([[Mass]], [[Eucharistic Procession]])
+- [[Lucifer|Torch bearer]] 2 ([[Mass]], [[Eucharistic Procession]])
+- [[Canopy]] Bearer 1
+- [[Canopy]] Bearer 2
+- [[Canopy]] Bearer 3
+- [[Canopy]] Bearer 4
 
 ## Preparation
 [[Saint Vincent Ferrer Church|SVF]], [[Roman Rite Solemn Mass#Preparation]] as usual, except:
+
 - [ ] [[High Altar#Angel Candles]] lit.
 - [ ] [[Eucharistic Procession#Preparation]]
 
 [[Saint Catherine of Siena Church|SCS]] (Parochial Vicar of [[Saint Catherine of Siena Church|SCS]] will do this, servers don't have to):
+
 - [[Corporal]] and [[Monstrance Stand]] on [[Crossing Altar]].
 - [[Candelabrae]] on [[Crossing Altar]], lit.
 - Altar and Sanctuary candles lit.
@@ -81,6 +84,7 @@ See [[Eucharistic Procession]].
 
 ### Stations
 Three Stations along this route:
+
 1. [[Altar]] in [[Holy Name Chapel]]
 	- [[Benediction]] will be given.
 2. St. John Nepomucene Church
@@ -114,6 +118,7 @@ Three Stations along this route:
 [[Altar Server|Servers]] all exit the [[Sanctuary]] _silently_ through the back into the [[Sacristy]].
 
 Bring [[Saint Vincent Ferrer Church|SVF]]s liturgical items back:
+
 - [[Processional Crucifix]].
 - [[Processional Candle|Processional Candles]].
 - [[Thurible]], [[Incense Boat]]. Leave [[Saint Catherine of Siena Church|SCS]]'s [[Thurible]] there.
@@ -123,6 +128,6 @@ Bring [[Saint Vincent Ferrer Church|SVF]]s liturgical items back:
 [[Saint Catherine of Siena Church|SCS]]'s parochial vicar will do the [[Benediction]] without server assistance.
 
 ## References
-- [[Reading Notes/The Roman Missal#^5x910z8rhho|The Roman Missal > Feast of the Body and Blood of Christ]]
-- [[Reading Notes/Ceremonies Explained for Servers#^yt6hpf2dwwc|Ceremonies Explained for Servers > The Eucharistic Procession]]
+- [[The Roman Missal|The Roman Missal > Feast of the Body and Blood of Christ]]
+- [[Ceremonies Explained for Servers|CEfS > The Eucharistic Procession]]
 - [[Guidelines for the Worship of the Eucharist Outside of Mass]]

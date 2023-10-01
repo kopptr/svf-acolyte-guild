@@ -13,6 +13,7 @@ aliases: ["Trinity Sunday"]
 
 ### Procession through Dismissal
 As usual, except:
+
 - [[Thurifer]] adds extra charcoal during the Ablutions.
 
 ### Recession
@@ -26,4 +27,4 @@ As usual, except:
 [^email]: According to a 2023 email from Fr. Reginald.
 
 ## References
-- [[Reading Notes/The Roman Missal#^tl7in1tc1a]]
+- [[The Roman Missal]]

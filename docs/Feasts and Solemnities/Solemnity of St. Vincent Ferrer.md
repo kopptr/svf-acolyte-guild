@@ -13,6 +13,7 @@ This is a solemnity only because SVF is our patron. Dominicans celebrate it on M
 
 ## Preparation
 As normal for [[Roman Rite Solemn Mass at the High Altar]], except:
+
 - [ ] Relic of Saint Vincent Ferrer at the [[High Altar]].
 - [ ] [[Friars' Chapel]]:
 	- [ ] Altar candles lit.
@@ -21,12 +22,12 @@ As normal for [[Roman Rite Solemn Mass at the High Altar]], except:
 	- [ ] [[Friars' Chapel]] gate open, and cushions blocking gate moved.
 
 ## Order of Mass
-As normal, until after the Blessing and Dismissal.
+As normal, until after the _Blessing_ and _Dismissal_.
 
 ## Procession of the Relic
-- All [[Altar Server 1|Servers]] go to [[Passageway]]. [[Lucifer]]s retrieve [[Processional Candle]]s, [[Thurifer]] charges [[Thurible]] and takes it. [[Crucifer]] is empty-handed.
+- All [[Altar Server|Servers]] go to [[Passageway]]. [[Lucifer]]s retrieve [[Processional Candle]]s, [[Thurifer]] charges [[Thurible]] and takes it. [[Crucifer]] is empty-handed.
 - Priest will get relic from the [[High Altar]].
-- [[Altar Server 1|Servers]] form up at the foot of the [[Presbytery]].
+- [[Altar Server|Servers]] form up at the foot of the [[Presbytery]].
 	- **Cue**: Priest enters the [[Presbytery]].
 - When Priest descends the [[High Altar]] and approaches the formation, turn and begin the procession.
 - Order:
@@ -44,7 +45,7 @@ As normal, until after the Blessing and Dismissal.
 - [[Thurifer]] breaks to the right and faces inward.
 - [[Crucifer]] break off the left, deposits [[Processional Crucifix]], and stands facing inward.
 - [[Lucifer]]s stand to either side of altar and face in while Priest places the relic. When he is done, they place the [[Processional Candle]]s on either side of it. Then they stand off to their sides, facing inward.
-- [[Thurifer]] joins the Priest on his right side. Then they act as if at [[Exposition of the Blessed Sacrament Standalone]]:
+- [[Thurifer]] joins the Priest on his right side. Then they act as if at [[Exposition of the Blessed Sacrament|Exposition]]:
 	- Priest imposes incense.
 	- Priest and [[Thurifer]] kneel.
 	- Priest incenses while [[Thurifer]] holds [[Chasuble]].

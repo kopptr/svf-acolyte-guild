@@ -6,10 +6,10 @@ aliases: ["Most Sacred Heart of Jesus"]
 - [[Procession]] to the [[Sacred Heart Altar]] in the [[Holy Name Chapel]].
 
 ## Roles
-- Seamus: [[Thurifer]]
-- Luke: [[Crucifer]], [[Book Bearer]], [[Bell Ringer]]
-- Alex: [[Acolyte]] 1, [[Lucifer]] 1
-- Jay: [[Acolyte]] 2, [[Lucifer]] 2
+- [[Thurifer]]
+- [[Crucifer]], [[Book Bearer]], [[Bell Ringer]]
+- [[Acolyte]] 1, [[Lucifer]] 1
+- [[Acolyte]] 2, [[Lucifer]] 2
 
 ## Preparation
 - [ ] [[Roman Rite Solemn Mass at the High Altar#Preparation]]
@@ -18,12 +18,13 @@ aliases: ["Most Sacred Heart of Jesus"]
 - [ ] Remind [[Celebrant]] he needs the Lapel Mic.
 
 ## Mass
-[[Roman Rite Solemn Mass at the High Altar]] as usual. _Gloria_ and _Credo_ are both sung. _Gospel_ is proclaimed from the [[High Pulpit]].
+[[Roman Rite Solemn Mass at the High Altar]] as usual. _Gloria_ and _Credo_ are both sung. _Gospel_ is proclaimed from the [[High Ambo]].
 
 Reminder: Stop at the foot of the [[Presbytery]] (**not** the [[Sanctuary]]) during the Entrance Procession to wait for the Entrance Antiphon.
 
 ## Procession
-All [[Altar Server|Servers]] go to [[Passageway]] after Dismissal.
+All [[Altar Server|Servers]] go to [[Passageway]] after Dis
+missal.
 - **Cue**: _Let us proceed in peace._ **In the name of Christ, Amen**.
 - [[Thurifer]] [[Imposition of Incense|Imposes Incense]] at the stand and readies the [[Thurible]] and [[Incense Boat]]. [[Crucifer]] readies the [[Processional Crucifix]], [[Lucifer|Lucifers]] ready the [[Processional Candle|Processional Candles]].
 - When the [[Celebrant]] enters the [[Presbytery]] to reverence the [[High Altar|Altar]], [[Altar Server|Servers]] form up at the foot of the [[Presbytery]].
@@ -32,7 +33,7 @@ All [[Altar Server|Servers]] go to [[Passageway]] after Dismissal.
 
 ### Order
 1. [[Thurifer]].
-2. [[Lucifer|Candle bearer]], [[Crucifer]], [[Candlebearer]].
+2. [[Lucifer|Candle bearer]], [[Crucifer]], [[Lucifer|Candle bearer]].
 3. [[Schola Cantorum]].
 4. [[Celebrant]], [[Deacon]].
 

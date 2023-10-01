@@ -2,11 +2,13 @@
 
 ## Preparation
 As usual for [[Roman Rite Solemn Mass]], except:
+
 - Processional candles start lit, and in their place near the [[Choir Stalls#Low]].
 - [[Thurible Stand]] as normal, but thurible and boat are there at the start of Mass.
 
 ## Order of Mass
 As usual during [[Lent]], except:
+
 - Use [[Procession#Passageway Procession to Crossing Altar]].
 - Penitential Rite omitted.
 - Addition [[#Special Collect]]
@@ -16,7 +18,7 @@ As usual during [[Lent]], except:
 ## Special Collect
 An additional Collect is prayed at this Mass. Since Penitential Rite and Gloria are omitted, this happens immediately after the [[Roman Rite Solemn Mass#Processional Incensation of the Altar|First Incensation]].
 
-When the priest is returning to the [[Chair]], the [[Book Bearer]] holds the [[Missal]] for him as with the normal [[Collect]]. When finished, he returns to his seat and returns the [[Missal]], as with the normal Collect.
+When the priest is returning to the [[Chair]], the [[Book Bearer]] holds the [[Missal]] for him as with the normal _Collect_. When finished, he returns to his seat and returns the [[Missal]], as with the normal Collect.
 
 ### Litany of the Saints Procession
 Immediately following the special collect, the procession starts. Acolytes retrieve the candle, [[Thurifer]] self-charges the thurible and holds it, and [[Crucifer]] retrieves the crucifix.
@@ -28,4 +30,4 @@ The Litany of the Saints is very long, and so the pace should be very slow.
 A brief sung Kyrie will follow the procession.
 
 ### Collect
-The usual [[Collect]] follows immediately after the Kyrie that ends the procession.
+The usual _Collect_ follows immediately after the Kyrie that ends the procession.

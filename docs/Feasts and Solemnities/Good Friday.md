@@ -22,16 +22,16 @@ Communion Service, with [[#Adoration of the Holy Cross]].
 	- [ ] [[Veneration Crucifix]] veiled and pinned, so as to be easy to remove.
 
 ## Roles
-- Alex: [[Master of Ceremonies]], [[Book Bearer]]
-- Matthew: [[Lucifer]] 1
-- Seamus: [[Lucifer]] 2
-- Tim: [[Acolyte]] 1
-- Jay: [[Acolyte]] 2
+- [[Master of Ceremonies]], [[Book Bearer]]
+- [[Lucifer]] 1
+- [[Lucifer]] 2
+- [[Acolyte]] 1
+- [[Acolyte]] 2
 
 ## Order of Liturgy
 
 ### Entrance
-[[Lucifers]]s process in pairs with no [[Processional Crucifix]] or [[Processional Candle]]s, others start in choir stall. Route: Short route from [[Cloister Walk]] to front of [[Sanctuary]].
+[[Lucifer|Lucifers]] process in pairs with no [[Processional Crucifix]] or [[Processional Candle|Processional Candles]], others start in choir stall. Route: Short route from [[Cloister Walk]] to front of [[Sanctuary]].
 
 When approaching foot of the altar, [[Inclination#Major Inclination]], go up the left of the [[Crossing Altar]] into [[Choir Stalls#Low]] and stand there while the friars prostrate themselves and enter the [[Sanctuary]].
 
@@ -63,6 +63,7 @@ All other servers remain in [[Choir Stalls#Low]] and **remove their shoes**. Lea
 
 #### Friars' Veneration
 Friars venerate the [[Veneration Crucifix]] in pairs, making three [[Genuflection#Solemn Genuflection]] along the way.
+
 - First pair of friars start in [[Sanctuary]] close to the people, and [[Genuflection#Solemn Genuflection]] together, facing the [[Veneration Crucifix]].
 - First pair moves to middle of [[Sanctuary]], second pair fills in their place. All pairs of friars time their genuflection and movement together.
 - First moves to the [[Veneration Crucifix]], second pair fills in first pair's place, third pair fills in second pair's place. All three pairs make [[Genuflection#Solemn Genuflection]] together, the first pair kissing the [[Veneration Crucifix]].
@@ -70,6 +71,7 @@ Friars venerate the [[Veneration Crucifix]] in pairs, making three [[Genuflectio
 
 #### Peoples' Veneration
 When finished:
+
 - [[Lucifer]]s remain near [[Veneration Crucifix]] and take up [[Processional Candle]]s, flanking [[Veneration Crucifix]] as Priest processes with it, down to the foot of the altar.
 - [[Lucifer]]s place their candles to the side of the [[Veneration Crucifix]].
 - [[Acolyte]]s follow closely behind with Purificators, standing at either side and wiping while the people reverence.

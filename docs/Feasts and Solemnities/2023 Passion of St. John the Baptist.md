@@ -28,23 +28,21 @@
 ## Preparation
 
 ### The days before:
+
 - [ ] Take from [[Saint Vincent Ferrer Church|SVF]]:
 	- [ ] Two [[Torch|Torches]].
 	- [ ] Two [[Processional Candle|Processional Candles]].
 	- [ ] [[Altar Server|Servers]]' clothes, shoes, etc.
-	- [ ] [[Server Vestments]].
+	- [ ] Server vestments.
  
 ### The day of:
+
 [[Roman Rite Solemn Pontifical Mass#Preparation]], except:
 - [ ] [[Missal]] on the [[Sedilia]].
 - [ ] [[Missal Stand]] on the table next to the organ console.
 - [ ] Find a [[Priest]] [[Concelebrant]] to hold the pamphlet for the [[Bishop]] [[Celebrant]] at the Station.
 - [ ] Find a metal platter (or similar) for the [[Bishop]]'s skullcap.
 - [ ] Determine the route for the [[#Recession]].
-- [ ] (Reminder:) A second [[Lavabo]] set for the [[Bishop]].
-- [ ] (Reminder:) Move bells to Sedilia.
-- [ ] (Reminder:) Does Cdl. Dolan want book for the intro rites?
-- [ ] Find offertory missal page during Homily
 
 ## General Movement
 - When crossing between the [[Crossing Altar]] and [[High Altar]], stop and [[Moderate Inclination|Moderate Bow]] to the [[Crossing Altar]].
@@ -66,7 +64,7 @@ See [[Procession#When there is a Bishop]].
 	- [[Thurifer]]: Go left, wait behind Northeast corner of [[Crossing Altar|Altar]].
 	- [[Crucifer]]: Go left, return [[Processional Crucifix]]. Go to [[Sedilia]] along North side of [[Crossing Altar|Altar]], then behind the [[Crossing Altar|Altar]].
 	- [[Lucifer|Candle bearers]]: Go right to [[Sedilia]] along South side of the [[Crossing Altar|Altar]].
-			- [[Crozier Bearer]] and [[Mitre Bearer]], when [[Bishop]] [[Celebrant]] heads to the [[High Altar|Altar]], go right and directly to seats in [[Choir Stalls]].
+		- [[Crozier Bearer]] and [[Mitre Bearer]], when [[Bishop]] [[Celebrant]] heads to the [[High Altar|Altar]], go right and directly to seats in [[Choir Stalls]].
 
 ##### Station
 - [[Crozier Bearer]] and [[Mitre Bearer]] standby off to the side.
@@ -74,6 +72,7 @@ See [[Procession#When there is a Bishop]].
 - [[Priest]] [[Concelebrant]] holds the pamphlet or [[Ceremonial]] for the [[Bishop]].
 #### Reverence to the Altar, through Gradual
 As normal for [[Roman Rite Solemn Pontifical Mass]], except:
+
 - _Gloria_ is sung.
 - Only one _Lesson_ (reading) is read. The _Acclamation_ immediately follows the _Gradual_.
 
@@ -94,12 +93,14 @@ The _Credo_ and _Universal Prayer_ are omitted.
 
 #### Offertory
 As normal for [[Roman Rite Solemn Pontifical Mass]], except:
+
 - Be mindful of [[#General Movement]].
 - [[Book Bearer]] should open [[Missal]] to the _Offertory_ page.
 #### Preface
 - (Reminder) [[Book Bearer]] collects the skullcap from the Assistant [[Deacon]].
 #### Sanctus
 [[Thurifer]] and [[Lucifer|Torch bearers]]:
+
 - Go to places by way of the South side of the [[Crossing Altar|Altar]].
 - Line up on the West side of the [[Crossing Altar|Altar]], centered.
 - Kneel on the lower platform (i.e. the bottom of the one step), [[Torch|Torches]] planted on top of the step.

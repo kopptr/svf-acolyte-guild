@@ -24,7 +24,7 @@ Seven servers:
 - Arrival:
 	- Servers should arrive at [[Saint Vincent Ferrer Church|SVF]] early enough to be in cassock by the time the 9:30 Mass finishes, so that they can start setting up immediately.
 	- Servers and Priests head to [[Saint Catherine of Siena Church|SCS]] when setup at [[Saint Vincent Ferrer Church|SVF]] is complete, being sure to get there in plenty of time to set up for the portion at [[Saint Catherine of Siena Church|SCS]] and start on time.
-		- Servers carry their [[Surplice]]s (rather than wear them) so they don't get dirty.
+		- Servers carry their surplices (rather than wear them) so they don't get dirty.
 		- Bring [[Processional Crucifix]] and [[Torch]]es.
 - [[Saint Vincent Ferrer Church|SVF]], [[Roman Rite Solemn Mass#Preparation]] as usual, except:
 	- Celebrant's and concelebrants' [[Chasuble]]s on the choir stall near their seats at [[Saint Vincent Ferrer Church|SVF]], if they wear a [[Cope]]s for the procession.
@@ -53,6 +53,7 @@ Seven servers:
 ## Solemn Procession
 The First Form of the Procession is used.
 Order:
+
 1. [[Thurifer]], [[Boat Bearer]] just behind him and to his left.
 2. [[Lucifer]] 3 , [[Crucifer]], [[Lucifer]] 4
 3. [[Book Bearer]] with the Prayers of the Faithful, Holy Water bearer empty-handed.
@@ -61,6 +62,7 @@ Order:
 Process out of the Sanctuary down the middle aisle to the back of the church, where there is a lectern. No incense is imposed before this procession.
 
 Form up:
+
 - [[Thurifer]] and [[Boat Bearer]] split to the right and form up facing the middle.
 - [[Lucifer]] 3, [[Crucifer]], [[Lucifer]] 4 split to the left and form up facing the middle.
 - [[Book Bearer]], Holy Water Bearer, and any extra servers split to the left and form up behind the [[Processional Crucifix]] facing the middle.
@@ -98,6 +100,7 @@ Order:
 7. The People
 
 Follow the police's instruction. Expected route:
+
 - Turn right to head West on 68th Street.
 - Turn left to head South on 1st Avenue.
 - Turn right to head West on 66th Street.
@@ -113,6 +116,7 @@ During the Procession, the [[Boat Bearer]] should assist the [[Thurifer]] in add
 
 ### Entrance
 After the Introit, there is a sung _Kyrie_ in place of the Penitential Rite.
+
 - Wait for introit, then enter [[Sanctuary]].
 	- Alternately - don't. There are a lot of people that need to enter the [[Sanctuary]] so it's it might be better to go in right away so we don't run out of music. Check with James.
 - [[Thurifer]] and [[Boat Bearer]] assist with incensation of the [[Crossing Altar]] as usual.
@@ -132,6 +136,7 @@ Offertory and Preface as normal.
 
 ### Sanctus through Great Amen
 At _Sanctus_, six servers line up at the foot of the altar, from left to right:
+
 - [[Lucifer]] 3 with [[Processional Candle]]
 - [[Lucifer]] 2 with [[Torch]]
 - [[Boat Bearer]]
@@ -149,6 +154,7 @@ At _Sanctus_, six servers line up at the foot of the altar, from left to right:
 
 ## Cleanup
 As normal, except:
+
 - [[Saint Catherine of Siena Church|SCS]]'s [[Thurible]] and [[Incense Boat]] remain at [[Saint Vincent Ferrer Church|SVF]], since it is needed for [[Holy Thursday]].
 
 ## References

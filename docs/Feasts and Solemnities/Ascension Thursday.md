@@ -6,5 +6,5 @@
 	- Solemn Blessing may be used.
 
 ## References
-- [[Reading Notes/The Roman Missal#^kkilu0safx|The Roman Missal > The Ascension of Our Lord]]
-- [[Reading Notes/Ceremonies of the Liturgical Year#^3nowxfmywc|Ceremonies of the Liturgical Year, pp. 322-323]]
+- [[The Roman Missal|The Roman Missal > The Ascension of Our Lord]]
+- [[Ceremonies of the Liturgical Year|CotLY > par. 322 - 323]]
