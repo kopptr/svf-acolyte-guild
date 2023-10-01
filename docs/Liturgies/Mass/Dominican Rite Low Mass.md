@@ -24,6 +24,7 @@ One server: [[Book Bearer]], [[Acolyte]], [[Bell Ringer]]
 
 ### Procession
 Begin in [[Sacristy]] with [[Pre-Mass Prayer with Ministers]]:
+
 - Carry [[Missal]].
 - Use right hand to touch holy water, touch [[Celebrant]]'s hand to give him holy water.
 - Ring bell on entering the sanctuary.
@@ -176,14 +177,14 @@ Begin in [[Sacristy]] with [[Pre-Mass Prayer with Ministers]]:
 - Lead [[Celebrant]] back to [[Sacristy]].
 
 [^candles]: There are four candles on the altar, but two is the proper number to be lit for a Low Mass. Since we don't want those four candles to burn unevenly, we alternate using the inner candles and outer candles each Mass. Refer to the Mass's event description in the [[Calendar]] to see which should be lit.
-[^foot_kneel]:  CotDR#A1p4-5
+[^foot_kneel]: [[Ceremonies of the Dominican Rite|CotDR > A1p4-5]].
 [^lesson]: I got this from skimming [Catholic Encyclopedia](https://www.newadvent.org/cathen/09193a.htm), grain of salt.
-[^epistle]: CotDR#A1p7
-[^sanctus]: CotDR#a1p10 makes no mention of how many times it should be rung.
-[^epiclesis]: CotDR#a1p10 makes no mention of an epiclesis bell ring, but Fr. Leo said to include it.
-[^elevation]: CotDR#a1p10 makes no mention of the first and third rings, only the second.
-[^genuflection]: CotDR#a1p5 says this should be a moderate bow.
-[^standing]:  CotDR#a1p5 doesn't mention this as a reason to stand. Furthermore CotDR#a1p10-11 don't mention standing at this point.
-[^cloth]: CotDR#a1p11 says a cloth should be used instead of a paten.
-[^paten]: CotDR#a1p11 makes no mention of this.
-[^postablution]: CotDR#a1p12 says to kneel instead of stand.
+[^epistle]: [[Ceremonies of the Dominican Rite|CotDR > A1p7]].
+[^sanctus]: [[Ceremonies of the Dominican Rite|CotDR > a1p10]] makes no mention of how many times it should be rung.
+[^epiclesis]: [[Ceremonies of the Dominican Rite|CotDR > a1p10]] makes no mention of an epiclesis bell ring, but Fr. Leo said to include it.
+[^elevation]: [[Ceremonies of the Dominican Rite|CotDR > a1p10]] makes no mention of the first and third rings, only the second.
+[^genuflection]: [[Ceremonies of the Dominican Rite|CotDR > a1p5]] says this should be a moderate bow.
+[^standing]:  [[Ceremonies of the Dominican Rite|CotDR > a1p5]] doesn't mention this as a reason to stand. Furthermore CotDR#a1p10-11 don't mention standing at this point.
+[^cloth]: [[Ceremonies of the Dominican Rite|CotDR > a1p11]] says a cloth should be used instead of a paten.
+[^paten]: [[Ceremonies of the Dominican Rite|CotDR > a1p11]] makes no mention of this.
+[^postablution]: [[Ceremonies of the Dominican Rite|CotDR > a1p12]] says to kneel instead of stand.

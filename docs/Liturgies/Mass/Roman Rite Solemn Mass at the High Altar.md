@@ -58,6 +58,7 @@ Standby. As the _Gradual_ is ending and the Epistle is about to begin, [[Thurife
 
 ### Alleluia / Tract
 [[Thurifer]] with [[Thurible]] and [[Incense Boat]], and [[Lucifer|Lucifers]] with [[Processional Candle|Processional Candles]], do Gospel Procession:
+
 - [[Thurifer]]:
 	- Lead the [[Lucifer|Lucifers]] into [[Sanctuary]] and form up at the foot of the [[Presbytery]] facing the [[Tabernacle]] in the middle. Wait for the [[Lucifer|Lucifers]] to get into position on either side, then [[Genuflection|Genuflect]].
 	- Turn and walk West toward [[Celebrant]], stop at [[Celebrant]] and let [[Lucifer|Lucifers]] pass.
@@ -108,6 +109,7 @@ Standby.
 
 ### Ablutions
 See [[Ablutions]], being mindful of [[Standby Formation#Considerations for the High Altar]].
+
 - If the [[Celebrant]] leaves the [[Chalice Stack]] or other items in the center of the [[High Altar]], the [[Acolyte|Acolytes]] should leave them there. If he places them off to the side, the [[Acolyte|Acolytes]] should collect them and place them in the [[Presbytery#Niche]].
 
 ### Postcommunion Prayer through Dismissal
@@ -115,6 +117,7 @@ See [[Ablutions]], being mindful of [[Standby Formation#Considerations for the H
 
 ### Recession
 All go to [[Passageway]]. [[Crucifer]] retrieves [[Processional Crucifix]], [[Lucifer|Lucifers]] retrieve [[Processional Candle|Processional Candles]], [[Thurifer]] is empty-handed.
+
 - Wait in [[Passageway]] until [[Celebrant]] enters [[Presbytery]] to reverence the [[High Altar]], then form up at the foot of the [[Presbytery]], facing East.
 	- [[Thurifer]] closest to [[High Altar]],
 	- [[Lucifer]] 1, [[Crucifer]], [[Lucifer]] 2 behind.

@@ -57,6 +57,7 @@ Form up in [[Sacristy]], [[Pre-Mass Prayer with Ministers]].
 
 #### Reverence to the Altar
 After the [[Celebrant]] (and and [[Concelebrant|Concelebrants]] and [[Deacon|Deacons]]) reverence the [[Crossing Altar]]:
+
 - [[Thurifer]] assists with the [[Imposition of Incense]], then waits in [[Standby Formation]] while the [[Celebrant]] incenses the [[Crossing Altar]][^first_incense].
 - Others in [[Standby Formation]].
 - When [[Celebrant]] is finished incensing, [[Thurifer]] retrieves [[Thurible]] and goes to [[Choir Stalls#Low]].
