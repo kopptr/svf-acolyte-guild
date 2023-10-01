@@ -5,6 +5,7 @@ Procession of the Eucharist in a [[Monstrance]], typically following [[Mass]].
 
 ## Roles
 Up to 16 roles, can omit / double up some roles if needed.
+
 - [[Master of Ceremonies]]
 - [[Crucifer]]
 - [[Lucifer|Candle bearer]] 1
@@ -38,11 +39,13 @@ Up to 16 roles, can omit / double up some roles if needed.
 
 ### Peoples' Communion
 After receiving Communion:
-- The [[High Altar]] is prepared as at [[Exposition of the Blessed Sacrament]], with the [[Monstrance]] and [[Monstrance Stand]], but no booklets or [[Candelabrae]].
+
+- The [[High Altar]] is prepared as at [[Exposition of the Blessed Sacrament]], with the [[Monstrance]] and [[Monstrance Stand]], but no booklets or [[Candelabra|Candelabrae]].
 
 ### Ablutions
 The Host is exposed in a [[Monstrance]]:
-- [[Acolytes]] do as at [[Exposition of the Blessed Sacrament#Ablutions]].
+
+- [[Acolyte|Acolytes]] do as at [[Exposition of the Blessed Sacrament#Ablutions]].
 - [[Thurifer]] 1 adds charcoal to the [[Thurible]] that was used for [[Mass]].
 - [[Thurifer]] 2 lights the charcoal of the other [[Thurible]].
 - [[Boat Bearer]] dons his fanny pack and switches to the full [[Incense Boat]].
@@ -57,6 +60,7 @@ All gather needed items and form up for the [[Exposition of the Blessed Sacramen
 
 ### Formation
 From furthest from the [[Crossing Altar|Altar]] to closest:
+
 1. [[Celebrant]] and [[Deacon|Deacons]]: Centered at the foot of the [[High Altar]].
 2. [[Lucifer|Torch bearers]] 1 and 3: kneeling on the first step of the [[High Altar]] centered in the black rectangles.
 3. [[Thurifer]] 1 and [[Boat Bearer]]: Behind the Epistle side [[Lucifer|Torch bearer]], waiting to [[Imposition of Incense|Impose Incense]].
@@ -101,6 +105,7 @@ From furthest from the [[Crossing Altar|Altar]] to closest:
 
 ### Stational Altars
 If there are any stops to Stational Altars along the way, the details will depend on the particular altar. In general:
+
 - Enter the church in order, and switch from Canopy to [[Umbrellino]].
 - Proceed up the main aisle toward the altar.
 - Those ahead of the Eucharist in the Procession split to Epistle side, entering or forming up outside of the [[Sanctuary]] as is appropriate.
@@ -126,7 +131,7 @@ As usual, with [[Thurifer]] 1 and [[Boat Bearer]] as at [[Exposition of the Bles
 [[Altar Server|Servers]] exit _in silence_ through [[Sacristy]] or in most dignified and least interruptive way. Items that belong at a different church are taken back.
 
 ## References
-- [[Reading Notes/Ceremonies Explained for Servers#^yt6hpf2dwwc|CEfS > The Eucharistic Procession]]
+- [[Ceremonies Explained for Servers|CEfS > The Eucharistic Procession]]
 - [[Order of Participants in a Eucharistic Procession]]
 - [[Guidelines for the Worship of the Eucharist Outside of Mass]]
 - [[Ceremonial of Bishops]]

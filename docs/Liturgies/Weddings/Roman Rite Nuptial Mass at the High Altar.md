@@ -1,5 +1,6 @@
 ## Overview
 As normal for [[Roman Rite Solemn Mass at the High Altar]], except:
+
 - [[Celebrant]], [[Concelebrant|Concelebrants]], and [[Deacon]] all sit at the [[Sedilia]].
 - All [[Altar Server|Servers]] have seats in the [[Presbytery]], and never sit in the [[Choir Stalls]].
 - [[#Rite of Marriage]]
@@ -14,6 +15,7 @@ As normal for [[Roman Rite Solemn Mass at the High Altar]], except:
 
 ## Preparation
 As normal for [[Roman Rite Solemn Mass at the High Altar]], except:
+
 - [ ] [[Passageway]]:
 	- [ ] [[Crossing Altar]] with its [[Crossing Altar#Candles]] and [[Crossing Altar#Crucifix]], and microphone.
 	- [ ] [[Aspersorium]] on polychrome stand
@@ -38,6 +40,7 @@ As [[Roman Rite Solemn Mass at the High Altar]], with changes outlined in the fo
 
 ### Procession
 [[Procession#Long Cloister Walk Procession to High Altar]], except:
+
 - The groomsmen will process between the [[Altar Server|Servers]] and the [[Minister|Ministers]]. The groom is a [[Minister]] and processes last.
 - Bridesmaids and bride join the [[Procession]] at the main aisle.
 - The [[Altar Server|Servers]] must process around the kneeler to get the the foot of the [[Presbytery]], where they reverence and break formation as normal.
@@ -54,6 +57,7 @@ As [[Roman Rite Solemn Mass at the High Altar]], with changes outlined in the fo
 If no [[Wedding Crucifix]] is used, the [[Wedding Crucifix Bearer]]'s actions are omitted.
 
 Immediately after the Homily, as the [[Celebrant]] is returning to the [[Presbytery]]:
+
 - [[Wedding Crucifix Bearer]] and [[Holy Water Bearer]] move to the [[Friars' Chapel]].
 - [[Holy Water Bearer]] and [[Wedding Crucifix Bearer]] ready the [[Wedding Crucifix]] and [[Aspersorium]].
 
@@ -63,12 +67,14 @@ Immediately after the Homily, as the [[Celebrant]] is returning to the [[Presbyt
 If no [[Wedding Crucifix]] is used, this is omitted.
 
 **Cue**: _Since it is your intention_:
+
 - [[Wedding Crucifix Bearer]] brings the [[Wedding Crucifix]] to the couple, hands it to them, and returns to [[Passageway]]. No reverence.
 
 #### Blessing & Exchange of Rings
 If no [[Wedding Crucifix]] is used, only the [[Holy Water Bearer]] acts.
 
 **Cue**: _Let us bless the Lord_ **Thanks be to God**:
+
 - [[Wedding Crucifix Bearer]] and [[Holy Water Bearer]] approach in a pair. [[Holy Water Bearer]] with [[Aspersorium]]. No reverence.
 - [[Wedding Crucifix Bearer]] receives the [[Wedding Crucifix]], and returns to [[Passageway]] immediately making no reverence. [[Holy Water Bearer]] stands by.
 - The [[Celebrant]] blesses the rings and sprinkles them. When he returns the [[Aspergillium]], [[Holy Water Bearer]] returns to [[Passageway]] immediately, making no reverence.
@@ -94,6 +100,7 @@ As normal for [[Roman Rite Solemn Mass at the High Altar]], except [[Bell Ringer
 After the _Our Father_, the _Nuptial Blessing_ takes the place of the "Deliver us" prayer.
 
 **Cue**: [[Celebrant]] descends the [[High Altar]]:
+
 - [[Book Bearer]] meets the [[Celebrant]] at the couple's place and holds the [[Ritual]] for the him as he gives the _Nuptial Blessing_.
 	- [[Book Bearer]] should follow along **so he can turn the pages for the celebrant**.
 - When finished, he returns the [[Ritual]] and goes back to his seat.
@@ -122,6 +129,7 @@ As normal. [[Acolyte|Acolytes]] must remember to take both [[Chalice]]s.
 
 #### Final Blessing and Dismissal
 [[Celebrant]] will give the final blessing on the [[Presbytery]] steps in front of the Bride and Groom:
+
 - [[Book Bearer]] bears [[Ritual]].
 - Other [[Altar Server|Servers]] standby.
 
@@ -133,11 +141,13 @@ As normal. [[Acolyte|Acolytes]] must remember to take both [[Chalice]]s.
 
 ## If there is a Deacon
 If there is a [[Deacon]]:
+
 - [[Deacon]] holds the [[Ritual]] for the _Nuptial Blessing_ after the [[#Our Father]] (instead of the [[Book Bearer]]).
 - [[Book Bearer]] still holds the [[Ritual]] for the [[#Final Blessing and Dismissal]].
 
 ## Adjustments for fewer servers
 If there are only three [[Altar Server|Servers]]:
+
 - For [[#Procession]] / [[#Recession]], see: [[Procession#Three servers]].
 - [[Acolyte|Acolytes]] act as [[Holy Water Bearer]] and [[Wedding Crucifix Bearer]].
 - [[Altar Server|Servers]] act as [[Lucifer|Torch bearers]] and [[Thurifer]] at the _Sanctus_.
@@ -145,12 +155,14 @@ If there are only three [[Altar Server|Servers]]:
 	- If there are no non-[[Altar Server|Server]] capable of ringing the [[Hand Bells]], only use [[Thurifer]] and [[Bell Ringer]].
 
 If there are only two [[Altar Server|Servers]]:
+
 - For [[#Procession]] / [[#Recession]], see: [[Procession#Two servers]].
 - For [[#Procession]], couple may opt for [[Procession#Short Cloister Walk Procession to High Altar]].
 - At _Gospel Procession_, only have a [[Thurifer]], no [[Lucifer|Candle bearers]].
 - At _Sanctus_, only have a [[Thurifer]] and [[Bell Ringer]], no [[Lucifer|Torch bearers]].
 
 If there is only one [[Altar Server|Server]]:
+
 - For [[#Procession]] / [[#Recession]], see: [[Procession#One server]].
 - For [[#Procession]], couple will likely opt for [[Procession#Short Cloister Walk Procession to High Altar]].
 - No incense or [[Processional Candle|Processional Candles]] are used; all [[Thurifer]] / [[Lucifer]] actions are omitted.
