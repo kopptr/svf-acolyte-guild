@@ -17,9 +17,9 @@
 	- [ ] [[High Altar#Angel Candles]] typically lit.
 - [ ] [[Vesperale]] removed from [[High Altar]].
 - [ ] [[Presbytery#Niche]]:
-	- [ ] [[Cruets]]
-	- [ ] [[Lavabo Pitcher and Bowl]]
-	- [ ] [[Finger Towel]]
+	- [ ] [[Cruets]].
+	- [ ] [[Lavabo]] pitcher and bowl.
+	- [ ] [[Finger Towel]].
 	- [ ] [[Chalice Stack]], unless the [[Celebrant]] prefers it to start on the [[High Altar]].
 	- [ ] [[Ciborium|Ciboria]], unless the [[Celebrant]] prefers them at the [[High Altar]].
 	- [ ] [[Pyxe]]s / [[Personal Chalice]]s, unless the [[Celebrant]] prefers them at the [[High Altar]].

@@ -2,7 +2,7 @@
 - Sext at [[Saint Catherine of Siena Church|SCS]]
 - Solemn Procession
 	- Blessing of Palms
-	- Gospel, Homily, Universal Prayer
+	- _Gospel_, _Homily_, _Universal Prayer_
 	- Procession from [[Saint Catherine of Siena Church|SCS]] to [[Saint Vincent Ferrer Church|SVF]]
 - [[Roman Rite Solemn Mass]] at [[Saint Vincent Ferrer Church|SVF]] as usual during [[Lent]], except:
 	- Vestment change after first incensation of the altar.
@@ -75,8 +75,8 @@ Form up:
 - If using incense for the Gospel (in 2023 we didn't do this, but it was likely by accident):
 	- [[Thurifer]] and [[Boat Bearer]] approach Deacon to charge incense, or [[Boat Bearer]] gives boat to [[Thurifer]] if there is not enough space.
 	- After Deacon's blessing, [[Thurifer]] leads Deacon to the lectern, [[Lucifer]]s 3 and 4 approach the lectern and flank it, and Holy Water Bearer gives Priest a palm.
-	- [[Thurifer]] attends to Deacon for the [[Gospel]]. 
-	- After [[Gospel]], [[Thurifer]] and [[Lucifer]]s return to formation.
+	- [[Thurifer]] attends to Deacon for the _Gospel_. 
+	- After _Gospel_, [[Thurifer]] and [[Lucifer]]s return to formation.
 	- Someone gives Deacon a Palm.
 - If not using incense, everyone stands in formation.
 - Priest may optionally preach a homily.
@@ -128,7 +128,7 @@ After the Introit, there is a sung _Kyrie_ in place of the Penitential Rite.
 After sung _Kyrie_, [[Book Bearer]] bears the [[Missal]].
 
 ### Gospel, Homily, Credo, Offertory, Preface
-Servers stand in place, no Gospel procession, and no incense or candles are used. Servers kneel at the appropriate time during the Gospel with the rest of the congregation.
+Servers stand in place, no Gospel procession, and no incense or candles are used. Servers kneel at the appropriate time during the _Gospel_ with the rest of the congregation.
 
 Credo is sung. Universal Prayer is omitted, since it happened as part of the Solemn Procession.
 

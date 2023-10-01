@@ -1,0 +1,1 @@
+The cafeteria directly under the main church, where coffee hour is held.

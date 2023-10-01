@@ -76,8 +76,8 @@ When finished:
 - [[Lucifer]]s place their candles to the side of the [[Veneration Crucifix]].
 - [[Acolyte]]s follow closely behind with Purificators, standing at either side and wiping while the people reverence.
 - When everyone is finished, [[Acolyte]]s reverence, and then immediately go to [[Credence Table]] to retrieve pillows and veil.
-- [[Master of Ceremonies]], [[Lucifers]] come and reverence.
-- When servers are done reverencing, [[Acolyte]]s arrange the pillows and veil
+- [[Master of Ceremonies]], [[Lucifer|Lucifers]] come and reverence.
+- When servers are done reverencing, [[Acolyte|Acolytes]] arrange the pillows and veil
 - [[Veneration Crucifix]] and [[Processional Candle]]s remain for the remainder of the liturgy.
 - All return to [[Choir Stalls#Low]] and don shoes.
 
@@ -114,4 +114,4 @@ Form up at the foot of the [[Crossing Altar]], everyone empty-handed, in a large
 - Altar cloth rolled up and brought back to [[Sacristy]].
 
 ## References
-- [[Good Friday non-Mass-2456]]
+- [S.T. III. q. 83. a. 2 ad 2.](https://www.newadvent.org/summa/4083.htm)

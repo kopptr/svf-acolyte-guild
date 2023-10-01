@@ -10,8 +10,8 @@
 - [[Crossing Altar]] present, with candles unlit, and [[Crossing Altar#Crucifix]] stowed away.
 - [[Credence Table]]:
 	- [[Aspersorium]].
-	- [[Ashes]].
-	- [[Candelabrae]].
+	- Ashes.
+	- [[Candelabra|Candelabrae]].
 	- [[Monstrance]] and [[Monstrance Stand]].
 	- Clorox wipes (for cleaning ashes off of Ministers' hands). Alternatively, lemon and bread.
 

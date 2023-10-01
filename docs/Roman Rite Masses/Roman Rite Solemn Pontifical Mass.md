@@ -1,5 +1,5 @@
 ## Overview
-[[Roman Rite]] [[Solemn Mass]] celebrated by a [[Bishop]].
+[[Roman Rite Solemn Mass]] celebrated by a [[Bishop]].
 
 ## Roles and Seating
 - [[Master of Ceremonies]]
@@ -47,7 +47,7 @@ As usual for [[Roman Rite Solemn Mass]], with:
 	- Wash hands
 	- [[Major Inclination|Profound Bow]], depart.
 
-[^premass_hands]: [[CEfS > p905]], [[CotMRR > 481]].
+[^premass_hands]: [[Ceremonies Explained for Servers|CEfS > par. 905]], [[Ceremonies of the Modern Roman Rite|CotMRR > par. 481]].
 ### Introductory Rites
 
 #### Entrance
@@ -62,8 +62,9 @@ As normal for [[Roman Rite Solemn Mass]], except:
 	- Upon reaching the [[Sanctuary]], the [[Bishop]] [[Celebrant]] will give his [[Mitre]] and [[Crozier]] to the [[Mitre Bearer]] and [[Crozier Bearer]] (or indirectly through Assistant [[Deacon|Deacons]]). These servers [[Major Inclination|Profound Bow]] with the items and proceed to their seats[^incensation].
 	- After the [[Bishop]] [[Celebrant]] sits (after the _Collect_), the [[Mitre Bearer]] assists the Assistant [[Deacon]] in assisting the [[Bishop]] in putting on his [[Mitre]][^first_sit].
 
-[^incensation]: [[CotMRR > 484-485]]
-[^first_sit]: [[CotMRR > 487]]
+[^incensation]: [[Ceremonies of the Modern Roman Rite|CotMRR > par. 484 - 485]].
+[^first_sit]: [[Ceremonies of the Modern Roman Rite|CotMRR > par. 487]].
+
 #### Acclamation (Alleluia / Tract)
 As normal for [[Roman Rite Solemn Mass]], except:
 
@@ -107,7 +108,7 @@ As normal for [[Roman Rite Solemn Mass]].
 #### Communion
 As normal for [[Roman Rite Solemn Mass]], except:
 
-- If desired by those Ministers, [[Acolyte|Acolytes]] 1 and 2 hold [[Paten|Patens]] for the [[Priests]] distributing Communion, returning them to the [[Priests]] when they are finished.
+- If desired by those Ministers, [[Acolyte|Acolytes]] 1 and 2 hold [[Paten|Patens]] for the [[Priest|Priests]] distributing Communion, returning them to the [[Priest|Priests]] when they are finished.
 
 #### Ablutions
 As normal for [[Roman Rite Solemn Mass]], except:

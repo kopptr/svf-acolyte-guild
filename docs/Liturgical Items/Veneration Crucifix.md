@@ -1,0 +1,1 @@
+The large wooden crucifix used during the [[Good Friday]] liturgy.

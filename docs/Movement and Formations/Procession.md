@@ -29,7 +29,7 @@ Where:
 - `S` are additional [[Altar Server|Servers]], if any. They are empty-handed.
 	- `S` are in pairs, if there is an odd [[Altar Server|Server]], he is at the end in the middle.
 
-[^diagram]: c.f. [[CotMRR > Diagram 2]].
+[^diagram]: c.f. [[Ceremonies of the Modern Roman Rite|CotMRR > Diagram 2]].
 
 ### Adjustments for fewer Servers
 
@@ -86,14 +86,14 @@ Where:
 - `Bb` is the [[Book Bearer]].
 - `Mb` is the [[Mitre Bearer]].
 
-[^bishop]: See [[CotMRR > Diagram 5]]
+[^bishop]: See [[Ceremonies of the Modern Roman Rite|CotMRR > Diagram 5]].
 
 ## Routes
 
 ### Passageway Procession to Crossing Altar
 When using this route, no incense, [[Processional Candle|Processional Candles]], or [[Processional Crucifix]] are used in the procession.
 
-[[Altar Server|Servers]] enter the [[Sanctuary]] through the [[Passageway]] in pairs. Each pair stops at the foot of the [[Presbytery]] to [[Genuflection|Genuflect]]. The next pair does not enter the [[Sanctuary]] until the previous pair stand from their [[Genuflect|Genuflection]].
+[[Altar Server|Servers]] enter the [[Sanctuary]] through the [[Passageway]] in pairs. Each pair stops at the foot of the [[Presbytery]] to [[Genuflection|Genuflect]]. The next pair does not enter the [[Sanctuary]] until the previous pair stand from their [[Genuflection]].
 
 After standing, the pair of [[Altar Server|Servers]] turns inwards and processes down the center of the [[Sanctuary]] toward the [[Crossing Altar]]. At about the black line, they move right and  go to their seats at [[Choir Stalls#Low]].
 
@@ -116,7 +116,7 @@ Possibly accompanied by a hymn.
 - Start in [[Cloister Walk]], process North.
 - Ignore [[Crossing Altar]] and enter [[Sanctuary]] through South steps.
 - Turn right and process East up middle of [[Sanctuary]].
-- If there is a hymn, stop at the foot of the [[Presbytery]] and wait for the [[Introit]] to start.
+- If there is a hymn, stop at the foot of the [[Presbytery]] and wait for the _Introit_ to start.
 - Reverence the [[Tabernacle]], break to positions.
 
 ### Long Cloister Walk Procession to Crossing Altar
@@ -127,7 +127,7 @@ Typically accompanied by a hymn.
 - Turn left and continue West.
 - Turn right at back of the church near the [[Holy Name Chapel]] and continue North to the back of the center aisle.
 - Turn right and continue East to the foot of the [[Sanctuary]].
-- Wait for the [[Entrance Antiphon]] to begin.
+- Wait for the _Entrance Antiphon_ to begin.
 - [[Reverence]] the [[Tabernacle]] and enter the [[Sanctuary]].
 
 ### Long Cloister Walk Procession to High Altar
@@ -139,7 +139,7 @@ Typically accompanied by a hymn.
 - Turn right at back of the church near the [[Holy Name Chapel]] and continue North to the back of the center aisle.
 - Turn right and continue East down the center aisle and into the [[Sanctuary]], without stopping or making a reverence.
 - Continue East through the [[Sanctuary]] to the foot of the [[Presbytery]].
-- Wait for the [[Entrance Antiphon]] to begin.
+- Wait for the _Entrance Antiphon_ to begin.
 - Reverence the [[Tabernacle]] and break formation.
 
 ### Penitential Procession from the Crossing Altar
