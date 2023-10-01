@@ -1,5 +1,6 @@
 ## Responsibilities
 Attend to the [[Processional Crucifix]]:
+
 - Bear the [[Processional Crucifix]] in [[Procession]]s.
 - Place the [[Processional Crucifix]] in and retrieve it from its stand.
 
@@ -11,6 +12,7 @@ Attend to the [[Processional Crucifix]]:
 
 ## The direction of the Corpus
 We follow the #dominican [[Preservation of Dominican Customs|Custom]] of facing the Corpus toward the [[Celebrant]] in many circumstances:
+
 - When [[Procession|processing]]:
 	- If a bishop or Dominican is part of the procession, the corpus faces backward, so that the bishop or Dominican is walking toward Christ.
 	- If there is no bishop or Dominican, the corpus faces forward, so that those in the [[Procession]] are following Christ's lead.

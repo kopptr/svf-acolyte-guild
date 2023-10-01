@@ -2,6 +2,7 @@ The _Bell Ringer_ rings the [[Hand Bells]].
 
 ## Roman Rite
 Eight bell rings:
+
 - Once at [[Epiclesis]][^epiclesis].
 - Thrice at elevation of the Most Precious Body. Wait until about the apex of the elevation to start. Short rings, with pauses in between. If there is a [[Thurifer]], try to time with his [[Incensation]].
 - Thrice at elevation of the Most Precious Blood. Same technique as for Most Precious Body.

@@ -7,6 +7,7 @@ Attend to books and related items needed for the liturgy.
 
 ## Manner of carrying the Missal
 We carry the [[Missal]], and any other ceremonial books, according to the #dominican [[Preservation of Dominican Customs|Custom]]:
+
 - Spine against the crook of the left arm.
 - Front face of [[Missal]] against the heart.
 - Ribbons pointing down.

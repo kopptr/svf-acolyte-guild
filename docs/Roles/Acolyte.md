@@ -1,12 +1,13 @@
 ---
 aliases: ["Acolytes"]
 ---
-Outside the [[Guild of St. Stephen|Guild]] the term _Acolyte_ refers to an [[Chalice Stack & the Instituted Acolyte]].
+Outside the [[Guild of St. Stephen|Guild]] the term _Acolyte_ refers to an [[Instituted Acolyte]].
 
 Within the [[Guild of St. Stephen|Guild]], the term _Acolyte_ refers to the [[Altar Server|Servers]] who assist specifically with the preparation and repair of the [[Altar]], or less formally, the [[Altar Server|Servers]] in general.
 
 ## Responsibilities
-Attend to the [[Ministers]] in the celebration of [[Mass]]:
+Attend to the [[Minister|Ministers]] in the celebration of [[Mass]]:
+
 - Bring items to the [[Altar]] at the appropriate times.
 - Bear the [[Cruets]] and perform the [[Lavabo]] at the [[Offertory]].
 - Assist with the [[Ablutions]].
