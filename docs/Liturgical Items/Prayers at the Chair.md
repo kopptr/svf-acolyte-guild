@@ -1,0 +1,1 @@
+This is a book containing the movable texts of the [[The Roman Missal]], such as the _Collects_ and _Postcommunion Prayers_.

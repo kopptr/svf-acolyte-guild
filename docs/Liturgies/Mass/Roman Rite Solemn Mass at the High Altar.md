@@ -108,6 +108,7 @@ Standby.
 
 ### Ablutions
 See [[Ablutions]], being mindful of [[Standby Formation#Considerations for the High Altar]].
+- If the [[Celebrant]] leaves the [[Chalice Stack]] or other items in the center of the [[High Altar]], the [[Acolyte|Acolytes]] should leave them there. If he places them off to the side, the [[Acolyte|Acolytes]] should collect them and place them in the [[Presbytery#Niche]].
 
 ### Postcommunion Prayer through Dismissal
 - [[Book Bearer]] holds [[Prayers at the Chair]] books for [[Celebrant]].
