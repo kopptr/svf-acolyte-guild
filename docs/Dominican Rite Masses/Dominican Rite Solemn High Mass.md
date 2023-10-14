@@ -42,7 +42,7 @@ Solemn High [[Mass]] in the [[Dominican Rite]]. In addition to the [[Altar Serve
 	- [ ] Paten(s).
 	- [ ] Cruets.[^cruets]
 - [ ] [[Presbytery#Lip]]:
-	- [ ] Cloth for covering the Ministers when seated. (How to spell Gremule? #liturgy-todo  )
+	- [ ] [[Gremial]]
 - [ ] [[Sacristy]]:
 	- [ ] [[Chalice Stack]].
 	- [ ] [[Humeral Veil]].
