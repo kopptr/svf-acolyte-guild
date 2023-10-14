@@ -11,9 +11,11 @@
 - **Posture**: Stand up straight. Shoulders back. Head up.
 - **Gait**: Solemn and stately.
 - **Pace**: Appear neither to be rushed nor to tarry.
-- **Hands**: Folded when standing or walking and not holding anything. Off hand over breast when holding something with one hand.
+- **Hands**: Folded when standing or walking and not holding anything. Off hand over breast when holding something with one hand[^hands].
 - **Reverse**: Avoid stepping backward, instead turning or rotating.
 - **Bending**: When picking up something from the floor, for example [[Hand Bells]] during the Dominican Rite Mass, bring one knee to the ground to pick it up, rather than bending over.
+
+[^hands]: See [[Dominican Ceremonial for Mass and Benediction|DCfMaB > p. 7]].
 
 ### When in pairs
 - Walk close together and at the same pace.

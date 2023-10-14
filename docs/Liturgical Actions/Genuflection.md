@@ -23,3 +23,6 @@ Like a [[#Standard Genuflection]], but with the legs reversed, so as to kneel on
 Uses:
 
 - When kneeling before a Bishop to kiss his ring, wash his hands, etc.
+
+## References
+- [[Dominican Ceremonial for Mass and Benediction|DCfMaB > pp. 1, 10-13]]
