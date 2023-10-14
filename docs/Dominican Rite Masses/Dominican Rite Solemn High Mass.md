@@ -74,7 +74,7 @@ Solemn High [[Mass]] in the [[Dominican Rite]]. In addition to the [[Altar Serve
 	- When finished:
 		- If the minister will stay at the [[High Altar|Altar]], return to [[T-Formation]].
 		- Otherwise, return to [[Approach Formation]], wait for the Minister, reverence the [[High Altar|Altar]], and then lead the Minister to his next destination.
-- When [[Acolyte]]s split to either side of the [[High Altar]], e.g. when stowing the [[Processional Candle]]s, they should take care to stay symmetrical. For example, if one [[Acolyte]] finishes first, he should wait for the other before returning to the foot of the [[High Altar]].
+- When [[Acolyte|Acolytes]] split to either side of the [[High Altar]], e.g. when stowing the [[Processional Candle|Processional Candles]], they should take care to stay symmetrical. For example, if one [[Acolyte]] finishes first, he should wait for the other before returning to the foot of the [[High Altar]].
 - Do not [[Genuflection|Genuflect]] when carrying [[Processional Candle|Processional Candles]] and flanking the [[Processional Crucifix]], CDR#p2c1a2p11. Do [[Genuflection|Genuflect]] when carrying [[Processional Candle]] and **not** flanking the [[Processional Crucifix]].
 
 ### Crucifer
@@ -217,7 +217,7 @@ The [[Senior Acolyte]] assists the [[Celebrant]] and [[Deacon]] with the Epistle
 
 ### Peoples' Gospel
 - [[Acolyte|Acolytes]] [[Major Inclination|Profound Bow]] with Ministers, other [[Altar Server|Servers]] stay erect.
-- [[Acolyte|Acolytes]] retrieve [[Processional Candle]]s and return to [[Approach Formation]].
+- [[Acolyte|Acolytes]] retrieve [[Processional Candle|Processional Candles]] and return to [[Approach Formation]].
 - Ministers bow, [[Altar Server|Servers]] stay erect.
 - Process out of [[Presbytery]] through [[Sanctuary]] to Gospel Lectern.
 	- [[Thurifer]], then [[Crucifer]] flanked by [[Acolyte|Acolytes]].
@@ -226,7 +226,7 @@ The [[Senior Acolyte]] assists the [[Celebrant]] and [[Deacon]] with the Epistle
 - [[Thurifer]] gives [[Thurible]] to [[Subdeacon]], gets it back, then stands behind [[Subdeacon]] for duration of the Gospel reading.
 - After the reading, the [[Subdeacon]] brings the Book of Gospels to the [[High Altar]] so that the [[Celebrant]] and [[Deacon]] can kiss it.
 - Process back to the foot of the [[Presbytery]], behind the [[Deacon]] and [[Subdeacon]], [[Thurifer]] first.
-- [[T-formation]] with [[Crucifer]] and [[Thurifer]] still present. [[Acolyte]]s [[Major Inclination|Profound Bow]], [[Thurifer]] [[Genuflection|Genuflects]].
+- [[T-formation]] with [[Crucifer]] and [[Thurifer]] still present. [[Acolyte|Acolytes]] [[Major Inclination|Profound Bow]], [[Thurifer]] [[Genuflection|Genuflects]].
 - Formation breaks immediately:
 	- [[Acolyte|Acolytes]] break to return [[Processional Candle|Processional Candles]].
 	- [[Thurifer]] and [[Crucifer]] return to [[Passageway]] to deposit [[Thurible]] and [[Processional Crucifix]], then sit in [[Choir Stalls#High]].
@@ -316,7 +316,7 @@ The [[Senior Acolyte]] assists the [[Celebrant]] and [[Deacon]] with the Epistle
 	- [[Junior Acolyte|JA]] rings bell when [[Celebrant]]'s knee touches the ground (again).
 - Second elevation, same as first. [[Junior Acolyte|JA]] sets down the [[Hand Bells]].
 - Immediately after second elevation, all [[Altar Server|Servers]] stand when [[Deacon]] and [[Subdeacon]] stand.
-- [[Thurifer]] walks forward to retrieve [[Thurible]] from [[Deacon]], [[Genuflection|Genuflect]]s, returns the [[Thurible]] to the [[Thurible Stand]], and returns to [[Choir Stalls#High]].
+- [[Thurifer]] walks forward to retrieve [[Thurible]] from [[Deacon]], [[Genuflection|Genuflects]], returns the [[Thurible]] to the [[Thurible Stand]], and returns to [[Choir Stalls#High]].
 - [[Preface Formation]] (no [[Thurifer]]) through _Great Amen_. #liturgy-todo  should this be [[T-Formation]]?
 
 ## Pater Noster
@@ -358,7 +358,7 @@ The [[Senior Acolyte]] assists the [[Celebrant]] and [[Deacon]] with the Epistle
 
 ## Peoples' Communion
 - [[Paten]] holders accompany their Ministers and hold [[Paten]]s. Everyone else remains kneeling in their places.
-- When there are no more communicants, [[Paten]] holders accompany Ministers to foot of [[Presbytery]], give [[Paten]]s to Ministers, and return to seats in [[Choir Stalls]].
+- When there are no more communicants, [[Paten]] holders accompany Ministers to foot of [[Presbytery]], give [[Paten|Patens]] to Ministers, and return to seats in [[Choir Stalls]].
 - After Peoples' Communion, [[Thurifer]], [[Crucifer]], and non-[[Acolyte]] [[Altar Server|Servers]] remain in choir through the end of [[Mass]].
 
 ## Ablutions
