@@ -1,0 +1,1 @@
+The first step of an [[Altar]].

@@ -1,0 +1,1 @@
+The platform on which the [[Celebrant]] celebrates the [[Mass]].

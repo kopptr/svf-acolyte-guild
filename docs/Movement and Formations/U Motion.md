@@ -1,0 +1,1 @@
+In a [[Mass]] celebrated _ad orientum_ in either rite, to move to or from a side of the [[Altar]] to the other side or to the center of the foot of the [[Altar]]. This is done without ascending the [[Altar]] steps. So called because the path taken from one side to the other forms a U shape.
