@@ -1,7 +1,7 @@
 ## Overview
 [[Roman Rite]] Solemn Mass celebrated at the [[Crossing Altar]]. These rubrics are used for the 12pm Sunday [[Mass]] at [[Saint Vincent Ferrer Church|SVF]], which is the "principal liturgy of the parish". Typically with one [[Deacon]], though sometimes there are zero or two[^deacon_thurifer] [[Deacon|Deacons]]. Typically with one [[Priest]] [[Celebrant]], though sometimes there are one or more [[Concelebrant|Concelebrants]].
 
-[^deacon_thurifer]: When there are two [[Deacon|Deacons]], it is apparently proper for the second [[Deacon]] to perform the [[Incensation]] during the Eucharistic Prayer instead of the [[Thurifer]]. We omit that rubric since we rarely have two [[Deacon|Deacons]], most [[Deacon|Deacons]] don't know it, and I don't know where the rubric is specified.
+[^deacon_thurifer]: When there are two [[Deacon|Deacons]], it is proper for the second [[Deacon]] to perform the [[Incensation]] during the Eucharistic Prayer ([[General Instruction of the Roman Missal|GIRM > par. 179]]) instead of the [[Thurifer]]. We omit that rubric since we rarely have two [[Deacon|Deacons]], and most visiting [[Deacon|Deacons]] don't expect to do it.
 
 ## Roles
 Four servers:
