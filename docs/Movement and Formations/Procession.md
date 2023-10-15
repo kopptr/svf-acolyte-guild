@@ -123,9 +123,9 @@ Possibly accompanied by a hymn.
 Typically accompanied by a hymn.
 
 - Start in [[Cloister Walk]].
-- Process North.
-- Turn left and continue West.
-- Turn right at back of the church near the [[Holy Name Chapel]] and continue North to the back of the center aisle.
+- Process North across the entrance to the [[Friars' Chapel]].
+- Turn left and continue West toward the [[Holy Name Chapel]].
+- Turn right at back of the church and continue North to the the center aisle.
 - Turn right and continue East to the foot of the [[Sanctuary]].
 - Wait for the _Entrance Antiphon_ to begin.
 - [[Reverence]] the [[Tabernacle]] and enter the [[Sanctuary]].
@@ -134,13 +134,13 @@ Typically accompanied by a hymn.
 Typically accompanied by a hymn.
 
 - Start in [[Cloister Walk]].
-- Process North.
-- Turn left and continue West.
-- Turn right at back of the church near the [[Holy Name Chapel]] and continue North to the back of the center aisle.
+- Process North across the entrance to the [[Friars' Chapel]].
+- Turn left and continue West toward the [[Holy Name Chapel]].
+- Turn right at back of the church and continue North to the the center aisle.
 - Turn right and continue East down the center aisle and into the [[Sanctuary]], without stopping or making a reverence.
 - Continue East through the [[Sanctuary]] to the foot of the [[Presbytery]].
-- Wait for the _Entrance Antiphon_ to begin.
 - Reverence the [[Tabernacle]] and break formation.
+	- **Do not wait for the _Entrance Antiphon_ to begin.**
 
 ### Penitential Procession from the Crossing Altar
 - Pass [[Crossing Altar]] on right side and exit the [[Sanctuary]].
