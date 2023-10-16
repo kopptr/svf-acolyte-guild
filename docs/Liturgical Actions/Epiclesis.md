@@ -6,7 +6,7 @@ See the [full text](https://catholic-resources.org/ChurchDocs/RM3-EP1-4.htm) for
 | Eucharistic Prayer                                 | I                                                                                                                | II                                     | III                                                                                                  |
 | -------------------------------- | ---------------------------------------------------------------------------------------------------------------- | ------------------------------------- | -------------------------------------------------------------------------------------------------- |
 | Preceding words                  | ...and command that we be delivered from _eternal damnation_ and counted among the flock of those you have chosen. | ...the _fount of all holiness_.         | ...so that from the _rising of the sun to its setting_ a pure sacrifice may be offered to your name. |
-| _Epiclesis_ | **Be pleased**, O God, we pray                                                                                   | **Make holy**, therefore, these gifts | **Therefore**, O Lord                                                                              |
+| _Epiclesis_ | **Be pleased**, O God, we pray...                                                                                   | **Make holy**, therefore, these gifts... | **Therefore**, O Lord...                                                                              |
 
 ## Other cues
 In addition to knowing the words of the Epiclesis, one can tell the Epiclesis is being said because:

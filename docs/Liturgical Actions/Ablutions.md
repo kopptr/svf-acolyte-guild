@@ -1,10 +1,10 @@
 The _Ablutions_ are the part of [[Mass]] wherein the sacred vessels are purified, any leftover Eucharist is reposed in the [[Tabernacle]], and the [[Altar]] is cleared.
 
 ## Roman Rite
-In the [[Roman Rite]], the Ablutions occur immediately after Communion.
+In the [[Roman Rite]], the Ablutions occur immediately after Communion is distributed to the People.
 
 ### If there is no Deacon
-[[Acolyte|Acolytes]] and [[Book Bearer]] stand, get into [[Standby Formation]] and work out of it for the duration of the Ablutions[^ablutions]. **Cue**: The [[Celebrant]] returns to the [[Sanctuary]] after distributing Communion.
+All [[Altar Server|Servers]] stand, get into [[Standby Formation]] and work out of it for the duration of the Ablutions[^ablutions]. **Cue**: The [[Celebrant]] returns to the [[Sanctuary]] after distributing Communion.
 
 - An [[Acolyte]] brings the water [[Cruets|Cruet]] to the [[Altar]]. Depending on the [[Celebrant]]'s preference:
 	- [[Acolyte]] pours water over the [[Celebrant]]'s fingers and into the [[Chalice]] until the [[Celebrant]] indicates he should stop, by saying so or raising the [[Chalice]].

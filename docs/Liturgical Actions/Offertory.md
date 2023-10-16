@@ -1,10 +1,10 @@
-The _Offertory_ is the part of [[Mass]] at which the [[High Altar|Altar]], bread, and wine are prepared for the Liturgy of the Eucharist.
+The _Offertory_ is the part of [[Mass]] at which the [[High Altar|Altar]] is prepared for the Liturgy of the Eucharist, and the [[Celebrant]] offers the gifts of bread and wine.
 
 ## Roman Rite
 In the [[Roman Rite]], the Offertory occurs immediately after the _Universal Prayer_, or the _Creed_ if the _Universal Prayer_ is omitted, or the _Homily_, if both are omitted.
 
 ### Overview
-If there is an Offertory Chant, [[Altar Server|Servers]] with duties stand when it begins[^offertory_chant]. [[Altar Server|Servers]] work out of [[Standby Formation]][^which_altar]:
+If there is an Offertory Chant, [[Altar Server|Servers]] with duties stand in place in the [[Choir Stalls]] until it begins[^offertory_chant]. Then, [[Altar Server|Servers]] work out of [[Standby Formation]][^which_altar]:
 
 - [[Altar]] is prepared[^bring_to_altar].
 - [[Chalice]] is prepared[^cruets][^people_bring_gifts].
@@ -23,8 +23,8 @@ If there is an Offertory Chant, [[Altar Server|Servers]] with duties stand when 
 ### If there is no Deacon
 If there is no [[Deacon]], the [[Altar Server|Servers]] are responsible for all parts of the Offertory not performed by the [[Celebrant]].
 
-1. Essential items are brought to the [[Altar]]:
-	- [[Book Bearer]] brings the [[Missal]] and [[Missal Stand|Stand]], and places it center-left, at a 45-degree angle. His Offertory duties are finished, he returns to the [[Choir Stalls]]. He may wish to light the [[Torch|Torches]] to make duties easier for the [[Lucifer|Lucifers]].
+1. Items are brought to the [[Altar]]:
+	- [[Book Bearer]] brings the [[Missal]] and [[Missal Stand|Stand]], and places it center-left, at a 45-degree angle. He then opens it to the Offertory page (first green tab). His Offertory duties are finished, he returns and stands in the [[Choir Stalls]] as part of the [[Standby Formation]].
 	- [[Acolyte]] brings the [[Chalice Stack]] and places it on the Northeast corner of the [[Altar]], veil facing the people.
 2. Other items brought to and taken from the [[Altar]]:
 	- [[Acolyte|Acolytes]] bring [[Ciborium|Ciboria]], [[Personal Chalice|Personal Chalices]], and [[Pyxe|Pyxes]], placing them on the Northeast corner of the [[High Altar|Altar]].
@@ -51,28 +51,26 @@ If there is no [[Deacon]], the [[Altar Server|Servers]] are responsible for all 
 	- [[Acolyte|Acolytes]] approach the [[Celebrant]] in a pair, right having the dish and water, left having the [[Finger Towel]].
 	- [[Acolyte]] pours water over [[Celebrant]]'s fingers, the other offers the towel.
 	- When [[Celebrant]] returns the towel, [[Minor Inclination|Head Bow]] and return items to [[Credence Table]].
-7. The [[Lucifer|Lucifers]] light the [[Torch|Torches]]. This can be done at any time, but should never delay the [[Acolyte|Acolytes]]' duties at the [[Altar]].
-8. All return to [[Choir Stalls]].
+7. All return to [[Choir Stalls]] and stand.
 
 [^incense_direction]: Center-left-right is the [[Roman Rite]] tradition. I think the #dominican [[Preservation of Dominican Customs|Custom]] is to do Center-center-center. Should we do that instead? #liturgy-todo.
 
 ### If there is a Deacon
-If there is a [[Deacon]], he will perform some of the duties the [[Celebrant]] would in his absence, and some of the duties a [[Altar Server|Server]] would perform in his absence[^server_deacon_parts]. Notably:
+If there is a [[Deacon]], he will perform some of the duties the [[Celebrant]] and [[Altar Server|Servers]] would otherwise perform[^server_deacon_parts]. Notably:
 
 - The [[Deacon]] brings the [[Chalice Stack]] to the [[Altar]] instead of an [[Acolyte]].
 - The [[Deacon]] prepares the wine and water for the [[Chalice]] instead of the [[Celebrant]]. As a result:
 	- The [[Cruets]] are brought to the [[Deacon]], not the [[Celebrant]].
-	- The [[Chalice]] may be prepared _before_ the bread is offered by the [[Celebrant]]. The [[Acolyte|Acolytes]] must pay close attention to know when the [[Deacon]] needs the [[Cruets]].
+	- The [[Chalice]] may be prepared _before_ the bread is offered by the [[Celebrant]]. The [[Acolyte|Acolytes]] must pay close attention to see when the [[Deacon]] needs the [[Cruets]].
 - The [[Deacon]] incenses the [[Celebrant]], [[Concelebrant|Concelebrants]], and People. The [[Thurifer]] assists with the [[Imposition of Incense]], waits in [[Standby Formation]], and then retrieves the [[Thurible]] from the [[Deacon]] after he has incensed the People.
 
 ### Sung and Low Mass
 For [[Roman Rite Low Mass|Roman Rite Sung Mass]] and [[Roman Rite Low Mass]], the rubrics are identical, except:
 
 - There is no [[Incensation]] of the [[Altar]], [[Celebrant]], [[Concelebrant|Concelebrants]], and People. As a result, there is no [[Thurifer]].
-- [[Torch|Torches]] are not used, so there is no need to light them.
 - One [[Altar Server|Server]] must take on the role of both [[Acolyte|Acolytes]] and the [[Book Bearer]].
 - The order is [[Chalice Stack]], [[Missal]], and then other items. The [[Celebrant]] or [[Deacon]] will likely take the [[Chalice Stack]], but if he does not the [[Acolyte]] should do so before the [[Missal]].
-- One [[Acolyte]] must bring both [[Cruets]], he holds one in each hand.
+- One [[Acolyte]] must bring both [[Cruets]], he holds one in each hand, wine in the right.
 - One [[Acolyte]] must perform the [[Lavabo]] alone, with the [[Finger Towel]] over his left arm, dish in his left hand, and pitcher/[[Cruets|Cruet]] in his right hand.
 
 [^server_deacon_parts]: The [[Acolyte|Acolytes]] should pay attention even if a [[Deacon]] is present. For example, if the [[Deacon]] does not bring the [[Chalice Stack]] to the [[Altar]], the [[Acolyte]] should do it instead.
