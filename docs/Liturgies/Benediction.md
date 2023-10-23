@@ -53,11 +53,11 @@ These rubrics are for Benediction at the [[Crossing Altar]], but can be readily 
 
 ### Exit
 
-### If there is no Rosary Altar procession:
+#### If there is no Rosary Altar procession:
 
 - Lead [[Priest]] South back to the [[Sacristy]] through the [[Lourde's Door]].
 
-### If there is a Rosary Altar procession:
+#### If there is a Rosary Altar procession:
 
 - Turn and lead the priest down the center aisle, turn right, and right again to head to the [[Rosary Altar]].
 - Stand outside of the [[Rosary Altar]] gate square with the Gospel side of the altar, facing it for the remainder.
