@@ -51,12 +51,16 @@ The dismissal is omitted.
 Lead [[Priest]] into the [[Sanctuary]], to the foot of the [[Presbytery]], [[Genuflection|Genuflect]], then through the [[Passageway]] to the [[Sacristy]].
 
 ## Modifications for Exposition not following Mass
+The duties are simpler if Exposition does not directly follow [[Mass]].
+
+### Preparations
 If Exposition does not follow Mass, the [[Altar]] is prepared beforehand:
 
 - [ ] [[Candelabra|Candelabrae]] lit and in place on [[Altar]].
 - [ ] [[Monstrance]] and [[Monstrance Stand|Stand]] in place on [[Altar]].
 
-For the Entrance (in place of the [[#Transition]]):
+### Entrance
+For the Entrance (in place of the [[#Transition]]), which will happen while the Eucharist is _not_ exposted:
 
 - Start from [[Cloister Walk]], ring entrance bell.
 - Lead [[Priest]] out [[Lourde's Door]] to the foot of the [[Sanctuary]], stepping back to let him pass so he is in the center and [[Altar Server|Server]] on the right.
@@ -64,4 +68,11 @@ For the Entrance (in place of the [[#Transition]]):
 - Kneel at the foot of the [[Sanctuary]], waiting while [[Priest]] retrieves the Eucharist and exposes it.
 - When [[Priest]] returns to foot of the [[Crossing Altar|Altar]], stand and [[Genuflection|Genuflect]] with him.
 
-For the Exit: return to the [[Sacristy]] by way of the [[Lourde's Door]].
+### Exposition
+After the [[Genuflection]], the [[Priest]] will enter the [[Sanctuary]] to expose the Eucharist:
+- Kneel at the foot of the [[Sanctuary]].
+- Wait until the [[Priest]] exposes the Eucharist, then stand as he exits the [[Sanctuary]] and joins you.
+- Continue from [[#Incensation]] above.
+
+### Exit
+Return to the [[Sacristy]] by way of the [[Lourde's Door]].
