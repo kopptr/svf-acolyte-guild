@@ -6,23 +6,12 @@ These rubrics are for Benediction at the [[Crossing Altar]], but can be readily 
 	- [ ] [[Thurible]] coals lit.
 	- [ ] [[Incense Boat]] full. 
 - [ ] Two leaflets at the foot of the [[Crossing Altar]].
-- [ ] [[Rosary Altar]]:
+- [ ] If there is a [[Rosary Altar]] procession:
 	- [ ] [[Aspersorium]] in the niche in the [[Rosary Altar]].
-	- [ ] Gate open and cushion set to the side.
+	- [ ] [[Rosary Altar]] gate open and cushion set to the side.
 
 ## Order of Benediction
-#### If there is Compline
-- Lead [[Priest]] out of [[Sacristy]] to [[Passageway]]. Do **not** ring the [[Hand Bells]].
-- Lead [[Priest]] into [[Sanctuary]] and turn left. Do **not** [[Genuflection|Genuflect]] to the [[Tabernacle]] (since the Eucharist is exposed on the [[Crossing Altar]]).
-- Lead [[Priest]] down middle of [[Sanctuary]] as far as the furthest [[Choir Stalls]], split off to the left so the [[Priest]] can stand in the center in line with you.
-- With the [[Priest]], [[Genuflection|Genuflect]] to the exposed Eucharist.
-- Move into Southwest [[Choir Stalls]]. [[Priest]] will sit in [[Choir Stalls#Low]].
-- Pray Compline.
-- Meet [[Priest]] in the center behind the [[Crossing Altar|Altar]], [[Genuflection|Genuflect]] with him.
-- Lead [[Priest]] down the South side of the [[Crossing Altar]] to it's foot. Stand square with the South side of the altar, stepping back so as to allow the [[Priest]] to pass you to the center of the foot of the [[Crossing Altar|Altar]].
-- [[Genuflection|Genuflect]] with [[Priest]].
-
-#### If there is no Compline
+### Entrance
 - Lead [[Priest]] out of the [[Cloister Walk]] door to the foot of the [[Crossing Altar]].
 - Stand square with the South side of the [[Crossing Altar|Altar]], stepping back so as to allow the [[Priest]] to pass you to the center of the foot of the [[Crossing Altar|Altar]].
 - [[Genuflection|Genuflect]] with the [[Priest]].
@@ -42,7 +31,7 @@ These rubrics are for Benediction at the [[Crossing Altar]], but can be readily 
 	- **Cue**: [[Priest]] finishes the _Benediction Collect_, and kneels.
 - Step back, and [[Genuflection|Genuflect]]. [[Priest]] will begin moving to the [[Crossing Altar|Altar]].
 
-## Eucharistic Blessing
+### Eucharistic Blessing
 - Retrieve [[Thurible]]. Do **not** add more incense.
 	- **Cue**: [[Priest]] enters the [[Sanctuary]].
 - Kneel in center at foot of [[Crossing Altar|Altar]].
@@ -50,11 +39,11 @@ These rubrics are for Benediction at the [[Crossing Altar]], but can be readily 
 - When [[Priest]] starts to descend the [[Crossing Altar|Altar]], stand and return the [[Thurible]] to the [[Thurible Stand]].
 - When [[Priest]] is in his place, take the [[Humeral Veil]] from him, [[Genuflection|Genuflect]], deposit the [[Humeral Veil]] back to the pew, and then kneel in place to the right of the [[Priest]].
 
-## Divine Praises
+### Divine Praises
 - Remain kneeling. You can grab a booklet to follow along.
 - When finished, take the [[Priest]]'s booklet from him and remain kneeling.
 
-## Reposition
+### Reposition
 - _Holy God we praise Thy Name_
 - Stay kneeling. [[Priest]] reposes the Eucharist.
 - Stand in place with both booklets in hand.
@@ -62,13 +51,13 @@ These rubrics are for Benediction at the [[Crossing Altar]], but can be readily 
 - [[Priest]] returns to foot of the [[Sanctuary]].
 - [[Genuflection|Genuflect]] with the [[Priest]]. If there is a recession, hand him his booklet.
 
-## Exit
+### Exit
 
-### If there is no recession:
+### If there is no Rosary Altar procession:
 
-- Lead [[Priest]] South back to the [[Lourde's Door]].
+- Lead [[Priest]] South back to the [[Sacristy]] through the [[Lourde's Door]].
 
-### If there is a recession:
+### If there is a Rosary Altar procession:
 
 - Turn and lead the priest down the center aisle, turn right, and right again to head to the [[Rosary Altar]].
 - Stand outside of the [[Rosary Altar]] gate square with the Gospel side of the altar, facing it for the remainder.
