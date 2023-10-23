@@ -60,7 +60,7 @@ If Exposition does not follow Mass, the [[Altar]] is prepared beforehand:
 - [ ] [[Monstrance]] and [[Monstrance Stand|Stand]] in place on [[Altar]].
 
 ### Entrance
-For the Entrance (in place of the [[#Transition]]), which will happen while the Eucharist is _not_ exposted:
+For the Entrance (in place of the [[#Transition]]), which will happen while the Eucharist is _not_ exposed:
 
 - Start from [[Cloister Walk]], ring entrance bell.
 - Lead [[Priest]] out [[Lourde's Door]] to the foot of the [[Sanctuary]], stepping back to let him pass so he is in the center and [[Altar Server|Server]] on the right.
@@ -70,6 +70,7 @@ For the Entrance (in place of the [[#Transition]]), which will happen while the 
 
 ### Exposition
 After the [[Genuflection]], the [[Priest]] will enter the [[Sanctuary]] to expose the Eucharist:
+
 - Kneel at the foot of the [[Sanctuary]].
 - Wait until the [[Priest]] exposes the Eucharist, then stand as he exits the [[Sanctuary]] and joins you.
 - Continue from [[#Incensation]] above.
