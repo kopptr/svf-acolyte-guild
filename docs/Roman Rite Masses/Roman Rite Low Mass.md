@@ -37,7 +37,7 @@ Stand facing the [[Ambo]].
 Sit.
 
 ### Creed, Universal Prayer
-One or both of these may be omitted, especially for Low [[Mass]]. If they are performed, stand. Face South during the _Creed_, and the direction of whichever [[Minister]] is speaking during the _Universal Prayer_.
+One or both of these may be omitted. If they are performed, stand. Face South during the _Creed_, and the direction of whichever [[Minister]] is speaking during the _Universal Prayer_.
 
 ### Offertory
 See [[Offertory]], especially [[Offertory#Sung and Low Mass]]. Depending on the [[Mass]], the cue could be the [[Celebrant]] approaching the [[Crossing Altar|Altar]] or [[Credence Table]] from the [[Ambo]] after the _Homily_, or the start of an Offertory Chant. The [[Altar Server|Server]] must pay close attention.
