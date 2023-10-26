@@ -8,8 +8,7 @@
 [[Roman Rite Solemn Mass at the High Altar#Preparation]], except:
 
 - [ ] [[High Altar#Angel Candles]] **unlit**.
-- [ ] Candles switched out for unbleached candles #liturgy-todo 
-- [ ] Use simpler [[Processional Candle|Processional Candles]] (wooden ones), and simpler torches if we have them.
+- [ ] Candles switched out for unbleached candles (should be done the day before).
 - [ ] No flowers are used.
 
 ## Order of Mass
