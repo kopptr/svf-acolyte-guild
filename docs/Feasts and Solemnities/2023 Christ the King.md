@@ -1,4 +1,5 @@
 [[Roman Rite Solemn Pontifical Mass]] at the [[High Altar]].
+
 ## Mass Roles & Seating
 
 ### Clergy
@@ -127,3 +128,8 @@ See [[Eucharistic Procession#Formation]], [[Eucharistic Procession#Transition to
 - [[Ceremonies of the Liturgical Year|CotLY > 404-405]]
 - [[Eucharistic Procession#References]]
 - [[Roman Rite Solemn Pontifical Mass#References]]
+
+Notes from email:
+
+- Bishop Colichicco will celebrate and carry the Blessed Sacrament to the Cathedral.
+- We'll do it like Corpus Christi: Mass at the low altar, but exposition at the high altar. There will be a renewal of the consecration to the Sacred Heart as happened last year.
