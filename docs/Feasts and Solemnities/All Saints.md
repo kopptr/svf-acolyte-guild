@@ -33,7 +33,7 @@ As normal for [[Roman Rite Solemn Mass at the High Altar]]. Then during the [[Pe
 	- Place the [[Monstrance]] on the South side of the [[Crossing Altar|Altar]].
 	- Place a Holy Hour booklet on the second step at the foot of the [[Sanctuary]].
 
-When finished, all [[Acolyte|Acolytes]] and [[Book Bearer]] return to [[Choir Stalls#High]] and kneel until the [[#Ablutions]].
+When finished, [[Acolyte|Acolytes]] and [[Book Bearer]] return to [[Choir Stalls#High]] and kneel until the [[#Ablutions]].
 
 ### Ablutions
 As normal for [[Roman Rite Solemn Mass at the High Altar]]. Then:
