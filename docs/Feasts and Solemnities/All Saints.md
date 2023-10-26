@@ -3,6 +3,7 @@
 
 ## Preparation
 [[Roman Rite Solemn Mass at the High Altar#Preparation]], except:
+
 - [ ] [[High Altar#Angel Candles]] lit.
 - [ ] [[Candelabra|Candelabrae]], [[Monstrance]], [[Monstrance Stand]], Holy Hour booklets and [[Burse]] with [[Corporal]] at the [[Credence Table]] near the [[Crossing Altar]].
 - [ ] [[Humeral Veil]] on pew for [[Benediction]].
