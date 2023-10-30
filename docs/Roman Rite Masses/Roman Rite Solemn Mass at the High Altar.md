@@ -63,12 +63,12 @@ Standby. As the _Gradual_ is ending and the Epistle is about to begin, [[Thurife
 	- Lead the [[Lucifer|Lucifers]] into [[Sanctuary]] and form up at the foot of the [[Presbytery]] facing the [[Tabernacle]] in the middle. Wait for the [[Lucifer|Lucifers]] to get into position on either side, then [[Genuflection|Genuflect]].
 	- Turn and walk West toward [[Celebrant]], stop at [[Celebrant]] and let [[Lucifer|Lucifers]] pass.
 	- [[Imposition of Incense|Impose Incense]].
-	- Go West to middle of black strip between [[Lucifer|Lucifers]]. If there is a [[Deacon]], face East until he's received his blessing, then turn West and lead Gospel proclaimer to [[Ambo]]. Otherwise go straight to [[Ambo]].
+	- Go West to square tile between [[Lucifer|Lucifers]]. Face East the Gospel proclaimer has reverenced the [[Altar]], then turn West and lead Gospel proclaimer to [[High Ambo]].
 - [[Lucifer|Lucifers]]:
 	- Follow [[Thurifer]] in a pair. Form up at the foot of the [[Presbytery]] on either side of the [[Thurifer]] facing the [[Tabernacle]]. [[Genuflection|Genuflect]] with the [[Thurifer]].
-	- Turn and walk West, flanking the [[Thurifer]]. When [[Thurifer]] stops, continue West, split and walk to black strip. Turn to face East.
-	- Wait until the [[Deacon]] has received his blessing, or the [[Celebrant]] has turned to approach the [[Ambo]].
-	- Turn and rejoin as a pair while processing to the front of the [[Ambo]].
+	- Turn and walk West, flanking the [[Thurifer]]. When [[Thurifer]] stops, continue West, split and walk to the two triangular tiles. Turn to face East.
+	- Wait until the Gospel proclaimer has reverenced the [[Altar]], the turn and rejoin as a pair while processing to the front of the [[High Ambo]].
+- [[Crucifer]]: When the Gospel proclaimer has reverenced the [[Altar]], turn and face the [[High Ambo]].
 
 ### Gospel
 - Standby until _Gospel_ is completed.
@@ -76,6 +76,7 @@ Standby. As the _Gradual_ is ending and the Epistle is about to begin, [[Thurife
 
 ### Homily
 - [[Thurifer]] adds charcoal before Homily is over.
+- [[Lucifer|Lucifers]] light the [[Torch|Torches]] and extinguish the [[Processional Candle|Processional Candles]].
 
 ### Credo, Universal Prayer
 - Standby.
@@ -87,7 +88,7 @@ Standby. As the _Gradual_ is ending and the Epistle is about to begin, [[Thurife
 	- The [[Thurifer]] may want to leave the [[Incense Boat]] on the [[Presbytery#Lip]] while performing the [[Imposition of Incense|Impose Incense]], and retrieving it before putting away the [[Thurible]].
 
 ### Preface
-Standby.
+Standby, turning to face East when it begins. **Cue**: _Pray Brethren..._.
 
 ### Sanctus
 - [[Lucifer|Lucifers]] and [[Thurifer]] retrieve [[Torch|Torches]] and [[Thurible]].
@@ -114,11 +115,12 @@ See [[Ablutions]], being mindful of [[Standby Formation#Considerations for the H
 
 ### Postcommunion Prayer through Dismissal
 - [[Book Bearer]] holds [[Prayers at the Chair]] books for [[Celebrant]].
+- Other [[Altar Server|Servers]] go to the [[Passageway]] and prepare items for [[#Recession]].
 
 ### Recession
 All go to [[Passageway]]. [[Crucifer]] retrieves [[Processional Crucifix]], [[Lucifer|Lucifers]] retrieve [[Processional Candle|Processional Candles]], [[Thurifer]] is empty-handed.
 
-- Wait in [[Passageway]] until [[Celebrant]] enters [[Presbytery]] to reverence the [[High Altar]], then form up at the foot of the [[Presbytery]], facing East.
+- Wait in [[Passageway]] until [[Celebrant]] enters [[Presbytery]] to kiss the [[High Altar]], then form up at the foot of the [[Presbytery]], facing East.
 	- [[Thurifer]] closest to [[High Altar]],
 	- [[Lucifer]] 1, [[Crucifer]], [[Lucifer]] 2 behind.
 - When [[Celebrant]] descends [[High Altar]], all turn and recess out of the [[Sanctuary]], and then out of the front of the church.

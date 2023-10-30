@@ -46,7 +46,7 @@ As normal for [[Roman Rite Solemn Mass at the High Altar]]. Then:
 - The [[Book Bearer]] bears the [[Prayers at the Chair]] book as normal.
 - [[Thurifer]] imposes incense.
 
-### Litany of Saints Procession
+## Litany of Saints Procession
 **Cue**: _Let us proceed in peace_. **In the name of Christ, Amen**.
 
 - [[Book Bearer]] returns [[Prayers at the Chair]] book and heads immediately to [[Passageway]] and receives [[Processional Crucifix]] from an [[Acolyte]].
@@ -62,6 +62,7 @@ As normal for [[Roman Rite Solemn Mass at the High Altar]]. Then:
 	- West in the aisle between the main aisle and the confessionals toward the [[Holy Name Chapel]]. Turn right.
 	- North toward the main aisle, turn right.
 	- East up the main aisle.
+- Pace: **very slow**. The goal is to form up in front of the [[Sanctuary]] by the end of the litany, without spending a ton of time standing there.
 
 As the procession approaches the [[Sanctuary]], break formation:
 
@@ -70,7 +71,7 @@ As the procession approaches the [[Sanctuary]], break formation:
 - [[Schola Cantorum]] #liturgy-todo.
 - [[Celebrant]] stands at the foot of the [[Crossing Altar]], where he would normally stand during [[Exposition of the Blessed Sacrament|Exposition]].
 
-### Exposition
+## Exposition
 See [[Exposition of the Blessed Sacrament#Modifications for Exposition not following Mass]].
 
 - All [[Reverence]] with the [[Celebrant]].
