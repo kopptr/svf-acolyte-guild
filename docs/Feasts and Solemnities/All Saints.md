@@ -32,32 +32,33 @@ As normal for [[Roman Rite Solemn Mass at the High Altar]]. Then during the [[Pe
 	- Place the [[Monstrance Stand]] centered on the [[Corporal]].
 	- Place the [[Monstrance]] on the South side of the [[Crossing Altar|Altar]].
 	- Place a Holy Hour booklet on the second step at the foot of the [[Sanctuary]].
+	- Adjust the microphone so that it points West.
+	- Relight [[Processional Candle|Processional Candles]] (as usual).
 
 When finished, [[Acolyte|Acolytes]] and [[Book Bearer]] return to [[Choir Stalls#High]] and kneel until the [[#Ablutions]].
 
 ### Ablutions
 As normal for [[Roman Rite Solemn Mass at the High Altar]]. Then:
 
-- The [[Celebrant]] will expose the Eucharist at the [[Crossing Altar]]. Kneel as He passes if in the [[Choir Stalls]], or [[Genuflection|Genuflect]] if standing elsewhere.
 - When the [[Celebrant]] returns to his chair, the [[Acolyte|Acolytes]] meet him and assist him in changing into his [[Cope]], then return to the [[Passageway]] and ready the [[Processional Candle|Processional Candles]] and [[Processional Crucifix]].
  
 ### Postcommunion Prayer
-- The [[Book Bearer]] bears the book as normal.
+- The [[Book Bearer]] bears the [[Prayers at the Chair]] book as normal.
 - [[Thurifer]] imposes incense.
 
 ### Litany of Saints Procession
-**Cue**: [[Celebrant]] intones _Let us proceed in peace_. Procession begins.
+**Cue**: _Let us proceed in peace_. **In the name of Christ, Amen**.
 
 - [[Book Bearer]] returns [[Prayers at the Chair]] book and heads immediately to [[Passageway]] and receives [[Processional Crucifix]] from an [[Acolyte]].
-- The [[Altar Server|Servers]] lead the [[Procession]] using the usual [[Procession#Formation]], processing directly from the [[Passageway]], reverencing _neither_ the [[Tabernacle]] _nor_ the exposed Eucharist along the way.
+- When the [[Celebrant]] enters the [[Presbytery]] to kiss the [[High Altar]], [[Altar Server|Servers]] form up at the foot of the [[Presbytery]] facing East.
+- When the [[Celebrant]] descends the [[High Altar]], [[Altar Server|Servers]] turn West and lead the [[Procession]] using the usual [[Procession#Formation]].
 - Route:
-	- West through the middle of the [[Sanctuary]], passing the [[Celebrant]]
-		- The [[Schola Cantorum]] and [[Celebrant]] join.
+	- West through the middle of the [[Sanctuary]], the [[Schola Cantorum]] joins.
 	- Around the right/North side of the [[Crossing Altar]] and West out of the [[Sanctuary]].
 	- West down the main aisle, turn right.
 	- North toward the [[St. Patrick Chapel]], turn right.
 	- East toward the [[Rosary Altar]], turn right.
-	- South toward the [[Lourde's Door]], in front of the main pews. Do not stop to reverence when crossing the [[Sanctuary]]. Turn right.
+	- South toward the [[Lourde's Door]], in front of the main pews. Do **not** stop to reverence when crossing the [[Sanctuary]]. Turn right.
 	- West in the aisle between the main aisle and the confessionals toward the [[Holy Name Chapel]]. Turn right.
 	- North toward the main aisle, turn right.
 	- East up the main aisle.
@@ -65,12 +66,18 @@ As normal for [[Roman Rite Solemn Mass at the High Altar]]. Then:
 As the procession approaches the [[Sanctuary]], break formation:
 
 - [[Thurifer]] stands square with the South side of the [[Crossing Altar]], where he would normally stand during [[Exposition of the Blessed Sacrament|Exposition]].
-- [[Crucifer]], flanked by [[Lucifer|Candle bearers]], stand in front of the North-facing pews, facing the Eucharist.
-- [[Schola Cantorum]] files along the pews facing the [[Rosary Altar]], facing the Eucharist to the South.
+- [[Crucifer]], flanked by [[Lucifer|Candle bearers]], stand in front of right set of pews, left [[Lucifer|Candle bearer]] flush with the main aisle.
+- [[Schola Cantorum]] #liturgy-todo.
 - [[Celebrant]] stands at the foot of the [[Crossing Altar]], where he would normally stand during [[Exposition of the Blessed Sacrament|Exposition]].
 
 ### Exposition
-As usual for [[Exposition of the Blessed Sacrament]] starting from [[Exposition of the Blessed Sacrament#Incensation]], with extra people standing by. [[Crucifer]] and [[Lucifer|Candle bearers]] do not kneel.
+See [[Exposition of the Blessed Sacrament#Modifications for Exposition not following Mass]].
+
+- All [[Reverence]] with the [[Celebrant]].
+- [[Celebrant]] enters the [[Sanctuary]] to retrieve the Eucharist. Meanwhile:
+	- [[Thurifer]]: Stands by in place.
+	- [[Crucifer]] and [[Lucifer|Candle bearers]]: Move to the North side of the North-facing pews, and face North (i.e. the [[Crossing Altar]]).
+- Then, as usual for [[Exposition of the Blessed Sacrament]] starting from [[Exposition of the Blessed Sacrament#Incensation]], with extra people standing by. [[Crucifer]] and [[Lucifer|Candle bearers]] do not kneel.
 
 ### Exit
 When finished, the [[Crucifer]] and [[Lucifer|Candle bearers]] recess through the [[Lourde's Door]], joined by the [[Thurifer]] (empty-handed), [[Schola Cantorum]], and [[Celebrant]].

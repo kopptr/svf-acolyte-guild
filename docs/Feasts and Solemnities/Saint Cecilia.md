@@ -6,7 +6,8 @@ Saint Cecilia is the patroness of musicians and of our [[Schola Cantorum]], so e
 ## Preparation
 [[Roman Rite Solemn Mass at the High Altar#Preparation]], except:
 - [ ] [[High Altar#Angel Candles]] lit.
-- [ ] Items needed for [[Exposition of the Blessed Sacrament|Exposition]] placed nearby the [[Crossing Altar]]'s [[Credence Table]]. See [[Exposition of the Blessed Sacrament#Preparation]]
+- [ ] [[Candelabra|Candelabrae]], [[Monstrance]], [[Monstrance Stand]], Holy Hour booklets and [[Burse]] with [[Corporal]] at the [[Credence Table]] near the [[Crossing Altar]]. See [[Exposition of the Blessed Sacrament#Preparation]].
+- [ ] [[Humeral Veil]] on pew for [[Benediction]].
 
 ## Order of Mass
 As usual for [[Roman Rite Solemn Mass at the High Altar#Order of Mass]], until _Communion_.
@@ -14,10 +15,12 @@ As usual for [[Roman Rite Solemn Mass at the High Altar#Order of Mass]], until _
 ### Communion
 After receiving Communion:
 
-- The [[Thurifer]] adds charcoal to the [[Thurible]], then moves the [[Thurible Stand]] and items to its usual spot for [[Exposition of the Blessed Sacrament|Exposition]] and [[Benediction]].
-- The [[Acolyte|Acolytes]] prepare the [[Crossing Altar]] for [[Exposition of the Blessed Sacrament|Exposition]]. Since _Ablutions_ will occur at the [[High Altar]], complete preparations can be made immediately.
+- The [[Thurifer]] adds charcoal to the [[Thurible]], then moves the [[Thurible]], [[Thurible Stand|Stand]], and items to its usual spot for [[Exposition of the Blessed Sacrament|Exposition]] and [[Benediction]].
+- The [[Acolyte|Acolytes]] prepare the [[Crossing Altar]] for [[Exposition of the Blessed Sacrament|Exposition]]. Since _Ablutions_ will occur at the [[High Altar]], complete preparations can be made immediately. See [[Exposition of the Blessed Sacrament#Peoples' Communion]].
+
 ### Ablutions
 As usual for [[Roman Rite Solemn Mass at the High Altar#Order of Mass]].
+
 ### Postcommunion Prayer
 - The [[Book Bearer]] holds the book as usual. The [[Thurifer]] stands nearby.
 - After the _Postcommunion Prayer_, the [[Book Bearer]] lets the [[Thurifer]] out, then returns to his place in the [[Choir Stalls]].
