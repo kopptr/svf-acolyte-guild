@@ -34,6 +34,8 @@
 - [ ] [[Processional Crucifix]] in [[Friars' Chapel]] next to [[Passageway]].
 - [ ] [[Torch|Torches]] in [[Passageway]], lighter nearby.
 - [ ] [[Celebrant]] needs lapel microphone, and may need to be reminded to put it on before Mass.
+- [ ] [[Lectern]] and [[Aspersorium]] moved to the [[Friars' Chapel]].
+- [ ] [[Friars' Chapel]] curtain closed.
 
 ## Order of Mass
 Form up in [[Sacristy]], [[Pre-Mass Prayer with Ministers]].
