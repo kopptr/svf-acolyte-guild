@@ -8,12 +8,13 @@
 - [ ] [[Candelabra|Candelabrae]], [[Monstrance]], [[Monstrance Stand]], Holy Hour booklets and [[Burse]] with [[Corporal]] at the [[Credence Table]] near the [[Crossing Altar]].
 - [ ] [[Humeral Veil]] on pew for [[Benediction]].
 - [ ] [[Cope]] on the [[Choir Stalls]] near the [[Celebrant]]'s chair.
+
 ## Order of Mass
 As normal for [[Roman Rite Solemn Mass at the High Altar]], except:
 
 - The [[Crossing Altar]] is prepared for [[Exposition of the Blessed Sacrament|Exposition]] during the [[Peoples' Communion]].
 - The [[#Litany of Saints Procession]] immediately follows the [[Postcommunion Prayer]].
-- [[Exposition of the Blessed Sacrament|Exposition]] immediately follows the procession.
+- [[Exposition of the Blessed Sacrament|Exposition]] immediately follows the [[#Litany of Saints Procession]].
 - All exit to the [[Sacristy]] through the [[Lourde's Door]].
 
 ### Entrance through Agnus Dei
@@ -23,19 +24,17 @@ As normal for [[Roman Rite Solemn Mass at the High Altar]].
 As normal for [[Roman Rite Solemn Mass at the High Altar]]. Then during the [[Peoples' Communion]], set the [[Crossing Altar]] for [[Exposition of the Blessed Sacrament|Exposition]] (see [[Exposition of the Blessed Sacrament#Peoples' Communion]]):
 
 - [[Thurifer]]:
-	- Move [[Thurible Stand]] and accessories to spot for [[Exposition of the Blessed Sacrament|Exposition]].
 	- Add charcoal to [[Thurible]].
-	- Standby in [[Passageway]] with [[Thurible]] and [[Incense Boat]] until the [[#Litany of Saints Procession]].
+	- Refill the [[Incense Boat]] if needed.
 - [[Acolyte|Acolytes]]:
-	- Unfold and place a [[Corporal]] in the center of the [[Crossing Altar]].
+	- Unfold and place a [[Corporal]], [[Monstrance Stand]], and [[Monstrance]] on the [[Crossing Altar]].
 	- Light and place the [[Candelabra|Candelabrae]].
-	- Place the [[Monstrance Stand]] centered on the [[Corporal]].
-	- Place the [[Monstrance]] on the South side of the [[Crossing Altar|Altar]].
+	- Light the [[Crossing Altar#Candles]].
 	- Place a Holy Hour booklet on the second step at the foot of the [[Sanctuary]].
 	- Adjust the microphone so that it points West.
 	- Relight [[Processional Candle|Processional Candles]] (as usual).
 
-When finished, [[Acolyte|Acolytes]] and [[Book Bearer]] return to [[Choir Stalls#High]] and kneel until the [[#Ablutions]].
+When finished, all [[Altar Server|Servers]] return to [[Choir Stalls#High]] and kneel until the [[#Ablutions]].
 
 ### Ablutions
 As normal for [[Roman Rite Solemn Mass at the High Altar]]. Then:
@@ -67,21 +66,23 @@ As normal for [[Roman Rite Solemn Mass at the High Altar]]. Then:
 As the procession approaches the [[Sanctuary]], break formation:
 
 - [[Thurifer]] stands square with the South side of the [[Crossing Altar]], where he would normally stand during [[Exposition of the Blessed Sacrament|Exposition]].
-- [[Crucifer]], flanked by [[Lucifer|Candle bearers]], stand in front of right set of pews, left [[Lucifer|Candle bearer]] flush with the main aisle.
-- [[Schola Cantorum]] #liturgy-todo.
+- [[Crucifer]], flanked by [[Lucifer|Candle bearers]], stand to the South side of the [[Crossing Altar]], facing North.
+- [[Schola Cantorum]] splits the [[Crossing Altar]] and returns to the [[Choir Stalls]].
 - [[Celebrant]] stands at the foot of the [[Crossing Altar]], where he would normally stand during [[Exposition of the Blessed Sacrament|Exposition]].
 
 ## Exposition
 See [[Exposition of the Blessed Sacrament#Modifications for Exposition not following Mass]].
 
 - All [[Reverence]] with the [[Celebrant]].
-- [[Celebrant]] enters the [[Sanctuary]] to retrieve the Eucharist. Meanwhile:
-	- [[Thurifer]]: Stands by in place.
-	- [[Crucifer]] and [[Lucifer|Candle bearers]]: Move to the North side of the North-facing pews, and face North (i.e. the [[Crossing Altar]]).
+- [[Celebrant]] enters the [[Sanctuary]] to retrieve the Eucharist, all standby.
+- [[Thurifer]] kneels when the [[Tabernacle]] door is opened, other [[Altar Server|Servers]] remain standing.
 - Then, as usual for [[Exposition of the Blessed Sacrament]] starting from [[Exposition of the Blessed Sacrament#Incensation]], with extra people standing by. [[Crucifer]] and [[Lucifer|Candle bearers]] do not kneel.
 
 ### Exit
-When finished, the [[Crucifer]] and [[Lucifer|Candle bearers]] recess through the [[Lourde's Door]], joined by the [[Thurifer]] (empty-handed), [[Schola Cantorum]], and [[Celebrant]].
+When finished, the [[Thurifer]] recesses through the [[Lourde's Door]], joined by [[Crucifer]] and [[Lucifer|Candle bearers]], then [[Celebrant]].
+
+## After Mass
+[[Thurifer]] moves the [[Thurible]] and [[Thurible Stand|Stand]] to its place for [[Benediction]], and adds charcoal around 7:45pm.
 
 ## Benediction
 [[Benediction]] follows Holy Hour at 8pm. Only one [[Altar Server|Server]] is needed and it is done as normal.
