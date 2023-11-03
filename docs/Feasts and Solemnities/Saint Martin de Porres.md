@@ -5,6 +5,7 @@
 [[Roman Rite Low Mass#Preparations]], plus:
 
 - [ ] [[Cope]] on the [[Choir Stalls]] near the [[Celebrant]]'s seat.
+- [ ] Relic of St. Martin de Porres on the [[High Altar]].
 
 ## Order of Mass
 
