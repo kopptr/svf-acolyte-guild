@@ -20,6 +20,7 @@ As usual for [[Roman Rite Low Mass|Roman Rite Sung Mass]], then:
 ### Postcommunion Prayer
 As usual for [[Roman Rite Low Mass|Roman Rite Sung Mass]], then:
 
+- The [[Altar Server|Server]] leaves the [[Missal]] on the seat next to the [[Celebrant]]'s chair.
 - The [[Altar Server|Server]] leads the [[Celebrant]] into the [[Presbytery]] and waits at the foot of the [[High Altar]] on the right while he retrieves the relic from the [[High Altar]].
 - When [[Celebrant]] descends with the relic, [[Altar Server|Server]] [[Reverence|Reverences]] the [[High Altar]] with him.
 - All turn and the [[Altar Server|Server]] leads the [[Procession]].
