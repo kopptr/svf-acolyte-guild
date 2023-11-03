@@ -12,4 +12,5 @@ https://calendar.google.com/calendar/ical/acolytes%40svsc.info/public/basic.ics
 ```
 - [[The Guild Prayer]], to be prayed each day by enrolled [[Guild of St. Stephen|Guild]] members.
 - Rubrics for [[Roman Rite Solemn Mass]], i.e. typical Sunday [[Mass]].
+- [[Epiclesis]] (for memorization by the [[Bell Ringer]]).
 - A listing of the different [[Mass|Masses]] the [[Guild of St. Stephen|Guild]] serves.
