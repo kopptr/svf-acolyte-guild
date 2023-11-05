@@ -33,7 +33,7 @@
 ## Order of Mass
 As usual for [[Roman Rite Solemn Pontifical Mass]], transitioning into [[Eucharistic Procession]], in particular see [[Eucharistic Procession#Transition from Mass]], except:
 
-- After _Exposition_, the [[Bishop]] [[Celebrant]] leads the consecration prayer to Christ the King. When he rises:
+- After _Exposition_, the [[Bishop]] [[Celebrant]] leads the consecration prayer to Christ the King.
 
 ## Procession
 As [[Eucharistic Procession]], particularly [[Eucharistic Procession#Transition to Procession]]. No stational altars until the final destination at St. Patrick's.
