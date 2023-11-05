@@ -34,21 +34,20 @@ As usual for [[Roman Rite Solemn Mass]], with:
 - [ ] A third [[Lavabo]] set in the [[Sacristy]].
 - [ ] An extra metal platter on the [[Credence Table]] on which to put the [[Bishop]]'s skullcap.
 
-Depending on the [[Bishop]]'s preference, it may be appropriate to formally receive and vest the [[Bishop]] before Mass[^formal_reception].
-
 [^extra_candle]: See [[Ceremonies of the Modern Roman Rite|CotMRR > p474]], [[Ceremonies Explained for Servers|CEfS > p900]].
 [^ewer]: See [[Ceremonies of the Modern Roman Rite|CotMRR > par. 476]].
-[^formal_reception]: See [[Ceremonies of the Modern Roman Rite|CotMRR > p479-482]].
 
 ## Order of Mass
 
 ### Prior to Mass
+- It may be appropriate to formally receive the [[Bishop]] before Mass[^formal_reception].
 - Before the [[Bishop]] [[Celebrant]] vests, [[Acolyte|Acolytes]] 1 and 2 assist him in washing his hands with the [[Lavabo]] set[^premass_hands]:
 	- Approach with items, [[Major Inclination|Profound Bow]]
 	- Wash hands
 	- [[Major Inclination|Profound Bow]], depart.
 
 [^premass_hands]: [[Ceremonies Explained for Servers|CEfS > par. 905]], [[Ceremonies of the Modern Roman Rite|CotMRR > par. 481]].
+[^formal_reception]: See [[Ceremonies of the Modern Roman Rite|CotMRR > p479-482]].
 ### Introductory Rites
 
 #### Entrance
