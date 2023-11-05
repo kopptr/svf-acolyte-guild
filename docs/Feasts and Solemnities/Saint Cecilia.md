@@ -1,5 +1,5 @@
 ## Overview
-[[Roman Rite Solemn Mass at the High Altar]]. In 2023 this falls on a Wednesday, so [[Exposition of the Blessed Sacrament|Exposition]], Holy Hour and [[Benediction]] follow as usual.
+[[Roman Rite Solemn Mass at the High Altar]]. In 2023 this falls on a Wednesday, so [[Exposition of the Blessed Sacrament|Exposition]], Holy Hour, and [[Benediction]] follow as usual.
 
 Saint Cecilia is the patroness of musicians and of our [[Schola Cantorum]], so expect the music to be top notch.
 
@@ -22,14 +22,15 @@ After receiving Communion:
 As usual for [[Roman Rite Solemn Mass at the High Altar#Order of Mass]].
 
 ### Postcommunion Prayer
-- The [[Book Bearer]] holds the book as usual. The [[Thurifer]] stands nearby.
-- After the _Postcommunion Prayer_, the [[Book Bearer]] lets the [[Thurifer]] out, then returns to his place in the [[Choir Stalls]].
+- The [[Book Bearer]] holds the book as usual. The [[Thurifer]] stands nearby in front of the [[Choir Stalls]] between the [[Celebrant]] and the [[Presbytery]].
+- After the _Postcommunion Prayer_, the [[Book Bearer]] then returns to his place in the [[Choir Stalls]].
 - The [[Thurifer]] leads the [[Celebrant]] to the foot of the [[Sanctuary]] as at [[Exposition of the Blessed Sacrament#If Exposition directly follows Mass]]. 
 ### Exposition
 The [[Thurifer]] attends as at  [[Exposition of the Blessed Sacrament#If Exposition directly follows Mass]]. Other [[Altar Server|Servers]] remain in [[Choir Stalls]].
 
 ### Recession
-- When the [[Thurifer]] and [[Celebrant]] enter the [[Sanctuary]], the other [[Altar Server|Servers]] remain in their [[Choir Stalls]] until they leave through the [[Passageway]], then exit their [[Choir Stalls]], reverence, and follow them to the [[Sacristy]].
+- The [[Thurifer]] leads the [[Celebrant]] out the [[Lourde's Door]].
+- The other [[Altar Server|Servers]] remain in their [[Choir Stalls]] until the exit is complete, and then return to the [[Sacristy]] in an orderly fashion through the [[Passageway]] to meet the [[Celebrant]] and [[Thurifer]] for the [[Post-Mass Prayer with Ministers]].
 
 ## Benediction
 See [[Benediction]], only one [[Altar Server|Server]] assists.
