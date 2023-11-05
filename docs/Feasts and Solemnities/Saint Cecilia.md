@@ -1,5 +1,5 @@
 ## Overview
-[[Roman Rite Solemn Mass at the High Altar]], with [[Exposition of the Blessed Sacrament|Exposition]]. Holy Hour and [[Benediction]] follow as usual.
+[[Roman Rite Solemn Mass at the High Altar]]. In 2023 this falls on a Wednesday, so [[Exposition of the Blessed Sacrament|Exposition]], Holy Hour and [[Benediction]] follow as usual.
 
 Saint Cecilia is the patroness of musicians and of our [[Schola Cantorum]], so expect the music to be top notch.
 
@@ -30,3 +30,6 @@ The [[Thurifer]] attends as at  [[Exposition of the Blessed Sacrament#If Exposit
 
 ### Recession
 - When the [[Thurifer]] and [[Celebrant]] enter the [[Sanctuary]], the other [[Altar Server|Servers]] remain in their [[Choir Stalls]] until they leave through the [[Passageway]], then exit their [[Choir Stalls]], reverence, and follow them to the [[Sacristy]].
+
+## Benediction
+See [[Benediction]], only one [[Altar Server|Server]] assists.
