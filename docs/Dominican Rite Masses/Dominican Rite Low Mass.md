@@ -37,7 +37,7 @@ Begin in [[Sacristy]] with [[Pre-Mass Prayer with Ministers]]:
 - Step away from the [[Altar]] so the [[Celebrant]] can walk past you.
 - When he does, move square to the Epistle side.
 
-[^entrance]: [[Dominican Ceremonial for Mass and Benediction|DCfMaB > p. 21]].
+[^entrance]: [[Dominican Ceremonial for Mass and Benediction|DCfMaB > pp. 20-21]].
 
 ### Approach and Preparation of the Chalice
 - [[Major Inclination|Profound Bow]] with [[Celebrant]][^entrance].
@@ -70,24 +70,39 @@ Begin in [[Sacristy]] with [[Pre-Mass Prayer with Ministers]]:
 [^foot_prayers]: [[Dominican Ceremonial for Mass and Benediction|DCfMaB > pp. 23-24]]. This notes that if the server does not have the prayer memorized, they should only be said once by the priest. It would be good for the server to memorize the prayers, but it is acceptable to use the prayer sheet like the [[Celebrant]] does.
 ### Introit through Alleluia/Tract
 - Sign of the Cross with the [[Celebrant]], reply **Amen**.
+- Remain kneeling through the _Introit_
+
+### Kyrie
 - With the [[Celebrant]], recite the [[Kyrie#Dominican Rite]] in the call-and-response form.
+
+### Gloria
+- The _Gloria_ is usually omitted. Consult the [[Ordo#Dominican Rite]] if you want to know beforehand if it will be said.
+- If included, remain kneeling while the [[Celebrant]] says the _Gloria_.
+
+### Collect
 - _Dominus vobiscum_ | **et cum spiritu tuo**.
+- Remain kneeling while the [[Celebrant]] reads the _Collect_.
 - _Per omnia saecula saeculorum_ | **Amen**.
-- Depending on the occasion, there may be multiple lessons or just one. The last one is always[^lesson] an Epistle. Make no response to any of the readings[^epistle].
+
+### Lessons
+- Depending on the occasion, there may be multiple lessons or just one[^lesson]. You can consult the [[Ordo#Dominican Rite]] if you want to know beforehand.
+- Remain kneeling for all of the lessons, making no response to any of the readings[^epistle].
+
+### Alleluia/Tract
 - Stand at _Alleluia_ (or in [[Lent]], the start of the Tract). Cross [[Altar]], [[Moderate Inclination|Moderate Bow]], stand square at Epistle side.
 	- During [[Lent]] the [[Celebrant]] will rest his left hand on the [[Altar]] to signal to you that the Tract has started.
-- When [[Celebrant]] finishes and moves, approach from the side and grab [[Missal]] & [[Missal Stand|Stand]].
+- When [[Celebrant]] finishes and moves, approach from the side and grab [[Missal]] and [[Missal Stand|Stand]].
 - [[U Motion]] and place the [[Missal]] on Gospel side facing Northeast.
 - Move off to North side, face [[Missal]].
 
-[^lesson]: I got this from skimming [Catholic Encyclopedia](https://www.newadvent.org/cathen/09193a.htm), grain of salt.
+[^lesson]: According to the [Catholic Encyclopedia](https://www.newadvent.org/cathen/09193a.htm), the last lesson is always and Epistle.
 [^epistle]: [[Ceremonies of the Dominican Rite|CotDR > A1p7]].
 
 ### Gospel
 - _Dominus vobiscum_ | **et cum spiritu tuo**.
 - _Sequentia/Initium Sancti Evangelii secundum N._ | **Gloria tibi Domine**[^gospel_response].
 - With [[Celebrant]], three small crosses, one large sign of cross.
-- At the first mention of _Jesus_ by the [[Celebrant]], head bow, descend [[Altar]], cross [[Altar]], [[Moderate Inclination|Moderate Bow]], stand at Epistle side **but face the Missal**.
+- At the first mention of _Jesus_ by the [[Celebrant]], [[Minor Inclination|Head Bow]], descend [[Altar]], cross [[Altar]], [[Moderate Inclination|Moderate Bow]], stand at Epistle side **but face the Missal**.
 - Sign of cross at end of Gospel, no verbal response.
 
 [^gospel_response]: [[Dominican Ceremonial for Mass and Benediction|DCfMaB > p. 26]] has the [[Acolyte]] giving the response, which contradicts other sources.
@@ -95,12 +110,16 @@ Begin in [[Sacristy]] with [[Pre-Mass Prayer with Ministers]]:
 ### Homily
 The Homily may be omitted for masses on ferial days, which include most of these masses.
 
-- Wait for [[Celebrant]] to descend the [[Altar]] in the middle, then move to the doorway facing the [[Celebrant]] for the Homily. If there is no homily, face the [[Altar]] so as to be square on the Epistle side.
-- When the _Homily_ is completed, you may need to assist the [[Celebrant]] with his [[Maniple]]. Ascend the [[Altar]] from the Epistle side, approach the [[Celebrant]], hold the [[Maniple]] open so he can put his arm through it. Depending on the particular [[Maniple]], clip it to the sleeve of his [[Alb]]. When finished, descend the [[Altar]] through the Epistle Side.
-- Stand square at the Epistle Side.
+- If there is no homily, face the [[Altar]] so as to be square on the Epistle side.
+- If there is a _Homily_:
+	- Wait for [[Celebrant]] to descend the [[Altar]] in the middle, then move to the doorway facing the [[Celebrant]] for the Homily.
+	- When the _Homily_ is completed, you may need to assist the [[Celebrant]] with his [[Maniple]]. Ascend the [[Altar]] from the Epistle side, approach the [[Celebrant]], hold the [[Maniple]] open so he can put his arm through it. Depending on the particular [[Maniple]], clip it to the sleeve of his [[Alb]]. When finished, descend the [[Altar]] through the Epistle Side.
+	- Stand square at the Epistle Side.
 
 ### Credo
-The _Credo_ is usually omitted. If it is said, recite it with the [[Celebrant]] while standing square at the Epistle Side. Kneel at the foot of the [[Altar]] as the [[Celebrant]] does for _Et incarnatus... factus est_.
+The _Credo_ is usually omitted. If it is said, recite it with the [[Celebrant]] while standing square at the Epistle Side. Kneel on the [[Bottom Step]][^top_step] of the [[Altar]] as the [[Celebrant]] does for _Et incarnatus... factus est_.
+
+[^top_step]: See [[Rosary Altar#Steps]].
 
 ### Offertory
 - _Dominus vobiscum_ | **et cum spiritu tuo**.
@@ -128,12 +147,11 @@ As the [[Celebrant]] begins the [[Sanctus]]:
 - Retrieve [[Hand Bells]] and kneel on the [[Top Step]][^top_step] on the Epistle side.
 
 [^sanctus]: [[Ceremonies of the Dominican Rite|CotDR > a1p10]] makes no mention of how many times it should be rung.
-[^top_step]: See [[Rosary Altar#Steps]].
 
 ### Eucharistic Prayer
 - Perform one short bell ring at the _Epiclesis_[^epiclesis]
 	- **Cue**: The [[Celebrant]] makes 5 signs of the cross over the [[Altar]]'s contents.
-- Then immediately stand, descend [[Altar]] to middle, [[Moderate Inclination|Moderate Bow]], then kneel on top step just to the right of the [[Celebrant]], keeping the bells.
+- Then immediately stand, descend [[Altar]] to middle, [[Moderate Inclination|Moderate Bow]], then kneel on [[Top Step]] just to the right of the [[Celebrant]], keeping the bells.
 - First elevation:
 	- First short bell when [[Celebrant]]'s knee hits the floor. At this point also grab the [[Chasuble]].[^elevation]
 	- Lift the [[Celebrant]]'s [[Chasuble]] as he's lifting the Eucharist.
