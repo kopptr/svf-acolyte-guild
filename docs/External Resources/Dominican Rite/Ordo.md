@@ -1,0 +1,5 @@
+An _Ordo_ is a calendar that lists the details of liturgies for a particular liturgical year. It is a useful reference material for liturgists, and [[Altar Server|Servers]] will find it useful as well. Need to know if a Saint's feast is skipped because it falls on a Sunday, or moved to the following Monday instead? Or if the Gloria or Creed is said for a particular feast? An _Ordo_ has this information.
+## Roman Rite
+Paulist Press publishes the best Ordo for the [[Roman Rite]]. It can be purchased from their [website](https://www.paulistpress.com/Default.aspx). They also have ebook and app versions.
+## Dominican Rite
+The Dominican Province of Scotland and Wales publishes the best Ordo for the [[Dominican Rite]], which can be downloaded for free from their [website](https://www.english.op.org/news-and-events/ordo-liturgical-calendar/).
