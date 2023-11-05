@@ -34,10 +34,11 @@ As usual for [[Roman Rite Solemn Mass]], with:
 - [ ] A third [[Lavabo]] set in the [[Sacristy]].
 - [ ] An extra metal platter on the [[Credence Table]] on which to put the [[Bishop]]'s skullcap.
 
-#liturgy-todo Do we need to formally receive and vest the [[Bishop]] before Mass? See [[Ceremonies of the Modern Roman Rite|CotMRR > p479-482]].
+Depending on the [[Bishop]]'s preference, it may be appropriate to formally receive and vest the [[Bishop]] before Mass[^formal_reception].
 
 [^extra_candle]: See [[Ceremonies of the Modern Roman Rite|CotMRR > p474]], [[Ceremonies Explained for Servers|CEfS > p900]].
-[^ewer]: See [[Ceremonies of the Modern Roman Rite|CotMRR > par. 476]]
+[^ewer]: See [[Ceremonies of the Modern Roman Rite|CotMRR > par. 476]].
+[^formal_reception]: See [[Ceremonies of the Modern Roman Rite|CotMRR > p479-482]].
 
 ## Order of Mass
 
