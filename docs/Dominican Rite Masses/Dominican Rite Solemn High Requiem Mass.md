@@ -13,16 +13,17 @@ Typically, though optionally, Mass is followed by [[#Absolution at the Catafalqu
 - [[#Absolution at the Catafalque]] follows the preaching.
 
 ## Roles
-- [[Senior Acolyte]]
-- [[Junior Acolyte]]
-- [[Crucifer]]
+- [[Senior Acolyte]].
+- [[Junior Acolyte]].
+- [[Crucifer]].
+- [[Thurifer]], only if [[#Absolution at the Catafalque]] follows Mass.
 - Extra [[Altar Server|Servers]] may sit in choir, vested. They may receive Communion with the core [[Altar Server|Servers]], and one may assist with the [[Paten]].
 ## Preparation
 As [[Dominican Rite Solemn High Mass]], except:
 
 - [ ] [[Humeral Veil]] starts on the [[High Altar]], between the [[Tabernacle]] and the [[Missal Stand]] on the Epistle Side (instead of in the [[Sacristy]]).
 - [ ] The Book of the Gospels starts on the [[High Altar]], in the corner on the Gospel Side (instead of being carried by the [[Subdeacon]]).
-- [ ] No incense is used, so the [[Thurible]] and accessories need only be prepared if [[#Absolution at the Catafalque]] follows Mass.
+- [ ] Incense is only prepared if [[#Absolution at the Catafalque]] follows Mass.
 - [ ] If used, the [[Catafalque]] is set in place of the [[Crossing Altar]] and its candles.
 
 ## Order of Mass
@@ -39,7 +40,7 @@ As normal for [[Dominican Rite Solemn High Mass]], except:
 - There is no _Gloria_:
 	- The [[Chalice Stack]] and [[Humeral Veil]] are already on the [[Altar]].
 - There are two pairs of [[Swing Movement]]s to and from the [[Epistle and Gospel-side Formation|Epistle-side Formation]], one for the _Introit/Kyrie_ and one for the _Collect_.
-	- There is no option to sit for the sung _Kyrie_, so the [[Minister|Ministers]] remain on their steps.
+	- There is no option to sit for the sung _Kyrie_, so the [[Minister|Ministers]] remain on their steps, lined up in an East-West line square with the Epistle side of the [[High Altar]].
 - The _Collect_ happens as normal including the transition into the Priest's and People's _Epistle_.
 
 ### Epistles and Private Gospel
@@ -59,7 +60,7 @@ As at [[Dominican Rite Solemn High Mass]], except:
 - Neither the [[Deacon]] nor the [[Celebrant]] kiss the Book of Gospels.
 - The _Credo_ is omitted.
 - [[Crucifer]] duties are complete after returning from the _Gospel_, he is effectively just a [[Altar Server|Server]] in choir at this point.
-- If [[#Absolution at the Catafalque]] follows Mass, the _Homily_ is omitted here, and [[Altar Server|Servers]] transition to the [[#Offertory Verse]] after dropping their [[Processional Candle|Processional Candles]].
+- If [[#Absolution at the Catafalque]] follows Mass, the _Homily_ is omitted here, and [[Altar Server|Servers]] transition to the [[#Offertory Verse]] after dropping their [[Processional Candle|Processional Candles]], rather than returning to their seats.
 
 ### Offertory Verse
 As at [[Dominican Rite Solemn High Mass]], except:
@@ -75,6 +76,7 @@ As at [[Dominican Rite Solemn High Mass]], except:
 As at [[Dominican Rite Solemn High Mass]], except:
 
 - No Preface Incensation.
+
 ### Sanctus
 As at [[Dominican Rite Solemn High Mass]], except:
 
@@ -103,7 +105,9 @@ As at [[Dominican Rite Solemn High Mass]], except:
 As at [[Dominican Rite Solemn High Mass]].
 
 ### Ablutions
-As at [[Dominican Rite Solemn High Mass]].
+As at [[Dominican Rite Solemn High Mass]], except:
+
+- If the [[#Absolution at the Catafalque]] is to follow Mass, the [[Thurifer]] should light the charcoal at this point.
 
 ### Communion Verse, Post-Communion Prayer, and Dismissal
 As at [[Dominican Rite Solemn High Mass]], except:
@@ -143,4 +147,4 @@ All process from the [[Lourde's Door]] to the foot of the [[Sanctuary]] by way o
 ### Exit
 - The [[Minister|Ministers]] exit the [[Sanctuary]] and stand between the [[Altar Server|Servers]] and the [[Sanctuary]], facing East.
 - All [[Reverence]] together.
-- All recess to the Lourde's door by the way they came, in the same [[Procession#Formation]].
+- All recess to the [[Lourde's Door]] by the way they came, in the same [[Procession#Formation]].
