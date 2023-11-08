@@ -5,6 +5,13 @@
 - There is no _Gloria_. The [[Chalice Stack]] is brought to the [[High Altar|Altar]] at the start of [[Mass]], rather than during the _Gloria_.
 - There is no _Credo_.
 - The priest does not give any blessings.
+
+Typically, though optionally, Mass is followed by [[#Absolution at the Catafalque]]. If this is done:
+
+- _Homily_ is omitted during Mass.
+- Immediately following Mass, the [[Celebrant]] changes into a [[Cope]] in the [[Sacristy]], preaches a _Homily_, then returns to the [[Sacristy]].
+- [[#Absolution at the Catafalque]] follows the preaching.
+
 ## Roles
 - [[Senior Acolyte]]
 - [[Junior Acolyte]]
@@ -15,7 +22,8 @@ As [[Dominican Rite Solemn High Mass]], except:
 
 - [ ] [[Humeral Veil]] starts on the [[High Altar]], between the [[Tabernacle]] and the [[Missal Stand]] on the Epistle Side (instead of in the [[Sacristy]]).
 - [ ] The Book of the Gospels starts on the [[High Altar]], in the corner on the Gospel Side (instead of being carried by the [[Subdeacon]]).
-- [ ] No incense is used, so the [[Thurible]] and accessories need not be prepared.
+- [ ] No incense is used, so the [[Thurible]] and accessories need only be prepared if [[#Absolution at the Catafalque]] follows Mass.
+- [ ] If used, the [[Catafalque]] is set in place of the [[Crossing Altar]] and its candles.
 
 ## Order of Mass
 
@@ -51,11 +59,12 @@ As at [[Dominican Rite Solemn High Mass]], except:
 - Neither the [[Deacon]] nor the [[Celebrant]] kiss the Book of Gospels.
 - The _Credo_ is omitted.
 - [[Crucifer]] duties are complete after returning from the _Gospel_, he is effectively just a [[Altar Server|Server]] in choir at this point.
+- If [[#Absolution at the Catafalque]] follows Mass, the _Homily_ is omitted here, and [[Altar Server|Servers]] transition to the [[#Offertory Verse]] after dropping their [[Processional Candle|Processional Candles]].
 
 ### Offertory Verse
 As at [[Dominican Rite Solemn High Mass]], except:
 
-- [[Acolyte|Acolytes]] must stand, help Ministers stand, and lead Ministers to [[Approach Formation]] after the _Homily_, since the _Credo_ is omitted.
+- If there was a _Homily_, [[Acolyte|Acolytes]] must stand, help Ministers stand, and lead Ministers to [[Approach Formation]] after the _Homily_, since the _Credo_ is omitted.
 
 ### Offertory
 As at [[Dominican Rite Solemn High Mass]], except:
@@ -79,7 +88,7 @@ As at [[Dominican Rite Solemn High Mass]], except:
 ### Pater Noster
 As at [[Dominican Rite Solemn High Mass]], except:
 
-- The [[Junior Acolyte|JA]] does not need to assist the [[Subdeacon]] with the [[Humeral Veil]] (since it was not donned at the _Sanctus_).
+- The [[Junior Acolyte|JA]] does not need to assist the [[Subdeacon]] with the [[Humeral Veil]] (since it was not donned at the [[#Sanctus]]).
 
 ### Agnus Dei
 As at [[Dominican Rite Solemn High Mass]], except:
@@ -103,3 +112,35 @@ As at [[Dominican Rite Solemn High Mass]], except:
 
 ### Last Gospel and Recession
 As at [[Dominican Rite Solemn High Mass]]. No blessing is given to the [[Acolyte|Acolytes]] in the [[Sacristy]] after [[Mass]].
+
+## Absolution at the Catafalque
+This may be omitted entirely.
+
+### Vestment Change
+Immediately following Mass, the [[Acolyte|Acolytes]] assist the [[Celebrant]] in removing his [[Chasuble]] and donning his [[Cope]] in the [[Sacristy]].
+
+### Homily
+The [[Celebrant]] enters the [[Sanctuary]] and preaches. The [[Altar Server|Servers]] standby in the [[Sacristy]], or may discreetly sit in the [[Choir Stalls]]. All return to the [[Sacristy]] when the _Homily_ is finished.
+
+### Entrance
+All process from the [[Lourde's Door]] to the foot of the [[Sanctuary]] by way of [[Procession#Short Cloister Walk Procession to Crossing Altar]]:
+
+- The formation is as in [[Procession#Formation]], though the [[Deacon]] and [[Subdeacon]] hold the [[Celebrant]]'s [[Cope]].
+- The [[Thurifer]] carries the [[Thurible]] and [[Incense Boat]], the incense is not imposed before the entrance.
+- The [[Altar Server|Servers]] square up at the foot of the [[Sanctuary]]. All [[Reverence]] together.
+	- The [[Thurifer]] ascends the right side of the [[Catafalque]] and stands to the West of the Southwest [[Choir Stalls]], facing North.
+	- The [[Acolyte|Acolytes]] and [[Crucifer]] remain outside the [[Sanctuary]] facing East, lined up with the front row of pews.
+- The [[Minister|Ministers]] [[Reverence]], ascend, and stand on the East side of the [[Catafalque]], facing West.
+
+### Absolution
+- The [[Thurifer]] approaches the [[Minister|Ministers]] from their West side and [[Imposition of Incense#Standing Self Charge]] with the [[Celebrant]]'s blessing. He keeps the [[Thurible]] and returns to his previous position.
+- The [[Minister|Ministers]] circle the [[Catafalque]] three times with holy water.
+- The [[Thurifer]] approaches the [[Deacon]] from his West side, gives him the [[Thurible]], and returns to his previous position.
+- The [[Minister|Ministers]] circle the [[Catafalque]] three times with incense.
+- The [[Thurifer]] approaches the [[Deacon]] from his West side, retrieves the [[Thurible]], then descends [[Sanctuary]] steps and stands between the [[Crucifer]] and the [[Sanctuary]], facing East.
+- The [[Minister|Ministers]] finish their prayers.
+
+### Exit
+- The [[Minister|Ministers]] exit the [[Sanctuary]] and stand between the [[Altar Server|Servers]] and the [[Sanctuary]], facing East.
+- All [[Reverence]] together.
+- All recess to the Lourde's door by the way they came, in the same [[Procession#Formation]].
