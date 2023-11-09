@@ -407,7 +407,7 @@ Depending on the timing, the [[Subdeacon]] and [[Junior Acolyte|JA]] might not h
 - Immediately break [[T-Formation]] to retrieve [[Processional Candle|Processional Candles]].
 - Return to [[Approach Formation]].
 - [[Genuflection|Genuflect]] with Ministers.
-- [[Acolyte|Acolytes]] lead Ministers out of Sanctuary through the [[Passageway]] and directly into the [[Sacristy]].
+- [[Acolyte|Acolytes]] lead Ministers out of Sanctuary through the [[Passageway]] and directly into the [[Sacristy]], and prayer [[Post-Mass Prayer with Ministers#Dominican Rite]].
 - After Recession and any hymns, other [[Altar Server|Servers]] can approach foot of [[Presbytery]], [[Genuflection|Genuflect]], and then enter [[Sacristy]] through [[Passageway]].
 
 [^cruets]: [[Ceremonies of the Dominican Rite|CotDR > p2c1a5p36]] says the cruets start in the sacristy and come in with the chalice, but Fr. Reginald decided this would overcomplicate things.
