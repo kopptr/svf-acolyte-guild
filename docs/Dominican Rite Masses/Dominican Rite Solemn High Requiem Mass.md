@@ -23,7 +23,7 @@ As [[Dominican Rite Solemn High Mass]], except:
 
 - [ ] [[Humeral Veil]] starts on the [[High Altar]], between the [[Tabernacle]] and the [[Missal Stand]] on the Epistle Side (instead of in the [[Sacristy]]).
 - [ ] The Book of the Gospels starts on the [[High Altar]], in the corner on the Gospel Side (instead of being carried by the [[Subdeacon]]).
-- [ ] Incense is only prepared if [[#Absolution at the Catafalque]] follows Mass.
+- [ ] Incense is only prepared if [[#Absolution at the Catafalque]] follows Mass, and in that case charcoals start **unlit**.
 - [ ] If used, the [[Catafalque]] is set in place of the [[Crossing Altar]] and its candles.
 
 ## Order of Mass
@@ -60,12 +60,12 @@ As at [[Dominican Rite Solemn High Mass]], except:
 - Neither the [[Deacon]] nor the [[Celebrant]] kiss the Book of Gospels.
 - The _Credo_ is omitted.
 - [[Crucifer]] duties are complete after returning from the _Gospel_, he is effectively just a [[Altar Server|Server]] in choir at this point.
-- If [[#Absolution at the Catafalque]] follows Mass, the _Homily_ is omitted here, and [[Altar Server|Servers]] transition to the [[#Offertory Verse]] after dropping their [[Processional Candle|Processional Candles]], rather than returning to their seats.
+- If [[#Absolution at the Catafalque]] follows Mass, the _Homily_ is omitted here, and [[Altar Server|Servers]] transition directly to [[T-Formation]] for the [[#Offertory Verse]] after dropping their [[Processional Candle|Processional Candles]], rather than returning to their seats.
 
 ### Offertory Verse
 As at [[Dominican Rite Solemn High Mass]], except:
 
-- If there was a _Homily_, [[Acolyte|Acolytes]] must stand, help Ministers stand, and lead Ministers to [[Approach Formation]] after the _Homily_, since the _Credo_ is omitted.
+- If there was a _Homily_, [[Acolyte|Acolytes]] must stand, help Ministers stand, and lead Ministers to [[Approach Formation]] immediately following the _Homily_, since the _Credo_ is omitted.
 
 ### Offertory
 As at [[Dominican Rite Solemn High Mass]], except:
