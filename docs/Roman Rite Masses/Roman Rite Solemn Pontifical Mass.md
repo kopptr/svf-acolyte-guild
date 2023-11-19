@@ -112,15 +112,15 @@ As normal for [[Roman Rite Solemn Mass]], except:
 
 #### Ablutions
 As normal for [[Roman Rite Solemn Mass]], except:
-- The [[Bishop]] [[Celebrant]] sits in the [[Cathedra]] while the vessels are purified. The [[Priest]] [[Concelebrant|Concelebrants]] perform the _Ablutions_.
+- The [[Bishop]] [[Celebrant]] stands at the [[Cathedra]] until the Eucharist is reposed in the [[Tabernacle]], then sits in the [[Cathedra]] while the vessels are purified. The [[Priest]] [[Concelebrant|Concelebrants]] perform the _Ablutions_.
 - [[Acolyte|Acolytes]] 1 and 2 attend to the usual [[Ablutions]] duties.
 - [[Acolyte|Acolytes]] 3 and 4 wash the [[Bishop]]'s hands[^wash_bishop]:
-	- **Cue**: [[Bishop]] returns to his place after distributing Communion.
+	- **Cue**: [[Bishop]] sits in the [[Cathedra]].
 	- Retrieve [[Lavabo]] pitcher, bowl, and [[Finger Towel]].
 	- Approach [[Bishop]], [[Major Inclination|Profound Bow]].
 	- Wash and dry the [[Bishop]]'s hands.
 	- [[Major Inclination|Profound Bow]], return items to [[Credence Table]].
-- The [[Master of Ceremonies|MC]] returns the [[Bishop]] [[Celebrant]]'s skullcap after the [[Tabernacle]] is closed or the vessels are purified[^skullcap_return].
+- The [[Master of Ceremonies|MC]] returns the [[Bishop]] [[Celebrant]]'s skullcap after [[Acolyte|Acolytes]] 3 and 4 wash his hands[^skullcap_return].
 
 [^wash_bishop]: [[Ceremonies Explained for Servers|CEfS > par. 911]], [[Ceremonies of the Modern Roman Rite|CotMRR > par. 502]]
 [^skullcap_return]: [[Ceremonies Explained for Servers|CEfS > par. 911]], [[Ceremonies of the Modern Roman Rite|CotMRR > par. 502]]
