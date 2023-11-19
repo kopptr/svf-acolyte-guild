@@ -112,6 +112,7 @@ As normal for [[Roman Rite Solemn Mass]], except:
 
 #### Ablutions
 As normal for [[Roman Rite Solemn Mass]], except:
+
 - The [[Bishop]] [[Celebrant]] stands at the [[Cathedra]] until the Eucharist is reposed in the [[Tabernacle]], then sits in the [[Cathedra]] while the vessels are purified. The [[Priest]] [[Concelebrant|Concelebrants]] perform the _Ablutions_.
 - [[Acolyte|Acolytes]] 1 and 2 attend to the usual [[Ablutions]] duties.
 - [[Acolyte|Acolytes]] 3 and 4 wash the [[Bishop]]'s hands[^wash_bishop]:
