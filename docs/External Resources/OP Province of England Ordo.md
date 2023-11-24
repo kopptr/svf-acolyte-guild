@@ -1,0 +1,1 @@
+The Dominican Province of Scotland and Wales publishes the best Ordo for the [[Dominican Rite]]. It is available in paperback from [Lulu](https://www.lulu.com/shop/gregory-pearson-op/ordo-2024/paperback/product-gjn7vwy.html?page=1&pageSize=4), and as a free [PDF](https://www.english.op.org/news-and-events/ordo-liturgical-calendar/).
