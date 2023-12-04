@@ -12,7 +12,7 @@
 	- [[Aspersorium]].
 	- Ashes.
 	- [[Candelabra|Candelabrae]].
-	- [[Monstrance]] and [[Monstrance Stand]].
+	- [[Monstrance]] and [[Thabor]].
 	- Clorox wipes (for cleaning ashes off of Ministers' hands). Alternatively, lemon and bread.
 
 ## Order of Mass
@@ -39,7 +39,7 @@ When Ministers are finished imposing ashes, [[Crucifer]] assists Ministers with 
 - [[Crucifer]] and [[Thurifer]] prepare [[Crossing Altar]] for [[Exposition of the Blessed Sacrament]]:
 	- [[Crossing Altar#Candles]] lit.
 	- [[Candelabra|Candelabrae]] lit and in place.
-	- [[Corporal]], [[Monstrance Stand]], and [[Monstrance]].
+	- [[Corporal]], [[Thabor]], and [[Monstrance]].
 	- Move [[Aspersorium]] to [[Rosary Altar#Niche]]
 	- Move [[Thurible Stand]] to foot of [[Crossing Altar]] on Epistle Side. Add coals.
 - When finished, [[Lucifer|Candle bearers]] return to [[Choir Stalls#High]], [[Thurifer]] and [[Crucifer]] to [[Choir Stalls#Low]].

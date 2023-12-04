@@ -7,7 +7,7 @@ One [[Altar Server|Server]].
 ## Preparation
 For weekly Wednesday Holy Hour, usually the [[Celebrant]] will do the setup.
 
-- [ ] [[Monstrance]] and [[Monstrance Stand]] on [[Credence Table]] if Exposition follows Mass, or in place on the [[Altar]] if not.
+- [ ] [[Monstrance]] and [[Thabor]] on [[Credence Table]] if Exposition follows Mass, or in place on the [[Altar]] if not.
 - [ ] [[Candelabra|Candelabrae]] on [[Credence Table]] unlit.
 - [ ] Two Holy Hour booklets at the foot of the [[Crossing Altar]].
 - [ ] [[Thurible Stand]] at foot of [[Crossing Altar]] off to right side.
@@ -20,7 +20,7 @@ If Exposition directly follows [[Mass]], then [[Crossing Altar|Altar]] preparati
 ### Peoples' Communion
 - Light [[Candelabra|Candelabrae]] with [[Taper]], then move them to the [[Crossing Altar|Altar]]. They should form a "V" pointing to where the [[Monstrance]] will be.
 - Turn [[Crossing Altar|Altar]] microphone to face opposite direction i.e. West.
-- Move [[Monstrance Stand]] to the [[Crossing Altar]]. Place on the West side of the [[Crossing Altar|Altar]], so as not to disturb the vessels, and do so from the West side of the [[Crossing Altar|Altar]].
+- Move [[Thabor]] to the [[Crossing Altar]]. Place on the West side of the [[Crossing Altar|Altar]], so as not to disturb the vessels, and do so from the West side of the [[Crossing Altar|Altar]].
 - Move [[Monstrance]] to the [[Crossing Altar]]. Place on the Center-south side of the [[Crossing Altar|Altar]], with the hatch facing in.
 - Light [[Thurible]] coals if not already lit.
 - Place Holy Hour booklets at the foot of the [[Crossing Altar|Altar]] in the middle, if not already there.
@@ -57,7 +57,7 @@ The duties are simpler if Exposition does not directly follow [[Mass]].
 If Exposition does not follow Mass, the [[Altar]] is prepared beforehand:
 
 - [ ] [[Candelabra|Candelabrae]] lit and in place on [[Altar]].
-- [ ] [[Monstrance]] and [[Monstrance Stand|Stand]] in place on [[Altar]].
+- [ ] [[Monstrance]] and [[Thabor|Stand]] in place on [[Altar]].
 
 ### Entrance
 For the Entrance (in place of the [[#Transition]]), which will happen while the Eucharist is _not_ exposed:

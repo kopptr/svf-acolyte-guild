@@ -39,7 +39,7 @@ aliases: ["Feast of the Body and Blood of Christ"]
 
 [[Saint Catherine of Siena Church|SCS]] (Parochial Vicar of [[Saint Catherine of Siena Church|SCS]] will do this, servers don't have to):
 
-- [[Corporal]] and [[Monstrance Stand]] on [[Crossing Altar]].
+- [[Corporal]] and [[Thabor]] on [[Crossing Altar]].
 - [[Candelabrae]] on [[Crossing Altar]], lit.
 - Altar and Sanctuary candles lit.
 - [[Thurible Stand]] just outside the [[Sanctuary]].

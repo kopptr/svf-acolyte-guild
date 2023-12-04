@@ -25,7 +25,7 @@ Up to 16 roles, can omit / double up some roles if needed.
 ## Preparation
 - [ ] [[Presbytery#Niche]]:
 	- [ ] [[Monstrance]].
-	- [ ] [[Monstrance Stand]].
+	- [ ] [[Thabor]].
 	- [ ] [[Humeral Veil]].
 	- [ ] [[Umbrellino]] (nearby).
 - [ ] [[Cope]]s for [[Celebrant]] and [[Concelebrant|Concelebrants]] on [[Choir Stalls]] near [[Celebrant]]'s seat.
@@ -41,7 +41,7 @@ Up to 16 roles, can omit / double up some roles if needed.
 ### Peoples' Communion
 After receiving Communion:
 
-- The [[High Altar]] is prepared as at [[Exposition of the Blessed Sacrament]], with the [[Monstrance]] and [[Monstrance Stand]], but no booklets or [[Candelabra|Candelabrae]].
+- The [[High Altar]] is prepared as at [[Exposition of the Blessed Sacrament]], with the [[Monstrance]] and [[Thabor]], but no booklets or [[Candelabra|Candelabrae]].
 
 ### Ablutions
 The Host is exposed in a [[Monstrance]]:

@@ -6,7 +6,7 @@ Saint Cecilia is the patroness of musicians and of our [[Schola Cantorum]], so e
 ## Preparation
 [[Roman Rite Solemn Mass at the High Altar#Preparation]], except:
 - [ ] [[High Altar#Angel Candles]] lit.
-- [ ] [[Candelabra|Candelabrae]], [[Monstrance]], [[Monstrance Stand]], Holy Hour booklets and [[Burse]] with [[Corporal]] at the [[Credence Table]] near the [[Crossing Altar]]. See [[Exposition of the Blessed Sacrament#Preparation]].
+- [ ] [[Candelabra|Candelabrae]], [[Monstrance]], [[Thabor]], Holy Hour booklets and [[Burse]] with [[Corporal]] at the [[Credence Table]] near the [[Crossing Altar]]. See [[Exposition of the Blessed Sacrament#Preparation]].
 - [ ] [[Humeral Veil]] on pew for [[Benediction]].
 
 ## Order of Mass

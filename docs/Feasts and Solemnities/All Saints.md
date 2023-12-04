@@ -5,7 +5,7 @@
 [[Roman Rite Solemn Mass at the High Altar#Preparation]], except:
 
 - [ ] [[High Altar#Angel Candles]] lit.
-- [ ] [[Candelabra|Candelabrae]], [[Monstrance]], [[Monstrance Stand]], Holy Hour booklets and [[Burse]] with [[Corporal]] at the [[Credence Table]] near the [[Crossing Altar]].
+- [ ] [[Candelabra|Candelabrae]], [[Monstrance]], [[Thabor|Monstrance Stand]], Holy Hour booklets and [[Burse]] with [[Corporal]] at the [[Credence Table]] near the [[Crossing Altar]].
 - [ ] [[Humeral Veil]] on pew for [[Benediction]].
 - [ ] [[Cope]] on the [[Choir Stalls]] near the [[Celebrant]]'s chair.
 
@@ -27,7 +27,7 @@ As normal for [[Roman Rite Solemn Mass at the High Altar]]. Then during the [[Pe
 	- Add charcoal to [[Thurible]].
 	- Refill the [[Incense Boat]] if needed.
 - [[Acolyte|Acolytes]]:
-	- Unfold and place a [[Corporal]], [[Monstrance Stand]], and [[Monstrance]] on the [[Crossing Altar]].
+	- Unfold and place a [[Corporal]], [[Thabor|Monstrance Stand]], and [[Monstrance]] on the [[Crossing Altar]].
 	- Light and place the [[Candelabra|Candelabrae]].
 	- Light the [[Crossing Altar#Candles]].
 	- Place a Holy Hour booklet on the second step at the foot of the [[Sanctuary]].
