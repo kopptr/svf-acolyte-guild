@@ -1,7 +1,5 @@
----
-aliases:
-  - Michaelmas
----
+# 09-29 Michaelmas
+Formally the _Feast of Saints Michael, Gabriel, and Raphael.
 ## Overview
 [[Roman Rite Solemn Mass at the High Altar]], with:
 
