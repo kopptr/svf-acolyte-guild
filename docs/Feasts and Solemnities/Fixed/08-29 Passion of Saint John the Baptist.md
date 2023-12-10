@@ -1,0 +1,1 @@
+This memorial coincides with the anniversary of the Dominicans' ministry at [[Saint Catherine of Siena Church]].
