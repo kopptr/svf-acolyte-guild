@@ -3,12 +3,13 @@ Vigil of the Nativity of the Lord.
 ## Overview
 [[Roman Rite Solemn Mass]], with:
 
-- The Entrance Procession stop for a station at the Creche in the [[Holy Name Chapel]].
+- The Entrance Procession includes a station at the Creche in the [[Holy Name Chapel]].
 - An optional [[Sequence]] before the [[Alleluia]][^ordo_sequence], a [[Preservation of Dominican Customs|Dominican Custom]].
 - At the [[Credo]], instead of making a [[Major Inclination|Profound Bow]], [[Genuflection|Genuflect]][^credo_inclination].
 - For this great [[Solemnity]], two additional [[Lucifer|Torch bearers]] may be used for the [[Eucharistic Prayer]].
 
 ## Preparation
+- [ ] [[Roman Rite Solemn Mass#Preparation]].
 - [ ] [[Aspersorium]] placed in [[Holy Name Chapel]].
 
 ## Order of Mass
@@ -31,7 +32,7 @@ Reverence to the Altar, Greeting, Penitential Act, [[Kyrie]], [[Gloria]], and [[
 ### Liturgy of the Word
 As usual for [[Roman Rite Solemn Mass]], except:
 
-- A Sequence may precede the [[Alleluia]]. If it does, wait for the [[Alleluia]] to start the Gospel Procession.
+- A Sequence may precede the [[Alleluia]]. If it does, wait for the [[Alleluia]] to start before starting the Gospel Procession.
 - All [[Genuflection|Genuflect]] during the [[Credo]] instead of making a [[Major Inclination|Profound Bow]][^credo_inclination].
 
 ### Liturgy of the Eucharist
