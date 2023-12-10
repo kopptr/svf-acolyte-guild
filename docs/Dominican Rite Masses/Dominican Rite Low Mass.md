@@ -84,18 +84,20 @@ Begin in [[Sacristy]] with [[Pre-Mass Prayer with Ministers]]:
 - Remain kneeling while the [[Celebrant]] reads the _Collect_.
 - _Per omnia saecula saeculorum_ | **Amen**.
 
-### Lessons
-- Depending on the occasion, there may be multiple lessons or just one[^lesson]. You can consult the [[Ordo#Dominican Rite]] if you want to know beforehand.
-- Remain kneeling for all of the lessons, making no response to any of the readings[^epistle].
+### Lesson, Responsorium, Epistle, Alleluia/Tract
+- The particular liturgy will determine what is included in this portion of the Mass[^ordo]. 
+	- There will be at least one _Lesson_[^lesson]. Most [[Celebrant]]s will read it in English.
+	- The first _Lesson_ will be followed by the _Responsorium_, always in Latin.
+	- On certain feasts and solemnities, one or more additional _Lessons_ will be read, and will be followed by a said _Alleluia_ (or in [[Lent]], a _Tract_).
+- Remain kneeling for this portion of the Mass, making no response to any of the readings[^epistle].
+- After the _Responsorium_ on ferial days, or at the start of _Alleluia_ / _Tract_ when it is said:
+	- Stand, cross [[Altar]], [[Moderate Inclination|Moderate Bow]], stand square at Epistle side.
+	- When [[Celebrant]] finishes and moves, approach from the side and grab [[Missal]] and [[Missal Stand|Stand]].
+	- [[U Motion]] and place the [[Missal]] on Gospel side facing Northeast.
+	- Move off to North side, face [[Missal]].
 
-### Alleluia/Tract
-- Stand at _Alleluia_ (or in [[Lent]], the start of the Tract). Cross [[Altar]], [[Moderate Inclination|Moderate Bow]], stand square at Epistle side.
-	- During [[Lent]] the [[Celebrant]] will rest his left hand on the [[Altar]] to signal to you that the Tract has started.
-- When [[Celebrant]] finishes and moves, approach from the side and grab [[Missal]] and [[Missal Stand|Stand]].
-- [[U Motion]] and place the [[Missal]] on Gospel side facing Northeast.
-- Move off to North side, face [[Missal]].
-
-[^lesson]: According to the [Catholic Encyclopedia](https://www.newadvent.org/cathen/09193a.htm), the last lesson is always and Epistle.
+[^ordo]: Details for the Mass you are serving can be found in the [[OP Province of England Ordo]].
+[^lesson]: According to the [Catholic Encyclopedia](https://www.newadvent.org/cathen/09193a.htm), the last lesson is always an Epistle.
 [^epistle]: [[Ceremonies of the Dominican Rite|CotDR > A1p7]].
 
 ### Gospel
