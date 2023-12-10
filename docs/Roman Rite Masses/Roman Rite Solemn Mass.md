@@ -79,10 +79,10 @@ Sit.
 
 #### Acclamation (Alleluia / Tract)
 - [[Thurifer]] retrieves incense and goes to [[Celebrant]] who [[Imposition of Incense|Imposes Incense]][^alleluia_incense][^alleluia_gospel_deacon].
-- Meanwhile, [[Lucifer|Lucifers]] retrieve [[Processional Candle|Processional Candles]], take positions facing East on triangular tiles.
-- [[Thurifer]] takes charged [[Thurible]] and lines up on the square tile between [[Lucifer|Lucifers]], and faces East.
+- Meanwhile, [[Lucifer|Lucifers]] retrieve [[Processional Candle|Processional Candles]], take positions facing inward on triangular tiles.
+- [[Thurifer]] takes charged [[Thurible]] and lines up to the North of the [[Lucifer|Lucifers]] and West of the [[Credence Table]], facing South.
 - After [[Deacon]] receives blessing[^alleluia_gospel_deacon], [[Lucifer|Lucifers]] proceed to the front of the [[Ambo]], and [[Thurifer]] leads [[Deacon]] to [[Ambo]][^gospel_procession][^alleluia_gospel_deacon][^gospel_book_location]. [[Book Bearer]] and anyone else in choir turns to face the [[Ambo]][^gospel_procession].
-	- If there is no [[Deacon]], there is no blessing and the [[Altar Server|Servers]] lead the [[Celebrant]] or a [[Concelebrant]].
+	- If there is no [[Deacon]], there is no blessing and the [[Altar Server|Servers]] lead the [[Celebrant]] or a [[Concelebrant]] after he reverences the [[Altar]].
 	- Whomever is proclaiming the Gospel may wish to do so from the [[High Ambo]], in which case the [[Lucifer|Lucifers]] form up in front of that, and the [[Thurifer]] leads the [[Celebrant]] to the [[High Ambo]], letting him ascend the steps first.
 - [[Lucifer|Lucifers]] flank the [[Ambo]], facing inward.
 
