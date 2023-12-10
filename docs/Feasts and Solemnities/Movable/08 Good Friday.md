@@ -1,4 +1,4 @@
-# Celebration of Our Lord's Passion
+Formally: Celebration of Our Lord's Passion.
 
 ## Overview
 Communion Service, with [[#Adoration of the Holy Cross]].
