@@ -1,4 +1,4 @@
-The Feast of the Annunciation is technically a movable feast: It is usually celebrated on March 25th, however if March 25th fallse:
+The Feast of the Annunciation is technically a movable feast: It is usually celebrated on March 25th, however if March 25th falls:
 
 - On a Sunday during [[Lent]], it is celebrated on Monday March 26th.
 - During Holy Week or the Octave of Easter, it is celebrated the Monday after [[Divine Mercy]] Sunday.
