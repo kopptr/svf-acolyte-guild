@@ -1,10 +1,10 @@
 ---
 aliases: ["Sacred Heart"]
 ---
+Formally _The Most Sacred Heart of Jesus_. Celebrated Friday after the second Sunday after [[Pentecost Sunday]].
 ## Overview
 - [[Roman Rite Solemn Mass at the High Altar]] at [[Saint Vincent Ferrer Church|SVF]].
 - [[Procession]] to the [[Sacred Heart Altar]] in the [[Holy Name Chapel]].
-- [[Roman Rite Solemn Mass at the High Altar]] at [[Saint Vincent Ferrer Church|SVF]] as usual.
 
 ## Roles
 - [[Thurifer]]
@@ -23,13 +23,12 @@ aliases: ["Sacred Heart"]
 [[Roman Rite Solemn Mass at the High Altar]] as usual.
 
 - _Gloria_ and _Credo_ are both sung.
-- _Gospel_ is proclaimed from the [[High Pulpit]].
-- Reminder: Do not stop foot of the [[Sanctuary]] or [[Presbytery]] during the Entrance Procession to wait for the Entrance Antiphon.
+- _Gospel_ is proclaimed from the [[High Ambo]].
 
 ## Procession
 All [[Altar Server|Servers]] go to [[Passageway]] after the _Postcommunion Prayer_.
 
-- **Cue**: Let us proceed in peace. In the name of Christ, Amen.
+- **Cue**: _Let us proceed in peace._ **In the name of Christ, Amen**.
 - [[Thurifer]] [[Imposition of Incense|Imposes Incense]] at the stand and readies the [[Thurible]] and [[Incense Boat]].
 - [[Crucifer]] readies the [[Processional Crucifix]], [[Lucifer|Lucifers]] ready the [[Processional Candle|Processional Candles]].
 - When the [[Celebrant]] enters the [[Presbytery]] to reverence the [[High Altar|Altar]], [[Altar Server|Servers]] form up at the foot of the [[Presbytery]]. Wait for [[Celebrant]] to descend the [[High Altar]]. All reverence the [[High Altar|Altar]] with the [[Celebrant]].
