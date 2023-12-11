@@ -1,3 +1,5 @@
+# 12-25 - Christmas
+_The Nativity of the Lord_.
 ## Overview
 [[Roman Rite Solemn Mass]], with:
 

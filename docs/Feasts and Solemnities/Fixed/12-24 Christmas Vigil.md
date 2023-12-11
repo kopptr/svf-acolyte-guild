@@ -1,4 +1,5 @@
-Vigil of the Nativity of the Lord.
+# 12-24 - Christmas Vigil
+_The Vigil of the Nativity of the Lord_.
 
 ## Overview
 [[Roman Rite Solemn Mass]], with:

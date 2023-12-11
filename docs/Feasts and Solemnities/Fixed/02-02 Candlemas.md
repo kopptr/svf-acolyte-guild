@@ -1,3 +1,5 @@
+# 02-02 - Candlemas
+_The Presentation of the Lord_.
 ## Overview
 [[Roman Rite Solemn Mass at the High Altar]], with:
 - An optional [[Sequence]] before the [[Alleluia]][^ordo_sequence], a [[Preservation of Dominican Customs|Dominican Custom]].

@@ -1,3 +1,5 @@
+# 11-02 - All Souls
+_The Commemoration of All the Faithful Departed_.
 ## Overview
 [[Roman Rite Solemn Mass at the High Altar]], with adaptations for a _Mass for the Dead_. A Solemn Blessing may be given at the end.
 

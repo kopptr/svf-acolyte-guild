@@ -1,3 +1,5 @@
+# 11-01 - All Saints
+
 ## Overview
 [[Roman Rite Solemn Mass at the High Altar]], with the [[#Litany of Saints Procession]]. In 2023, the solemnity falls on a Wednesday, and so Mass is followed by [[Exposition of the Blessed Sacrament|Exposition]], Holy Hour, and [[Benediction]]. Normally, Mass would conclude with a [[Solemn Blessing]].
 
