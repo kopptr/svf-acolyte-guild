@@ -1,3 +1,4 @@
+# The First Sunday of Lent
 [[Roman Rite Solemn Mass]] during [[Lent]] with Litany of the Saints. No Rite of Sending of Catechumens.
 
 ## Preparation

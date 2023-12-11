@@ -1,6 +1,6 @@
----
-aliases: ["Great Vigil of Easter"]
----
+# Easter Vigil
+_The Easter Vigil in the Holy Night_.
+
 ## Overview
 [[Roman Rite Solemn Mass]] with:
 - [[#Lucernarium]].

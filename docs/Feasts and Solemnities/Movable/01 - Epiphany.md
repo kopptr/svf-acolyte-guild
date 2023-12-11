@@ -1,3 +1,6 @@
+# Epiphany
+_The Epiphany of the Lord_.
+
 Traditionally Epiphany is celebrated on January 6th, however, in the [[Archdiocese of New York]], it is celebrated on the first Sunday after [[01-01 Mary, Mother of God|Mary, Mother of God]].
 ## Overview
 [[Roman Rite Solemn Mass]], with:

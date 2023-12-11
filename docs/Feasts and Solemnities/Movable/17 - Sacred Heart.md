@@ -1,4 +1,7 @@
-Formally _The Most Sacred Heart of Jesus_. Celebrated Friday after the second Sunday after [[Pentecost Sunday]].
+# Sacred Heart
+_The Most Sacred Heart of Jesus_.
+
+Celebrated Friday after the second Sunday after [[Pentecost Sunday]].
 ## Overview
 - [[Roman Rite Solemn Mass at the High Altar]] at [[Saint Vincent Ferrer Church|SVF]].
 - [[Procession]] to the [[Sacred Heart Altar]] in the [[Holy Name Chapel]].

@@ -1,4 +1,5 @@
-Formally: Celebration of Our Lord's Passion.
+# Good Friday
+_Celebration of Our Lord's Passion_.
 
 ## Overview
 Communion Service, with [[#Adoration of the Holy Cross]].

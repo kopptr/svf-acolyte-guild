@@ -1,3 +1,5 @@
+# Pentecost Vigil
+_The Vigil Mass of Pentecost_.
 ## Overview
 [[Roman Rite Solemn Mass]], with:
 

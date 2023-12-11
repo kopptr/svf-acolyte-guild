@@ -1,3 +1,5 @@
+# Ascension
+_The Ascension of the Lord_.
 ## Overview
 - [[Roman Rite Solemn Mass at the High Altar]] at [[Saint Vincent Ferrer Church|SVF]] as usual during [[Eastertide]], except:
 	- Light the [[High Altar#Angel Candles]].

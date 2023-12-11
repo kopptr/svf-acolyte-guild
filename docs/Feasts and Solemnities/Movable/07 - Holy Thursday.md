@@ -1,4 +1,5 @@
-Evening Mass of the Lord's Supper.
+# Holy Thursday
+_Holy Thursday of the Lord's Supper_.
 
 ## Overview
 [[Roman Rite Solemn Mass]] with:

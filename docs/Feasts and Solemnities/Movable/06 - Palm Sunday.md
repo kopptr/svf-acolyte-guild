@@ -1,3 +1,5 @@
+# Palm Sunday
+_Palm Sunday of the Passion of the Lord_.
 ## Overview
 - Sext at [[Saint Catherine of Siena Church|SCS]]
 - Solemn Procession

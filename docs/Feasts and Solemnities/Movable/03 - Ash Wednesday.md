@@ -1,3 +1,5 @@
+# Ash Wednesday
+
 ## Overview
 - [[Roman Rite Solemn Mass at the High Altar]]
 - [[Exposition of the Blessed Sacrament]]

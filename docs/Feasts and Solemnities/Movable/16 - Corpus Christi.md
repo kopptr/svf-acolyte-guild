@@ -1,6 +1,5 @@
----
-aliases: ["Feast of the Body and Blood of Christ"]
----
+# Corpus Christi
+_The Feast of the Body and Blood of Christ_.
 ## Overview
 - [[Roman Rite Solemn Mass]] at [[Saint Vincent Ferrer Church|SVF]]:
 	- [[Thurifer]], four [[Lucifer|Torch bearers]] and a [[Boat Bearer]] during the Eucharistic Prayer.

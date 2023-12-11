@@ -1,6 +1,6 @@
----
-aliases: ["Trinity Sunday"]
----
+# Trinity Sunday
+_The Most Holy Trinity_.
+
 ## Overview
 - [[Roman Rite Solemn Mass]] as usual, except with incense and an alternate hymn during the Recession.
 
