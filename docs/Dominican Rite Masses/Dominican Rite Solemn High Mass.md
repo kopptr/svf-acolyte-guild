@@ -19,16 +19,16 @@ Solemn High [[Mass]] in the [[Dominican Rite]]. In addition to the [[Altar Serve
 - [ ] [[Sanctuary]]
 	- [ ] [[Sanctuary#Polychrome Candles]] lit.
 	- [ ] Epistle Lectern in middle of Sanctuary before steps to [[Presbytery]] facing the [[High Altar]], [[Ceremonies of the Dominican Rite|CotDR > p2c1a1p3]].
-	- [ ] [[Aspersorium]] stowed out of the way.
+	- [ ] [[Aspersorium]] and stand stowed out of the way.
 	- [ ] Gospel Lectern between [[Ambo]] and [[Choir Stalls#Low]], facing North.
 - [ ] [[High Altar]]:
 	- [ ] [[High Altar#Candles]] lit.
 	- [ ] Two **Unlit** Sanctus candles, one on each side of the high altar.
 	- [ ] [[High Altar#Angel Candles]] lit depending on the solemnity of the occasion.
-	- [ ] Two short [[Taper]]s, one behind either side of the altar.
+	- [ ] Two short [[Taper|Tapers]], one behind either side of the altar.
 	- [ ] [[Vesperale]] removed (and stowed on the [[Cathedra]]).
 	- [ ] Three altar cards placed out.
-	- [ ] Missal stand on Epistle side.
+	- [ ] [[Missal Stand]] on Epistle side.
 	- [ ] Book of Epistles against super-altar on Epistle side, near or behind Missal stand, CDR#p2c1a1p2
 	- [ ] Three prayer sheets on the first step of the [[High Altar]].
 - [ ] [[Presbytery]]:
@@ -75,10 +75,10 @@ Solemn High [[Mass]] in the [[Dominican Rite]]. In addition to the [[Altar Serve
 		- If the minister will stay at the [[High Altar|Altar]], return to [[T-Formation]].
 		- Otherwise, return to [[Approach Formation]], wait for the Minister, reverence the [[High Altar|Altar]], and then lead the Minister to his next destination.
 - When [[Acolyte|Acolytes]] split to either side of the [[High Altar]], e.g. when stowing the [[Processional Candle|Processional Candles]], they should take care to stay symmetrical. For example, if one [[Acolyte]] finishes first, he should wait for the other before returning to the foot of the [[High Altar]].
-- Do not [[Genuflection|Genuflect]] when carrying [[Processional Candle|Processional Candles]] and flanking the [[Processional Crucifix]], CDR#p2c1a2p11. Do [[Genuflection|Genuflect]] when carrying [[Processional Candle]] and **not** flanking the [[Processional Crucifix]].
+- Do not [[Genuflection|Genuflect]] when carrying [[Processional Candle|Processional Candles]] and flanking the [[Processional Crucifix]], CDR#p2c1a2p11. Do [[Genuflection|Genuflect]] when carrying [[Processional Candle]] and **not** flanking the [[Processional Crucifix]], including during the [[Credo]].
 
 ### Crucifer
-- Corpus faces toward the Minister contemplating, or forward when not engaging with a Minister. Specifically:
+- Corpus faces toward the [[Minister]] contemplating, or forward when not engaging with a [[Minister]]. Specifically:
 	- Forward when walking (but not leading a procession), i.e. faces your destination.
 	- Backward when leading a procession, i.e. those processing see the corpus.
 	- Forward when standing for Gospel, i.e. the Gospel reader sees the corpus.
@@ -93,37 +93,37 @@ Solemn High [[Mass]] in the [[Dominican Rite]]. In addition to the [[Altar Serve
 
 ### Procession
 - [[Thurifer]], [[Crucifer]], and any [[Altar Server|Servers]] in choir do not process, and should be in [[Choir Stalls#High]] before [[Mass]] starts.
-- Procession starts in [[Cloister Walk]]. [[Acolyte]]s bear lit [[Processional Candle]]s.
-- An [[Acolyte]] rings bell, then [[Acolyte]]s lead procession as a pair, [[Junior Acolyte|JA]] on the left, [[Senior Acolyte|SA]] on the right.
+- Procession starts in [[Cloister Walk]]. [[Acolyte|Acolytes]] bear lit [[Processional Candle|Processional Candles]].
+- An [[Acolyte]] rings bell, then [[Acolyte|Acolytes]] lead procession as a pair, [[Junior Acolyte|JA]] on the left, [[Senior Acolyte|SA]] on the right.
 - Proceed along short route. Approach [[Sanctuary]] from the side, do not square up as at [[Roman Rite Solemn Mass]].
 - Approach and enter [[Presbytery]]. Split and get into [[Approach Formation]].
 - [[Genuflection|Genuflect]] with Ministers.
 
 ### Confiteor
-- After ministers make the sign of the cross, when ministers **bow** for the _Confiteor_, [[Acolyte]]s turn inward and face one another, standing erect.
-- Respond _Qui fecit caelum et terram_ at the end, possibly as ministers stand erect.
-- After ministers finish prayers and stand erect, turn to face the [[High Altar]].
-- When ministers start to ascend the altar, split off and place [[Processional Candle]]s around the back sides of the [[High Altar]], behind the hanging cloth.
+- After [[Minister|Ministers]] make the sign of the cross, when [[Minister|Ministers]] **bow** for the _Confiteor_, [[Acolyte|Acolytes]] turn inward and face one another, standing erect.
+- Respond _Qui fecit caelum et terram_ at the end, possibly as [[Minister|Ministers]] stand erect.
+- After [[Minister|Ministers]] finish prayers and stand erect, turn to face the [[High Altar]].
+- When [[Minister|Ministers]] start to ascend the [[Altar]], split off and place [[Processional Candle|Processional Candles]] around the back sides of the [[High Altar]], behind the hanging cloth.
 - [[T-Formation]]
 
 ### Introit & Kyrie
 - [[Swing Movement]] to [[Epistle and Gospel-side Formation|Epistle-side Formation]].
-- Respond to _Introit_ and _Kyrie_ with other Ministers.
+- Respond to _Introit_ and [[Kyrie]] with other [[Minister|Ministers]].
 - [[Swing Movement]] to [[T-Formation]].
 
 ### Gloria (proper)
 - From [[T-Formation]], [[Celebrant]] intones _Gloria_.
-- Moderate bow (?) #liturgy-todo , then [[Swing Movement]] to [[Epistle and Gospel-side Formation|Epistle-side Formation]].
-- Respond to _Gloria_ with other Ministers.
+- [[Moderate Inclination|Moderate Bow]] (?) #liturgy-todo , then [[Swing Movement]] to [[Epistle and Gospel-side Formation|Epistle-side Formation]].
+- Respond to _Gloria_ with other [[Minister|Ministers]].
 - [[Swing Movement]] to [[T-Formation]].
 
 ### Transition, Gloria still sung by choir
 - Immediately transition to [[Approach Formation]].
 - Inclination: [[Celebrant]], [[Deacon]], [[Senior Acolyte|SA]] [[Major Inclination|Profound Bow]]. [[Subdeacon]] and [[Junior Acolyte|JA]] [[Genuflection|Genuflect]].
-- [[Senior Acolyte]]: Accompany [[Celebrant]] and [[Deacon]] to [[Sedilia]]. Help sit, spread cloth and kiss hand (?) #liturgy-todo . Sit.
+- [[Senior Acolyte]]: Accompany [[Celebrant]] and [[Deacon]] to [[Sedilia]]. Help sit and spread [[Gremial]]. Sit.
 - [[Junior Acolyte]] assist [[Subdeacon]] with bringing the [[Chalice]]:
-	- Lead [[Subdeacon]] to [[Sacristy]]. Help [[Subdeacon]] don [[Humeral Veil]] and wait for [[Subdeacon]] to take [[Chalice Stack]].
-	- Lead [[Subdeacon]] out of [[Sacristy]] to [[Approach Formation]] and [[Genuflection|Genuflect]] with [[Subdeacon]].
+	- Lead [[Subdeacon]] to [[Sacristy]] via [[Passageway]]. Help [[Subdeacon]] don [[Humeral Veil]] and wait for [[Subdeacon]] to take [[Chalice Stack]].
+	- Lead [[Subdeacon]] out of [[Sacristy]] to [[Approach Formation]] via [[Passageway]] and [[Genuflection|Genuflect]] with [[Subdeacon]].
 	- While [[Subdeacon]] ascends, approach Epistle side of [[High Altar]] from side.
 	- Help [[Subdeacon]] take off and fold [[Humeral Veil]].
 	- Return to right square at foot of [[High Altar|Altar]] and wait for him to join you in [[Approach Formation]].
@@ -144,23 +144,23 @@ Solemn High [[Mass]] in the [[Dominican Rite]]. In addition to the [[Altar Serve
 	- At _per omnia saecula saeculorum_, [[Swing Movement]] (stay on the same step even though others are vacant) back to middle.
 	- Immediately transition to [[Approach Formation]] ([[Subdeacon]] and [[Junior Acolyte|JA]] are missing).
 	- Lead [[Celebrant]] and [[Deacon]] to [[Sedilia]], help [[Celebrant]] sit. [[Deacon]] remains standing.
-	- Help [[Deacon]] and [[Celebrant]] with Priest's Epistle.
-- At this point, the Peoples' Epistle and the Priest's Epistle happen at the same time.
+	- Help [[Deacon]] and [[Celebrant]] with [[#Priest's Epistle (Senior Acolyte)|Priest's Epistle]].
+- At this point, the [[#Peoples' Epistle (Junior Acolyte)|Peoples' Epistle]] and the [[#Priest's Epistle (Senior Acolyte)|Priest's Epistle]] happen at the same time.
  
 ### Epistle
 
-#### Peoples' Epistle
+#### Peoples' Epistle (Junior Acolyte)
 The [[Junior Acolyte]] assists the [[Subdeacon]] with the Epistle:
 
 - From [[Epistle and Gospel-side Formation|Epistle-side Formation]], while [[#Collect]] is still being said, wait for [[Subdeacon]] to get the book of Epistles.
 - Turn and lead [[Subdeacon]] in [[Swing Movement]] to [[Approach Formation]], so that you are on his left and he is in the middle. Others are still in [[Epistle and Gospel-side Formation|Epistle-side Formation]].
-- Make a [[Major Inclination|Profound Bow]] with the [[Subdeacon]], and lead him to the Epistle Lectern, standing at his right upon arrival.
+- Make a [[Major Inclination|Profound Bow]] with the [[Subdeacon]], and lead him to the Epistle Lectern, standing at his right upon arrival, facing the [[High Altar]].
 - After [[Subdeacon]] sings the Epistle, receive the Book of Epistles.
 - If necessary, wait for [[Deacon]] and [[Senior Acolyte|SA]] to finish their work and return to the [[Sedilia]].
 - Lead [[Subdeacon]] to [[Approach Formation]], [[Major Inclination|Profound Bow]] with him at his right.
 - Lead [[Subdeacon]] to his seat.
 - Ascend [[High Altar]] from Epistle side and return the Book of Epistles.
-- Return to seat and sit for remainder of Priest's Epistle.
+- Return to seat and sit for remainder of [[#Priest's Epistle (Senior Acolyte)|Priest's Epistle]].
 
 #### Priest's Epistle (Senior Acolyte)
 The [[Senior Acolyte]] assists the [[Celebrant]] and [[Deacon]] with the Epistle:
@@ -174,7 +174,7 @@ The [[Senior Acolyte]] assists the [[Celebrant]] and [[Deacon]] with the Epistle
 
 ### Private Gospel
 - [[Junior Acolyte|JA]] helps [[Celebrant]] stand, [[Senior Acolyte|SA]] steps back to allow this.
-- All Ministers stand, [[Senior Acolyte|SA]] steps forward so [[Celebrant]] can start Gospel. All the Ministers cross themselves and face the [[Celebrant]] reading the Gospel.
+- All [[Ministers stand]], [[Senior Acolyte|SA]] steps forward so [[Celebrant]] can start Gospel. All the [[Ministers]] and the [[Junior Acolyte|JA]] cross themselves and face the [[Celebrant]] reading the Gospel.
 - [[Senior Acolyte|SA]] gives [[Missal]] to the [[Subdeacon]] and helps [[Celebrant]] and [[Deacon]] sit, and then sits.
 
 ### Chalice Preparation and Pre-Gospel
@@ -196,37 +196,38 @@ The [[Senior Acolyte]] assists the [[Celebrant]] and [[Deacon]] with the Epistle
 	- Return to [[Approach Formation]] on right square and wait for [[Subdeacon]], who will have Book of Gospels.
 	- [[Major Inclination|Profound Bow]]. Lead [[Subdeacon]] to [[Sedilia]] to hand Book of Gospels to [[Deacon]].
 	- Stand off to the side with the [[Senior Acolyte|SA]] while [[Deacon]] receives blessing.
-	- With [[Senior Acolyte|SA]], lead Ministers to [[Approach Formation]].
+	- With [[Senior Acolyte|SA]], lead [[Minister|Ministers]] to [[Approach Formation]].
  - [[Senior Acolyte]]:
-	- Sit until after [[Thurible]] is charged (alternate cue: [[Subdeacon]] descends [[High Altar|Altar]] with Book of Gospels)
+	- Sit until after [[Thurible]] is charged and the [[Subdeacon]] descends the [[High Altar|Altar]] with Book of Gospels.
 	- Help [[Celebrant]] and [[Deacon]] stand.
 	- Stand off to the side with the [[Junior Acolyte|JA]] while [[Deacon]] receives blessing.
-	- With [[Junior Acolyte|JA]], lead Ministers to [[Approach Formation]].
+	- With [[Junior Acolyte|JA]], lead [[Minister|Ministers]] to [[Approach Formation]].
 - [[Thurifer]]:
-	 - When [[Subdeacon]] and [[Junior Acolyte|JA]] bring [[Chalice]] to [[Celebrant]], enter the [[Passageway]] (with [[Crucifer]]) and ready the [[Thurible]].
+	 - When [[Subdeacon]] descends the [[Altar]] with the [[Chalice]], enter the [[Passageway]] (with [[Crucifer]]) and ready the [[Thurible]].
 	 - Enter the [[Sanctuary]], go to spot for [[Approach Formation]], [[Genuflection|Genuflect]].
 	 - When the [[Junior Acolyte|JA]] and [[Subdeacon]] return to the foot of the [[High Altar|Altar]], go to [[Celebrant]].
 	 - Say: **Benedicite**. Receive [[Celebrant]]'s blessing for the incense, and [[Imposition of Incense#Standing Self Charge]].
 	 - Return to spot for eventual [[Approach Formation]] ([[Crucifer]] should join you or be there already).
-	 - Stand until [[Acolyte|Acolytes]] have retrieved [[Processional Candle|Processional Candles]] and Ministers have bowed.
+	 - Stand until [[Acolyte|Acolytes]] have retrieved [[Processional Candle|Processional Candles]] and [[Minister|Ministers]] have bowed.
  - [[Crucifer]]:
-	 - When [[Subdeacon]] and [[Junior Acolyte|JA]] bring [[Chalice]] to [[Celebrant]], enter [[Passageway]] (with [[Thurifer]]) and ready the [[Processional Crucifix]].
+	 - When [[Subdeacon]] descends the [[Altar]] with the [[Chalice]], enter the [[Passageway]] (with [[Thurifer]]) and ready the [[Processional Crucifix]].
 	 - When [[Thurifer]] starts to return from [[Imposition of Incense|Imposing Incense]], join him in [[Approach Formation]].
 		 - Alternatively, just go out with the [[Thurifer]] and wait in [[Approach Formation]] while he [[Imposition of Incense|Imposes Incense]].
-	 - Stand until [[Acolyte|Acolytes]] have retrieved [[Processional Candle|Processional Candles]] and Ministers have bowed.
+	 - Stand until [[Acolyte|Acolytes]] have retrieved [[Processional Candle|Processional Candles]] and [[Minister|Ministers]] have bowed.
 
 ### Peoples' Gospel
 - [[Acolyte|Acolytes]] [[Major Inclination|Profound Bow]] with Ministers, other [[Altar Server|Servers]] stay erect.
 - [[Acolyte|Acolytes]] retrieve [[Processional Candle|Processional Candles]] and return to [[Approach Formation]].
-- Ministers bow, [[Altar Server|Servers]] stay erect.
+- [[Minister|Ministers]] bow, [[Altar Server|Servers]] stay erect.
 - Process out of [[Presbytery]] through [[Sanctuary]] to Gospel Lectern.
 	- [[Thurifer]], then [[Crucifer]] flanked by [[Acolyte|Acolytes]].
 	- [[Deacon]] and [[Subdeacon]] join. [[Celebrant]] stays at the [[High Altar]].
 - [[Crucifer]] and [[Acolyte|Acolytes]] form up behind the Lectern, so the reader is facing them. Corpus faces the [[Deacon]]. [[Thurifer]] stands off to the side near the lectern, ready to give [[Thurible]].
 - [[Thurifer]] gives [[Thurible]] to [[Subdeacon]], gets it back, then stands behind [[Subdeacon]] for duration of the Gospel reading.
+	- During the Gospel reading, the [[Thurifer]] holds the [[Thurible]] in one hand.
 - After the reading, the [[Subdeacon]] brings the Book of Gospels to the [[High Altar]] so that the [[Celebrant]] and [[Deacon]] can kiss it.
 - Process back to the foot of the [[Presbytery]], behind the [[Deacon]] and [[Subdeacon]], [[Thurifer]] first.
-- [[T-formation]] with [[Crucifer]] and [[Thurifer]] still present. [[Acolyte|Acolytes]] [[Major Inclination|Profound Bow]], [[Thurifer]] [[Genuflection|Genuflects]].
+- [[T-formation]] with [[Crucifer]] and [[Thurifer]] still present. [[Acolyte|Acolytes]] [[Major Inclination|Profound Bow]], [[Thurifer]] [[Genuflection|Genuflects]], [[Crucifer]] does a [[Minor Inclination|Head Bow]].
 - Formation breaks immediately:
 	- [[Acolyte|Acolytes]] break to return [[Processional Candle|Processional Candles]].
 	- [[Thurifer]] and [[Crucifer]] return to [[Passageway]] to deposit [[Thurible]] and [[Processional Crucifix]], then sit in [[Choir Stalls#High]].
@@ -234,7 +235,7 @@ The [[Senior Acolyte]] assists the [[Celebrant]] and [[Deacon]] with the Epistle
 - [[Acolyte|Acolytes]] lead Ministers to [[Sedilia]] and help them sit.
 
 ### Homily
-- Someone gives a homily, typically the [[Celebrant]]. We all sit during it, possibly helping sit/stand depending on who does it.
+- Someone gives a homily, typically the [[Celebrant]]. All [[Altar Server|Servers]] sit for it.
 - [[Thurifer]] should add coals to [[Thurible]] during homily, and [[Imposition of Incense#At the Stand]] just before it's time to enter the [[Presbytery]] for the [[#Credo]].
 - Homilist can return to seat, or join the upcoming [[Approach Formation]] directly from the [[High Ambo]]. Know this in advance to know the cue for the [[#Credo]].
 
@@ -255,7 +256,7 @@ The [[Senior Acolyte]] assists the [[Celebrant]] and [[Deacon]] with the Epistle
 
 ### Offertory Verse
 - [[Celebrant]]: _Dominus Vobiscum_, _Et cum spiritu tuo_, _Oremus_
-- [[Swing Movement]] to [[Epistle and Gospel-side Formation|Gospel-side Formation]]. [[Celebrant]] intonation.
+- [[Swing Movement]] to [[Epistle and Gospel-side Formation|Gospel-side Formation]]. [[Celebrant]] prays the verse.
 - [[Swing Movement]] to [[T-Formation]].
 - During Offertory Verse, [[Thurifer]] should enter [[Passageway]] to prepare [[Thurible]].
 
@@ -264,24 +265,23 @@ The [[Senior Acolyte]] assists the [[Celebrant]] and [[Deacon]] with the Epistle
 	- [[Acolyte|Acolytes]] [[Major Inclination|Profound Bow]] and then go to Epistle side to prepare Lavabo and wait near [[Presbytery#Niche]].
 	- [[Subdeacon]] descends [[High Altar]] and waits near [[Presbytery#Niche]] with [[Acolyte|Acolytes]].
 	- [[Thurifer]] readies [[Thurible]] and heads to the Epistle side near the [[Presbytery#Niche]].
-- [[Thurifer]] does incense:
+- [[Thurifer]] assists with incense:
 	- Ascend Epistle side and [[Imposition of Incense#Celebrant]], and give [[Thurible]] to [[Deacon]]. Descend Epistle side and wait near [[Presbytery#Niche]].
 	- [[Celebrant]] incenses [[High Altar|Altar]]. [[Deacon]] incenses [[Celebrant]].
 	- Ascend Epistle side to retrieve [[Thurible]] from [[Deacon]]. Descend Epistle side. Get into [[T-Formation]] (alone) holding the [[Thurible]] **AND THE INCENSE BOAT**.
-- After [[Thurifer]] descends, [[Acolyte]]s assist with Lavabo:
+- After [[Thurifer]] descends, [[Acolyte|Acolytes]] assist with Lavabo:
 	- [[Senior Acolyte|SA]] gives finger towel to Deacon.
 	- [[Junior Acolyte|JA]] gives basin and ewer to Subdeacon.
 	- [[Deacon]] and [[Subdeacon]] Lavabo the [[Celebrant]].
 	- [[Acolyte|Acolytes]] ascend from Epistle side to retrieve finger towel ([[Senior Acolyte|SA]]) and Lavabo ([[Junior Acolyte|JA]]).
 	- [[Acolyte|Acolytes]] descend and place on [[Presbytery#Niche]].
-	- [[Acolyte|Acolytes]] join [[T-Formation]] ([[Thurifer]] and Ministers already there).
+	- [[Acolyte|Acolytes]] join [[Preface Formation]] ([[Thurifer]] and Ministers already there).
 
 ### Preface
-- Immediately after entering [[T-Formation]] and bowing with the [[Senior Acolyte|SA]], [[Junior Acolyte|JA]] leaves to retrieve [[Hand Bells]], then comes back to [[T-Formation]], and places them on the bottom step of the [[High Altar]].
+- Immediately after entering [[Preface Formation]] and bowing with the [[Senior Acolyte|SA]], [[Junior Acolyte|JA]] leaves to retrieve [[Hand Bells]], then returns to [[Preface Formation]], placing them on the bottom step of the [[High Altar]].
 - When [[Junior Acolyte|JA]] leaves to get the bells, [[Thurifer]] [[Imposition of Incense#Standing Self Charge]].
 - [[Celebrant]]: _Per Omnia Saecula Saeculorum_...
-- At _Sursum Corda_, [[Preface Formation]].
-- Preface Incensation, just after _Sursum Corda_:
+- At _Sursum Corda_:
 	- [[Deacon]] and [[Subdeacon]] face each other, [[Senior Acolyte|SA]] and [[Junior Acolyte|JA]] face each other, [[Moderate Inclination|Moderate Bow]].
 	- [[Deacon]] and [[Senior Acolyte|SA]] face each other, [[Subdeacon]] and [[Junior Acolyte|JA]] face each other, [[Moderate Inclination|Moderate Bow]].
 	- [[Deacon]], [[Subdeacon]], [[Senior Acolyte|SA]], and [[Junior Acolyte|JA]] face [[Thurifer]]. All five [[Moderate Inclination|Moderate Bow]].
@@ -301,12 +301,12 @@ The [[Senior Acolyte]] assists the [[Celebrant]] and [[Deacon]] with the Epistle
 ### Epiclesis
 - Upon returning, [[Junior Acolyte|JA]] kneels to pick up [[Hand Bells]].
 - [[Celebrant]] will make 5 signs of the cross over the [[High Altar|Altar]] contents. [[Junior Acolyte|JA]] rings the bell once.
-	- This may not be visible from below, but the [[Deacon]] will give a cue.
+	- This may not be visible from below, so the [[Junior Acolyte|JA]] should work out a cue with the [[Minister|Ministers]] (e.g. the [[Celebrant]] taps his foot, the [[Deacon]] shakes his left hand, etc.).
 - [[Deacon]] descends [[High Altar|Altar]] to get [[Thurible]], at which point:
 	- [[Thurifer]] moves forward to give [[Deacon]] the [[Thurible]].
-	- When [[Subdeacon]] kneels, [[Junior Acolyte|JA]] kneels on bottom step lined up with him, still holding [[Hand Bells]].
-	- When [[Deacon]] kneels, [[Junior Acolyte|JA]] kneels on bottom step lined up with him.
-	- When [[Acolyte|Acolytes]] kneel, [[Thurifer]] kneels in middle
+	- When [[Subdeacon]] kneels, [[Junior Acolyte|JA]] kneels on [[Bottom Step]] lined up with him, still holding [[Hand Bells]].
+	- When [[Deacon]] kneels, [[Junior Acolyte|JA]] kneels on [[Bottom Step]] lined up with him.
+	- When [[Acolyte|Acolytes]] kneel, [[Thurifer]] kneels on the [[Bottom Step]] the in middle.
 
 ### Consecration
 - All kneel in place.
@@ -334,15 +334,15 @@ The [[Senior Acolyte]] assists the [[Celebrant]] and [[Deacon]] with the Epistle
 ## Priest's Communion
 - Cue: [[Subdeacon]] moves to the Gospel side
 	- [[Junior Acolyte|JA]] takes [[Hand Bells]], walks around [[High Altar]] to Gospel side, puts them away, then ascends and kneels next to [[Subdeacon]], facing [[Celebrant]].
-	- [[Senior Acolyte|SA]] does a mirror of the [[Junior Acolyte|JA]], leaving space for the [[Senior Acolyte]] to kneel next to him (he won't be there yet).
+	- [[Senior Acolyte|SA]] mirrors the [[Junior Acolyte|JA]] on the Epistle side, leaving space for the [[Deacon]] to kneel next to him (he won't be there yet).
 
 ## Choir's Communion
-- Everyone says **Domine non sum dignus**.
+- Everyone says **Domine non sum dignus** three times.
 - [[Acolyte|Acolytes]] kneel. [[Deacon]] and [[Subdeacon]] may receive Communion, but often they won't.
 - [[Senior Acolyte|SA]] receives Communion, then immediately descends the Epistle side and goes [[Approach Formation]] to wait for the [[Junior Acolyte|JA]].
-- [[Junior Acolyte|JA]] receives Communion, then immediately descends Gospel side, retrieves the [[Communion Cloth]], and meets [[Senior Acolyte|SA]] in [[Approach Formation]].
+- [[Junior Acolyte|JA]] receives Communion, then immediately descends Gospel side, retrieves the [[Communion Cloth]], and meets [[Senior Acolyte|SA]] in their spots for [[T-Formation]].
 - Choir Communion:
-	- [[Acolyte|Acolytes]] [[Major Inclination|Profound Bow]], ascend the [[High Altar]], unfold the [[Communion Cloth]],  kneel on the top step with space for two people in between, and hold [[Communion Cloth]] taut between them.
+	- [[Acolyte|Acolytes]] [[Major Inclination|Profound Bow]], ascend the [[High Altar]], [[Major Inclination|Profound Bow]], kneel on the [[Top Step]] with space for two people in between, and then unfold and hold [[Communion Cloth]] taut between them.
 	- [[Thurifer]], [[Crucifer]], any other servers, and anyone else in choir receive Communion two by two
 		- Approach [[High Altar]] in a pair.
 		- [[Major Inclination|Profound Bow]]. If another pair received Communion ahead of you, bow in sync with their second bow.
@@ -351,23 +351,23 @@ The [[Senior Acolyte]] assists the [[Celebrant]] and [[Deacon]] with the Epistle
 - After Choir Communion:
 	- [[Acolyte|Acolytes]]:
 		- Fold cloth so as not to drop fragments, [[Junior Acolyte|JA]] takes the cloth.
-		- Both descend and [[Major Inclination|Profound Bow]], then break formation to sides of [[High Altar]]. [[Junior Acolyte|JA]] deposits [[Communion Cloth]] on the way.
+		- Stand, [[Approach Formation]], descend, and [[Major Inclination|Profound Bow]], then break formation to sides of [[High Altar]]. [[Junior Acolyte|JA]] deposits [[Communion Cloth]] on the way.
 		- Kneel on top step of [[High Altar]] on the sides facing each other.
-	- Designated [[Paten]] holders (usually just the [[Crucifer]]) ready patens and wait at foot of [[Presbytery]] for their Ministers.
+	- Designated [[Paten]] holders (usually just the [[Crucifer]]) ready [[Paten|Patens]] and wait at foot of [[Presbytery]] for their [[Minister|Ministers]].
 	- Anyone else returns to their seats in [[Choir Stalls#High]].
 
 ## Peoples' Communion
-- [[Paten]] holders accompany their Ministers and hold [[Paten]]s. Everyone else remains kneeling in their places.
-- When there are no more communicants, [[Paten]] holders accompany Ministers to foot of [[Presbytery]], give [[Paten|Patens]] to Ministers, and return to seats in [[Choir Stalls]].
-- After Peoples' Communion, [[Thurifer]], [[Crucifer]], and non-[[Acolyte]] [[Altar Server|Servers]] remain in choir through the end of [[Mass]].
+- [[Paten]] holders accompany their [[Minister|Ministers]] and hold [[Paten|Patens]]. Everyone else remains kneeling in their places.
+- When there are no more communicants, [[Paten]] holders accompany [[Minister|Ministers]] to foot of [[Presbytery]], give [[Paten|Patens]] to [[Minister|Ministers]], and return to seats in [[Choir Stalls]].
+- After Peoples' Communion, all [[Altar Server|Servers]] except the [[Acolyte|Acolytes]] remain in choir through the end of [[Mass]].
 
 ## Ablutions
-- **Cue**: No communicants remain. Effectively when the Ministers approach the [[Presbytery]].
+- **Cue**: No communicants remain. The [[Minister|Ministers]] approach the [[Presbytery]].
 - [[Acolyte|Acolytes]] stand, move to two-person [[Approach Formation]], [[Major Inclination|Profound Bow]], then walk in a pair to the [[Presbytery#Niche]].
 - [[Senior Acolyte|SA]]:
-	- Ready Lavabo, wait near [[Presbytery#Niche]].
-	- When [[Deacon]] moves [[Missal]] to Epistle side, Lavabo him from Epistle side.
-	- When [[Subdeacon]] returns cruets to [[Junior Acolyte|JA]], Lavabo him.
+	- Ready Lavabo, wait near [[Presbytery#Niche]]. The following can happen in either order:
+		- When [[Deacon]] moves [[Missal]] to Epistle side, Lavabo him from Epistle side.
+		- When [[Subdeacon]] returns cruets to [[Junior Acolyte|JA]], Lavabo him.
 	- Return Lavabo to [[Presbytery#Niche]].
 - [[Junior Acolyte|JA]]:
 	- Ready wine and water cruet, wait near [[Presbytery#Niche]].
@@ -377,13 +377,13 @@ The [[Senior Acolyte]] assists the [[Celebrant]] and [[Deacon]] with the Epistle
 - Immediately leave [[Approach Formation]] to snuff Sanctus candles, then return to [[T-Formation]].
 
 ## Communion Verse
-- [[Swing Movement]] to [[Epistle and Gospel-side Formation|Epistle-side Formation]]. [[Subdeacon]] will stay behind to attend to the [[Chalice]].
-- [[Junior Acolyte]]:
-	- When [[Subdeacon]] is nearly finished attending to the [[Chalice]], while Communion Verse is still being prayed, [[Swing Movement]] (alone) to [[Approach Formation]] (still alone) and wait.
+- [[Celebrant]], [[Deacon]], and [[Senior Acolyte|SA]]: [[Swing Movement]] to [[Epistle and Gospel-side Formation|Epistle-side Formation]]. [[Subdeacon]] will stay behind to attend to the [[Chalice]].
+	- [[Celebrant]] and [[Deacon]] may already have already completed their [[Swing Movement]]. If so, the [[Senior Acolyte|SA]] does his own [[Swing Movement]] to join them.
+- [[Subdeacon]] attends to the [[Chalice Veil]], [[Junior Acolyte|JA]] waits for him in [[Approach Formation]]:
 	- [[Subdeacon]] will descend in [[Approach Formation]].
 	- [[Genuflection|Genuflect]] with [[Subdeacon]].
 	- Lead [[Subdeacon]] to [[Sacristy]] to deposit [[Chalice Stack]]. Help him fold the [[Humeral Veil]].
-	- Lead [[Subdeacon]] back to altar into [[Approach Formation]].
+	- Lead [[Subdeacon]] back to [[Altar]] into [[Approach Formation]].
 	- [[Genuflection|Genuflect]] with [[Subdeacon]].
 - [[Senior Acolyte]]:
 	- When Communion Verse is finished. [[Swing Movement]] back to [[T-Formation]]. [[Subdeacon]] and [[Junior Acolyte]] will likely be missing.
@@ -393,21 +393,21 @@ Depending on the timing, the [[Subdeacon]] and [[Junior Acolyte|JA]] might not h
 
 - **Cue**: [[Celebrant]] intones _Dominus Vobiscum_.
 - [[Swing Movement]] to [[Epistle and Gospel-side Formation|Epistle-side Formation]].
-- At _Amen_, [[Swing Movement]] to [[T-Formation]].
+- At **Amen**, [[Swing Movement]] to [[T-Formation]].
 - [[Celebrant]]: _Dominus Vobiscum_. [[Deacon]]: _Ite missa est_.
 - **Cue**: _Benedictio_. [[Acolyte|Acolytes]] bow for the blessing and make the sign of the cross.
 
 ## Last Gospel
 - [[Swing Movement]] to [[Epistle and Gospel-side Formation|Gospel-side Formation]].
 - Response and crosses at start of Gospel.
-- [[Genuflection|Genuflect]] at appropriate time with Ministers.
+- [[Genuflection|Genuflect]] at appropriate time with [[Minister|Ministers]].
 - [[Swing Movement]] to [[T-Formation]].
 
 ## Recession
 - Immediately break [[T-Formation]] to retrieve [[Processional Candle|Processional Candles]].
-- Return to [[Approach Formation]].
+- Return to [[Approach Formation]], [[Minister|Ministers]] will have descended the [[High Altar|Altar]] and joined.
 - [[Genuflection|Genuflect]] with Ministers.
-- [[Acolyte|Acolytes]] lead Ministers out of Sanctuary through the [[Passageway]] and directly into the [[Sacristy]], and prayer [[Post-Mass Prayer with Ministers#Dominican Rite]].
+- [[Acolyte|Acolytes]] lead Ministers out of Sanctuary through the [[Passageway]] and directly into the [[Sacristy]]. They pray [[Post-Mass Prayer with Ministers#Dominican Rite]].
 - After Recession and any hymns, other [[Altar Server|Servers]] can approach foot of [[Presbytery]], [[Genuflection|Genuflect]], and then enter [[Sacristy]] through [[Passageway]].
 
 [^cruets]: [[Ceremonies of the Dominican Rite|CotDR > p2c1a5p36]] says the cruets start in the sacristy and come in with the chalice, but Fr. Reginald decided this would overcomplicate things.

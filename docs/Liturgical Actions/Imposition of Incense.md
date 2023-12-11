@@ -19,6 +19,6 @@ With the [[Thurible]] on its [[Thurible Stand|Stand]], pull the ring and hook it
 - [[Minor Inclination|Head Bow]].
 
 ## Standing Self Charge
-This is only used by the [[Thurifer]] during the [[Dominican Rite Solemn High Mass]].
+This is only used by the [[Thurifer]] during the [[Dominican Rite Solemn High Mass]]. It is described in detail in [this blogpost](https://www.newliturgicalmovement.org/2015/09/incense-and-thuribles-in-dominican-rite_26.html).
 
 - If [[Celebrant]] is present, present the first scoop of incense to him to bless. 

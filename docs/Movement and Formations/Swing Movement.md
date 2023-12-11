@@ -5,3 +5,4 @@
 - When [[Crucifer]] and [[Thurifer]] are present (i.e. during the _Credo_):
 	- [[Acolyte|Acolytes]] are holding [[Processional Candle|Processional Candles]].
 	- Use the order of the [[Epistle and Gospel-side Formation]], and move in the same manner as a (larger) line.
+- When returning to [[T-Formation]], if the next movement will be another Swing Movement, the [[Altar Server|Servers]] should stay on their steps in a line.
