@@ -1,11 +1,12 @@
 # 11-22 - Saint Cecilia
 Saint Cecilia is the patroness of musicians and of our [[Schola Cantorum]], so this Memorial is celebrated with a [[Solemn Mass]].
+
 ## Overview
 [[Roman Rite Solemn Mass at the High Altar]]. In 2023 this falls on a Wednesday, so [[Exposition of the Blessed Sacrament|Exposition]], Holy Hour, and [[Benediction]] follow as usual.
 
-
 ## Preparation
 [[Roman Rite Solemn Mass at the High Altar#Preparation]], except:
+
 - [ ] [[High Altar#Angel Candles]] lit.
 - [ ] [[Candelabra|Candelabrae]], [[Monstrance]], [[Thabor]], Holy Hour booklets and [[Burse]] with [[Corporal]] at the [[Credence Table]] near the [[Crossing Altar]]. See [[Exposition of the Blessed Sacrament#Preparation]].
 - [ ] [[Humeral Veil]] on pew for [[Benediction]].
