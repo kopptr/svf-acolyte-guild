@@ -1,4 +1,4 @@
-# 10-07 - Out Lady of the Most Holy Rosary
+# 10-07 - Our Lady of the Most Holy Rosary
 ## Overview
 [[Roman Rite Solemn Mass at the High Altar]], with a [[Procession]] following it.
 
