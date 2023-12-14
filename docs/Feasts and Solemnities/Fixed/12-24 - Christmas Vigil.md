@@ -4,7 +4,7 @@ _The Vigil of the Nativity of the Lord_.
 ## Overview
 [[Roman Rite Solemn Mass]], with:
 
-- The Entrance Procession includes a station at the Creche in the [[Holy Name Chapel]].
+- The [[#Entrance]] procession includes the [[Schola Cantorum]] and a station at the creche in the [[Holy Name Chapel]].
 - An optional [[Sequence]] before the [[Alleluia]][^ordo_sequence], a [[Preservation of Dominican Customs|Dominican Custom]].
 - At the [[Credo]], instead of making a [[Major Inclination|Profound Bow]], [[Genuflection|Genuflect]][^credo_inclination].
 - For this great [[Solemnity]], two additional [[Lucifer|Torch bearers]] may be used for the [[Eucharistic Prayer]].
@@ -15,14 +15,20 @@ _The Vigil of the Nativity of the Lord_.
 
 ## Order of Mass
 ### Entrance
-- Formation as usual.
+- Formation:
+	- [[Thurifer]]
+	- [[Lucifer|Candle bearer]] 1, [[Crucifer]], [[Lucifer|Candle bearer]] 2
+	- [[Schola Cantorum]]
+	- [[Concelebrant|Concelebrants]]
+	- [[Celebrant]]
 - Route:
 	- North out the [[Lourde's Door]].
 	- Turn left and head West down the aisle between the pews.
-	- Turn left into the [[Holy Name Chapel]], form up in a line facing East.
+	- Turn left into the [[Holy Name Chapel]], form up in a line facing East. [[Schola Cantorum]] waits outside of the chapel, and rejoins the formation after the station.
 - Station:
 	- [[Thurifer]] assists with incense and holy water as needed. For the latter, he holds the [[Thurible]] and [[Incense Boat]] in one hand in order to hold the [[Aspersorium]] with the other.
 	- [[Crucifer]] and [[Lucifer|Candle bearers]] standby.
+	- The Martyrology is chanted.
 - Route (continued):
 	- North out of the [[Holy Name Chapel]].
 	- Turn right and head East up the main aisle, and proceed as usual for [[Roman Rite Solemn Mass]].
