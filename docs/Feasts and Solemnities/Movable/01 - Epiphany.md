@@ -2,13 +2,13 @@
 _The Epiphany of the Lord_.
 
 Traditionally Epiphany is celebrated on January 6th, however, in the [[Archdiocese of New York]], it is celebrated on the first Sunday after [[01-01 - Mary, Mother of God|Mary, Mother of God]].
+It is a [[Preservation of Dominican Customs|Dominican Custom]] to chant a [[Sequence]] before the [[Alleluia]][^ordo_sequence]. At our [[Parish of St. Vincent Ferrer and St. Catherine of Siena|Parish]] we forgo this during the principal [[Roman Rite]] Mass, reserving it for the [[Dominican Rite]] Mass.
 
 ## Overview
 Solemn Procession and [[Roman Rite Solemn Mass]]:
 
 - The [[#Solemn Procession]] includes the [[Schola Cantorum]] and two stations: one at the [[Rosary Altar]] and the other at the [[Holy Name Chapel]].
 - Proclamation of the year's movable feasts.
-- An optional [[Sequence]] before the [[Alleluia]][^ordo_sequence], a [[Preservation of Dominican Customs|Dominican Custom]].
 - For this great [[Solemnity]], two additional [[Lucifer|Torch bearers]] may be used for the [[Eucharistic Prayer]].
 - A Post-Communion Hymn is sung during the [[Ablutions]].
 - A final hymn is sung after the dismissal in lieu of the _Alma Redemptoris Mater_.
@@ -50,9 +50,9 @@ Mass is preceded by a Solemn Procession of the Three Kings Figurines to the mang
 	- Standby while the second responsory is said.
 - Route (continued):
 	- North out of the [[Holy Name Chapel]].
-	- Turn right and head East up the main aisle, and proceed as usual for [[Roman Rite Solemn Mass]].
+	- Turn right and head East up the main aisle, and proceed as usual for [[Roman Rite Solemn Mass]]. However, **do not wait for the hymn to end and the Introit to begin**. Instead immediately [[Reverence]] and enter the [[Sanctuary]]. This is to account for the larger number in the procession.
 
-[^figurines]: #liturgy-todo for years after 2024: Schedule 3 extra servers to carry the figurines, and have two of them hold additional torches during the consecration.
+[^figurines]: Todo #liturgy-todo for years after 2024: Schedule 3 extra servers to carry the figurines, and have two of them hold additional torches during the consecration.
 
 ### Order of Mass
 The remainder is as usual for [[Roman Rite Solemn Mass]], except:
