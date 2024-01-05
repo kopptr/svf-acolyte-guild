@@ -105,7 +105,7 @@ After Gospel is completed:
 	- Returns [[Thurible]] to [[Thurible Stand]].
 	- Adds coals to the [[Thurible]], or lets the [[Deacon]] do it.
 - [[Lucifer|Lucifers]]:
-	- Return and discretely light the [[Torch|Torches]].
+	- Return and discreetly light the [[Torch|Torches]].
 	- Extinguish the [[Processional Candle|Processional Candles]].
 - While performing these actions, be mindful of the movements of the [[Minister|Ministers]], letting them pass and not cutting them off.
 - All [[Altar Server|Servers]] return to and sit in the [[Choir Stalls]] when finished with their duties, not waiting for the other [[Altar Server|Servers]].
