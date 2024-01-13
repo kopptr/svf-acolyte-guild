@@ -3,7 +3,7 @@ aliases: ["Roman Rite Sung Mass"]
 ---
 Celebrated at the [[Crossing Altar]] with one [[Altar Server|Server]]. Sung [[Mass]] [[Altar Server|Server]] rubrics are identical.
 
-## Preparations
+## Preparation
 Typically all of the setup will be completed by the [[Celebrant]] before [[Mass]].
 
 - [ ] [[Chalice Stack]] on [[Crossing Altar|Altar]] or [[Credence Table]], according to [[Celebrant]]'s preference. Place it center-right on the [[Crossing Altar|Altar]] if the [[Missal]] and [[Missal Stand|Stand]] are there, otherwise in the center of the [[Crossing Altar|Altar]].
@@ -16,7 +16,7 @@ Typically all of the setup will be completed by the [[Celebrant]] before [[Mass]
 ## Order of Mass
 Form up in [[Sacristy]], [[Pre-Mass Prayer with Ministers]].
 
-### Procession
+### Entrance
 - Ring [[Hand Bells]] from [[Passageway]].
 - If there is a prayer before [[Mass]] (e.g. the _Angelus_), wait until the final portion of the prayer (e.g. "Let us pray. Pour forth..."). Otherwise move immediately.
 - Use [[Procession#Passageway Procession to Crossing Altar]] with one [[Altar Server|Server]] leading the [[Celebrant]] empty-handed.
