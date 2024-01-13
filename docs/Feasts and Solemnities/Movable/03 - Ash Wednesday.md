@@ -23,8 +23,8 @@ The beginning of Lent.
 ## Order of Mass
 [[Roman Rite Solemn Mass at the High Altar#Order of Mass]], except:
 
-- After the _Homily_ and before the _Universal Prayer_, the [[#Blessing and Imposition of Ashes]].
-- [[#Ablutions]] to prepare for [[Exposition of the Blessed Sacrament]]
+- Immediately following the _Homily_, the [[#Blessing and Imposition of Ashes]].
+- Preparations for [[Exposition of the Blessed Sacrament]] during the [[Ablutions]].
 
 ### Entrance
 [[Procession#Short for Mass at High Altar]] #liturgy-todo Is this correct?
