@@ -1,0 +1,1 @@
+The center panel of this chapel's [[High Altar|Altar]] triptych is a painting of the [[02-02 - Candlemas|Presentation]].
