@@ -1,3 +1,7 @@
+---
+aliases:
+  - Good Friday
+---
 # Good Friday
 _Celebration of Our Lord's Passion_.
 
@@ -40,7 +44,7 @@ When approaching foot of the altar, [[Inclination#Major Inclination]], go up the
 [[Book Bearer]] attends with [[Missal]] for the whole opening sequence.
 
 ### Readings, Gradual, Tract, Gospel, Homily
-Same as [[Palm Sunday]].
+Same as [[06 - Palm Sunday|Palm Sunday]].
 
 ### Universal Prayer
 [[Book Bearer]] places [[Missal]] (without stand, possibly a priest preference) on the altar for the Universal Prayer.

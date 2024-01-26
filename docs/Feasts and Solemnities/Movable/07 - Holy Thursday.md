@@ -1,3 +1,7 @@
+---
+aliases:
+  - Holy Thursday
+---
 # Holy Thursday
 _Holy Thursday of the Lord's Supper_.
 
@@ -106,7 +110,7 @@ As normal, including usual procession with [[Processional Candle]]s and [[Thurif
 No Creed(?). Otherwise all as usual.
 
 ### Sanctus
-Six servers process to front of [[Crossing Altar]], just like [[Palm Sunday]] (TODO refactor this into a separate rubric).
+Six servers process to front of [[Crossing Altar]], just like [[06 - Palm Sunday|Palm Sunday]] (TODO refactor this into a separate rubric).
 
 ### Eucharistic Prayer
 - If [[Eucharistic Prayer#I]] is used, N.B. there are variations of the usual words.

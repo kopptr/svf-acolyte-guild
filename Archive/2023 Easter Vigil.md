@@ -134,7 +134,7 @@ During the _Gloria_, one team of servers lights candles, another rings bells.
 
 ##### Bells
 - Bells rung by [[Thurifer]] and [[Boat Bearer]].
-- #todo Consult James for precisely when to ring, likely the same as at [[Holy Thursday#Gloria]].
+- #todo Consult James for precisely when to ring, likely the same as at [[07 - Holy Thursday#Gloria|Holy Thursday > Gloria]].
 
 ##### Candles
 Other five servers light candles and turn on [[Church Lights]]. **There are a lot of candles. This should be done quickly, though still in a dignified manner**. The goal is to finish lighting everything and be back to our seats before the sung _Gloria_ ends.

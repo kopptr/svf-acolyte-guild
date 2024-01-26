@@ -1,3 +1,7 @@
+---
+aliases:
+  - Fourth Sunday of Lent
+---
 # Fourth Sunday of Lent
 Also called _Laetare Sunday_.
 

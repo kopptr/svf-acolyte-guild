@@ -6,7 +6,7 @@ Bow the head at the neck, shoulders and waist/back. You've gone low enough if yo
 Uses:
 
 - To reverence an altar on approaching it when both 1) one has just entered or is about to leave the altar's area and 2) the altar does not have a [[Tabernacle]] with the Eucharist reposed.
-- Similarly for the [[Sanctuary]] when no Eucharist is reposed in the [[Tabernacle]], such as on [[Good Friday]].
+- Similarly for the [[Sanctuary]] when no Eucharist is reposed in the [[Tabernacle]], such as on [[08 - Good Friday|Good Friday]].
 
 ## References
 - [[Dominican Ceremonial for Mass and Benediction|DCfMaB > pp. 10-12]].
