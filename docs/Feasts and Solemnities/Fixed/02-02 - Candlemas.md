@@ -19,7 +19,7 @@ This Mass is at the [[Crossing Altar]] (unlike most weekday solemnities which ar
 ## Preparation
 - [ ] [[Roman Rite Solemn Mass#Preparation]].
 - [ ] [[Hand Candle|Hand Candles]] placed at the church entrances.
-- [ ] [[Hand Candle|Hand Candles]] for each [[Altar Server|Server]] and [[Minister]] placed at their seats in the [[Choir Stalls]] (except the [[MC]], who processes with his).
+- [ ] [[Hand Candle|Hand Candles]] for each [[Altar Server|Server]] and [[Minister]] placed at their seats in the [[Choir Stalls]] (except the [[Master of Ceremonies|MC]], who processes with his).
 - [ ] Candle planters placed in front of the [[Sanctuary]].
 - [ ] [[Ritual|Ceremonial]] placed at the back of the church, near the main aisle (unless the [[Celebrant]] prefers to read from the pamphlet).
 - [ ] Candles owned by [[Altar Server|Servers]] or the people placed in the [[Holy Name Chapel]] before Mass.
