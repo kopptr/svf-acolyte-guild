@@ -142,15 +142,5 @@ Typically accompanied by a hymn.
 - Reverence the [[Tabernacle]] and break formation.
 	- **Do not wait for the _Entrance Antiphon_ to begin.**
 
-### Penitential Procession from the Crossing Altar
-- Pass [[Crossing Altar]] on right side and exit the [[Sanctuary]].
-- Go West down the center aisle, turn left.
-- Go South toward [[Holy Name Chapel]], turn left before entering it.
-- Go East, between the two sections of pews (not the aisle closest to the confessionals). Turn left upon reaching the [[Friars' Chapel]] pews.
-- Go North, passing the front of the [[Sanctuary]]. Do not stop to reverence the [[Tabernacle]]. Turn left upon reaching the [[Rosary Altar]] pews.
-- Go West. Turn left at the back of the church.
-- Go South. Turn left up the center aisle.
-- Enter the [[Sanctuary]], not stopping to reverence the [[Tabernacle]] and passing the [[Crossing Altar]] on the right side.
-
 ## References
 - [[General Instruction of the Roman Missal|GIRM > par. 119-120, 188]]
