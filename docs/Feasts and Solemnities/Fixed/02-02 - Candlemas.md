@@ -1,5 +1,6 @@
 # 02-02 - Candlemas
 _The Presentation of the Lord_.
+
 ## Overview
 [[Roman Rite Solemn Mass]], with:
 
