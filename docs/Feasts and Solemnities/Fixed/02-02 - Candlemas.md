@@ -19,57 +19,69 @@ This Mass is at the [[Crossing Altar]] (unlike most weekday solemnities which ar
 
 ## Preparation
 - [ ] [[Roman Rite Solemn Mass#Preparation]].
-- [ ] [[Hand Candle|Hand Candles]] placed at the church entrances.
+- [ ] [[Hand Candle|Hand Candles]] placed at the church entrances for the people.
+- [ ] Candle oases placed in front of the [[Sanctuary]].
+- [ ] Candles to be blessed (the [[Parish of St. Vincent Ferrer and St. Catherine of Siena|Parish]]'s, the people's, and the [[Altar Server|Servers]]') placed in the [[Holy Name Chapel]] before Mass.
 - [ ] [[Hand Candle|Hand Candles]] for each [[Altar Server|Server]] and [[Minister]] placed at their seats in the [[Choir Stalls]] (except the [[Master of Ceremonies|MC]], who processes with his).
-- [ ] Candle planters placed in front of the [[Sanctuary]].
-- [ ] [[Ritual|Ceremonial]] placed at the back of the church, near the main aisle (unless the [[Celebrant]] prefers to read from the pamphlet).
-- [ ] Candles owned by [[Altar Server|Servers]] or the people placed in the [[Holy Name Chapel]] before Mass.
+- [ ] [[Prayers at the Chair]] book placed at the back of the church, near the main aisle.
+- [ ] [[Aspersorium]] placed at the back of the church, near the main aisle.
 
 ## Procession and Candle Blessing
 - Order:
 	- [[Thurifer]]
 	- [[Lucifer|Candle bearer]] 1, [[Crucifer]], [[Lucifer|Candle bearer]] 2
-	- [[Holy Water Bearer]] with [[Aspersorium]] and [[Hand Candle]]
+	- [[Holy Water Bearer]] with [[Hand Candle]]
 	- [[Schola Cantorum]]
 	- [[Minister|Ministers]]
 - First leg:
+	- Incense is **not** imposed for the first leg.
 	- Out the [[Lourde's Door]]
 	- Turn left and head West down the side aisle.
 		- [[Lucifer|Candle bearers]] light the people's candles as they process. Therefore the [[Thurifer]] must process **very** slowly.
 		- [[Holy Water Bearer]], with a [[Hand Candle]], lights it from a [[Lucifer|Candle bearer]], and separates from the procession, crosses the front of the [[Sanctuary]], and heads West down the 66th Street aisle, lighting the peoples' candles. He joins the formation in the back of the church when finished.
 	- Turn right, upon reaching the main aisle, break formation:
-		- From North to South: [[Master of Ceremonies|MC]], [[Thurifer]], [[Lucifer|Candle bearer]] 1, [[Crucifer]], [[Lucifer|Candle bearer]] 2, on the North side of the main aisle, backs against the West wall.
+		- From South to North: [[Lucifer|Candle bearer]] 1, [[Crucifer]], [[Lucifer|Candle bearer]] 2, [[Thurifer]], [[Holy Water Bearer]], centered in the back of the church, backs against the main doors, facing East.
 		- [[Minister|Ministers]], in the main aisle, flush with the last pew.
 		- [[Schola Cantorum]], on the South side of the main aisle, backs against the West wall.
-- The [[Celebrant]] gives the greeting and says the blessing. [[Master of Ceremonies|MC]] holds the [[Ritual|Ceremonial]] if needed.
+- [[Holy Water Bearer]] holds the [[Prayers at the Chair]] book for the introductory prayers and blessing of candles. He then deposits the [[Prayers at the Chair]] book on the back table.
 - Aspersion of candles:
-	- The [[Holy Water Bearer]] takes the [[Aspersorium]] and accompanies the [[Celebrant]], holding his [[Chasuble]] with his right hand and the [[Aspersorium]] with the left. Route is up the main aisle, back down the 66th Street aisle, into the [[Holy Name Chapel]], and then back to where it started.
+	- The [[Holy Water Bearer]] takes the [[Aspersorium]] and accompanies the [[Celebrant]], holding his [[Chasuble]] with his right hand and the [[Aspersorium]] with the left. Route is up to the [[Celebrant]]. In 2023 we did:
+		- Up the main aisle.
+		- Into the [[Sanctuary]] to the foot of the [[High Altar]].
+		- Out of the [[Sanctuary]] and down the 66th Street aisle.
+		- Into the [[Holy Name Chapel]].
+		- Back to where it started.
 	- All other [[Altar Server|Servers]] and the [[Schola Cantorum]] wait in place.
 - Second leg:
-	- When the [[Celebrant]] and [[Holy Water Bearer]] return, all form up, and the [[Thurifer]] assists the [[Celebrant]] with imposing incense.
-	- All proceed up the main aisle and into the [[Sanctuary]], as usual.
-	- There is an additional antiphon before the _Introit_, but the [[Thurifer]] should lead the procession into the [[Sanctuary]] immediately, without waiting for a music change.
+	- When the [[Celebrant]] and [[Holy Water Bearer]] return, the [[Thurifer]] assists the [[Celebrant]] with imposing incense.
+	- The [[Holy Water Bearer]] holds the [[Prayers at the Chair]] book for the prayer.
+	- When it's finished, all proceed up the main aisle and into the [[Sanctuary]], as usual.
+	- There is an additional antiphon before the _Introit_, but the [[Thurifer]] should lead the procession into the [[Sanctuary]] immediately, **without waiting for a music change**.
 
 ## Order of Mass
 ### Reverence to the Altar through Universal Prayer
 As usual for [[Roman Rite Solemn Mass]], except:
 
-- _Penitential Rite_ and [[Kyrie]] are omitted.
+- Immediately after the [[Celebrant]] kisses the [[Altar]], the [[Master of Ceremonies|MC]] assists him in removing his [[Cope]] and donning his [[Chasuble]].
+- Then, the [[Thurifer]] assists with the incensation of the [[Altar]] as usual.
+- _Penitential Rite_ and [[Kyrie]] are omitted; the [[Gloria]] immediately follows the incensation.
+- The [[Book Bearer]] holds the [[Missal]] for the _Collect_ as usual.
 - All extinguish their [[Hand Candle|Hand Candles]] after the _Collect_.
 - In lieu of (or possibly in addition to) the _Universal Prayer_, the Candlemas Novena Prayer is said.
 
 ### Oblation of Candles
 **Cue**: Candlemas Novena Prayer concludes.
 
-- All [[Altar Server|Servers]] light their own [[Hand Candle|Hand Candles]], then take them up and down the aisles, lighting the peoples' candles (Two up and down the center, two up and down the 66th Street aisle, one up and down the 65th Street aisle). One [[Altar Server|Server]] lights the [[Minister|Ministers]]' candles first.
-- [[Altar Server|Servers]] return to the foot of [[Sanctuary]] and form up West of the candle planters, starting two lines.
-- The [[Celebrant]] and any other [[Minister|Ministers]] exit the [[Sanctuary]], place their [[Hand Candle|Hand Candles]] in the planters, and reenter the [[Sanctuary]].
-- The [[Altar Server|Servers]] place their [[Hand Candle|Hand Candles]] in the planters.
-- The two [[Acolyte|Acolytes]] attend to the two sides of the candle planters, directing the people as needed. The other [[Altar Server|Servers]] return to their seats.
-- The people place their [[Hand Candle|Hand Candles]] in the planters.
-- When finished, the two [[Acolyte|Acolytes]] return to their place in the [[Sanctuary]] and the [[Offertory]] begins.
+- All [[Altar Server|Servers]] light their own [[Hand Candle|Hand Candles]], the first assists the [[Celebrant]] in lighting his.
+- The [[Altar Server|Servers]] and [[Minister|Ministers]] exit the [[Sanctuary]], [[Genuflection|Genuflect]], and then split up and head down the various aisles, lighting the peoples' candles on their way.
+- The [[Minister|Ministers]] and [[Altar Server|Servers]] meet in the back of the main aisle.
+- The [[Celebrant]], then any other [[Minister|Ministers]], then [[Altar Server|Servers]], approach the candles oases up the main aisle.
+- In order and in pairs, all [[Genuflection|Genuflect]], then deposit their [[Hand Candle|Hand Candles]] into an oasis, then enter the [[Sanctuary]] and take their seats. 
+- The [[Master of Ceremonies|MC]] and one other [[Altar Server|Server]] attend to the two sides of the candle oases, directing the people as needed.
+- The people place their [[Hand Candle|Hand Candles]] in the oases.
+- When finished, the [[Altar Server|Servers]] return to their place in the [[Sanctuary]] and the [[Offertory]] begins.
 
 ### Offertory through Dismissal
-As usual for [[Roman Rite Solemn Mass]].
+As usual for [[Roman Rite Solemn Mass]]. The [[Lucifer|Torch bearers]] and [[Thurifer]] must take around the candle oases during the [[Eucharistic Prayer]].
 
 [^ordo_sequence]: [[New Priory Press Ordo|New Priory Press Ordo 2024 > page 16]].
