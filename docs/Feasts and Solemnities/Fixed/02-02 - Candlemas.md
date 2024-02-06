@@ -8,7 +8,7 @@ _The Presentation of the Lord_.
 - Omission of _Pentitential Rite_ / [[Kyrie]].
 - [[#Oblation of Candles]] preceding the [[Offertory]].
 
-This Mass is at the [[Crossing Altar]] (unlike most weekday solemnities which are celebrated at the [[High Altar]]) to facilitate the [[#Oblation of Candles]]. A [[Sequence]] is allowed before the [[Alleluia]][^ordo_sequence] (a [[Preservation of Dominican Customs|Dominican Custom]]), but we omit it.
+This is one of three weekday solemnities that are celebrated at the [[Crossing Altar]], the others being [[12-25 - Christmas|Christmas]] and [[03 - Ash Wednesday|Ash Wednesday]]. For Candlemas, this is done to facilitate the [[#Oblation of Candles]]. A [[Sequence]] is allowed before the [[Alleluia]][^ordo_sequence] (a [[Preservation of Dominican Customs|Dominican Custom]]), but we omit it.
 
 ## Roles
 - [[Master of Ceremonies|MC]], [[Holy Water Bearer]]
