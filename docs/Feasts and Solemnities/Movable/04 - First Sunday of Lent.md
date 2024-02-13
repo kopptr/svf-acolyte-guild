@@ -3,32 +3,34 @@ aliases:
   - First Sunday of Lent
 ---
 # The First Sunday of Lent
-The _Rite of Sending of Catechumens_ is allowed for the first Sunday of [[Lent]], though we omit it. Traditionally, our [[Parish of St. Vincent Ferrer and St. Catherine of Siena|Parish]] does a [[#Litany of the Saints Procession]] on this Sunday.
+The _Rite of Sending of Catechumens_ is allowed for the first Sunday of [[Lent]], though we omit it[^catechumens]. Traditionally, our [[Parish of St. Vincent Ferrer and St. Catherine of Siena|Parish]] does a [[#Litany of the Saints Procession]] on this Sunday.
+
+[^catechumens]: If ever we wanted to reintroduce this rite, it would occur immediately following the _Homily_, and the [[Credo]] and [[Universal Prayer]] would be omitted.
 
 ## Overview
 [[Roman Rite Solemn Mass]] during [[Lent]] with:
 
 - Shortened [[#Entrance]].
-- _Penitential Rite_ omitted.
 - Addition [[#Special Collect]].
 - [[#Litany of the Saints Procession]].
-- [[Credo]] omitted.
+- _Penitential Rite_ omitted.
 
 ## Preparation
 As usual for [[Roman Rite Solemn Mass]], except:
 
-- [ ] [[Processional Candle|Processional Candles]] start lit, and in their place near the [[Choir Stalls#Low]].
-- [ ] [[Thurible Stand]] as normal, but with [[Thurible]] and [[Incense Boat]] at the start of Mass.
+- [ ] [[Chasuble]] for [[Celebrant]] near his seat.
 
 ## Order of Mass
 
 ### Entrance
-Use [[Procession#Passageway Procession to Crossing Altar]].
+Use [[Procession#Short Cloister Walk Procession to Crossing Altar]], do **not** wait for music change to enter the [[Sanctuary]].
+
 ### Reverence to the Altar
-As usual for [[Roman Rite Solemn Mass#Reverence to the Altar]]. _Penitential Rite_ and [[Kyrie]] are omitted.
+- The [[Celebrant]] reverences the [[Altar]].
+- Assisted by the [[Thurifer]] (and [[Deacon]], if present), the [[Celebrant]] incenses the [[Altar]] as at [[Roman Rite Solemn Mass#Reverence to the Altar]].
 
 ## Special Collect
-Immediately following the [[#Reverence to the Altar]], the [[Book Bearer]] holds the [[Missal]] for the [[Celebrant]]. When finished, he returns to his seat and deposits the [[Missal]].
+The _Penitential Rite_ is omitted. Immediately following the [[#Reverence to the Altar]], the [[Book Bearer]] holds the [[Missal]] for the [[Celebrant]]. When finished, he returns to his seat and deposits the [[Missal]].
 
 ### Litany of the Saints Procession
 Immediately following the [[#Special Collect]], the [[Procession]] starts:
@@ -50,11 +52,15 @@ Immediately following the [[#Special Collect]], the [[Procession]] starts:
 	- Turn left and head West down the 66th Street aisle.
 	- Turn left and head South toward the main aisle.
 	- Turn left and head East up the main aisle.
+	- Stop at the foot of the [[Sanctuary]].
+	- Wait until the _Saint X_ / **Pray for us** portion is finished. **Cue**: _Lord be merciful_ / **Lord save your people**.
 	- Enter the [[Sanctuary]], not stopping to reverence the [[Tabernacle]] and passing the [[Crossing Altar]] on the right side.
-- **Pace**: The _Litany of the Saints_ is very long, and so the pace should be very slow. The [[Thurifer]] would do well to memorize the names of saints around the quarter marks to help him set the pace correctly. If the [[Thurifer]] is entering the [[Sanctuary]] near the start of the last section (where the response is _Lord hear our prayer_), that should give the [[Minister|Ministers]] and [[Schola Cantorum]] time to get into place before it finishes.
+	- All return their items and go to their places. The [[Master of Ceremonies|MC]] assists the [[Celebrant]] in changing into his [[Chasuble]] as the litany concludes.
+	- All standby until the litany is finished.
+- **Pace**: The _Litany of the Saints_ is very long, and so the pace should be very slow. The [[Thurifer]] would do well to memorize the names of saints around the quarter marks to help him set the pace correctly.
 
 ### Kyrie
-A brief sung [[Kyrie]] will immediately follow the [[#Litany of the Saints Procession]].
+A brief sung [[Kyrie]] will immediately follow the [[#Litany of the Saints Procession]]. All standby.
 
 ### Collect
 The usual [[Collect]] follows immediately after the [[Kyrie]] that ends the [[#Litany of the Saints Procession]]. The [[Book Bearer]] holds the [[Missal]].
