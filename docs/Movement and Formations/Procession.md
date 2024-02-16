@@ -15,7 +15,7 @@ L C L
  S S
  ...
  S S
-  S
+  M
 ```
 
 Where:
@@ -28,6 +28,7 @@ Where:
 - `C` is the [[Crucifer]] with the [[Processional Crucifix]].
 - `S` are additional [[Altar Server|Servers]], if any. They are empty-handed.
 	- `S` are in pairs, if there is an odd [[Altar Server|Server]], he is at the end in the middle.
+- `M` is the [[Master of Ceremonies|MC]]. If there are an odd number of additional [[Altar Server|Servers]], he forms up in a pair with the odd one in the last row.
 
 [^diagram]: c.f. [[Ceremonies of the Modern Roman Rite|CotMRR > Diagram 2]].
 
