@@ -7,10 +7,8 @@ Technically a movable feast: It is usually celebrated on March 25th, however if 
 - During Holy Week or the Octave of Easter, it is celebrated the Monday after [[Divine Mercy]] Sunday.
 
 ## Overview
-Low or high #liturgy-todo 
+[[Roman Rite Solemn Mass at the High Altar]], except:
 
-
-#### Credo, Universal Prayer
-- Instead of making a [[Inclination#Major Inclination]] during the _Credo_, [[Genuflection|Genuflect]][^credo_inclination].
+- During the [[Credo]], [[Genuflection|Genuflect]] when you would normally make a [[Inclination#Major Inclination]][^credo_inclination].
 
 [^credo_inclination]: See [[General Instruction of the Roman Missal|GIRM > par. 137]].
