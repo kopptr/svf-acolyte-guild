@@ -4,7 +4,7 @@ _The Solemnity of Saint Patrick_.
 This is a solemnity in the [[Archdiocese of New York]], as St. Patrick is the archdiocesan patron. When St. Patrick's day falls on a Sunday, this solemnity is transferred to Monday, March 18th.
 
 ## Overview
-[[Roman Rite Low Mass|Roman Rite Sung Mass]] & Procession.
+[[Roman Rite Low Mass|Roman Rite Sung Mass]] & [[#Procession]].
 
 ## Preparation
 - [ ] [[Roman Rite Low Mass#Preparation|Roman Rite Sung Mass > Preparation]].
@@ -14,7 +14,7 @@ This is a solemnity in the [[Archdiocese of New York]], as St. Patrick is the ar
 	- [ ] Altar candles lit.
 
 ## Order of Mass
-As usual for [[Roman Rite Low Mass|Roman Rite Sung Mass]]. The procession immediately follows the [[Postcommunion Prayer]].
+As usual for [[Roman Rite Low Mass|Roman Rite Sung Mass]]. The [[#Procession]] immediately follows the [[Postcommunion Prayer]].
 
 ### Procession
 The [[Altar Server|Server]] leaves the [[Missal]] on the chair next to the [[Concelebrant]]'s seat. Then he precedes the [[Celebrant]] in the procession, empty-handed.
