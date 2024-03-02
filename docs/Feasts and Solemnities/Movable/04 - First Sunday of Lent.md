@@ -11,7 +11,7 @@ The _Rite of Sending of Catechumens_ is allowed for the first Sunday of [[Lent]]
 [[Roman Rite Solemn Mass]] during [[Lent]] with:
 
 - Shortened [[#Entrance]].
-- Addition [[#Special Collect]].
+- Additional [[#Special Collect]].
 - [[#Litany of the Saints Procession]].
 - _Penitential Rite_ omitted.
 
