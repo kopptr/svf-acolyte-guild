@@ -14,6 +14,7 @@ The [[Altar Server|Servers]], [[Minister|Ministers]], [[Schola Cantorum]], and F
 	- [ ] Six [[Altar]] candles lit.
 	- [ ] Door open.
 	- [ ] Gate open.
+	- [ ] _Relic of the True Cross_ on the [[Altar]].
 - [ ] [[Processional Candle|Processional Candles]] lit.
 
 ## Order of Solemn Paschal Vespers
