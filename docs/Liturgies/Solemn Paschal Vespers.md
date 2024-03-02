@@ -9,8 +9,12 @@ Solemn Vespers on [[10 - Easter|Easter Sunday]], with [[Schola Cantorum]].
 The [[Altar Server|Servers]], [[Minister|Ministers]], [[Schola Cantorum]], and Friars in choir all start the liturgy in the [[Choir Stalls]].
 
 - [ ] Candles lit as for [[Roman Rite Solemn Mass]].
+- [ ] [[Paschal Candle]] lit.
+- [ ] [[Friars' Chapel]]:
+	- [ ] Six [[Altar]] candles lit.
+	- [ ] Door open.
+	- [ ] Gate open.
 - [ ] [[Processional Candle|Processional Candles]] lit.
-- [ ] [[Friars' Chapel]] door and gate open.
 
 ## Order of Solemn Paschal Vespers
 
