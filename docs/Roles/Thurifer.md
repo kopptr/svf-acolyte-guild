@@ -1,3 +1,8 @@
+---
+aliases:
+  - Thurifers
+---
+
 The Thurifer is the server in charge of the [[Thurible]].
 
 ## Liturgical Actions
