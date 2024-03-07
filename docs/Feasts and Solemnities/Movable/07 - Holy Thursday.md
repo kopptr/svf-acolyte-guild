@@ -215,6 +215,7 @@ _Tantum Ergo_ is sung.
 - [[Sanctuary]]:
 	- Mass stuff cleaned up as normal.
 	- Remove altar cloths, altar crucifix, and candles.
+		- **The linen on top of the [[Crossing Altar]] gets rolled up, not folded.**
 	- Remove processional crucifix?
 - [[Rosary Altar]] remains as-is, do not remove its candles, decorations, etc.
 - Basically every candle, altar cloth, and unveiled cross, crucifix, or statue in the entire church gets moved to the [[Cloister Walk]]. The pastor will have index cards with groups of items.
