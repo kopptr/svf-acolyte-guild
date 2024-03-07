@@ -9,7 +9,7 @@ The order of procession is:[^usage]
 4. [[Concelebrant|Concelebrants]] in [[Cope]]
 5. [[Deacon|Deacons]]
 6. Flower girls and their families
-7. [[Thurifer]]s and [[Boat Bearer]]
+7. [[Thurifer|Thurifers]] and [[Boat Bearer]]
 8. [[Canopy]] (four [[Canopy]] bearers), [[Priest]] with [[Monstrance]] under it, [[Lucifer|Torch bearers]]
 	- If two [[Lucifer|Torch bearers]], flanking the [[Monstrance]] outside of the [[Canopy]].
 	- If four [[Lucifer|Torch bearers]], one at each corner of the [[Canopy]], outside it.
@@ -18,7 +18,7 @@ The order of procession is:[^usage]
 11. Congregation
 12. Musical instruments.
 
-[^usage]: This is the order that used for [[Corpus Christi]] 2023.
+[^usage]: This is the order that was used for [[16 - Corpus Christi|Corpus Christi]] 2023.
 
 ## Other possible orders and guidelines
 
