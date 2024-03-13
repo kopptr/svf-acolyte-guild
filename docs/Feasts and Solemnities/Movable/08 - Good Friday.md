@@ -38,9 +38,9 @@ Communion Service, with [[#Adoration of the Holy Cross]].
 ### Entrance
 All [[Altar Server|Servers]] start in [[Choir Stalls#Low]].
 
-- The [[Celebrant]] and [[Deacon]] enter through the [[Lourde's Door]] and proceed directly to the foot of the [[Sanctuary]].
-- The [[Celebrant]] and [[Deacon]] prostrate, and the [[Altar Server|Servers]] and people kneel while they do so.
-- The [[Celebrant]] and [[Deacon]] stand, reverence, and enter the [[Sanctuary]].
+- The [[Minister|Ministers]] enter through the [[Lourde's Door]] and proceed directly to the foot of the [[Sanctuary]].
+- The [[Minister|Ministers]] prostrate, and the [[Altar Server|Servers]] and people kneel while they do so.
+- The [[Minister|Ministers]] stand, [[Reverence]], and enter the [[Sanctuary]].
 
 ### Opening Prayers
 [[Book Bearer]] attends with [[Missal]] for the whole opening sequence.
@@ -51,24 +51,24 @@ As usual for [[Roman Rite Solemn Mass]], except that, as at [[06 - Palm Sunday|P
 ### Solemn Intercessions
 - If the [[Priest]] prefers to read from his seat:
 	- [[Book Bearer]] holds the [[Missal]] for the _Solemn Intercessions_.
-	- All [[Altar Server|Servers]], including the [[Book Bearer]], kneel/stand at "Let us kneel"/"Let us stand".
+	- All [[Altar Server|Servers]], including the [[Book Bearer]], kneel/stand at _Let us kneel_/_Let us stand_.
 - If the [[Priest]] prefers to read at the [[Altar]]:
 	- [[Book Bearer]] places [[Missal]] on the [[Altar]] for the _Solemn Intercessions_, then returns to the [[Choir Stalls]].
-	- All [[Altar Server|Servers]] kneel/stand at "Let us kneel"/"Let us stand".
+	- All [[Altar Server|Servers]] kneel/stand at _Let us kneel_/_Let us stand_.
 	- [[Book Bearer]] retrieves the [[Missal]] after _Solemn Intercessions_.
 
 ### Adoration of the Holy Cross
 Prepare:
 
 - [[Lucifer|Candle bearers]]:
-	- Go to the [[Sacristy]] with [[Celebrant]] and [[Deacon]] by way of the [[Passageway]].
+	- Go to the [[Sacristy]] with [[Minister|Ministers]] by way of the [[Passageway]].
 	- **Take off shoes**.
 	- Light and carry the [[Processional Candle|Processional Candles]].
 - All other [[Altar Server|Servers]]:
 	- Remain in [[Choir Stalls#Low]] and **remove shoes**. Leave shoes in [[Choir Stalls]].
 
 #### Procession
-- [[Lucifer|Lucifers]] flank [[Veneration Crucifix]] with [[Processional Candle|Processional Candles]].
+- [[Lucifer|Candle bearers]] flank [[Veneration Crucifix]] with [[Processional Candle|Processional Candles]].
 - Three stops. At each, _Behold the wood of the cross_ / **Come let us adore him**.
 	1. Process from [[Lourde's Door]] to foot of [[Crossing Altar]].
 	2. Process to the middle of the [[Sanctuary]].
@@ -107,14 +107,14 @@ When finished:
 	- [[Master of Ceremonies]] assists [[Deacon]] with the [[Humeral Veil]].
 	- [[Lucifer|Candle bearers]] form up and attend to the Deacon while he retrieves the Eucharist.
 		- Lead him as a pair to the [[Rosary Altar]].
-		- Kneel while Deacon retrieves Blessed Sacrament.
+		- Kneel while [[Deacon]] retrieves Blessed Sacrament.
 		- Stand, retrieve lit candles from [[Rosary Altar]], and lead Eucharist back to [[Crossing Altar]], flanking either side, facing in.
 		- When the Eucharist is placed on the [[Corporal]], place candles on the [[Crossing Altar]], move to the front of the [[Altar]], [[Genuflection#Standard Genuflection]] together, and return to [[Choir Stalls#Low]].
-	- Meanwhile, [[Priest|Priests]] may retrieve more Eucharist from the [[Sacristy]]. If so, [[Junior Acolyte]] assist them in removing their [[Humeral Veil|Humeral Veils]].
+	- Meanwhile, [[Priest|Priests]] may retrieve more Eucharist from the [[Sacristy]]. If so, [[Acolyte|Acolytes]] assist them in removing their [[Humeral Veil|Humeral Veils]].
 - All return to [[Choir Stalls#Low]].
-- After the [[Priest]] receives communion, receive Communion as usual.
+- After the [[Priest]] receives communion, receive communion as usual.
 	- No bell is rung nor [[Crotalus]] clapped when he receives.
-- After Communion, a [[Minister]] takes the Eucharist to the _Altar of Repose_, unattended.
+- After communion, a [[Minister]] takes the Eucharist to the _Altar of Repose_, unattended.
 - At that point:
 	- [[Acolyte|Acolytes]] take the [[Burse]] to the [[Crossing Altar]], fold up and put away the [[Corporal]], and then put them back on the [[Credence Table]].
 	- [[Book Bearer]] takes the [[Missal]] back to the [[Choir Stalls]].
@@ -124,7 +124,7 @@ When finished:
 [[Book Bearer]] bears [[Missal]].
 
 ### Recession
-Form up at the foot of the [[Crossing Altar]], everyone empty-handed, in a large line across the front, with space for Priest and Deacon in the middle. Genuflect to the cross with Priest. Exit through the [[Lourde's Door]], with the leftmost servers moving first past the Priest to meet up with the rightmost servers. (As in the Dominican Rite).
+Form up at the foot of the [[Crossing Altar]], everyone empty-handed, in a large line across the front, with space for [[Minister|Ministers]] in the middle. Genuflect to the cross with [[Minister|Ministers]]. Exit through the [[Lourde's Door]], with the leftmost servers moving first past the [[Minister|Ministers]] to meet up with the rightmost servers. (As in the [[Dominican Rite]]).
 
 ## Cleanup
 - [[Veneration Crucifix]], pillows, veil, and two lit [[Processional Candle|Processional Candles]] remain.
