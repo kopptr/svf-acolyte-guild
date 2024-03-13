@@ -5,7 +5,7 @@ aliases:
 # Palm Sunday
 _Palm Sunday of the Passion of the Lord_.
 ## Overview
-- 11:30am: Sext at [[Saint Catherine of Siena Church]].
+- 11:30am: _Sext_ at [[Saint Catherine of Siena Church]].
 - [[#Solemn Procession]].
 	- [[#Blessing of Palms]].
 	- _Gospel_, _Homily_, _Universal Prayer_.
@@ -17,14 +17,15 @@ _Palm Sunday of the Passion of the Lord_.
 	- Depart as normal, but in silence.
 
 ## Roles
-Seven servers:
+Up to eight servers:
+
 - [[Master of Ceremonies]]
 - [[Thurifer]]
 - [[Boat bearer]]
 - [[Acolyte]] 1, [[Book bearer]], [[Lucifer]] 1 ([[Torch]] during [[Eucharistic Prayer]])
 - [[Acolyte]] 2, [[Holy Water Bearer]], [[Lucifer]] 2 ([[Torch]] during [[Eucharistic Prayer]])
 - [[Crucifer]], [[Bell Ringer]]
-- [[Lucifer]] 3 ([[Processional Candle]] during [[#Solemn Procession]], [[Torch]] during [[Eucharistic Prayer]]), [[Ignifer]]
+- [[Lucifer]] 3 ([[Processional Candle]] during [[#Solemn Procession]], [[Torch]] during [[Eucharistic Prayer]])
 - [[Lucifer]] 4 ([[Processional Candle]] during [[#Solemn Procession]], [[Torch]] during [[Eucharistic Prayer]])
 
 ## Preparation
@@ -37,7 +38,7 @@ Seven servers:
 	- [ ] [[Processional Crucifix]] decorated with palms (still veiled) and brought to [[Saint Catherine of Siena Church|SCS]], leave stand at [[Saint Vincent Ferrer Church|SVF]].
 	- [ ] Two [[Processional Candle|Processional Candles]] topped with wind guard followers and brought to [[Saint Catherine of Siena Church|SCS]].
 	- [ ] Two [[Processional Candle|Processional Candles]] topped with standard followers left in place at [[Saint Vincent Ferrer Church|SVF]].
-	- [ ] [[Thurible Stand]] in usual place with full [[Incense Boat]], extra charcoal, etc. **but** [[Thurible]] left in [[Back Sacristy]]. The [[Thurible]] from [[Saint Catherine of Siena Church|SCS]] will be used for Mass.
+	- [ ] [[Thurible Stand]] in usual place with full [[Incense Boat]], extra charcoal, etc. **but** [[Thurible]] left in [[Mortuary Chapel]]. The [[Thurible]] from [[Saint Catherine of Siena Church|SCS]] will be used for Mass.
 - [ ] [[Saint Catherine of Siena Church|SCS]]:
 	- [ ] [[Incense Boat]] full, [[Thurible]] lit, [[Thurible Stand]] near [[Sedilia]].
 	- [ ] Pamphlets set out for [[Minister|Ministers]] and [[Altar Server|Servers]] at their seats.
@@ -45,16 +46,18 @@ Seven servers:
 		- [ ] Table with palms, [[Aspersorium]].
 		- [ ] Lectern with [[Missal]] open to the correct page.
 	- [ ] [[Ritual]] with _Prayers of the Faithful_ nearby on a back table. Alternatively, the [[Book Bearer]] can carry it from the [[Sanctuary]].
-	- [ ] [[Ignifer]] keeps a lighter in his cassock pocket.
+	- [ ] [[Master of Ceremonies|MC]] keeps a lighter in his cassock pocket.
 
 ## Sext
+At [[Saint Catherine of Siena Church]].
+
 - Process into the [[Sanctuary]], using the standard [[Procession#Formation]].
 	- North from the [[Sacristy]] across the front of the church.
 	- Form up at the foot of the [[Sanctuary]], [[Reverence]], and enter. There will not be enough room for all to form up, so the [[Altar Server|Servers]] should do this in separate parts.
 - [[Lucifer]] 3, [[Crucifer]], and [[Lucifer]] 4 sit at the [[Sedilia]], setting down the [[Processional Candle|Processional Candles]] and resting the [[Processional Crucifix]] on the ground where appropriate.
 - Other [[Altar Server|Servers]] sit in [[Choir Stalls]] on the Epistle side.
 - Stand and sit at appropriate times with congregation. Follow the pamphlet.
-- When Sext is finished, servers retrieve needed items and start procession.
+- When _Sext_ is finished, servers retrieve needed items and start procession.
 
 ## Solemn Procession
 The First Form of the Procession given in [[The Roman Missal]] is used.
@@ -65,20 +68,21 @@ Form up:
 
 - [[Thurifer]] and [[Boat Bearer]] split to the North and form up facing the middle.
 - [[Lucifer]] 3, [[Crucifer]], [[Lucifer]] 4 split to the South and form up facing the middle.
-- [[Book Bearer]], [[Holy Water Bearer]], and any extra [[Altar Server|Servers]] split to the left and form up behind the [[Processional Crucifix]] facing the middle.
+- [[Book Bearer]], [[Holy Water Bearer]], and any extra [[Altar Server|Servers]] split to the South and form up behind the [[Processional Crucifix]] facing the middle.
 
 ### Blessing of Palms
 - When [[Celebrant]] finishes the introduction and text of the blessing of palms, [[Holy Water Bearer]] attends to the [[Celebrant]] while he sprinkles Holy Water, following him and holding the [[Aspersorium]] and his [[Cope]] on his right side.
 - When finished, [[Holy Water Bearer]] sets down [[Aspersorium]] in its place, grabs enough palms for himself, the [[Book Bearer]], and any empty-handed [[Altar Server|Servers]], and returns to formation.
 
 ### Gospel, (Homily)
-- [[Thurifer]] and [[Boat Bearer]] approach [[Deacon]] to charge incense, or [[Boat Bearer]] gives boat to [[Thurifer]] if there is not enough space.
-- After [[Deacon]]'s blessing, [[Thurifer]] leads [[Deacon]] to the lectern, [[Lucifer|Lucifers]] 3 and 4 approach the lectern and flank it, and [[Holy Water Bearer]] gives [[Celebrant]] a palm.
+- [[Thurifer]] and [[Boat Bearer]] approach [[Celebrant]] to charge incense, or [[Boat Bearer]] gives boat to [[Thurifer]] if there is not enough space.
+- After [[Deacon]]'s blessing, [[Thurifer]] precedes [[Deacon]] to the lectern[^no_deacon], [[Lucifer|Lucifers]] 3 and 4 approach the lectern and flank it, and [[Holy Water Bearer]] gives [[Celebrant]] a palm.
 	- [[Thurifer]] attends to [[Deacon]] for the _Gospel_. 
 	- After _Gospel_, all return to formation.
 	- A [[Altar Server|Server]] gives the [[Deacon]] a palm.
 - Priest may optionally preach a homily.
 
+[^no_deacon]: If there is no [[Deacon]], then they precede the [[Celebrant]] or [[Concelebrant]], and there will be no blessing, as is typical at [[Mass]].
 ### Universal Prayer
 [[Book Bearer]] approaches Priest, then Deacon, then priest again holding the [[Ritual]] with the _Prayers of the Faithful_. When finished, he sets the [[Ritual]] on a table in the back and returns to formation.
 
@@ -98,9 +102,8 @@ Follow the police's instruction. Expected route:
 - Wait in [[Narthex]] while procession catches up.
 - **Cue**: [[Schola Cantorum]] starts the first _Introit_.
 - Turn left to enter the main church, and go straight up the center aisle.
-- Stop at the foot of the [[Crossing Altar]].
 
-During the Procession, the [[Boat Bearer]] should assist the [[Thurifer]] in adding more incense as needed. The [[Ignifer]] should relight the [[Processional Candle|Processional Candles]] as needed.
+During the Procession, the [[Boat Bearer]] should assist the [[Thurifer]] in adding more incense as needed. The [[Master of Ceremonies|MC]] should relight the [[Processional Candle|Processional Candles]] as needed.
 
 ## Order of Mass
 
