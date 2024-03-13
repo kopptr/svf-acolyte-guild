@@ -8,15 +8,24 @@ _Celebration of Our Lord's Passion_.
 ## Overview
 Communion Service, with [[#Adoration of the Holy Cross]].
 
+## Roles
+Five [[Altar Server|Servers]]:
+
+- [[Master of Ceremonies]], [[Book Bearer]]
+- [[Lucifer|Candle bearer]] 1
+- [[Lucifer|Candle bearer]] 2
+- [[Acolyte]] 1
+- [[Acolyte]] 2
+
 ## Preparation
 - [ ] [[Crossing Altar]]: bare, no cloths, candles, or crucifix.
 - [ ] [[Credence Table]]:
 	- [ ] Altar cloth, folded and rolled up
-	- [ ] Corporal in a red burse
+	- [ ] Corporal in a red [[Burse]]
 	- [ ] Lavabo
 	- [ ] Water cruet (no wine)
 	- [ ] Two purificators(s) for the crucifix.
-	- [ ] pillows and veil for [[Veneration Crucifix]] nearby
+	- [ ] Pillows and veil for [[Veneration Crucifix]] nearby
 - [ ] [[Tabernacle]] empty, no veil, lamps extinguished.
 - [ ] Altar of repose ([[Rosary Altar]]):
 	- [ ] Two candles lit
@@ -25,13 +34,6 @@ Communion Service, with [[#Adoration of the Holy Cross]].
 - [ ] [[Sacristy]]:
 	- [ ] Wooden [[Processional Candle|Processional Candles]], (the ones from the [[Baptistery]]), nearby lighter.
 	- [ ] [[Veneration Crucifix]] veiled and pinned, so as to be easy to remove.
-
-## Roles
-- [[Master of Ceremonies]], [[Book Bearer]]
-- [[Lucifer|Candle bearer]] 1
-- [[Lucifer|Candle bearer]] 2
-- [[Acolyte]] 1
-- [[Acolyte]] 2
 
 ## Order of Liturgy
 
