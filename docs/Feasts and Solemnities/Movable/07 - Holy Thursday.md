@@ -8,15 +8,17 @@ _Holy Thursday of the Lord's Supper_.
 ## Overview
 [[Roman Rite Solemn Mass]] with:
 
-- [[Major Inclination|Profound Bow]]s instead of [[Genuflection]]s, as the [[Tabernacle]] is empty.
+- [[Major Inclination|Profound Bows]] instead of [[Genuflection|Genuflections]] (since the [[Tabernacle]] is empty).
 - Many [[Concelebrant|Concelebrants]], as this is the only [[Mass]] in the entire [[Parish of St. Vincent Ferrer and St. Catherine of Siena|Parish]] this day.
-- [[#Washing of Feet]]
 - [[Hand Bells]] during the [[#Gloria]].
+- [[#Washing of Feet]]
 - [[Crotalus]] instead of [[Hand Bells]] during the [[#Eucharistic Prayer]].
 - [[#Procession of the Blessed Sacrament]]
 - [[#Exposition/Benediction of the Blessed Sacrament]]
 
 ## Roles
+Six-ten [[Altar Server|Servers]]. For eight, consolidate [[Acolyte]] 1 (2) with [[Lucifer|Torch bearer]] 1 (2). For six, consolidate [[Boat Bearer]] with [[Lucifer|Torch bearer]] 3, and [[Master of Ceremonies]] with [[Lucifer|Torch bearer]] 4.
+
 - [[Master of Ceremonies]], [[Umbrellino Bearer]]
 - [[Crucifer]], [[Book Bearer]], [[Crotalus]] clapper
 - [[Thurifer]] 1
@@ -34,8 +36,8 @@ As normal for [[Roman Rite Solemn Mass]], except:
 - [ ] [[Crossing Altar]]:
 	- [ ] [[Crossing Altar#Crucifix]] is veiled in white.
 	- [ ] Small table for reception of Holy Oils in front of [[Crossing Altar]].
-- [ ] [[High Altar#Candles]] lit, but [[High Altar#Angel Candles]] removed to [[Cloister Walk]], since it's impractical to get at them when stripping the altar.
-- [ ] White [[Humeral Veil]] accessible for the [[#Procession of the Blessed Sacrament]], either near [[Credence Table]] or in [[Choir Stalls]] behind Celebrants' chair.
+- [ ] [[High Altar#Candles]] lit, but [[High Altar#Angel Candles]] removed to [[Cloister Walk]], since it's impractical to get at them when stripping the [[Crossing Altar|Altar]].
+- [ ] White [[Humeral Veil]] accessible for the [[#Procession of the Blessed Sacrament]], either near [[Credence Table]] or in [[Choir Stalls]] behind [[Celebrant]]'s chair.
 - [ ] [[Credence Table]]:
 	- [ ] 12 folded towels
 	- [ ] Large ewer of water and basin.
@@ -43,7 +45,7 @@ As normal for [[Roman Rite Solemn Mass]], except:
 - [ ] One [[Thurible]] and full [[Incense Boat]] near [[Thurible Stand]], lit before [[Mass]]. Blowtorch, extra coals, tongs, etc. nearby.
 - [ ] Other [[Thurible]] in cave or convenient place, with unlit coals.
 - [ ] Other [[Incense Boat]] full and near the [[Rosary Altar]].
-- [ ] Four [[Torch|Torches]] with plenty of oil
+- [ ] Four [[Torch|Torches]] with plenty of oil.
 - [ ] 12 seats for the [[#Washing of Feet]]
 - [ ] [[Crotalus]] in [[Choir Stalls]] with [[Hand Bells]].
 - [ ] [[Tabernacle]] empty, unveiled.
@@ -77,8 +79,9 @@ As normal.
 
 ### Gloria
 As many servers as we have [[Hand Bells]] ring [[Hand Bells]] during the _Gloria_:
-- When ringing, do so continuously, it is fine to ring while sitting an while standing, mirror the posture of the Celebrant.
-- [[Master of Ceremonies]] should help cue the servers for bell ringing.
+
+- When ringing, do so continuously, it is fine to ring while sitting and while standing, mirror the posture of the [[Celebrant]].
+- [[Master of Ceremonies]] should help cue the [[Altar Server|Servers]] for bell ringing.
 - Start ringing:
 	- **Cue**: End of _Gloria in excelsis Deo_, and [[Schola Cantorum]] starts singing.
 - Stop ringing:
@@ -87,7 +90,8 @@ As many servers as we have [[Hand Bells]] ring [[Hand Bells]] during the _Gloria
 - Start ringing:
 	- **Cue**: End of _Quoniam tu solus Sanctus_, again, the back organ will come in very loudly.
 - Continue Ringing bells all the way through the end of the _Gloria_, through the end of the _Amen_ at the end of it, then stop.
-- **This is the last use of a bell in the church until the _Gloria_ of the [[09 - Easter Vigil|Easter Vigil]]**.
+
+**This is the last use of a bell in the church until the _Gloria_ of the [[09 - Easter Vigil|Easter Vigil]]**.
 
 ### Collect, Reading, Gradual, Reading
 As normal.
@@ -96,7 +100,7 @@ As normal.
 As normal, including usual procession with [[Processional Candle|Processional Candles]] and [[Thurifer]].
 
 ### Washing of Feet
-#liturgy-todo  Where should the other servers be during the washing? In the choir stalls? Standing off to the side?
+Where should the other servers be during the washing? In the choir stalls? Standing off to the side? #liturgy-todo  
 
 - [[Washing Assistant]]s 1 and 2 help [[Celebrant]] change: remove his [[Chasuble]] and drape it on the [[Choir Stalls]] nearby, then help him don the Apron.
 - Other [[Altar Server|Servers]] arrange the 12 seats for those whose feet is to be washed, then return to their seats:
@@ -109,7 +113,7 @@ As normal, including usual procession with [[Processional Candle|Processional Ca
 - After the washing:
 	- [[Washing Assistant]] 1 takes the Basin and Ewer, [[Washing Assistant]] 2 takes the towels.
 	- All form up and reverence the [[Crossing Altar]], then enter the [[Sanctuary]].
-		- #liturgy-todo what does this mean?
+		- What does this mean? #liturgy-todo 
 	- [[Washing Assistant]]s 1 and 2 return the Basin, Ewer, and towels.
 	- [[Acolyte|Acolytes]] 1 and 2 [[Lavabo]] the [[Celebrant]] at his seat[^foot_lavabo_creed].
 	- [[Washing Assistant]]s help the [[Celebrant]] remove his Apron, stow it, retrieve the [[Chasuble]], and help [[Celebrant]] don it after the [[Lavabo]].
@@ -226,5 +230,4 @@ _Tantum Ergo_ is sung.
 - [[Ceremonies of the Liturgical Year|CotLY > par. 180 - 215, 217]].
 
 ## TODO
-When blue globe? During altar stripping?
-- Do we want patens for Communion?
+When blue globe? During altar stripping? Do we want patens for Communion?
