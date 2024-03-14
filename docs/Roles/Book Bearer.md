@@ -1,3 +1,8 @@
+---
+aliases:
+  - Book Bearers
+---
+
 ## Responsibilities
 Attend to books and related items needed for the liturgy.
 
