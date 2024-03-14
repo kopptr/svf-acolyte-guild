@@ -35,7 +35,7 @@ publish: false
 	- [ ] [[Ceremonial]]
 	- [ ] Two sets of [[Hand Bells]]
 	- [ ] Pamphlets
-	- [ ] Three [[Hand Candle]]s for [[Lucifer 1]], [[Thurifer]] and [[Book Bearer]] 1
+	- [ ] Three [[Hand Candle]]s for [[Lucifer]], [[Thurifer]] and [[Book Bearer]] 1
 - [ ] In front of the [[Ambo]], where the Baptisms will take place:
 	- [ ] [[Baptismal Font]]
 	- [ ] Table

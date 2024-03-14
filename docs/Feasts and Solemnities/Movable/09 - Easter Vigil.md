@@ -19,11 +19,15 @@ _The Easter Vigil in the Holy Night_.
 - [[Book Bearer]] 2 ([[Ritual]]) 
 - [[Acolyte]] 1
 - [[Acolyte]] 2
-- [[Lucifer]] 1 ([[Processional Candle]])
-- [[Lucifer]] 2 ([[Processional Candle]])
+- [[Lucifer]] 1 ([[Processional Candle]], [[Torch]])
+- [[Lucifer]] 2 ([[Processional Candle]], [[Torch]])
 - [[Lucifer]] 3 ([[Torch]])
-- [[Lucifer]] 4 ([[Processional Candle]], [[Torch]])
-- [[Lucifer]] 5 ([[Church Lights]])
+- [[Lucifer]] 4 ([[Torch]])
+- [[Ignifer]] 1 ([[#Lucernarium]]: [[Taper]], [[#Gloria]]: [[Church Lights]], [[Friars' Chapel]] [[Altar]] candles, [[Friars' Chapel]] catwalk candles)
+- [[Ignifer]] 2 ([[#Lucernarium]]: [[Hand Candle]], [[#Gloria]]:)
+- [[Ignifer]] 3 ([[#Lucernarium]]: [[Hand Candle]], [[#Gloria]]:)
+- [[Ignifer]] 4 ([[#Lucernarium]]: [[Hand Candle]], [[#Gloria]]:)
+- [[Ignifer]] 5 ([[#Lucernarium]]: [[Hand Candle]], [[Gloria]]: )
 - [[Bell Ringer]] 1 ([[Eucharistic Prayer]])
 - [[Bell Ringer]] 2 (_Gloria_)
 - [[Bell Ringer]] 3 (_Gloria_)
@@ -46,7 +50,7 @@ _The Easter Vigil in the Holy Night_.
 	- [ ] [[Ritual]].
 	- [ ] Many sets of [[Hand Bells]].
 	- [ ] Pamphlets.
-	- [ ] [[Hand Candle|Hand Candles]] for [[Altar Server|Servers]] that have something else to carry during the [[#Lucernarium]].
+	- [ ] Two [[Hand Candle|Hand Candles]] for [[Ignifer]] 1 and [[Book Bearer]] 1.
 - [ ] In front of the [[Ambo]], where the Baptisms will take place:
 	- [ ] [[Baptismal Font]].
 	- [ ] Table.
@@ -82,15 +86,15 @@ Go to the 66th St. Entrance outside near the ramp. Move so as to be hidden: leav
 
 - [[Thurifer]] has **unlit** [[Thurible]].
 - [[Boat Bearer]] has boat and tongs/weenie roaster.
-- [[Lucifer]] 1 has shortest [[Taper]].
+- [[Ignifer]] 1 has shortest [[Taper]].
 - [[Book Bearer]] 1 bears [[Missal]] and carries it in procession.
 - A [[Priest]], not the [[Celebrant]], carries the [[Paschal Candle]].
-- Everyone else holds [[Hand Candle|Hand Candles]]. Someone should have extra [[Hand Candle|Hand Candles]] for Celebrant, Deacon, and [[Boat Bearer]].
+- Everyone else holds [[Hand Candle|Hand Candles]]. Someone should have extra [[Hand Candle|Hand Candles]] for [[Celebrant]], [[Deacon]], and [[Boat Bearer]].
 
 Form up:
 
-- [[Book Bearer]] 1 near priest.
-- [[Thurifer]] and [[Boat Bearer]] with an easy path to the fire.
+- [[Book Bearer]] 1 near [[Celebrant]].
+- [[Thurifer]], [[Boat Bearer]], and [[Ignifer]] 1 with an easy path to the fire.
 - Everyone else in two lines out of the way.
 
 #### Blessing of Fire and Preparation of the Candle
@@ -102,25 +106,27 @@ Form up:
 	- When finished, [[Thurifer]] closes [[Thurible]] and both return to their place.
 	- [[Boat Bearer]] pockets the tongs, or holds them in his off hand.
 - [[Book Bearer]] 1 continues to hold [[Missal]] for the preparation of the [[Paschal Candle]].
-- When finished, [[Lucifer]] 1 lights the [[Taper]] from the fire and hands it to the [[Celebrant]]. Celebrant lights the [[Paschal Candle]] and hands the [[Taper]] back, which [[Lucifer]] 1 extinguishes.
+- When finished, [[Ignifer]] 1 lights the [[Taper]] from the fire and hands it to the [[Celebrant]]. Celebrant lights the [[Paschal Candle]] and hands the [[Taper]] back, which [[Ignifer]] 1 extinguishes.
 
 #### Procession
 - [[Thurifer]] and [[Boat Bearer]] go to [[Celebrant]] to charge incense. **[[Boat Bearer]] gives boat to [[Thurifer]] when done**, and then takes a [[Hand Candle]].
-- [[Thurifer]] leads the procession alone, followed by the [[Paschal Candle]], followed by the other [[Altar Server|Servers]], then everyone else. Three legs, each stopping for _Christ our light_/**Thanks be to God**:
-	1. Just outside the 66th St. Door:
-		- Servers other than the [[Thurifer]] form up behind in pairs.
-		- [[Lucifer]], with [[Taper]], is in the first pair.
-		- [[Book Bearer]] 1, with [[Missal]], and [[Master of Ceremonies|MC]] in the last pair.
-	2. Into the church through the 66th St. Entrance. West down the 66th St. aisle, South toward the rear entrance, stop at the back of the church, facing the [[Sanctuary]].
-		- [[Lucifer]] 1 lights [[Taper]] from [[Paschal Candle]], and all servers' [[Hand Candle|Hand Candles]] are lit.
-		- Five [[Altar Server|Servers]], not the [[Thurifer]] or [[Book Bearer]] 1, use [[Hand Candle|Hand Candles]]/[[Taper|Tapers]] and spread out, one on every edge of the main sets of pews. They start lighting peoples' [[Hand Candle|Hand Candles]] from the back moving forward. Only light every third or fifth person's [[Hand Candle]] so as to keep pace with the moving [[Paschal Candle]].
-		- [[Altar Server|Servers]] not lighting the peoples' [[Hand Candle|Hand Candles]] continue in procession behind the [[Paschal Candle]].
-	4. To the foot of the [[Sanctuary]]. [[Thurifer]] stands off to the North side during intonation.
-		- [[Thurifer]] leads [[Paschal Candle]] to its stand in front of the ambo.
-		- Other servers enter the [[Sanctuary]] and go to their seats in [[Choir Stalls#Low]]. Enter in pairs, making a [[Major Inclination|Profound Bow]] before entering and going up the North side of the [[Crossing Altar|Altar]].
+- **Formation**:
+	- [[Thurifer]]
+	- [[Priest]] with [[Paschal Candle]].
+	- [[Altar Server|Servers]] in pairs.  [[Ignifer|Ignifers]] 1-5 first, [[Master of Ceremonies|MC]] and [[Book Bearer]] are last.
+	- Other [[Minister|Ministers]].
+- **Route**: Three legs, each stopping for _Christ our light_/**Thanks be to God**:
+	1. Just outside (inside?) the 66th St. door.
+	2. Into the church through the 66th St. entrance. West down the 66th St. aisle, South toward the rear entrance, stop at the back of the church, facing the [[Sanctuary]].
+		- [[Ignifer]] 1 lights [[Taper]] from [[Paschal Candle]], and all [[Altar Server|Servers]]' [[Hand Candle|Hand Candles]] are lit.
+		- [[Ignifer|Ignifers]] 1-5 use [[Hand Candle|Hand Candles]]/[[Taper|Tapers]] and spread out, one on every edge of the main sets of pews. They start lighting peoples' [[Hand Candle|Hand Candles]] from the back moving forward. Keep pace with the [[Paschal Candle]].
+		- Other [[Altar Server|Servers]] continue in procession behind the [[Paschal Candle]].
+	3. To the foot of the [[Sanctuary]]. [[Thurifer]] stands off to the North side during intonation.
+		- [[Thurifer]] leads [[Paschal Candle]] to its stand in front of the [[Ambo]].
+		- Other [[Altar Server|Servers]] enter the [[Sanctuary]] and go to their seats in [[Choir Stalls#Low]]. Enter in pairs, forming up in the middle and making a [[Major Inclination|Profound Bow]] before entering and going up the North side of the [[Crossing Altar|Altar]].
 			- [[Boat Bearer]] returns tongs/weenie roaster to [[Thurible Stand]].
 			- [[Book Bearer]] 1 returns [[Missal]] to stand in [[Choir Stalls#Low]].
-			- [[Lucifer]] 1 returns [[Taper]].
+			- [[Ignifer]] 1 returns [[Taper]], and takes and lights a [[Hand Candle]] from the [[Choir Stalls]].
 			- All stand in [[Choir Stalls#Low]] with lit [[Hand Candle|Hand Candles]], facing the [[Ambo]] where the [[#Exsultet]] is to be sung.
 		- When [[Paschal Candle]] is in place, [[Thurifer]] returns to [[Choir Stalls]] by most direct route.
 
@@ -130,7 +136,7 @@ Form up:
 - When finished, [[Boat Bearer]] returns [[Hand Candle]] to [[Celebrant]] and returns to his seat.
 - [[Thurifer]] then precedes whomever will proclaim the [[#Exsultet]]:
 	- To the [[Paschal Candle]], to be incensed.
-	- To the [[Ambo]], likely high one, to incense.
+	- To the [[High Ambo]] to incense.
 	- Should he remain for the [[#Exsultet]], or go back immediately after the incensation? #liturgy-todo  Blue book says he leaves right away, but it'd be smokier if he stayed.
 - All other [[Altar Server|Servers]] remain in [[Choir Stalls#Low]] with [[Hand Candle|Hand Candles]] lit, facing the [[Ambo]].
  
@@ -144,34 +150,37 @@ Extinguish [[Hand Candle|Hand Candles]] when the pamphlet says to / when the [[C
 During the _Gloria_, one team of servers lights candles, another rings bells.
 
 ##### Bells
-- Bells rung by [[Thurifer]] and [[Boat Bearer]].
+- [[Hand Bells]] rung by [[Thurifer]] and [[Boat Bearer]].
 - Consult James for precisely when to ring, likely the same as at [[07 - Holy Thursday#Gloria|Holy Thursday > Gloria]]. #liturgy-todo 
 
 ##### Candles
 Other [[Altar Server|Servers]] light candles and turn on [[Church Lights]]. **There are a lot of candles. This should be done quickly, though still in a dignified manner**. The goal is to finish lighting everything and be back to our seats before the sung _Gloria_ ends.
 
 - **Before the _Gloria_, during the prayer after the last lesson**:
-	- [[Lucifer|Lucifers]] 1 and 4 take [[Taper|Tapers]], light them from the [[Paschal Candle]], and form up at the foot of the [[Crossing Altar]].
-	- [[Lucifer]] 5 grabs a [[Taper]], approaches the [[Presbytery]], [[Inclination#Major Inclination]] to the [[High Altar]], then enters the [[Sacristy]] and heads for the circuit breakers.
+	- [[Ignifer]] 1 lights a [[Taper]] from the [[Paschal Candle]] and waits at the foot of the [[Crossing Altar]].
+	- [[Ignifer|Ignifers]] 2-5 grab [[Taper|Tapers]] and standby.
 - When _Gloria_ is intoned:
-	- [[Lucifer]] 5 turns on all the [[Church Lights]]. When finished, grab a [[Taper]] and help the others.
-		- "Solemn Mass" setting.
-	- [[Lucifer|Lucifers]] 2 and 3 leave the [[Choir Stalls]], get [[Taper|Tapers]], and standby.
-	- [[Lucifer|Lucifers]] 1 and 4 [[Inclination#Major Inclination]] to the [[Crossing Altar]], then enter the [[Sanctuary]] to its left.
-	- [[Lucifer|Lucifers]] 1 and 4 light the other [[Lucifer|Lucifers]] [[Taper|Tapers]].
-	- [[Lucifer|Lucifers]] 1-5 light these candles (divvy up who lights what during rehearsal):
+	- [[Ignifer|Ignifers]] 2-5 light [[Taper|Tapers]] from [[Ignifer]] 1.
+	- [[Ignifer]] 1:
+		- Enter [[Sacristy]], making a [[Major Inclination|Profound Bow]] to the [[High Altar]] along the way.
+		- Turn on the [[Church Lights]], setting: _Solemn Mass_.
+		- Light the [[Friars' Chapel#Rood]] candles via the catwalk.
+		- Light the [[Friars' Chapel]] [[Altar]] candles.
+	- [[Ignifer|Ignifers]] 2 and 3, light:
 		- [[High Altar#Candles]].
 		- [[High Altar#Angel Candles]].
-		- Four [[Sanctuary#Polychrome Candles]].
-		- [[Crossing Altar#Candles]]. 
+		- Two [[Sanctuary#Polychrome Candles]] in the [[Presbytery]].
+		- Start at the end of the list for [[Ignifer|Ignifers]] 4 and 5 and work backwards, helping if needed.
+	- [[Ignifer|Ignifers]] 4 and 5, light:
+		- Two [[Sanctuary#Polychrome Candles]] closer to [[Crossing Altar]].
+		- [[Crossing Altar#Candles]].
+		- [[Holy Name Chapel]] [[Altar]] candles and sconces.
+			- Form up at the foot of the [[Sanctuary]], [[Major Inclination|Profound Bow]], and head West down the 65th St. aisle.
+		- [[St. Patrick Chapel]] [[Altar]] candles and sconces.
+		- [[St. Joseph Chapel]] [[Altar]] candles and sconces.
+		- [[Rosary Altar]] candles and sconces.
 		- [[Processional Candle|Processional Candles]].
-		- [[Rosary Altar]] candles.
-		- [[Friars' Chapel#Rood]] candles.
-		- [[Friars' Chapel]] candles.
-		- [[St. Joseph Chapel]] altar candles.
-		- [[St. Patrick Chapel]] altar candles.
-		- [[Holy Name Chapel]] altar candles.
-		- **DO NOT light the [[Sanctuary#Lamps]]**.
+	- **DO NOT light the [[Sanctuary#Lamps]]**.
 - All return to [[Choir Stalls#Low]] when finished and extinguish [[Taper|Tapers]].
 - If you hear _Jesu Christe_, just quit and return to your [[Choir Stalls]].
 
@@ -179,7 +188,7 @@ Other [[Altar Server|Servers]] light candles and turn on [[Church Lights]]. **Th
 [[Book Bearer]] 1 bears book.
 
 #### Epistle, Gradual, Alleluia, Gospel, Homily
-Same as usual, including Gospel Procession by [[Thurifer]] (assisted by [[Boat Bearer]]), [[Lucifer]] 1, and [[Lucifer]] 4 with [[Incense]] and [[Processional Candle|Processional Candles]]
+Same as usual, including Gospel Procession by [[Thurifer]] (assisted by [[Boat Bearer]]), [[Lucifer|Lucifers]] 1 and 2 with [[Incense]] and [[Processional Candle|Processional Candles]].
 
 #### Baptismal Liturgy
 Christian initiation and the blessing of the font.
