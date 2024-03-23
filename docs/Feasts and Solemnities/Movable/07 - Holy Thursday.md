@@ -50,7 +50,7 @@ As normal for [[Roman Rite Solemn Mass]], except:
 - [ ] Other [[Thurible]] in cave or convenient place, with unlit coals.
 - [ ] Other [[Incense Boat]] full and near the [[Rosary Altar]].
 - [ ] Four [[Torch|Torches]] with plenty of oil.
-- [ ] 12 seats for the [[#Washing of Feet]]
+- [ ] 12 seats for the [[#Washing of Feet]], lined up in front of the frontmost pew.
 - [ ] [[Crotalus]] in [[Choir Stalls]] with [[Hand Bells]].
 - [ ] [[Tabernacle]] empty, unveiled.
 - [ ] Altar of repose ([[Rosary Altar]]):
