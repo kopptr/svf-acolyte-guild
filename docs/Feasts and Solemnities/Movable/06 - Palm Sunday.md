@@ -8,11 +8,11 @@ _Palm Sunday of the Passion of the Lord_.
 - 11:30am: _Sext_ at [[Saint Catherine of Siena Church]].
 - [[#Solemn Procession]].
 	- [[#Blessing of Palms]].
-	- _Gospel_, _Homily_, _Universal Prayer_.
+	- _Gospel_, _Homily_.
 	- Procession from [[Saint Catherine of Siena Church|SCS]] to [[Saint Vincent Ferrer Church|SVF]].
 - 12:00pm: [[Roman Rite Solemn Mass]] at [[Saint Vincent Ferrer Church|SVF]] as usual during [[Lent]], except:
 	- Vestment change after first incensation of the [[Altar]].
-	- No _Penitential Rite_, _Gospel Procession_, or _Universal Prayer_.
+	- No _Penitential Rite_, _Gospel Procession_.
 	- Six [[Altar Server|Servers]] in front of the [[Crossing Altar]] during the [[Eucharistic Prayer]].
 	- Depart as normal, but in silence.
 
@@ -84,7 +84,7 @@ Form up:
 
 [^no_deacon]: If there is no [[Deacon]], then they precede the [[Celebrant]] or [[Concelebrant]], and there will be no blessing, as is typical at [[Mass]].
 ### Universal Prayer
-[[Book Bearer]] approaches Priest, then Deacon, then priest again holding the [[Ritual]] with the _Prayers of the Faithful_. When finished, he sets the [[Ritual]] on a table in the back and returns to formation.
+Omitted.
 
 ### Procession Proper
 - **Cue**: _Let us proceed in peace_. **In the name of Christ. Amen.**
@@ -119,11 +119,10 @@ After the _Introit_, there is a sung _Kyrie_ in place of the _Penitential Rite_.
 ### Collect
 After sung _Kyrie_, [[Book Bearer]] bears the [[Missal]].
 
-### Gospel, Homily, Credo, Offertory, Preface
+### Gospel, Homily, Credo, Universal Prayer, Offertory, Preface
 - _Gospel Procession_ is omitted; no incense or [[Processional Candle|Processional Candles]] are used. [[Altar Server|Servers]] stay in place in [[Choir Stalls]] and kneel at the appropriate time during the _Gospel_ with the rest of the congregation.
 - All sit for _Homily_. [[Thurifer]] adds coals as needed.
 - _Credo_ is sung.
-- _Universal Prayer_ is omitted.
 - [[Offertory]] and _Preface_ as usual for [[Roman Rite Solemn Mass]].
 
 ### Sanctus through Great Amen
