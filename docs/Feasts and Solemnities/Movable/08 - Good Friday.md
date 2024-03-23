@@ -75,7 +75,7 @@ Prepare:
 	1. Process from [[Lourde's Door]] to foot of [[Crossing Altar]].
 	2. Process to the middle of the [[Sanctuary]].
 	3. Process into the [[Presbytery]] and to the foot of the [[High Altar]].
-- [[Priest]] stands on the steps of the [[Presbytery]] holding the [[Veneration Crucifix]]. [[Lucifer|Candle bearers]] flank him, turned inward, with [[Processional Candle|Processional Candles]].
+- [[Priest]] stands on the steps of the [[Presbytery]] holding the [[Veneration Crucifix]]. [[Lucifer|Candle bearers]] flank him, turned inward, with [[Processional Candle|Processional Candles]], where they stand for the duration of the [[#Friars' Veneration]].
 
 #### Friars' Veneration
 Friars venerate the [[Veneration Crucifix]] in pairs, making three [[Genuflection#Solemn Genuflection]] along the way. All [[Altar Server|Servers]] other than [[Lucifer|Candle bearers]] standby, seated in the [[Choir Stalls]].
@@ -88,7 +88,7 @@ Friars venerate the [[Veneration Crucifix]] in pairs, making three [[Genuflectio
 #### Peoples' Veneration
 When finished:
 
-- [[Lucifer|Candle bearers]] remain near [[Veneration Crucifix]] and take up [[Processional Candle|Processional Candles]], flanking [[Veneration Crucifix]] as [[Priest]] processes with it, down to the foot of the [[Altar]].
+- [[Lucifer|Candle bearers]] flank [[Veneration Crucifix]] with [[Processional Candle|Processional Candles]] as [[Priest]] processes with it, down to the foot of the [[Altar]].
 - [[Lucifer|Candle bearers]] place the [[Processional Candle|Processional Candles]] to the side of the [[Veneration Crucifix]].
 - [[Acolyte|Acolytes]] follow closely behind with purificators, standing at either side and wiping while the people reverence.
 	- [[Lucifer|Candle bearers]] discreetly retrieve their shoes from the [[Sacristy]] and bring them to the [[Choir Stalls]], leaving them off.

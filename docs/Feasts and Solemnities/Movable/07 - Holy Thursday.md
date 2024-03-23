@@ -103,8 +103,9 @@ As normal, including usual procession with [[Processional Candle|Processional Ca
 Where should the other servers be during the washing? In the choir stalls? Standing off to the side? #liturgy-todo  
 
 - [[Washing Assistant]]s 1 and 2 help [[Celebrant]] change: remove his [[Chasuble]] and drape it on the [[Choir Stalls]] nearby, then help him don the Apron.
-- Other [[Altar Server|Servers]] arrange the 12 seats for those whose feet is to be washed, then return to their seats:
+- Other [[Altar Server|Servers]] arrange the 12 seats for those whose feet is to be washed, then standby in front of the [[Ambo]]s:
 	- Arranged on the top step of the [[Sanctuary]], facing out, in three sections, North, West, and South.
+	- Alternately, arranged in rows in front of the first two sets of pews, six on either side.
 - [[Master of Ceremonies]] helps guide people to their seats.
 - [[Washing Assistant]]s 1 and 2 bring the Basin and Ewer to the [[Celebrant]], towels to the [[Deacon]].
 - During the washing:
@@ -140,6 +141,7 @@ During the peoples' Communion:
 - [[Thurifer|Thurifers]] light the second [[Thurible]] and add coals to the first.
 - [[Lucifer|Torch bearers]] 1 and 2 prepare the Altar of Repose[^prepare_reposition]:
 	- Light all the candles on the [[Rosary Altar]].
+	- Extinguish the blue globe, and light the red globe that will serve as a sanctuary lamp.
 	- Move the four [[Torch|Torches]] and stands to the [[Rosary Altar]], two on either side, and light them.
 
 [^prepare_reposition]: [[Ceremonies of the Liturgical Year|CotLY > p. 206]].
