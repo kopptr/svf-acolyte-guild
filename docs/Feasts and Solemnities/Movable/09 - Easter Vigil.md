@@ -45,7 +45,7 @@ As for [[Roman Rite Solemn Mass#Preparation]], except:
 - [ ] [[Presbytery]]:
 	- [ ] One stool on either side of the [[Presbytery]], tucked behind the [[Sanctuary#Polychrome Candles]].
 	- [ ] [[Sanctuary Lamp]]s lowered and unlit.
-	- [ ] [[Tabernacle]] open. #liturgy-todo  is this true?
+	- [ ] [[Tabernacle]] open.
 - [ ] [[Credence Table]]:
 	- [ ] Lemon and bread.
 - [ ] [[Choir Stalls#Low]]:
@@ -57,7 +57,7 @@ As for [[Roman Rite Solemn Mass#Preparation]], except:
 - [ ] In front of the [[Ambo]], near the [[Paschal Candle]] stand:
 	- [ ] [[Baptismal Font]].
 	- [ ] Golden shell.
-	- [ ] Holy oils. #liturgy-todo do these start here, or in the [[Sanctuary]]?
+	- [ ] Holy oils.
 	- [ ] Small table, under the [[High Ambo]]:
 		- [ ] Towels.
 		- [ ] Baptismal candles.
@@ -105,13 +105,15 @@ Mass begins when the [[Celebrant]] starts the prayers.
 
 #### Blessing of Fire and Preparation of the Candle
 - [[Book Bearer]] 1 holds [[Missal]] for the lighting and blessing of the fire.
-- After the fire is lit and blessed, ans the preparation of the [[Order of Participants in a Eucharistic Procession]] is taking place, [[Thurifer]] and [[Ignifer]] 2 **discreetly** light [[Thurible]]:
+- After the fire is lit and blessed[^charcoal_timing], and the preparation of the [[Paschal Candle]] is taking place, [[Thurifer]] and [[Ignifer]] 2 **discreetly** light [[Thurible]]:
 	- Both approach the fire. [[Thurifer]] holds [[Thurible]] open.
 	- [[Ignifer]] 2 uses tongs/weenie roaster to take charcoal brickettes from [[Thurible]], light them in the fire, and place them back in the [[Thurible]].
 	- When finished, [[Thurifer]] closes [[Thurible]], [[Ignifer]] 2 leaves the weenie roaster, and both return to their place.
 	- [[Ignifer]] 2 pockets the tongs, or holds them in his off hand.
 - [[Book Bearer]] 1 continues to hold [[Missal]] for the preparation of the [[Paschal Candle]].
 - When the preparation of the [[Paschal Candle]] is finished, [[Ignifer]] 1 lights the [[Taper]] from the fire and hands it to the [[Celebrant]]. Celebrant lights the [[Paschal Candle]] and hands the [[Taper]] back, which [[Ignifer]] 1 extinguishes.
+
+[^charcoal_timing]: [[The Roman Missal]] says not to do this until the [[Paschal Candle]] is lit, but if we do that, then the coals won't be properly lit for the procession.
 
 #### Procession
 - [[Thurifer]] and [[Boat Bearer]] go to [[Celebrant]] to charge incense. **[[Boat Bearer]] gives boat to [[Thurifer]] when done**.
@@ -128,19 +130,21 @@ Mass begins when the [[Celebrant]] starts the prayers.
 		- [[Ignifer|Ignifers]] 1-5 use [[Hand Candle|Hand Candles]]/[[Taper|Tapers]] and spread out, one on every edge of the main sets of pews. They start lighting peoples' [[Hand Candle|Hand Candles]] from the back moving forward, keeping pace with the [[Paschal Candle]].
 		- Other [[Altar Server|Servers]] continue in procession behind the [[Paschal Candle]].
 	3. To the foot of the [[Sanctuary]]. [[Thurifer]] stands off to the North side during intonation.
-		- [[Thurifer]] leads [[Paschal Candle]] to its stand in front of the [[Ambo]]. When [[Paschal Candle]] is in place, [[Thurifer]] enters the [[Sanctuary]] and stands near the [[Thurible Stand]].
-		- Other [[Altar Server|Servers]] enter the [[Sanctuary]] and go to their seats in [[Choir Stalls#Low]]. Enter in pairs, forming up in the middle and making a [[Major Inclination|Profound Bow]] before entering and going up the North side of the [[Crossing Altar|Altar]].
-			- [[Boat Bearer]] extinguishes his [[Hand Candle]] and takes up the [[Incense Boat]] and waits near the [[Thurible Stand]].
+		- [[Paschal Candle]] goes to its stand in front of the [[Ambo]]. [[Master of Ceremonies|MC]] accompanies it to spot the [[Priest]], then returns to his seat.
+		- Other [[Altar Server|Servers]] enter the [[Sanctuary]] in pairs, forming up in the middle and making a [[Major Inclination|Profound Bow]] before entering and going up the North side of the [[Crossing Altar|Altar]].
+			- [[Boat Bearer]] extinguishes his [[Hand Candle]], takes up the [[Incense Boat]], and goes to the [[Celebrant]]'s chair with the [[Thurifer]] and stands by.
+			- [[Thurifer]] goes to the [[Celebrant]]'s chair with the [[Boat Bearer]] and stands by.
+			- [[Ignifer]] 5 goes to the [[Sacristy]] by way of the [[Passageway]], and waits near the [[Lourde's Door]] (so that he can hear).
 			- All others deposit their items and stand in [[Choir Stalls#Low]] with lit [[Hand Candle|Hand Candles]].
 
 #### Exsultet
-- [[Thurifer]] and [[Boat Bearer]] go to [[Celebrant]] at his chair so he can impose incense.
-	- [[Boat Bearer]] holds [[Celebrant]]'s and [[Deacon]]'s [[Hand Candle|Hand Candles]] during imposition of incense and bears [[Incense Boat]] as usual.
+- [[Thurifer]] and [[Boat Bearer]] assist with [[Imposition of Incense]]. [[Boat Bearer]] holds [[Celebrant]]'s and [[Deacon]]'s [[Hand Candle|Hand Candles]] during imposition of incense and bears [[Incense Boat]] as usual.
 - When finished, [[Boat Bearer]] returns [[Hand Candle]] to [[Celebrant]] and returns to his seat.
 - [[Thurifer]] then precedes whomever will proclaim the [[#Exsultet]]:
 	- To the [[Paschal Candle]], to be incensed.
 	- To the [[High Ambo]] to incense.
-	- Should he remain for the [[#Exsultet]], or go back immediately after the incensation? #liturgy-todo  Blue book says he leaves right away, but it'd be smokier if he stayed.
+	- **Immediately after the incensation**, [[Thurifer]] descends the [[High Ambo]], puts away the [[Thurible]], and returns to his seat.
+- [[Ignifer]] 5 waits until the completion of the _Exsultet_, and then turns on the minimal configuration of lights required for the [[Schola Cantorum]] to see their music. Then he returns to the [[Choir Stalls]] by way of the [[Passageway]].
 - All other [[Altar Server|Servers]] remain in [[Choir Stalls#Low]] with [[Hand Candle|Hand Candles]] lit, facing the [[Ambo]].
  
 ### Liturgy of the Word
@@ -169,11 +173,11 @@ When _Gloria_ is intoned:
 - [[Ignifer|Ignifers]] 1 and 2, light:
 	- Two [[Sanctuary#Polychrome Candles]] closer to [[Crossing Altar]].
 	- [[Crossing Altar#Candles]].
-	- [[Holy Name Chapel]] [[Altar]] candles and sconces.
+	- [[Holy Name Chapel]] [[Altar]] candles and sconces, and turn on the lights.
 		- Form up at the foot of the [[Sanctuary]], [[Major Inclination|Profound Bow]], and head West down the 65th St. aisle.
-	- [[St. Patrick Chapel]] [[Altar]] candles and sconces.
-	- [[St. Joseph Chapel]] [[Altar]] candles and sconces.
-	- [[Rosary Altar]] candles and sconces.
+	- [[St. Patrick Chapel]] [[Altar]] candles and sconces, and turn on the lights.
+	- [[St. Joseph Chapel]] [[Altar]] candles and sconces, and turn on the lights.
+	- [[Rosary Altar]] candles and sconces, and **open the sepulchre door**.
 	- [[Processional Candle|Processional Candles]].
 - [[Ignifer|Ignifers]] 3 and 4, with longest [[Taper|Tapers]], light:
 	- [[High Altar#Candles]].
@@ -186,7 +190,6 @@ When _Gloria_ is intoned:
 	- Take up and light the nearby [[Taper]].
 	- Light the [[Friars' Chapel#Rood]] candles via the catwalk.
 	- Light the [[Friars' Chapel]] [[Altar]] candles.
-		- Should the Sanctus candles be lit? #liturgy-todo 
 - **DO NOT light the [[Sanctuary#Lamps]]**.
 - All return to [[Choir Stalls#Low]] when finished and extinguish [[Taper|Tapers]].
 - If the music gets to _Jesu Christe_ before the [[Altar Server|Servers]] are finished, they should abandon what they're doing and return to the [[Choir Stalls]].
@@ -195,11 +198,14 @@ When _Gloria_ is intoned:
 [[Book Bearer]] 1 bears book.
 
 #### Epistle, Gradual, Alleluia, Gospel, Homily
-Same as usual, including Gospel Procession by [[Thurifer]] (assisted by [[Boat Bearer]]), [[Lucifer|Candle bearers]] 1 and 2 with [[Incense]] and [[Processional Candle|Processional Candles]]. Gospel will be proclaimed from the [[High Ambo]].
+Same as usual, except:
+
+- Gospel Procession uses incense, but **does not use [[Processional Candle|Processional Candles]]**.
 
 #### Baptismal Liturgy
 Christian initiation and the blessing of the font.
 
+After the _Homily_ when the [[Celebrant]] stands, the [[Altar Server|Servers]] all go directly to the Baptismal font, and stand in two lines under the [[High Ambo]]. See [[#Order]] to know what to carry. The [[Celebrant]] calls forth the _Baptismandi_, and the procession starts.
 ##### Procession
 _Litany of the Saints_ is sung during procession.
 
@@ -217,7 +223,6 @@ Go **Very** slowly. _Litany of Saints_ is long, and it will take a long time for
 - [[Celebrant]] and [[Deacon]].
 
 ###### Route
-- [[Altar Server|Servers]] form up and head down right side of altar in pairs, then head part way down aisle.
 - Baptismandi and their godparents should fill in from their pews in pairs and join the procession. [[Master of Ceremonies]] may have to help direct them.
 - Turn right, head south across the back of the church.
 - Turn right, head east toward the [[Rosary Altar]].
@@ -250,9 +255,9 @@ Whereby non-Catholic-but-baptized people are received into the church.
 - [[Book Bearer]] 2 bears the [[Ritual]].
 
 ##### Confirmation
-- [[Book Bearer]] 2 bears [[Ritual]]. [[Oil Bearer]] bears the oil.
-- Both follow the [[Celebrant]]from Confirmandi to Confirmandi, [[Book Bearer]] 2 one his left, [[Oil Bearer]] on his right.
-- [[Oil Bearer]] returns oil to table near [[Baptismal Font]].
+- [[Oil Bearer]] retrieves the oil and a hand towel from the [[Credence Table]] and brings them to the [[Deacon]] or attending [[Priest]], and then stands with the other [[Altar Server|Servers]].
+- [[Book Bearer]] 2 bears [[Ritual]].
+- When all are confirmed, [[Oil Bearer]] takes oil and towel.
 
 ##### Recession
 All return to [[Sanctuary]] by the shortest path.
@@ -273,6 +278,7 @@ All return to [[Sanctuary]] by the shortest path.
 - [[Altar Server|Servers]] receive Communion.
 - [[Acolyte|Acolytes]] 1 and 2 hold [[Paten|Patens]] for communion in the [[Friars' Chapel]] and [[Rosary Altar]].
 - Other [[Altar Server|Servers]] use [[Taper|Tapers]] to light the [[Sanctuary Lamp]]s, then raise them.
+- Refill the holy water fonts at the entrances to the church.
 
 #### Postcommunion Prayer, Recession
 As usual for [[Roman Rite Solemn Mass]]. Two _Alleluias_ are added to the dismissal prayer.
