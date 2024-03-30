@@ -1,3 +1,7 @@
+---
+aliases:
+  - Choir Stall
+---
 The choir stalls are the wooden seats in the [[Sanctuary]] that face inward. It is divided into four sections:
 
 - Northeast

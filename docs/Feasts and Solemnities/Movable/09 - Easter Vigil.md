@@ -5,10 +5,10 @@ _The Easter Vigil in the Holy Night_.
 [[Roman Rite Solemn Mass]] with:
 
 - [[#Lucernarium]].
-- Extra [[#Lessons]] and [[Collect]]s.
+- Additional [[#Lessons]] and [[Collect]]s.
 - Ringing of [[#Bells]] and lighting of [[#Candles]] during the [[#Gloria]].
-- [[#Baptismal Liturgy]], including _Litany of the Saints_.
-- Lighting of [[Sanctuary Lamp]]s during [[#Communion]].
+- [[#Baptismal Liturgy]], including _Litany of the Saints_, [[#Profession of Faith]], and [[#Confirmation]].
+- Lighting of [[Sanctuary Lamp|Sanctuary Lamps]] during [[#Communion]].
 
 ## Roles
 - [[Master of Ceremonies]]
@@ -40,41 +40,47 @@ _The Easter Vigil in the Holy Night_.
 ## Preparation
 As for [[Roman Rite Solemn Mass#Preparation]], except:
 
-- [ ] All candles and sconces **unlit**.
-	- [ ] Long before Mass starts, pre-light and then extinguish all of the candles, since fresh wicks are harder to light. Especially the [[High Altar]] and [[Sanctuary#Polychrome Candles]].
+- [ ] All candles and sconces **unlit**. Bleached candles used everywhere.
+	- [ ] Well before Mass starts (hours), pre-light and then extinguish all of the candles, since fresh wicks are harder to light. Especially the [[High Altar]] and [[Sanctuary#Polychrome Candles]].
 - [ ] [[Presbytery]]:
 	- [ ] One stool on either side of the [[Presbytery]], tucked behind the [[Sanctuary#Polychrome Candles]].
-	- [ ] [[Sanctuary Lamp]]s lowered and unlit.
-	- [ ] [[Tabernacle]] open.
+	- [ ] [[Sanctuary Lamp|Sanctuary Lamps]] lowered and unlit.
+	- [ ] [[Tabernacle]] empty, unveiled, and open.
 - [ ] [[Credence Table]]:
 	- [ ] Lemon and bread.
+	- [ ] [[Ciborium]] with _Chrism_.
 - [ ] [[Choir Stalls#Low]]:
-	- [ ] [[Missal]] and [[Missal Stand|Stand]].
 	- [ ] [[Ritual]].
 	- [ ] Many sets of [[Hand Bells]].
-	- [ ] Pamphlets.
-	- [ ] Two [[Hand Candle|Hand Candles]] for [[Ignifer]] 1 and [[Book Bearer]] 1.
+	- [ ] Extra [[Hand Candle|Hand Candles]] for those who carry items during the [[#Lucernarium]] [[Ignifer]] 1 and [[Book Bearer]] 1.
 - [ ] In front of the [[Ambo]], near the [[Paschal Candle]] stand:
 	- [ ] [[Baptismal Font]].
 	- [ ] Golden shell.
-	- [ ] Holy oils.
+	- [ ] _Oil of Catechumens_.
 	- [ ] Small table, under the [[High Ambo]]:
 		- [ ] Towels.
 		- [ ] Baptismal candles.
 	- [ ] Baptismal garments, lined up hanging on the altar rail at the [[Rosary Altar]].
+	- [ ] [[Aspersorium]], empty(?).
 - [ ] Outside 66th St. entrance near ramp:
 	- [ ] Fire pit.
 	- [ ] Tools, incense grains, etc. for the [[Paschal Candle]].
-- [ ] Statues, etc. unveiled. Side altar candles in place and unlit.
+- [ ] Statues, etc. unveiled.
+- [ ] Altar candles and sconces in place and unlit in:
+	- [ ] [[Friars' Chapel]]
+	- [ ] [[Holy Name Chapel]]
+	- [ ] [[St. Patrick Chapel]]
+	- [ ] [[St. Joseph Chapel]]
+- [ ] [[Friars' Chapel]] rood screen candles in place.
 - [ ] All florals and decorations in place.
-- [ ] [[Processional Crucifix]] in stand in normal place
-- [ ] [[Processional Candle|Processional Candles]] in place behind [[Ambo]], unlit.
+- [ ] [[Processional Crucifix]], unveiled, in stand in normal place (not used in entrance).
+- [ ] [[Processional Candle|Processional Candles]] in place behind [[Ambo]], unlit (not used in entrance).
 - [ ] Four [[Taper|Tapers]] near [[Choir Stalls#Low]], all with fresh wicks.
 	- [ ] Extra wicks on [[Presbytery#Lip]] in case more are needed lighting things in the [[Presbytery]].
 	- [ ] Extra wicks near [[Choir Stalls#Low]] in case we need to use them without tapers.
 - [ ] Short [[Taper]] in the [[Sacristy]], with a fresh wick and a nearby lighter.
 - [ ] [[Thurible Stand]]:
-	- [ ] **Both** [[Incense Boat]]s full, one on stand, other on floor nearby.
+	- [ ] **Both** [[Incense Boat|Incense Boats]] full, one on stand, other on floor nearby.
 	- [ ] [[Thurible]], empty.
 	- [ ] Tongs, lots of extra charcoal, blowtorch.
 - [ ] Shortly before mass is to start, [[Church Lights]] entirely off.
@@ -84,9 +90,9 @@ As for [[Roman Rite Solemn Mass#Preparation]], except:
 ### Entrance
 Mass will start when everyone is in place near the firepit on 66th Street near the [[Rosary Altar]] entrance. All of the [[Altar Server|Servers]] should go there in an orderly fashion, holding what they need for the [[#Lucernarium]]:
 
-- [[Thurifer]] has **unlit** [[Thurible]].
-- [[Boat Bearer]] has [[Incense Boat]] and tongs/weenie roaster.
-- [[Ignifer]] 1 has shortest [[Taper]].
+- [[Thurifer]] has **unlit** [[Thurible]] with charcoal.
+- [[Boat Bearer]] has [[Incense Boat]].
+- [[Ignifer]] 1 has short [[Taper]].
 - [[Ignifer]] 2 has tongs and weenie roaster.
 - [[Book Bearer]] 1 bears [[Missal]] and carries it in procession.
 - A [[Priest]], not the [[Celebrant]], carries the [[Paschal Candle]].
@@ -95,7 +101,7 @@ Mass will start when everyone is in place near the firepit on 66th Street near t
 Form up:
 
 - [[Book Bearer]] 1 near [[Celebrant]].
-- [[Thurifer]], [[Boat Bearer]], and [[Ignifer]] 1 with an easy path to the fire.
+- [[Thurifer]], and [[Ignifer|Ignifers]] 1 and 2 with an easy path to the fire.
 - Everyone else in two lines out of the way.
 
 ### Lucernarium
@@ -104,19 +110,17 @@ A.k.a. Service of Light.
 Mass begins when the [[Celebrant]] starts the prayers.
 
 #### Blessing of Fire and Preparation of the Candle
-- [[Book Bearer]] 1 holds [[Missal]] for the lighting and blessing of the fire.
+- [[Book Bearer]] 1 holds [[Missal]] for the lighting and blessing of the fire and the preparation of the [[Paschal Candle]].
 - After the fire is lit and blessed[^charcoal_timing], and the preparation of the [[Paschal Candle]] is taking place, [[Thurifer]] and [[Ignifer]] 2 **discreetly** light [[Thurible]]:
 	- Both approach the fire. [[Thurifer]] holds [[Thurible]] open.
 	- [[Ignifer]] 2 uses tongs/weenie roaster to take charcoal brickettes from [[Thurible]], light them in the fire, and place them back in the [[Thurible]].
-	- When finished, [[Thurifer]] closes [[Thurible]], [[Ignifer]] 2 leaves the weenie roaster, and both return to their place.
-	- [[Ignifer]] 2 pockets the tongs, or holds them in his off hand.
-- [[Book Bearer]] 1 continues to hold [[Missal]] for the preparation of the [[Paschal Candle]].
-- When the preparation of the [[Paschal Candle]] is finished, [[Ignifer]] 1 lights the [[Taper]] from the fire and hands it to the [[Celebrant]]. Celebrant lights the [[Paschal Candle]] and hands the [[Taper]] back, which [[Ignifer]] 1 extinguishes.
+	- When finished, [[Thurifer]] closes [[Thurible]] and [[Ignifer]] 2 leaves the weenie roaster and pockets the tongs. Both return to their place.
+- When the preparation of the [[Paschal Candle]] is finished, [[Ignifer]] 1 lights the [[Taper]] from the fire and hands it to the [[Celebrant]]. [[Celebrant]] lights the [[Paschal Candle]] and hands the [[Taper]] back, which [[Ignifer]] 1 extinguishes.
 
 [^charcoal_timing]: [[The Roman Missal]] says not to do this until the [[Paschal Candle]] is lit, but if we do that, then the coals won't be properly lit for the procession.
 
 #### Procession
-- [[Thurifer]] and [[Boat Bearer]] go to [[Celebrant]] to charge incense. **[[Boat Bearer]] gives boat to [[Thurifer]] when done**.
+- [[Thurifer]] and [[Boat Bearer]] go to [[Celebrant]] to impose incense. **[[Boat Bearer]] gives boat to [[Thurifer]] when done**.
 - [[Ignifer|Ignifers]] give extra [[Hand Candle|Hand Candles]] to [[Boat Bearer]], [[Ignifer]] 2, [[Celebrant]], and [[Deacon]].
 - **Formation**:
 	- [[Thurifer]]
@@ -162,7 +166,7 @@ During the _Gloria_, one team of [[Altar Server|Servers]] lights candles, anothe
 
 ##### Bells
 - [[Hand Bells]] rung by [[Bell Ringer|Bell Ringers]] 2 and 3.
-- Consult James for precisely when to ring, likely the same as at [[07 - Holy Thursday#Gloria|Holy Thursday > Gloria]]. #liturgy-todo 
+- Consult James for precisely when to ring, likely the same as at [[07 - Holy Thursday#Gloria|Holy Thursday > Gloria]].
 
 ##### Candles
 Other [[Altar Server|Servers]] light candles and turn on [[Church Lights]]. **There are many candles. This should be done quickly, though still in a dignified manner**. The goal is to finish lighting everything and for [[Altar Server|Servers]] to be back to their seats before the sung _Gloria_ ends.
@@ -183,8 +187,8 @@ When _Gloria_ is intoned:
 	- [[High Altar#Candles]].
 	- [[High Altar#Angel Candles]].
 	- Two [[Sanctuary#Polychrome Candles]] in the [[Presbytery]].
-	- Start at the end of the list for [[Ignifer|Ignifers]] 1 and 2 and work backwards, helping if needed.
-	- They may use the stools to assist in lighting the candles.
+	- Start at the end of the list for [[Ignifer|Ignifers]] 1 and 2 and work backwards until everything is lit.
+	- They may use the stools to assist in lighting the [[Presbytery]] candles.
 - [[Ignifer]] 5:
 	- Turn on the [[Church Lights]] to the _Solemn Mass_ setting.
 	- Take up and light the nearby [[Taper]].
@@ -214,16 +218,17 @@ Go **Very** slowly. _Litany of Saints_ is long, and it will take a long time for
 
 ###### Order
 [[Master of Ceremonies]] may have to help direct the Baptismandi.
+
 - [[Priest]] (not the [[Celebrant]]) with [[Paschal Candle]].
 - [[Book Bearer|Book Bearers]] 1 and 2 with [[Missal]] and [[Ritual]], respectively.
 - [[Holy Water Bearer]] and [[Garment Bearer]], empty-handed.
 - Other [[Altar Server|Altar Servers]], in pairs, with [[Hand Candle|Hand Candles]].
-- [[Master of Ceremonies]].
+- [[Master of Ceremonies]], empty-handed.
 - Baptismandi and their godparents in pairs.
 - [[Celebrant]] and [[Deacon]].
 
 ###### Route
-- Baptismandi and their godparents should fill in from their pews in pairs and join the procession. [[Master of Ceremonies]] may have to help direct them.
+- Baptismandi and their godparents should fill in from their pews in pairs and join the procession.
 - Turn right, head south across the back of the church.
 - Turn right, head east toward the [[Rosary Altar]].
 - Turn right, head to the [[Baptismal Font]].
@@ -250,17 +255,16 @@ Go **Very** slowly. _Litany of Saints_ is long, and it will take a long time for
 		- Up main aisle.
 - When finished, [[Holy Water Bearer]] takes the [[Aspersorium]] and returns it near the [[Baptismal Font]].
 
-##### Profession of Faith
+#### Profession of Faith
 Whereby non-Catholic-but-baptized people are received into the church.
 - [[Book Bearer]] 2 bears the [[Ritual]].
 
-##### Confirmation
-- [[Oil Bearer]] retrieves the oil and a hand towel from the [[Credence Table]] and brings them to the [[Deacon]] or attending [[Priest]], and then stands with the other [[Altar Server|Servers]].
+#### Confirmation
+- [[Oil Bearer]] retrieves the _Chrism Oil_ and a hand towel from the [[Credence Table]] and brings them to the [[Deacon]] or attending [[Priest]], and then stands with the other [[Altar Server|Servers]].
 - [[Book Bearer]] 2 bears [[Ritual]].
 - When all are confirmed, [[Oil Bearer]] takes oil and towel.
 
-##### Recession
-All return to [[Sanctuary]] by the shortest path.
+When finished, all [[Altar Server|Servers]] and [[Minister|Ministers]] return to [[Sanctuary]] by the shortest path.
 
 #### Universal Prayer
 [[Credo]] omitted, due to [[#Renewal of Baptismal Promises]].
@@ -277,7 +281,7 @@ All return to [[Sanctuary]] by the shortest path.
 - A [[Altar Server|Server]] holds the [[Paten]] for those who received sacraments. Other [[Altar Server|Servers]] line up in their normal place and kneel.
 - [[Altar Server|Servers]] receive Communion.
 - [[Acolyte|Acolytes]] 1 and 2 hold [[Paten|Patens]] for communion in the [[Friars' Chapel]] and [[Rosary Altar]].
-- Other [[Altar Server|Servers]] use [[Taper|Tapers]] to light the [[Sanctuary Lamp]]s, then raise them.
+- Other [[Altar Server|Servers]] use [[Taper|Tapers]] to light the [[Sanctuary Lamp|Sanctuary Lamps]], then raise them.
 - Refill the holy water fonts at the entrances to the church.
 
 #### Postcommunion Prayer, Recession
