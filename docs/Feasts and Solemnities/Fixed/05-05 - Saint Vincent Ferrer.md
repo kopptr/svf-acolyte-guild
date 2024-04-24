@@ -1,5 +1,7 @@
 # 05-05 - Saint Vincent Ferrer
-This is a solemnity only because SVF is our patron. Dominicans celebrate it on May 5 (instead of April 5) so that it does not fall during the Octave of Easter or Holy Week.
+This is a solemnity only because SVF is our patron. Dominicans celebrate it on May 5 (instead of April 5) so that it does not fall during the Octave of Easter or Holy Week[^dating].
+
+[^dating]: In 2024, May 5th fell on a Sunday, so the anniversary of the dedication of [[Saint Vincent Ferrer Church]] was celebrated May 6th, and this feast was celebrated on May 7th.
 
 ## Overview
 [[Roman Rite Solemn Mass at the High Altar]] with:
