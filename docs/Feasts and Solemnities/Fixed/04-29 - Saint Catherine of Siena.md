@@ -3,6 +3,7 @@ This is a solemnity only because SCS is our patron. **The Solemn Mass is celebra
 
 ## Overview
 [[Roman Rite Solemn Mass]] with:
+
 - [[#Entrance Procession]] with [[#Station at the Statue of Saint Catherine]].
 
 ## Roles

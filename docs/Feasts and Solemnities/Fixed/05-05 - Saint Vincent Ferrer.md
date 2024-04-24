@@ -5,6 +5,7 @@ This is a solemnity only because SVF is our patron. Dominicans celebrate it on M
 
 ## Overview
 [[Roman Rite Solemn Mass at the High Altar]] with:
+
 - Procession with a relic of St. Vincent Ferrer to the [[Friars' Chapel]].
 - Veneration of the relic of St. Vincent Ferrer in the [[Friars' Chapel]].
 
@@ -28,7 +29,7 @@ As normal for [[Roman Rite Solemn Mass at the High Altar]], except:
 As normal, until after the _Blessing_ and _Dismissal_.
 
 ## Procession of the Relic
-- All [[Altar Server|Servers]] go to [[Passageway]]. [[Lucifer]]s retrieve [[Processional Candle]]s, [[Thurifer]] charges [[Thurible]] and takes it. [[Crucifer]] is empty-handed.
+- All [[Altar Server|Servers]] go to [[Passageway]]. [[Lucifer|Lucifers]] retrieve [[Processional Candle|Processional Candles]], [[Thurifer]] charges [[Thurible]] and takes it. [[Crucifer]] is empty-handed.
 - Priest will get relic from the [[High Altar]].
 - [[Altar Server|Servers]] form up at the foot of the [[Presbytery]].
 	- **Cue**: Priest enters the [[Presbytery]].
@@ -47,7 +48,7 @@ As normal, until after the _Blessing_ and _Dismissal_.
 	- Enter the [[Friars' Chapel]], process through its choir stalls to the altar.
 - [[Thurifer]] breaks to the right and faces inward.
 - [[Crucifer]] break off the left, deposits [[Processional Crucifix]], and stands facing inward.
-- [[Lucifer]]s stand to either side of altar and face in while Priest places the relic. When he is done, they place the [[Processional Candle]]s on either side of it. Then they stand off to their sides, facing inward.
+- [[Lucifer|Lucifers]] stand to either side of altar and face in while Priest places the relic. When he is done, they place the [[Processional Candle|Processional Candles]] on either side of it. Then they stand off to their sides, facing inward.
 - [[Thurifer]] joins the Priest on his right side. Then they act as if at [[Exposition of the Blessed Sacrament|Exposition]]:
 	- Priest imposes incense.
 	- Priest and [[Thurifer]] kneel.
