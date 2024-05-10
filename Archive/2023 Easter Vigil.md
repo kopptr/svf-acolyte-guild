@@ -223,7 +223,7 @@ Whereby non-Catholic-but-baptized people are received into the church.
 ##### Confirmation
 - (Not a rubric, but) [[Master of Ceremonies]] takes the [[Missal]] from [[Book Bearer]] 1, so he can go be a Confirmation sponsor.
 - [[Book Bearer]] 2 bears [[Ceremonial]]. [[Oil Bearer]] bears the oil.
-- Both follow the Celebrant from Confirmandi to Confirmandi, [[Book Bearer 2]] one his left, [[Oil Bearer]] on his right.
+- Both follow the Celebrant from Confirmandi to Confirmandi, [[Book Bearer]] 2 one his left, [[Oil Bearer]] on his right.
 - [[Oil Bearer]] returns oil to table near [[Baptismal Font]].
 
 ##### Recession
