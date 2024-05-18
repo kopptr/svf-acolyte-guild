@@ -85,7 +85,7 @@ Begin in [[Sacristy]] with [[Pre-Mass Prayer with Ministers]]:
 - _Per omnia saecula saeculorum_ | **Amen**.
 
 ### Lesson, Responsorium, Epistle, Alleluia/Tract
-- The particular liturgy will determine what is included in this portion of the Mass[^ordo]. 
+- The particular liturgy will determine what is included in this portion of the Mass[^ordo].
 	- There will be at least one _Lesson_[^lesson]. Most [[Celebrant]]s will read it in English.
 	- The first _Lesson_ will be followed by the _Responsorium_, always in Latin.
 	- On certain feasts and solemnities, one or more additional _Lessons_ will be read, and will be followed by a said _Alleluia_ (or in [[Lent]], a _Tract_).
@@ -134,7 +134,7 @@ The _Credo_ is usually omitted. If it is said, recite it with the [[Celebrant]] 
 
 ### Orate Fratres through Preface
 - Respond, [[Minor Inclination|Head Bow]] at _Domino Deo_.
-	- _per omina saecula saeculorum_ | **Amen**
+	- _per omnia saecula saeculorum_ | **Amen**
 	- _Dominus vobiscum_ | **et cum spiritu tuo**
 	- _Sursum corda_ | **Habémus ad Dóminum**
 	- _Grátias agámus Dómino Deo nostro_ | **Dignum et justum est**
@@ -198,7 +198,7 @@ If Communion will be distributed to the people[^peoples_communion], which is the
 [^peoples_communion]: [[Dominican Ceremonial for Mass and Benediction|DCfMaB > pp. 70-73]].
 [^cloth]: [[Ceremonies of the Dominican Rite|CotDR > a1p11]] says a cloth should be used instead of a [[Paten]].
 [^paten]: [[Ceremonies of the Dominican Rite|CotDR > a1p11]] makes no mention of this.
- 
+
 ### Ablutions
 - Wait for [[Celebrant]] to ascend [[Altar]].
 - Go to center, [[Moderate Inclination|Moderate Bow]], ascend to the niche.
