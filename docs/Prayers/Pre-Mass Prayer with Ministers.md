@@ -6,4 +6,4 @@ Servers: **In the name of Christ. Amen.**
 
 ## Latin
 Priest: _Procedamus in pace._
-Servers: **In nomine Christe. Amen.**
+Servers: **In nomine Christi. Amen.**
