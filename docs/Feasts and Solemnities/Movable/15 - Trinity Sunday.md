@@ -7,7 +7,7 @@ _The Most Holy Trinity_.
 ## Preparation
 - [ ] Light the [[High Altar#Angel Candles]].
 - [ ] Extra charcoal near the [[Thurible Stand]].
-- [ ] Extra [[Incense Boat]](?)
+- [ ] Extra [[Incense Boat]].
 
 ## Order of Mass
 
@@ -18,13 +18,12 @@ As usual, except:
 
 ### Recession
 - _Holy God we Praise They Name_ is sung instead of a Marian hymn.
-- [[Crucifer]] and [[Lucifer]]s form up at the foot of the altar as usual.
-- [[Celebrant]], two [[Deacon]]s, and [[Thurifer]] (with [[Thurible]] and [[Incense Boat]]) form up in a line across the front of the [[Sanctuary]].
-- [[Thurifer]] assists with charging the incense, in order to "smoke out the church with as much incense as possible"[^email].
+- [[Crucifer]] and [[Lucifer|Lucifers]] form up at the foot of the altar as usual.
+- [[Thurifer]] charges the [[Thurible]], in order to "smoke out the church with as much incense as possible"[^email]. Then he lines up in the main aisle, West of the [[Crucifer]][^alternate_formation].
 - Everyone stands there for the duration of the hymn.
-- [[Thurifer]] retrieves the [[Thurible]], moves to the front of the formation, and leads the Recession out the usual route.
 
 [^email]: According to a 2023 email from Fr. Reginald.
+[^alternate_formation]: In 2023, the Thurifer lined up with the [[Celebrant]] and [[Deacon]] across the front of the [[Sanctuary]], outside the [[Deacon]].
 
 ## References
 - [[The Roman Missal]]
