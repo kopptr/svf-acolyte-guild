@@ -12,6 +12,7 @@ Northwest Choir Stalls:
 - [[Thurifer]]
 
 Northeast Choir Stalls:
+
 - [[Crucifer]] / [[Book Bearer]] / [[Bell Ringer]] / [[Oil Bearer]]
 - [[Mitre Bearer]]
 - [[Crozier Bearer]]
