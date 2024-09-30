@@ -14,6 +14,7 @@ The following servers only have roles in the [[Procession]]:
 - [[Lucifer|Candle bearer]] 4
 - [[Altar Server|Server]] 1 (carries the Icon)
 - [[Altar Server|Server]] 2 (holds the [[Celebrant]]'s [[Cope]])
+- [[Altar Server|Server]] 3 (holds the [[Celebrant]]'s [[Cope]])
 
 ## Preparation
 **Note**: Enrollment in the Rosary Confraternity immediately precedes Mass. [[Altar Server|Servers]] should set up for Mass during the enrollment, **quietly**.
@@ -48,10 +49,10 @@ As usual for [[Roman Rite Solemn Mass at the High Altar#Order of Mass]], except:
 	- [[Thurifer]] kneels at the foot of the [[High Altar]] with or behind the [[Celebrant]].
 	- [[Lucifer|Candle bearers]] 3 and 4 retrieve [[Processional Candle|Processional Candles]], [[Altar Server|Server]] 1 retrieves the icon. All three line up at the foot of the [[Presbytery]] facing the [[High Altar]], [[Processional Candle|Processional Candles]] flanking the image, and remain standing.
 	- [[Crucifer]] and [[Lucifer|Candle bearers]] retrieve their items and form up at the foot of the [[Presbytery]] behind (farther from the [[High Altar]]) the image, facing the [[Tabernacle]], and remain standing.
-	- [[Altar Server|Server]] 2 kneels on the top step of the [[Presbytery]] near the [[Passageway]], facing the [[High Altar]].
+	- [[Altar Server|Servers]] 2 and 3 kneel on the top step of the [[Presbytery]], one on either side (North/South), facing the [[High Altar]].
 - After the first verse is complete:
 	- [[Thurifer]] stands with the [[Celebrant]], turns without genuflecting, and moves to the front (West) of the formation
-	- [[Altar Server|Server]] 2 crosses behind the [[Celebrant]] and follows him in [[Procession]], holding the right side of his [[Cope]] with his right hand.
+	- [[Altar Server|Servers]] 2 and 3 take up the [[Celebrant]]'s [[Cope]].
 	- [[Crucifer]], [[Lucifer|Candle bearers]], and [[Altar Server|Server]] 1 turn West.
 	- When the [[Thurifer]] passes them, he leads the [[Procession]], using the usual [[Procession#Formation]].
 ### Rosary Procession
