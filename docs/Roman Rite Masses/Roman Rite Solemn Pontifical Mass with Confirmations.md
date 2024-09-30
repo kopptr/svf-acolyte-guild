@@ -13,6 +13,7 @@ Northwest Choir Stalls:
 
 Northeast Choir Stalls:
 
+- [[Master of Ceremonies|MC]]
 - [[Crucifer]] / [[Book Bearer]] / [[Bell Ringer]] / [[Oil Bearer]]
 - [[Mitre Bearer]]
 - [[Crozier Bearer]]
