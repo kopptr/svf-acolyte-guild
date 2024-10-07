@@ -1,6 +1,6 @@
 # 10-07 - Our Lady of the Most Holy Rosary
 ## Overview
-[[Roman Rite Solemn Mass at the High Altar]], with a [[Procession]] following it.
+[[Roman Rite Solemn Mass at the High Altar]], with a [[Procession]] following it. After Mass and separate from it, the enrollment ceremony for the Rosary Confraternity will be held (no [[Altar Server|Servers]] needed for this part).
 
 ## Roles
 - [[Thurifer]]
@@ -10,22 +10,15 @@
 
 The following servers only have roles in the [[Procession]]:
 
-- [[Lucifer|Candle bearer]] 3
-- [[Lucifer|Candle bearer]] 4
-- [[Altar Server|Server]] 1 (carries the Icon)
 - [[Altar Server|Server]] 2 (holds the [[Celebrant]]'s [[Cope]])
 - [[Altar Server|Server]] 3 (holds the [[Celebrant]]'s [[Cope]])
 
 ## Preparation
-**Note**: Enrollment in the Rosary Confraternity immediately precedes Mass. [[Altar Server|Servers]] should set up for Mass during the enrollment, **quietly**.
-
 [[Roman Rite Solemn Mass at the High Altar#Preparation]], except:
 
 - [ ] [[High Altar#Angel Candles]] lit.
 - [ ] Pews in front of [[Rosary Altar]] reserved.
 - [ ] [[Cope]] draped over the [[Choir Stalls]] near the [[Celebrant]]'s chair.
-- [ ] Additional two [[Processional Candle|Processional Candles]] in the [[Passageway]], without wind guards.
-- [ ] Image of Our Lady in the [[Passageway]].
 
 ## Order of Mass
 As usual for [[Roman Rite Solemn Mass at the High Altar#Order of Mass]], until _Communion_.
@@ -45,9 +38,7 @@ As usual for [[Roman Rite Solemn Mass at the High Altar#Order of Mass]], except:
 - The [[Celebrant]] will approach the [[High Altar]] to move the relic to the center of it.
 	- The [[Thurifer]] follows and waits at the foot of the [[High Altar]].
 - After the incensation is complete:
-	- _Ave Maris Stella_ is sung.
 	- [[Thurifer]] kneels at the foot of the [[High Altar]] with or behind the [[Celebrant]].
-	- [[Lucifer|Candle bearers]] 3 and 4 retrieve [[Processional Candle|Processional Candles]], [[Altar Server|Server]] 1 retrieves the icon. All three line up at the foot of the [[Presbytery]] facing the [[High Altar]], [[Processional Candle|Processional Candles]] flanking the image, and remain standing.
 	- [[Crucifer]] and [[Lucifer|Candle bearers]] retrieve their items and form up at the foot of the [[Presbytery]] behind (farther from the [[High Altar]]) the image, facing the [[Tabernacle]], and remain standing.
 	- [[Altar Server|Servers]] 2 and 3 kneel on the top step of the [[Presbytery]], one on either side (North/South), facing the [[High Altar]].
 - After the first verse is complete:
@@ -61,21 +52,18 @@ As usual for [[Roman Rite Solemn Mass at the High Altar#Order of Mass]], except:
 	- West down the center aisle.
 	- Turn right, North toward the [[St. Patrick Chapel]].
 	- Turn right, East toward the [[Rosary Altar]].
-	- Turn right, South toward [[Lourde's Door]].
-	- Turn right, West toward [[Holy Name Chapel]].
-	- Turn right, North toward the [[St. Patrick Chapel]].
-	- Turn right, East toward the [[Rosary Altar]].
 - At the [[Rosary Altar]]:
 	- [[Thurifer]] enters the [[Rosary Altar]] gate and stands off to the South side, facing North.
 	- [[Crucifer]] and [[Lucifer|Candle bearers]] 1 and 2 form up against the North wall (in front of the first Station of the Cross), facing South.
-	- [[Altar Server|Server]] 1 and [[Lucifer|Candle bearers]] 3 and 4 form up near the [[Ambo]], facing North.
 	- [[Schola Cantorum]] and any others in procession file into the pews in front [[Rosary Altar]].
-	- [[Celebrant]] and [[Altar Server|Server]] 1 enters the [[Rosary Altar]] gate. [[Thurifer]] assists with incense, [[Altar Server|Server]] 1 stands off to the side.
+	- [[Celebrant]] and [[Altar Server|Servers]] 1 and 2 enters the [[Rosary Altar]] gate. [[Thurifer]] assists with incense, [[Altar Server|Servers]] 1 and 2 stand off to the side.
 - After [[Celebrant]] dismisses everyone, servers will make a dignified exit (not a procession):
 	- [[Thurifer]] exits [[Rosary Altar]] through gate and leads group South directly through the [[Lourde's Door]].
 	- [[Crucifer]] and [[Lucifer|Lucifers]] 1 and 2 follow immediately behind.
-	- [[Altar Server|Server]] 1 and [[Lucifer|Lucifers]] 3 and 4 follow immediately behind.
-	- [[Altar Server|Server]] 2 follows immediately behind.
+	- [[Altar Server|Servers]] 1 and 2 follow immediately behind.
 	- All reverence when crossing the front of the [[Sanctuary]].
 	- [[Schola Cantorum]], any others follow.
 	- [[Celebrant]] remains so the people can venerate the relic.
+
+## After Mass
+There is public recitation of the Rosary and enrollment in the Rosary Confraternity. Avoid disrupting this while cleaning up and, if necessary, wait for it to finish.
