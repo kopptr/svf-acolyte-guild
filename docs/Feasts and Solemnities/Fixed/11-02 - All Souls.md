@@ -4,7 +4,7 @@ _The Commemoration of All the Faithful Departed_.
 [[Roman Rite Solemn Mass at the High Altar]], with adaptations for a _Mass for the Dead_. A Solemn Blessing may be given at the end.
 
 - The mass may be preceded by sung vespers.
-- The mass may be followed by a visit to a cemetery.
+- The mass may be followed by a visit to a cemetery (no [[Altar Server|Servers]] required).
 
 ## Preparation
 [[Roman Rite Solemn Mass at the High Altar#Preparation]], except:
