@@ -40,5 +40,5 @@ Route:
 ## Introit through Recession
 As usual for [[Roman Rite Solemn Mass]], adjusting for the different [[Sanctuary]] at [[Saint Catherine of Siena Church]]. In particular:
 
-- [[Altar Server|Servers]] sit in [[Choir Stalls]] on the Gospel side when not otherwise occupied.
+- [[Altar Server|Servers]] sit in [[Choir Stalls]] on the (liturgical) South side when not otherwise occupied.
 - [[Major Inclination|Profound Bow]] to the [[Tabernacle]] when crossing it to reach the [[Credence Table]].
