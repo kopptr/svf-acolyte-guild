@@ -4,6 +4,8 @@ _Our Lord Jesus Christ, King of the Universe_.
 ## Overview
 [[Roman Rite Solemn Pontifical Mass]] at the [[Crossing Altar]] celebrated by Bishop Colichicco, with [[Exposition of the Blessed Sacrament|Exposition]] at the [[High Altar]], [[#Consecration of the Parish to the Sacred Heart of Jesus]], and then transitioning into a [[Eucharistic Procession]] to St. Patrick's Cathedral, where there is [[Benediction]].
 
+In terms of required personnel, this is the largest liturgy of the year.
+
 ## Mass Roles & Seating
 
 ### Clergy
