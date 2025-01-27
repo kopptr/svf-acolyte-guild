@@ -5,17 +5,19 @@ _The Presentation of the Lord_.
 [[Roman Rite Solemn Mass]], with:
 
 - [[#Procession and Candle Blessing]].
-- Omission of _Pentitential Rite_ / [[Kyrie]].
+- Omission of _Pentitential Rite_ / [[Kyrie]] (the candle blessing replaces it).
 - [[#Oblation of Candles]] preceding the [[Offertory]].
 
-This is one of three weekday solemnities that are celebrated at the [[Crossing Altar]], the others being [[12-25 - Christmas|Christmas]] and [[03 - Ash Wednesday|Ash Wednesday]]. For Candlemas, this is done to facilitate the [[#Oblation of Candles]]. A [[Sequence]] is allowed before the [[Alleluia]][^ordo_sequence] (a [[Preservation of Dominican Customs|Dominican Custom]]), but we omit it.
+When this feast falls on a Sunday, it supercedes the Sunday in Ordinary Time. When it falls on a weekday, we celebrate it at the [[Crossing Altar]][^altar]. A [[Sequence]] is allowed before the [[Alleluia]][^ordo_sequence] (a [[Preservation of Dominican Customs|Dominican Custom]]), but we omit it.
+
+[^altar]: There are three non-Sunday [[Roman Rite Solemn Mass|Solemn Masses]] that are celebrated at the [[Crossing Altar]], the other two being [[12-25 - Christmas]] and [[03 - Ash Wednesday|Ash Wednesday]]. For *Candlemas*, this is done to facilitate the [[#Oblation of Candles]].
 
 ## Roles
 - [[Master of Ceremonies|MC]], [[Holy Water Bearer]]
 - [[Crucifer]], [[Book Bearer]], [[Bell Ringer]]
 - [[Thurifer]]
-- [[Lucifer]] 1, [[Acolyte]] 1
-- [[Lucifer]] 2, [[Acolyte]] 2
+- [[Lucifer|Candle bearer]] 1, [[Acolyte]] 1
+- [[Lucifer|Candle bearer]] 2, [[Acolyte]] 2
 
 ## Preparation
 - [ ] [[Roman Rite Solemn Mass#Preparation]].
@@ -36,16 +38,16 @@ This is one of three weekday solemnities that are celebrated at the [[Crossing A
 - First leg:
 	- Incense is **not** imposed for the first leg.
 	- Out the [[Lourde's Door]]
-	- Turn left and head West down the side aisle.
+	- Turn left and head West down the main aisle. **Do not stop to reverence**.
 		- [[Lucifer|Candle bearers]] light the people's candles as they process. Therefore the [[Thurifer]] must process **very** slowly.
-		- [[Holy Water Bearer]], with a [[Hand Candle]], lights it from a [[Lucifer|Candle bearer]], and separates from the procession, crosses the front of the [[Sanctuary]], and heads West down the 66th Street aisle, lighting the peoples' candles. He joins the formation in the back of the church when finished.
-	- Turn right, upon reaching the main aisle, break formation:
+		- [[Holy Water Bearer]], with a [[Hand Candle]], lights it from a [[Lucifer|Candle bearer]], and separates from the procession, going down the 65th street aisle to light the peoples' candles. He joins the formation in the back of the church when finished.
+	- Upon reaching the back of the nave, break formation:
 		- From South to North: [[Lucifer|Candle bearer]] 1, [[Crucifer]], [[Lucifer|Candle bearer]] 2, [[Thurifer]], [[Holy Water Bearer]], centered in the back of the church, backs against the main doors, facing East.
 		- [[Minister|Ministers]], in the main aisle, flush with the last pew.
 		- [[Schola Cantorum]], on the South side of the main aisle, backs against the West wall.
 - [[Holy Water Bearer]] holds the [[Prayers at the Chair]] book for the introductory prayers and blessing of candles. He then deposits the [[Prayers at the Chair]] book on the back table.
 - Aspersion of candles:
-	- The [[Holy Water Bearer]] takes the [[Aspersorium]] and accompanies the [[Celebrant]], holding his [[Chasuble]] with his right hand and the [[Aspersorium]] with the left. Route is up to the [[Celebrant]]. In 2023 we did:
+	- The [[Holy Water Bearer]] takes the [[Aspersorium]] and accompanies the [[Celebrant]], holding his [[Cope]] with his right hand and the [[Aspersorium]] with the left. Route is up to the [[Celebrant]]. In 2023 we did:
 		- Up the main aisle.
 		- Into the [[Sanctuary]] to the foot of the [[High Altar]].
 		- Out of the [[Sanctuary]] and down the 66th Street aisle.
@@ -77,7 +79,7 @@ As usual for [[Roman Rite Solemn Mass]], except:
 - The [[Minister|Ministers]] and [[Altar Server|Servers]] meet in the back of the main aisle.
 - The [[Celebrant]], then any other [[Minister|Ministers]], then [[Altar Server|Servers]], approach the candles oases up the main aisle.
 - In order and in pairs, all [[Genuflection|Genuflect]], then deposit their [[Hand Candle|Hand Candles]] into an oasis, then enter the [[Sanctuary]] and take their seats. 
-- The [[Master of Ceremonies|MC]] and one other [[Altar Server|Server]] attend to the two sides of the candle oases, directing the people as needed.
+- The [[Master of Ceremonies|MC]] and one other [[Altar Server|Server]] attend to the two sides of the candle oases, directing the people as needed and collecting the plastic [[Hand Candle]] handles so they do not make noise.
 - The people place their [[Hand Candle|Hand Candles]] in the oases.
 - When finished, the [[Altar Server|Servers]] return to their place in the [[Sanctuary]] and the [[Offertory]] begins.
 
