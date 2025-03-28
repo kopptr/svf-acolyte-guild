@@ -31,6 +31,6 @@ For the stations whose paintings are against the South wall near the confessiona
 ### Conclusion
 After the final station:
 
-- Proceed to the foot of the [[Presbytery]].
+- Proceed to the foot of the [[Sanctuary]].
 - Standby while the [[Priest]] prays the closing prayers.
 - When he is finished, [[Reverence]] and proceed out the [[Lourde's Door]].
