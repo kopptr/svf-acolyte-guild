@@ -1,0 +1,1 @@
+[PDF](https://media.musicasacra.com/dominican/rt.pdf)
