@@ -165,7 +165,7 @@ As usual, except:
 - The [[Celebrant]] may sit and allow the [[Concelebrant|Concelebrants]] and [[Deacon]] to perform the [[Ablutions]]. If so, [[Acolyte|Acolytes]] wash his hands at his seat[^ablutions].
 - One veiled [[Ciborium]] will remain on the [[Crossing Altar]] on a [[Corporal]][^ciborium]:
 	- An [[Acolyte]] removes the [[Crossing Altar]] Crucifix and stows it in the [[Choir Stalls]].
-	- The [[Corporal]] should be moved by the [[Celebrant]] to the center or even East side of [[Stations of the Cross]] for the incensation. If he forgets or puts the [[Corporal]] away, place another one from the [[Burse]] onto that side of [[Crossing Altar]].
+	- The [[Corporal]] should be moved by the [[Celebrant]] to the center or even East side of the [[Crossing Altar]] for the incensation. If he forgets or puts the [[Corporal]] away, place another one from the [[Burse]] onto that side of [[Crossing Altar]].
 - Just before the [[#Postcommunion prayer]]:
 	- [[Lucifer|Torch bearers]] retrieve [[Torch|Torches]], and standby in front of the [[Rosary Altar]].
 	- [[Master of Ceremonies|MC]] lights a [[Taper]] and stands by.

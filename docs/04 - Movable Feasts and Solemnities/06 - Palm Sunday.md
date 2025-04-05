@@ -58,6 +58,7 @@ At [[Saint Catherine of Siena Church]].
 - Other [[Altar Server|Servers]] sit in [[Choir Stalls]] on the Epistle side.
 - Stand and sit at appropriate times with congregation. Follow the pamphlet.
 - When _Sext_ is finished, servers retrieve needed items and start procession.
+	- **Cue**: _Let us bless the Lord_. **Thanks be to God.**
 
 ## Solemn Procession
 The First Form of the Procession given in [[The Roman Missal]] is used.
