@@ -5,7 +5,7 @@ aliases:
 # Holy Thursday
 _Holy Thursday of the Lord's Supper_.
 
-TODO differentiate humeral veil bearer /umbrellino bearer / MC, they cannot all be the same; the umbrellino bearer cannot light the sanctuary lamp
+TODO: Potentially add a server so umbrellino bearer doesn't have to light the sanctuary lamp.
 
 ## Overview
 [[Roman Rite Solemn Mass]] with:
