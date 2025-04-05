@@ -50,14 +50,15 @@ markdown_extensions:
 plugins:
   - search
   - roamlinks
-  - blog
-  - rss:
-      match_path: blog/posts/.*
-      date_from_meta:
-        as_creation: date
-      categories:
-        - categories
-        - tags
+  - awesome-nav
+    #  - blog
+    #  - rss:
+    #      match_path: blog/posts/.*
+    #      date_from_meta:
+    #        as_creation: date
+    #      categories:
+    #        - categories
+    #        - tags
 
 extra_javascript:
   - javascripts/mathjax.js
