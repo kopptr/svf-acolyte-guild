@@ -5,8 +5,6 @@ aliases:
 # Holy Thursday
 _Holy Thursday of the Lord's Supper_.
 
-TODO: Potentially add a server so umbrellino bearer doesn't have to light the sanctuary lamp.
-
 ## Overview
 [[Roman Rite Solemn Mass]] with:
 
@@ -20,22 +18,34 @@ TODO: Potentially add a server so umbrellino bearer doesn't have to light the sa
 The [[Tabernacle]] starts empty. [[Altar Server|Servers]] should take care to make the correct [[Reverence]].
 
 ## Roles
-Six-ten [[Altar Server|Servers]]. For eight, consolidate [[Acolyte]] 1 (2) with [[Lucifer|Torch bearer]] 1 (2). For six, consolidate [[Boat Bearer]] with [[Lucifer|Torch bearer]] 3, and [[Master of Ceremonies]] with [[Lucifer|Torch bearer]] 4.
+To help organize [[Server|Servers']] different roles, we organize the Mass into two parts, each with separate, contained roles.
 
-- [[Master of Ceremonies]], [[Umbrellino Bearer]]
-- [[Crucifer]], [[Book Bearer]], [[Crotalus]] clapper
-- [[Thurifer]] 1
-- [[Boat Bearer]], [[Thurifer]] 2
-- [[Acolyte]] 1, [[Lucifer|Candle bearer]] 1, [[Washing Assistant]] 1
-- [[Acolyte]] 2, [[Lucifer|Candle bearer]] 2, [[Washing Assistant]] 2
-- [[Lucifer|Torch bearer]] 1, [[Oil Bearer]]
-- [[Lucifer|Torch bearer]] 2
-- [[Lucifer|Torch bearer]] 3
-- [[Lucifer|Torch bearer]] 4
-- [[Chair Mover]] 1
-- [[Chair Mover]] 2
-- [[Chair Mover]] 3
-- [[Chair Mover]] 4
+1. Mass (_Entrance_ through _Postcommunion Prayer_):
+	- [[Master of Ceremonies]], [[Oil Bearer]]
+	- [[Crucifer]], [[Book Bearer]], [[Crotalus]] clapper
+	- [[Thurifer]]
+	- [[Boat Bearer]]
+	- [[Acolyte]] 1, [[Lucifer|Candle bearer]] 1, [[Washing Assistant]] 1
+	- [[Acolyte]] 2, [[Lucifer|Candle bearer]] 2, [[Washing Assistant]] 2
+	- [[Lucifer|Torch bearer]] 1
+	- [[Lucifer|Torch bearer]] 2
+	- [[Lucifer|Torch bearer]] 3
+	- [[Lucifer|Torch bearer]] 4
+	- ~4 Chair Movers
+2. Reposition (_Procession of the Blessed Sacrament_ through _Reposition of the Blessed Sacrament_):
+	- [[Umbrellino Bearer]]
+	- [[Thurifer]] 1
+	- [[Thurifer]] 2
+	- [[Boat Bearer]]
+	- [[Lucifer|Torch bearer]] 1
+	- [[Lucifer|Torch bearer]] 2
+	- [[Lucifer|Torch bearer]] 3
+	- [[Lucifer|Torch bearer]] 4
+	- [[Lucifer|Candle bearer]] 1
+	- [[Lucifer|Candle bearer]] 2
+	- [[Crucifer]]
+
+If fewer [[Altar Server|Servers]] are available, [[Thurifer]] 2 can double as [[Book Bearer]], and two (rather than four) [[Torch|Torches]] can be used during the _Reposition_ part of the Mass.
 
 ## Preparation
 As normal for [[Roman Rite Solemn Mass]], except:
@@ -77,7 +87,7 @@ As normal for [[Roman Rite Solemn Mass]], except:
 - The [[Altar Server|Servers]] are followed by three RCIA students carrying the Holy Oils, then the [[Schola Cantorum]], then the [[Minister|Ministers]].
 - [[Reverence]] and enter the [[Sanctuary]] immediately; do not halt to wait for the [[Introit]] to begin.
 - The [[Celebrant]] will receive the Holy Oils from the laity and place them on a small table in front of the [[Crossing Altar]].
-- [[Thurifer]] / [[Boat Bearer]] assist with incensation as usual. [[Celebrant]] incenses the Holy Oils in addition to the [[Crossing Altar]].
+- [[Thurifer]] assists with incensation as usual. [[Celebrant]] incenses the Holy Oils in addition to the [[Crossing Altar]].
 
 ### Reception of the Holy Oils
 - [[Book Bearer]] holds the [[Ritual]] for the [[Celebrant]] at his chair.
@@ -122,10 +132,11 @@ As normal, including usual procession with [[Processional Candle|Processional Ca
 	- [[Washing Assistant]] 1 moves basin.
 	- [[Washing Assistant]] 2 assists with moving the Ewer and, if needed, the towels.
 - After the washing is complete and the washed friars rise:
-	- [[Washing Assistant]]s take the Basin, Ewer, and towels, and return them to the [[Credence Table]].
+	- [[Washing Assistant]]s:
+		- Take the Basin, Ewer, and towels, and return them to the [[Credence Table]].
+		- [[Lavabo]] the [[Celebrant]] at his seat[^foot_lavabo_creed].
+		- If needed, help the [[Celebrant]] remove his Apron, stow it, retrieve the [[Chasuble]], and help [[Celebrant]] don it after the [[Lavabo]].
 	- [[Chair Mover]]s move the chairs back to where they started. Move in a single file line to the foot of the [[Sanctuary]], [[Reverence]] together, return the chairs, form up and [[Reverence]] again, then return to [[Choir Stalls]] in a single-file line.
-	- [[Acolyte|Acolytes]] 1 and 2 [[Lavabo]] the [[Celebrant]] at his seat[^foot_lavabo_creed].
-	- If needed, [[Washing Assistant]]s help the [[Celebrant]] remove his Apron, stow it, retrieve the [[Chasuble]], and help [[Celebrant]] don it after the [[Lavabo]].
 
 [^foot_lavabo_creed]: [[The Roman Missal]], p. 429, note 13; [[Ceremonies of the Liturgical Year|CotLY > p. 204]].
 
@@ -138,14 +149,14 @@ The _Credo_ is not said[^foot_lavabo_creed]. Otherwise all as for [[Roman Rite S
 	- _N.B._ there are variations on the usual words[^eucharistic_prayer].
 	- [[Boat Bearer]] assists [[Thurifer]] in imposing more incense shortly before the [[Epiclesis]]. **Cue**: [[Celebrant]] starts listing saints' names.
 - [[Crotalus]] Clapper uses [[Crotalus]] instead of [[Hand Bells]], making noise three times at each elevation, and **not at the [[Epiclesis]]**.
-- After the _Great Amen_, when returning [[Torch|Torches]] to their stands, [[Lucifer|Torch bearers]] extinguish torches.
+- After the _Great Amen_, when returning [[Torch|Torches]] to their stands, [[Lucifer|Torch bearers]] and extinguish torches.
 
 [^eucharistic_prayer]: [[The Roman Missal]], pgs. 430-436, note 17.
 
 ### Communion
 During the [[Celebrant]]'s Communion:
 
-- Do **not** clap the [[Crotalus]].
+- [[Crotalus]] Clapper does **not** clap the [[Crotalus]].
 
 During the peoples' Communion:
 
@@ -211,24 +222,24 @@ Form up:
 
 - [[Crucifer]] and [[Lucifer|Candle bearers]] go left in front of the first _Station of the Cross_ painting and face inward.
 - Religious, Clergy, and [[Schola Cantorum]] file into the [[Rosary Altar]] pews, Clergy and religious in front.
-- [[Thurifer|Thurifers]] and [[Umbrellino Bearer]] go right and face in. [[Umbrellino Bearer]] sets down [[Umbrellino]] and prepares to receive [[Humeral Veil]].
+- [[Thurifer]] 1 (with [[Incense Boat]]) and [[Umbrellino Bearer]] go right and face in. [[Umbrellino Bearer]] sets down [[Umbrellino]] and prepares to receive [[Humeral Veil]].
 - [[Lucifer|Torch bearers]] kneel at the [[Rosary Altar]] rail, two on either side of the gate, and hold [[Torch|Torches]].
-- **MC goes around and lights the red globe**.
+- **[[Boat Bearer]] (empty-handed) goes around and lights the red globe**.
 
 _Tantum Ergo_ is sung.
 
 - [[Umbrellino Bearer]] receives [[Humeral Veil]].
-- [[Thurifer]] 1 takes nearby [[Incense Boat]] and goes to [[Celebrant]] to impose incense.
+- [[Thurifer]] 1 assists [[Celebrant]] to impose incense.
 - [[Celebrant]] incenses Eucharist.
 - [[Thurifer]] retrieves [[Thurible]].
 
 ### Recession
 - With the Celebrant, all stand, **[[Genuflection#Solemn Genuflection]]**, and process back to the [[Sacristy]]. This isn't a true procession, it's more of a dignified exit.
 - Order:
-	- [[Thurifer|Thurifers]] 1 and 2
+	- [[Thurifer|Thurifers]] 1 and 2, [[Boat Bearer]].
 	- [[Crucifer]] and [[Lucifer|Candle bearers]]
 	- All other [[Altar Server|Servers]] in pairs.
-	- The rest
+	- The rest.
 - Route:
 	- South across front of church. Do not stop to reverence the [[Crossing Altar]].
 	- Out the [[Lourde's Door]]
