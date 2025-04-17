@@ -11,31 +11,46 @@ _The Easter Vigil in the Holy Night_.
 - Lighting of [[Sanctuary Lamp|Sanctuary Lamps]] during [[#Communion]].
 
 ## Roles
-- [[Master of Ceremonies]]
-- [[Thurifer]]
-- [[Boat Bearer]]
-- [[Crucifer]]
-- [[Book Bearer]] 1 ([[Missal]])
-- [[Book Bearer]] 2 ([[Ritual]]) 
-- [[Acolyte]] 1
-- [[Acolyte]] 2
-- [[Lucifer|Candle bearer]] 1
-- [[Lucifer|Candle bearer]] 2
-- [[Lucifer|Torch bearer]] 1
-- [[Lucifer|Torch bearer]] 2
-- [[Lucifer|Torch bearer]] 3
-- [[Lucifer|Torch bearer]] 4
-- [[Ignifer]] 1 ([[#Lucernarium]]: [[Taper]])
-- [[Ignifer]] 2 ([[#Lucernarium]]: Weenie roaster, Tongs, [[Hand Candle]])
-- [[Ignifer]] 3 ([[#Lucernarium]]: [[Hand Candle]])
-- [[Ignifer]] 4 ([[#Lucernarium]]: [[Hand Candle]])
-- [[Ignifer]] 5 ([[#Lucernarium]]: [[Hand Candle]])
-- [[Bell Ringer]] 1 ([[Eucharistic Prayer]])
-- [[Bell Ringer]] 2 (_Gloria_)
-- [[Bell Ringer]] 3 (_Gloria_)
-- [[Garment Bearer]]
-- [[Oil Bearer]]
-- [[Holy Water Bearer]]
+To help organize [[Altar Server|Servers']] different roles, we organize the Mass into four parts, each with separate, contained roles.
+
+1. **Lucernarium** (_Blessing of the Easter Fire_ through the _Exsultet_):
+	- [[Master of Ceremonies]].
+	- [[Thurifer]].
+	- [[Book Bearer]].
+	- [[Ignifer]] 1 ([[Taper]]).
+	- [[Ignifer]] 2 (Weenie roaster, Tongs, [[Hand Candle]]).
+	- [[Ignifer]] 3 (electric lights, [[Hand Candle]]).
+	- All other [[Altar Server|Servers]] are [[Ignifer|Ignifers]] with [[Hand Candle|Hand Candles]].
+2. **Liturgy of the Word** (_Introduction of Readings_ through the _Homily_):
+	- [[Master of Ceremonies]].
+	- [[Thurifer]].
+	- [[Book Bearer]].
+	- [[Ignifer]] 1, long [[Taper]].
+	- [[Ignifer]] 2, long [[Taper]].
+	- [[Ignifer]] 3, short [[Taper]].
+	- [[Ignifer]] 4, short [[Taper]].
+	- [[Ignifer]] 5, electric lights and [[Friars' Chapel]].
+	- All other [[Altar Server|Servers]] are [[Bell Ringer]]s.
+3.  **Baptismal Liturgy** (_Litany of the Saints_ through the _Universal Prayer_):
+	- [[Master of Ceremonies]].
+	- [[Book Bearer]] 1 ([[Missal]]).
+	- [[Book Bearer]] 2 ([[Ritual]]).
+	- [[Garment Bearer]].
+	- [[Oil Bearer]].
+	- [[Holy Water Bearer]].
+	- All other [[Altar Server|Servers]] are [[Ignifer|Ignifers]] with [[Hand Candle|Hand Candles]].
+4. **Liturgy of the Eucharist** (_Offertory_ through _Recession_):
+	- [[Master of Ceremonies]]
+	- [[Thurifer]]
+	- [[Boat Bearer]]
+	- [[Crucifer]], [[Book Bearer]], [[Bell Ringer]]
+	- [[Acolyte]] 1, [[Lucifer|Candle bearer]] 1, [[Lucifer|Torch bearer]] 1
+	- [[Acolyte]] 2, [[Lucifer|Candle bearer]] 2, [[Lucifer|Torch bearer]] 2
+	- [[Lucifer|Torch bearer]] 3
+	- [[Lucifer|Torch bearer]] 4
+	- During _Communion_:
+		- 2-3 [[Altar Server|Servers]] to light the [[Sanctuary Lamp|Sanctuary Lamps]].
+		- 3-4 [[Altar Server|Servers]] to fill the Holy Water fonts.
 
 ## Preparation
 As for [[Roman Rite Solemn Mass#Preparation]], except:
@@ -105,16 +120,17 @@ As for [[Roman Rite Solemn Mass#Preparation]], except:
 ### Entrance
 Mass will start when everyone is in place near the firepit on 66th Street near the [[Rosary Altar]] entrance. All of the [[Altar Server|Servers]], [[Minister|Ministers]], and [[Schola Cantorum]] should go there in an orderly fashion, holding what they need for the [[#Lucernarium]]:
 
-- [[Thurifer]] has **unlit** [[Thurible]] with charcoal.
-- [[Boat Bearer]] has [[Incense Boat]].
+- [[Master of Ceremonies|MC]] is empty-handed.
+- [[Thurifer]] has **unlit** [[Thurible]] with charcoal and [[Incense Boat]].
 - [[Ignifer]] 1 has short [[Taper]].
-- [[Book Bearer]] 1 bears [[Missal]] and carries it in procession.
+- [[Ignifer]] 2 has weenie roaster and tongs.
+- [[Book Bearer]] bears [[Missal]] and carries it in procession.
 - A [[Priest]], not the [[Celebrant]], carries the [[Paschal Candle]].
-- Everyone else holds [[Hand Candle|Hand Candles]]. [[Ignifer|Ignifers]] 3-5 carry four extra [[Hand Candle|Hand Candles]] between them, one each for [[Celebrant]], [[Deacon]], [[Boat Bearer]], and [[Ignifer]] 2.
+- Other [[Altar Server|Servers]] carry [[Hand Candle|Hand Candles]], plus four extra [[Hand Candle|Hand Candles]] between them, one each for [[Celebrant]], [[Deacon]], [[Master of Ceremonies|MC]], and [[Ignifer]] 2.
 
 Form up:
 
-- [[Book Bearer]] 1 near [[Celebrant]].
+- [[Book Bearer]] and [[Master of Ceremonies|MC]] near [[Celebrant]].
 - [[Thurifer]], and [[Ignifer|Ignifers]] 1 and 2 with an easy path to the fire.
 - Everyone else in two lines out of the way.
 
@@ -124,7 +140,7 @@ _Service of Light_.
 Mass begins when the [[Celebrant]] starts the prayers.
 
 #### Blessing of Fire and Preparation of the Candle
-- [[Book Bearer]] 1 holds [[Missal]] for the lighting and blessing of the fire and the preparation of the [[Paschal Candle]].
+- [[Book Bearer]] holds [[Missal]] for the lighting and blessing of the fire and the preparation of the [[Paschal Candle]].
 - After the fire is lit and blessed[^charcoal_timing], and the preparation of the [[Paschal Candle]] is taking place, [[Thurifer]] and [[Ignifer]] 2 **discreetly** light [[Thurible]]:
 	- Both approach the fire. [[Thurifer]] holds [[Thurible]] open.
 	- [[Ignifer]] 2 uses tongs/weenie roaster to take charcoal brickettes from [[Thurible]], light them in the fire, and place them back in the [[Thurible]].
@@ -135,64 +151,64 @@ Mass begins when the [[Celebrant]] starts the prayers.
 [^charcoal_timing]: [[The Roman Missal]] says not to do this until the [[Paschal Candle]] is lit, but if we do that, then the coals won't be properly lit for the procession.
 
 #### Procession
-- [[Thurifer]] and [[Boat Bearer]] go to [[Celebrant]] to impose incense. **[[Boat Bearer]] gives boat to [[Thurifer]] when done**.
-- [[Ignifer|Ignifers]] give extra [[Hand Candle|Hand Candles]] to [[Boat Bearer]], [[Ignifer]] 2, [[Celebrant]], and [[Deacon]].
+- [[Thurifer]] goes to [[Celebrant]] to impose incense.
+- [[Ignifer]] 1 gives [[Taper]] to [[Master of Ceremonies|MC]].
+- [[Ignifer|Ignifers]] give extra [[Hand Candle|Hand Candles]] to [[Ignifer|Ignifers]] 1 and 2, [[Celebrant]], and [[Deacon]].
 - **Formation**:
 	- [[Thurifer]]
 	- [[Priest]] with [[Paschal Candle]].
 	- [[Celebrant]].
 	- [[Master of Ceremonies]].
 	- [[Concelebrant|Concelebrants]].
-	- [[Altar Server|Servers]] in pairs.  [[Ignifer|Ignifers]] 1-5 first, [[Master of Ceremonies|MC]] and [[Book Bearer]] are last.
+	- [[Altar Server|Servers]] in pairs. [[Ignifer|Ignifers]] first, [[Book Bearer]] last.
 	- [[Schola Cantorum]].
 - **Route**: Three legs, each stopping for _Christ our light_/**Thanks be to God**:
 	1. Just outside the door on the corner of Lexington Ave. and 66th St.
-		- [[Ignifer]] 1 lights [[Taper]] from [[Paschal Candle]], lights the [[Celebrant]]'s candle, and extinguishes the [[Taper]].
+		- [[Master of Ceremonies|MC]] lights [[Taper]] from [[Paschal Candle]], lights the [[Celebrant]]'s candle, and extinguishes the [[Taper]].
 	2. Into the narthex, into the nave, up the main aisle to the halfway point.
-		- [[Celebrant]] lights the [[Master of Ceremonies|MC]]'s [[Hand Candle]], who shares the flame with [[Concelebrant|Concelebrants]], [[Altar Server|Server]], and [[Schola Cantorum]], who then pass it to the people.
+		- [[Celebrant]] lights the [[Master of Ceremonies|MC]]'s [[Taper]], who shares the flame with [[Concelebrant|Concelebrants]], [[Altar Server|Server]], and [[Schola Cantorum]], who then pass it to the people.
 	3. To the foot of the [[Sanctuary]]. [[Thurifer]] stands off to the North side during intonation.
 		- [[Paschal Candle]] goes to its stand in front of the [[Ambo]]. [[Master of Ceremonies|MC]] accompanies it to spot as it's placed, then returns to his seat.
 		- Other [[Altar Server|Servers]] enter the [[Sanctuary]] in pairs, forming up in the middle and making a [[Major Inclination|Profound Bow]] before entering and going up the North side of the [[Crossing Altar|Altar]]:
-			- [[Boat Bearer]] extinguishes his [[Hand Candle]], takes up the [[Incense Boat]], and goes to the [[Celebrant]]'s chair with the [[Thurifer]] and stands by.
-			- [[Thurifer]] goes to the [[Celebrant]]'s chair with the [[Boat Bearer]] and stands by.
-			- [[Ignifer]] 5 goes to the [[Sacristy]] by way of the [[Passageway]], and waits near the [[Lourde's Door]] (so that he can hear).
+			- [[Thurifer]] goes to the [[Celebrant]]'s chair and stands by.
+			- [[Ignifer]] 3 goes to the [[Sacristy]] by way of the [[Passageway]], and waits near the [[Lourde's Door]] (so that he can hear).
 			- All others deposit their items and stand in [[Choir Stalls#Low]] with lit [[Hand Candle|Hand Candles]].
 
 #### Exsultet
-- [[Thurifer]] and [[Boat Bearer]] assist with [[Imposition of Incense]]. [[Boat Bearer]] holds [[Celebrant]]'s and [[Deacon]]'s [[Hand Candle|Hand Candles]] during imposition of incense and bears [[Incense Boat]] as usual.
-- When finished, [[Boat Bearer]] returns [[Hand Candle]] to [[Celebrant]] and returns to his seat.
+- [[Thurifer]] assists with [[Imposition of Incense]]. [[Master of Ceremonies|MC]] holds [[Celebrant]]'s and [[Deacon]]'s [[Hand Candle|Hand Candles]] during imposition of incense.
 - [[Thurifer]] then precedes whomever will proclaim the [[#Exsultet]]:
 	- To the [[Paschal Candle]], to be incensed.
 	- To the [[High Ambo]] to incense.
 	- **Immediately after the incensation**, [[Thurifer]] descends the [[High Ambo]], and then stands near the [[Choir Stalls]] on the South side (to maximize the distance between the smoke and the cantor.
 - All other [[Altar Server|Servers]] remain in [[Choir Stalls#Low]] with [[Hand Candle|Hand Candles]] lit, facing the [[Ambo]].
 - When the _Exsultet_ is complete:
-	- [[Ignifer]] 5 turns on the minimal configuration of lights required for the [[Schola Cantorum]] to see their music, switches 25 and 26 on the panel. Then he returns to the [[Choir Stalls]] by way of the [[Passageway]].
+	- [[Ignifer]] 3 turns on the minimal configuration of lights required for the [[Schola Cantorum]] to see their music, switches 25 and 26 on the panel. Then he returns to the [[Choir Stalls]] by way of the [[Passageway]].
 	- [[Thurifer]] returns the [[Thurible]] to the [[Thurible Stand|Stand]] and returns to his seat.
  
 ### Liturgy of the Word
 Extinguish [[Hand Candle|Hand Candles]] when the pamphlet says to / when the [[Celebrant]] does.
 
 #### Lessons
-[[Book Bearer]] 1 bears [[Missal]] for the greeting and the introduction of the readings. He then bears it for the prayers following each psalm after each reading. All other [[Altar Server|Servers]] remain in [[Choir Stalls#Low]], sitting/standing at the appropriate times.
+[[Book Bearer]] bears [[Missal]] for the greeting and the introduction of the readings. He then bears it for the prayers following each psalm after each reading. All other [[Altar Server|Servers]] remain in [[Choir Stalls#Low]], sitting/standing at the appropriate times.
 
 **Before the _Gloria_**:
 
 - _Toward the end of the second-last lesson_, [[Ignifer]] 5 exits to the [[Sacristy]] by way of the [[Passageway]], making a [[Major Inclination|Profound Bow]] along the way.
-- _Just after the last lesson, during the prayer_, [[Ignifer]] 1 lights a [[Taper]] from the [[Paschal Candle]] and waits near the [[Paschal Candle]].
+- _Just after the last lesson, during the prayer_, [[Master of Ceremonies|MC]] takes a [[Taper]] and waits near the [[Paschal Candle]]. As soon as the _Gloria_ starts to be intoned, he lights the taper and returns to the [[Choir Stalls|Choir Stall]].
+
 #### Gloria
-During the _Gloria_, one team of [[Altar Server|Servers]] lights candles, another rings [[Hand Bells]].
+During the _Gloria_, one team of [[Altar Server|Servers]] lights candles, another rings [[Hand Bells]]. The [[Master of Ceremonies|MC]] opens the Sepulchre Door and assists with lights.
 
 ##### Bells
-- [[Hand Bells]] rung by [[Bell Ringer|Bell Ringers]] 2 and 3.
+- [[Hand Bells]] rung by [[Bell Ringer|Bell Ringers]]. [[Master of Ceremonies|MC]] assists with cues.
 - Consult James for precisely when to ring, likely the same as at [[07 - Holy Thursday#Gloria|Holy Thursday > Gloria]].
 
 ##### Candles
-Other [[Altar Server|Servers]] light candles and turn on [[Church Lights]]. **There are many candles. This should be done quickly, though still in a dignified manner**. The goal is to finish lighting everything and for [[Altar Server|Servers]] to be back to their seats before the sung _Gloria_ ends.
+Five [[Altar Server|Servers]] and the [[Master of Ceremonies|MC]] light candles and turn on [[Church Lights]]. **There are many candles. This should be done quickly, though still in a dignified manner**. The goal is to finish lighting everything and for [[Altar Server|Servers]] to be back to their seats before the sung _Gloria_ ends.
 
 When _Gloria_ is intoned:
 
-- [[Ignifer]] 1 enters the [[Sanctuary]], 2-4 light [[Taper|Tapers]] from [[Ignifer]] 1.
+- [[Master of Ceremonies|MC]] enters the [[Sanctuary]], lighting the [[Ignifer|Ignifers']] [[Taper|Tapers]] and handing his taper off to the last [[Ignifer]].
 - [[Ignifer|Ignifers]] 1-4: Two shorter [[Ignifer|Ignifers]] use shorter tapers and go in order; two taller [[Ignifer|Ignifers]] use longer tapers and go in _reverse order_:
 	- [[Crossing Altar]]: 6 altar candles, 2 polychrome candles.
 	- [[Rosary Altar]]: 4 candles and 1 sconce, [[High Ambo]] light switch, and **open the sepulchre door**.
@@ -212,27 +228,28 @@ When _Gloria_ is intoned:
 	- Light the [[Friars' Chapel#Rood]] candles via the catwalk.
 	- Turn on [[Friars' Chapel]] lights.
 	- Light the [[Friars' Chapel]] [[Altar]] candles.
+- [[Master of Ceremonies|MC]]: After the [[Rosary Altar]] candles are lit and the bell cuing is done, open the Sepulchre Door and turn on the high ambo overlight (switch in passage where [[Torch|Torches]] are stored).
 - **DO NOT light the [[Sanctuary#Lamps]]**.
 - All return to [[Choir Stalls#Low]] when finished and extinguish [[Taper|Tapers]].
 - One short [[Taper]] should be left near the [[Baptismal Font]] table, where the towels and baptismal candles are.
 - If the music gets to the second _Jesu Christe_ before the [[Altar Server|Servers]] are finished, they should abandon what they're doing and return to the [[Choir Stalls]].
 
 #### Collect
-[[Book Bearer]] 1 bears book.
+[[Book Bearer]] bears book.
 
 #### Epistle, Gradual, Alleluia, Gospel, Homily
 Same as usual, except:
 
 - Gospel Procession uses incense, but **does not use [[Processional Candle|Processional Candles]]**.
 
-#### Baptismal Liturgy
+### Baptismal Liturgy
 Christian initiation and the blessing of the font.
 
 After the _Homily_ when the [[Celebrant]] stands, the [[Altar Server|Servers]] all go directly to the Baptismal font, and stand in two lines under the [[High Ambo]]. See [[#Order]] to know what to carry. The [[Celebrant]] calls forth the _Baptismandi_, and the procession starts.
-##### Procession
+#### Procession
 _Litany of the Saints_ is sung during procession.
 
-###### Order
+##### Order
 [[Master of Ceremonies]] may have to help direct the Baptismandi.
 
 - [[Priest]] (not the [[Celebrant]]) with [[Paschal Candle]].
@@ -240,28 +257,28 @@ _Litany of the Saints_ is sung during procession.
 - [[Master of Ceremonies]], empty-handed.
 - [[Book Bearer|Book Bearers]] 1 and 2 with [[Missal]] and [[Ritual]], respectively.
 - [[Holy Water Bearer]] and [[Garment Bearer]], empty-handed.
-- Other [[Altar Server|Altar Servers]], in pairs, with [[Hand Candle|Hand Candles]].
+- [[Ignifer|Ignifers]], in pairs, with (unlit) [[Hand Candle|Hand Candles]].
 - [[Celebrant]] and [[Deacon]].
 
-###### Route
+##### Route
 - Baptismandi and their godparents should fill in from their pews in pairs and join the procession.
 - Turn right, head South across the back of the church.
 - Turn right, head East toward the [[Rosary Altar]].
 - Turn right, head to the [[Baptismal Font]].
-- [[Altar Server|Servers]] stand between [[Baptismal Font]] and [[Sanctuary]], out of the way, while others file in and when not needed.
+- [[Altar Server|Servers]] stand between [[Baptismal Font]] and [[Sanctuary]], out of the way, while others file in and out when not needed.
 
-##### Blessing of Water
-[[Book Bearer]] 1 bears [[Missal]] during Blessing of Water. When finished, he gets out of the way.
+#### Blessing of Water
+[[Book Bearer]] 1 bears [[Missal]] during _Blessing of Water_. When finished, he gets out of the way.
 
-##### Baptism
-- [[Book Bearer]] 2 bears the [[Ritual]] for the Baptism.
+#### Baptism
+- [[Book Bearer]] 2 bears the [[Ritual]] for the Baptisms.
 - [[Garment Bearer]] assists with the garments
 - [[Holy Water Bearer]] assists with towels.
 - [[Master of Ceremonies]] assists with baptismal candles, giving them to the sponsors.
 
-##### Renewal of Baptismal Promises
+#### Renewal of Baptismal Promises
 - [[Master of Ceremonies|MC]] lights the [[Taper]] and hands it to the [[Celebrant]], who lights each godparent's candle, each of whom gives the lit candle to the newly baptized.
-- When finished, [[Altar Server|Servers]] without other tasks light [[Hand Candle|Hand Candles]] from the newly baptized, and then light the peoples' [[Hand Candle|Hand Candles]] throughout the whole church.
+- When finished, [[Ignifer|Ignifers]] light [[Hand Candle|Hand Candles]] from the newly baptized, and then light the peoples' [[Hand Candle|Hand Candles]] throughout the whole church.
 - [[Book Bearer]] 1 bears [[Missal]].
 - [[Holy Water Bearer]] bears [[Aspersorium]] with him as he moves about the church, sprinkling. Newly baptized will join in the procession after the [[Celebrant]]. No other servers join.
 - When finished, [[Holy Water Bearer]] takes the [[Aspersorium]] and returns it near the [[Baptismal Font]].
@@ -272,7 +289,7 @@ _Litany of the Saints_ is sung during procession.
 #### Confirmation
 - [[Oil Bearer]] retrieves the _Chrism Oil_ and a hand towel from the [[Credence Table]] and brings them to the [[Deacon]] or attending [[Priest]], and then stands with the other [[Altar Server|Servers]].
 - [[Book Bearer]] 2 bears [[Ritual]].
-- When all are confirmed, [[Oil Bearer]] takes oil and towel.
+- When all are confirmed, [[Oil Bearer]] takes oil and hand towel.
 
 When finished, all [[Altar Server|Servers]] and [[Minister|Ministers]] return to [[Sanctuary]] by the shortest path.
 
@@ -290,8 +307,8 @@ When finished, all [[Altar Server|Servers]] and [[Minister|Ministers]] return to
 - [[Celebrant]], [[Concelebrant|Concelebrants]], and [[Deacon]] receive Communion.
 - A [[Altar Server|Server]] holds the [[Paten]] for those who received sacraments.
 - When all of those who received sacraments and all [[Concelebrant|Concelebrants]] have received, [[Altar Server|Servers]] receive Communion in pairs.
-- Half of the [[Altar Server|Servers]] use [[Taper|Tapers]] to light the [[Sanctuary Lamp|Sanctuary Lamps]], then raise them.
-- Other [[Altar Server|Servers]] use pitchers to refill the holy water fonts at all of the entrances to the church.
+- 2-3 [[Altar Server|Servers]] use [[Taper|Tapers]] to light the [[Sanctuary Lamp|Sanctuary Lamps]], then raise them.
+- 3-4 other [[Altar Server|Servers]] use pitchers to refill the holy water fonts at all of the entrances to the church.
 
 #### Postcommunion Prayer, Recession
 As usual for [[Roman Rite Solemn Mass]]. Two _Alleluias_ are added to the dismissal prayer.
