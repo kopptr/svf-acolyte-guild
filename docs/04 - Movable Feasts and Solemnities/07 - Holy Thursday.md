@@ -55,27 +55,35 @@ As normal for [[Roman Rite Solemn Mass]], except:
 - [ ] [[Crossing Altar]]:
 	- [ ] [[Crossing Altar#Crucifix]] is veiled in white.
 	- [ ] Small table for reception of Holy Oils in front of [[Crossing Altar]].
-- [ ] [[High Altar#Candles]] lit.
-- [ ] [[High Altar#Angel Candles]] removed to [[Cloister Walk]], since it's impractical to get at them when stripping the [[Crossing Altar|Altar]].
-- [ ] White [[Humeral Veil]] accessible for the [[#Procession of the Blessed Sacrament]], near [[Credence Table]].
+	- [ ] Two [[Corporal|Corporals]] spread out on the North side of the altar (one more in [[Burse]] in [[Chalice Stack]]).
+- [ ] [[High Altar]]
+	- [ ] [[High Altar#Candles]] lit.
+	- [ ] [[High Altar#Angel Candles]] removed to [[Cloister Walk]], since it's impractical to get at them when stripping the [[Crossing Altar|Altar]].
+	- [ ] [[Tabernacle]] empty, open, and unveiled.
+	- [ ] [[Sanctuary Lamp|Sanctuary Lamps]] down and extinguished.
+- [ ] Rail South of the South [[Ambo]] (near the [[Mortuary Chapel]]).
+	- [ ] White [[Humeral Veil]] accessible for the [[#Procession of the Blessed Sacrament]], draped over the rail.
+	- [ ] [[Umbrellino]] in front of the rail, laid on its side.
 - [ ] [[Credence Table]]:
 	- [ ] Second table for overflow.
 	- [ ] Folded towels, one per friar getting his feet washed.
 	- [ ] Large ewer of water and basin.
 	- [ ] Second basin with soap and water.
 	- [ ] Gremial, Amice, Apron, or equivalent. (CotLY#202) Alternatively, near the [[Celebrant]]'s seat.
+	- [ ] Gold Lavabo pitcher. Place glass dish out of the way.
 - [ ] One [[Thurible]] and full [[Incense Boat]] near [[Thurible Stand]], lit before [[Mass]]. Blowtorch, extra coals, tongs, etc. nearby.
 - [ ] Second [[Thurible]] **unlit**, on [[Thurible Stand]]. Second [[Incense Boat]] under [[Credence Table]].
-- [ ] [[Hand Candle]] placed at each [[Concelebrant|Concelebrant's]] seat.
+- [ ] [[Hand Candle]] placed at each [[Concelebrant|Concelebrant's]] seat,.
 - [ ] Seats for the [[#Washing of Feet]], lined up in front of the frontmost pew. One per friar getting his feat washed.
+	- [ ] Shoehorn on the Southmost chair.
 - [ ] [[Crotalus]] in [[Choir Stalls]] with [[Hand Bells]].
-- [ ] [[Tabernacle]] empty, open, and unveiled.
 - [ ] Altar of repose ([[Rosary Altar]]). All candles start **unlit**:
-	- [ ] Four or Six altar candles **unlit**.
+	- [ ] Altar candles removed.
 	- [ ] White linens.
-	- [ ] [[Corporal]] in front of open [[Tabernacle]].
+	- [ ] Two [[Corporal|Corporals]] spread in front of open [[Tabernacle]].
 	- [ ] Four [[Torch|Torches]] with plenty of oil, placed two on either side, and two in the front.
 	- [ ] Other [[Candelabra]] arranged appropriately on the ground and [[Rosary Altar]].
+		- [ ] Pre-light candelabra and extinguish for ease of lighting later.
 	- [ ] Blue globe switched out for red, with unlit candle. This will serve as the [[Sanctuary Lamp]].
 - [ ] [[Rosary Altar]] pews with reserved signs.
 

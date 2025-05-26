@@ -14,106 +14,47 @@ _The Easter Vigil in the Holy Night_.
 To help organize [[Altar Server|Servers']] different roles, we organize the Mass into four parts, each with separate, contained roles.
 
 1. **Lucernarium** (_Blessing of the Easter Fire_ through the _Exsultet_):
-	- [[Master of Ceremonies]].
-	- [[Thurifer]].
-	- [[Book Bearer]].
-	- [[Ignifer]] 1 ([[Taper]]).
-	- [[Ignifer]] 2 (Weenie roaster, Tongs, [[Hand Candle]]).
-	- [[Ignifer]] 3 (electric lights, [[Hand Candle]]).
-	- All other [[Altar Server|Servers]] are [[Ignifer|Ignifers]] with [[Hand Candle|Hand Candles]].
+	- Tim: [[Master of Ceremonies]].
+	- Bernardo: [[Thurifer]].
+	- Patrick: [[Book Bearer]].
+	- Roman: [[Ignifer]] 1 ([[Taper]]).
+	- Daniel: [[Ignifer]] 2 (Weenie roaster, Tongs, [[Hand Candle]]).
+	- Chao: [[Ignifer]] 3 (electric lights, [[Hand Candle]]).
+	- Everyone else: [[Ignifer|Ignifers]] with [[Hand Candle|Hand Candles]].
 2. **Liturgy of the Word** (_Introduction of Readings_ through the _Homily_):
-	- [[Master of Ceremonies]].
-	- [[Thurifer]].
-	- [[Book Bearer]].
-	- [[Ignifer]] 1, long [[Taper]].
-	- [[Ignifer]] 2, long [[Taper]].
-	- [[Ignifer]] 3, short [[Taper]].
-	- [[Ignifer]] 4, short [[Taper]].
-	- [[Ignifer]] 5, electric lights and [[Friars' Chapel]].
-	- All other [[Altar Server|Servers]] are [[Bell Ringer]]s.
+	- Tim: [[Master of Ceremonies]].
+	- Bernardo: [[Thurifer]], [[Ignifer]] 2, long Taper
+	- Patrick: [[Book Bearer]].
+	- Roman: [[Ignifer]] 1, long [[Taper]].
+	- Nick: [[Ignifer]] 3, short [[Taper]].
+	- Sean: [[Ignifer]] 4, short [[Taper]].
+	- Chao: [[Ignifer]] 5, electric lights and [[Friars' Chapel]].
+	- Everyone else: [[Bell Ringer]]s.
 3.  **Baptismal Liturgy** (_Litany of the Saints_ through the _Universal Prayer_):
-	- [[Master of Ceremonies]].
-	- [[Book Bearer]] 1 ([[Missal]]).
-	- [[Book Bearer]] 2 ([[Ritual]]).
-	- [[Garment Bearer]].
-	- [[Oil Bearer]].
-	- [[Holy Water Bearer]].
+	- Tim: [[Master of Ceremonies]].
+	- Patrick: [[Book Bearer]] 1 ([[Missal]]).
+	- Thomas: [[Book Bearer]] 2 ([[Ritual]]).
+	- Nick: [[Garment Bearer]], [[Oil Bearer]].
+	- Chao: [[Holy Water Bearer]].
 	- All other [[Altar Server|Servers]] are [[Ignifer|Ignifers]] with [[Hand Candle|Hand Candles]].
 4. **Liturgy of the Eucharist** (_Offertory_ through _Recession_):
-	- [[Master of Ceremonies]]
-	- [[Thurifer]]
-	- [[Boat Bearer]]
-	- [[Crucifer]], [[Book Bearer]], [[Bell Ringer]]
-	- [[Acolyte]] 1, [[Lucifer|Candle bearer]] 1, [[Lucifer|Torch bearer]] 1
-	- [[Acolyte]] 2, [[Lucifer|Candle bearer]] 2, [[Lucifer|Torch bearer]] 2
-	- [[Lucifer|Torch bearer]] 3
-	- [[Lucifer|Torch bearer]] 4
+	- Tim: [[Master of Ceremonies]]
+	- Bernardo: [[Thurifer]]
+	- Mario: [[Boat Bearer]]
+	- Patrick: [[Crucifer]], [[Book Bearer]], [[Bell Ringer]]
+	- Nick: [[Acolyte]] 1, [[Lucifer|Candle bearer]] 1
+	- Chao: [[Acolyte]] 2, [[Lucifer|Candle bearer]] 2
+	- Alex: [[Lucifer|Torch bearer]] 1
+	- Daniel: [[Lucifer|Torch bearer]] 2
+	- Sean: [[Lucifer|Torch bearer]] 3
+	- Thomas: [[Lucifer|Torch bearer]] 4
 	- During _Communion_:
-		- 2-3 [[Altar Server|Servers]] to light the [[Sanctuary Lamp|Sanctuary Lamps]].
-		- 3-4 [[Altar Server|Servers]] to fill the Holy Water fonts.
+		- Tim, Roman, Bernardo: light the [[Sanctuary Lamp|Sanctuary Lamps]].
+		- Nick, Chao, Sean, Thomas: fill the Holy Water fonts.
 
 ## Preparation
-As for [[Roman Rite Solemn Mass#Preparation]], except:
+See [[Easter Vigil Preparation]].
 
-- [ ] All candles and sconces **unlit**. Bleached candles used everywhere.
-	- [ ] Well before Mass starts (hours), pre-light and then extinguish all of the candles, since fresh wicks are harder to light. Especially the [[High Altar]] and [[Sanctuary#Polychrome Candles]].
-- [ ] [[Presbytery]]:
-	- [ ] One stool on either side of the [[Presbytery]], tucked behind the [[Sanctuary#Polychrome Candles]].
-	- [ ] [[Sanctuary Lamp|Sanctuary Lamps]] lowered and unlit.
-	- [ ] [[Tabernacle]] empty, unveiled, and open.
-- [ ] [[Credence Table]]:
-	- [ ] Lemon and bread.
-	- [ ] Soap, water, and hand towel.
-	- [ ] [[Ciborium]] with _Chrism_, [[Purificator]].
-	- [ ] Several pitchers full of holy water.
-- [ ] [[Choir Stalls#Low]]:
-	- [ ] [[Ritual]].
-	- [ ] Many sets of [[Hand Bells]].
-	- [ ] Extra [[Hand Candle|Hand Candles]] for those who carry items during the [[#Lucernarium]].
-- [ ] In front of the [[Ambo]], near the [[Paschal Candle]] stand:
-	- [ ] [[Baptismal Font]].
-	- [ ] Golden shell.
-	- [ ] _Oil of Catechumens_, [[Purificator]].
-	- [ ] [[Aspersorium]] (filled).
-	- [ ] Small table, under the [[High Ambo]]:
-		- [ ] Towels.
-		- [ ] Baptismal candles, unboxed. Place Baptismal candle boxes at Catechumens' seats.
-	- [ ] Baptismal garments, lined up hanging on the altar rail at the [[Rosary Altar]].
-- [ ] Outside 66th St. entrance near ramp:
-	- [ ] Fire pit.
-	- [ ] Table of [[Paschal Candle]] implements:
-		- [ ] Incense grains.
-		- [ ] Stylus
-		- [ ] Follower
-		- [ ] Lighter
-		- [ ] Weenie roaster w/ 4 unlit coals. etc.
-- [ ] Statues, etc. unveiled.
-- [ ] Altar candles in place and unlit; sconces nearby and accessible, in:
-	- [ ] [[Porta Caeli]].
-	- [ ] Parish Icon.
-	- [ ] Lourdes.
-	- [ ] Pieta.
-	- [ ] [[Friars' Chapel]]
-	- [ ] St. Vincent Ferrer (statue).
-	- [ ] [[Holy Name Chapel]]
-	- [ ] [[St. Patrick Chapel]]
-	- [ ] St. Martin de Porres altar
-	- [ ] [[St. Joseph Chapel]]
-	- [ ] Guadalupe Altar
-	- [ ] Mary Statue near St. JP II (sconce)
-	- [ ] [[Rosary Altar]]
-- [ ] [[Friars' Chapel]] rood screen candles in place.
-- [ ] All florals and decorations in place.
-- [ ] [[Processional Crucifix]], unveiled, in stand in normal place (not used in entrance).
-- [ ] [[Processional Candle|Processional Candles]] in place behind [[Ambo]], unlit (not used in entrance).
-- [ ] Four [[Taper|Tapers]] near [[Choir Stalls#Low]], all with full, once-lit, wicks.
-	- [ ] Extra wicks on [[Presbytery#Lip]] in case more are needed lighting things in the [[Presbytery]].
-	- [ ] Extra wicks near [[Choir Stalls#Low]] in case we need to use them without tapers.
-- [ ] Short [[Taper]] in the [[Sacristy]] near light panel, with a full, once-lit, wick and a nearby lighter.
-- [ ] [[Thurible Stand]]:
-	- [ ] **Both** [[Incense Boat|Incense Boats]] full, one on stand, other on floor nearby.
-	- [ ] [[Thurible]], empty.
-	- [ ] Tongs, lots of extra charcoal, blowtorch.
 
 ## Order of Mass
 
@@ -221,7 +162,7 @@ When _Gloria_ is intoned:
 	- [[Lourde's Door]]: 1 candle.
 	- Parish icon: 1 candle.
 	- [[Porta Caeli]]: 1 sconce.
-	- [[High Altar]]: 6 altar candles, 2 angel candles, 2 polychrome candles.
+	- [[High Altar]]: 6 altar candles, 2 angel candles, 2 polychrome candles. Use stools to stand on to make lighting easier.
 - [[Ignifer]] 5:
 	- Turn on the [[Church Lights]] to the _Solemn Mass_ setting.
 	- Take up and light the nearby [[Taper]].

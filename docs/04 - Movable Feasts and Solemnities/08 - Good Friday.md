@@ -9,30 +9,35 @@ _Celebration of Our Lord's Passion_.
 Communion Service, with [[#Adoration of the Holy Cross]].
 
 ## Roles
-- [[Master of Ceremonies]]
+- [[Master of Ceremonies]], [[Humeral Veil Bearer]]
 - [[Lucifer|Candle bearer]] 1
 - [[Lucifer|Candle bearer]] 2
 - [[Acolyte]] 1
 - [[Acolyte]] 2
 - [[Book Bearer]]
 
+If fewer servers are available, the roles of the two [[Acolyte|Acolytes]] and the [[Book Bearer]] can all be done by one [[Altar Server|Server]].
+
 ## Preparation
 - [ ] [[Crossing Altar]]: bare, no cloths, candles, or crucifix.
+- [ ] [[Lectern]] removed.
 - [ ] [[Credence Table]]:
-	- [ ] Altar cloth, folded and rolled up.
-	- [ ] Three [[Corporal|Corporals]] in a red [[Burse]]
-	- [ ] Lavabo
-	- [ ] Water cruet (no wine)
-	- [ ] Two purificators(s) for the crucifix.
+	- [ ] Altar cloth, folded so as to be easy to spread.
+	- [ ] Three [[Corporal|Corporals]] in a red [[Burse]].
+	- [ ] Water cruet (no wine).
+	- [ ] One [[Purificator]] for the [[Ciborium|Ciboria]].
+	- [ ] Two [[Purificator|Purificators]] for the crucifix.
 	- [ ] Bracket for [[Veneration Crucifix]] (under).
 	- [ ] [[Hockey Puck Mic]], turned on but muted. Plug it in to charge during morning rehearsal.
-- [ ] [[Tabernacle]] empty, no veil, lamps extinguished.
+- [ ] [[Tabernacle]] empty, no veil, lamps extinguished and down.
 - [ ] Niche leading to [[Rosary Altar]]:
-	- [ ] Two standard [[Processional Candle|Processional Candles]] in niche leading to [[Rosary Altar]]. Use unbleached candles.
+	- [ ] Two standard [[Processional Candle|Processional Candles]] in space where they are stowed during [[Roman Rite Solemn Mass]]. Use unbleached candles.
 	- [ ] [[Taper]].
 - [ ] Altar of repose ([[Rosary Altar]]):
-	- [ ] Other decoration removed.
-	- [ ] Cloth, [[Corporal]], and [[Tabernacle]] key present.
+	- [ ] All decorations removed.
+	- [ ] Altar cloth removed.
+	- [ ] [[Corporal]] spread in front of [[Tabernacle]].
+	- [ ] [[Tabernacle]] key in [[Tabernacle]].
 	- [ ] [[Humeral Veil]] draped over altar rail.
 	- [ ] Sanctuary lamp (red sconce) lit.
 - [ ] [[Sacristy]]:
@@ -56,9 +61,9 @@ All [[Altar Server|Servers]] except [[Lucifer|Candle bearers]] start in [[Choir 
 As usual for [[Roman Rite Solemn Mass]], except:
 
 - There is no _Gospel Procession_, using neither [[Processional Candle|Processional Candles]] nor incense.
-- During the _Tract_, an [[Acolyte]] places the [[Hockey Puck Mic]] on the [[Crossing Altar|Altar]], unmutes it, and returns to his [[Choir Stalls|Choir Stall]].
+- During the _Tract_, the [[Master of Ceremonies|MC]] places the [[Hockey Puck Mic]] on the [[Crossing Altar|Altar]], unmutes it, and returns to his [[Choir Stalls|Choir Stall]].
 - All kneel at the appropriate time during the _Gospel_.
-- When the _Gospel_ is finished, an [[Acolyte]] mutes the [[Hockey Puck Mic]] and returns it to the [[Credence Table]].
+- When the _Gospel_ is finished, an the [[Master of Ceremonies|MC]] mutes the [[Hockey Puck Mic]] and returns it to the [[Credence Table]].
 
 ### Solemn Intercessions
 - [[Book Bearer]] holds the [[Missal]] for the _Solemn Intercessions_, which the [[Priest]] reads at his seat, and another friar reads from the Gospel side lectern.
@@ -75,7 +80,7 @@ Immediately following the [[#Solemn Intercessions]]:
 	- Remain in [[Choir Stalls#Low]] and **remove shoes**. Leave shoes in [[Choir Stalls]].
 
 #### Procession
-[[Lucifer|Candle bearers]] flank [[Veneration Crucifix]] with [[Processional Candle|Processional Candles]].
+[[Lucifer|Candle bearers]] flank [[Veneration Crucifix]], carried by a friar, with [[Processional Candle|Processional Candles]].
 
 - Order:
 	- Cantors.
@@ -91,68 +96,74 @@ Immediately following the [[#Solemn Intercessions]]:
 - [[Priest]] stands on the steps of the [[Presbytery]] holding the [[Veneration Crucifix]]. [[Lucifer|Candle bearers]] flank him, turned inward, with [[Processional Candle|Processional Candles]], where they stand for the duration of the [[#Friars' Veneration]].
 
 #### Friars' Veneration
-Friars venerate the [[Veneration Crucifix]] in pairs, making three [[Genuflection#Solemn Genuflection]] along the way. All [[Altar Server|Servers]] other than [[Lucifer|Candle bearers]] standby, seated in the [[Choir Stalls]].
+Friars venerate the [[Veneration Crucifix]] sequentially, making three [[Genuflection#Solemn Genuflection]] along the way. All [[Altar Server|Servers]] other than [[Lucifer|Candle bearers]] standby, seated in the [[Choir Stalls]].
 
-- First pair[^pairs] of friars start in [[Sanctuary]] close to the people, and [[Genuflection#Solemn Genuflection]] together, facing the [[Veneration Crucifix]].
-- First pair moves to middle of [[Sanctuary]], second pair fills in their place. All pairs of friars time their genuflection and movement together.
-- First moves to the [[Veneration Crucifix]], second pair fills in first pair's place, third pair fills in second pair's place. All three pairs make [[Genuflection#Solemn Genuflection]] together, the first pair kissing the [[Veneration Crucifix]].
-- First pair turns outward and files back to the [[Choir Stalls]], fourth pair moves in.
-
-[^pairs]: TODO My notes from 2023 say this is done is pairs, but in 2024 they did it single file.
+- First friar starts in [[Sanctuary]] close to the people, and performs a [[Genuflection#Solemn Genuflection]]  on the first square, facing the [[Veneration Crucifix]].
+- First friar moves to middle of [[Sanctuary]], second friar fills in his place. All friars time their genuflection and movement together.
+- First friar to the [[Veneration Crucifix]], second friar fills in first friar's place, third friar fills in second friar's place. All three make [[Genuflection#Solemn Genuflection]] together, the first kissing the [[Veneration Crucifix]].
+- First friar turns outward and files back to the [[Choir Stalls]], fourth friar moves in, and so on.
 
 #### Peoples' Veneration
 Begins after the last friar has venerated the [[Veneration Crucifix]].
 
+- [[Acolyte|Acolytes]] 1 and 2 take up [[Purificator|Purificators]].
+- [[Acolyte|Acolytes]], [[Book Bearer]], and [[Master of Ceremonies|MC]] go to foot of the [[Sanctuary]], preceding the [[Veneration Crucifix]]. Line up in pairs, [[Acolyte|Acolytes]] first.
 - [[Lucifer|Candle bearers]] flank [[Veneration Crucifix]] with [[Processional Candle|Processional Candles]] as [[Priest]] processes with it, down to the foot of the [[Sanctuary]].
 - [[Lucifer|Candle bearers]] place the [[Processional Candle|Processional Candles]] to either side of the [[Veneration Crucifix]], on the [[Sanctuary]] step the crucifix is resting on. Leave plenty of space for a person to stand on either side.
-- [[Acolyte|Acolytes]] 1 and 2 follow closely behind with purificators, handing them to the [[Priest]] and [[Deacon]].
-- [[Master of Ceremonies|MC]] follows closely behind and stands in the main aisle, preventing the people from venerating.
-- [[Lucifer|Candle bearers]] venerate in a pair simultaneously, followed by the [[Acolyte|Acolytes]], who do the same. This is to demonstrate to the people how to do it.
-- All [[Altar Server|Servers]] direct traffic:
-	- [[Lucifer|Candle bearers]] stand on either side of the front of the main aisle, directing the pairs in front of the two lines to venerate simultaneously.
-	- [[Acolyte|Acolytes]] direct the people on the sides of the church. The people in the [[Rosary Altar]] pews, [[Friars' Chapel]] pews, and North-facing pews go first. Then the people in the side pews go by way of the center pews.
-	- [[Master of Ceremonies]] prevents the people in the main pews from venerating until the people in the [[Rosary Altar]] pews, [[Friars' Chapel]] pews, and North-facing pews go. Then he directs traffic, ushering the people out of the pews.
-- [[Master of Ceremonies]] venerates the [[Veneration Crucifix]] when the last of the people have venerated.
-- An [[Acolyte]] retrieves the bracket and sets it on the center tile in front of the [[Crossing Altar]]. The [[Priest]] places the [[Veneration Crucifix]] in it, and the [[Lucifer|Candle bearers]] set the [[Processional Candle|Processional Candles]] on either side of it. They remain there for the rest of the day.
+- All [[Altar Server|Servers]] venerate in pairs, demonstrating to the people how to do it. [[Acolyte|Acolytes]] stand on either side of the [[Veneration Crucifix]] when done, and wipe for all the people.
+- Other [[Altar Server|Servers]] direct traffic:
+	- For the North line: [[Rosary Altar]] pews go first, then North section of main pews. Chairs file through the pews.
+	- For the South line: Side-facing pews go first, followed by [[Friars' Chapel]] pews, followed by the South section of main pews. Those in the section of pews near the confessionals file through the main aisle pews.
+	- Station one server for North side, one for South side, one for front of main aisle, and one for back of main aisle.
+- When veneration is almost complete, [[Master of Ceremonies|MC]] retrieves the bracket and sets it on the center tile in front of the [[Crossing Altar]].
+- When finished, the [[Priest]] places the [[Veneration Crucifix]] in it, and the [[Lucifer|Candle bearers]] set the [[Processional Candle|Processional Candles]] on either side of it.
 - All return to [[Choir Stalls#Low]] and don shoes.
 
 ### Communion
-- A [[Lucifer|Candle bearer]] lights the [[Processional Candle|Processional Candles]] in the niche, getting fire from the red sconce at the [[Rosary Altar]], [[Genuflection|Genuflecting]] when approaching to get fire. Then he returns to the [[Choir Stalls|Choir Stall]].
-- [[Acolyte|Acolytes]] 1 and 2 start setting the [[Crossing Altar]]:
+Transition seamlessly into _Communion_ - there will be no action from the [[Celebrant]] or change in music.
+
+- [[Lucifer|Candle bearers]] and [[Humeral Veil Bearer]]:
+	-  Light the [[Processional Candle|Processional Candles]], getting fire from the red sconce at the [[Rosary Altar]], [[Genuflection|Genuflecting]] when approaching to get fire.
+	- Take up [[Processional Candle|Processional Candles]] and line up on triangle tiles (as at the _Gospel_ for [[Roman Rite Solemn Mass]]).
+	- When the [[Deacon]] is ready, [[Lucifer|Candle bearers]] and [[Humeral Veil Bearer]] precede [[Deacon]] to the Altar of Repose ([[Rosary Altar]]).
+	- Form up and [[Genuflection|Genuflect]] with the [[Deacon]].
+	- [[Humeral Veil Bearer]] assists [[Deacon]] with the [[Humeral Veil]], then [[Genuflection|Genuflects]] and moves to the North part of the [[Rosary Altar]] area.
+	- When the [[Deacon]] has the Eucharist and turns, [[Lucifer|Candle bearers]] precede him to the [[Crossing Altar]]. [[Humeral Veil Bearer]] remains kneeling until Eucharist is gone.
+	- [[Lucifer|Candle bearers]]:
+		- Upon approaching the [[Crossing Altar]], stand on either side of it and face inward.
+		- When the Eucharist is placed on the [[Corporal]], place candles on the [[Crossing Altar]], [[Genuflection|Genuflect]] together facing inward, and return to [[Choir Stalls#Low]].
+	- [[Humeral Veil Bearer]]:
+		- Extinguish the [[Sanctuary Lamp]].
+		- Fold and take the [[Corporal]] and [[Tabernacle]] key, and deposit them on the [[Credence Table]].
+		- When the [[Deacon]] is finished placing the [[Ciborium]], take the [[Humeral Veil]], fold it, and place it on the [[Credence Table]].
+- [[Acolyte|Acolytes]] 1 and 2 dress the [[Crossing Altar]]:
 	- Spread the altar cloth.
 	- Place the [[Missal]], with [[Missal Stand]] on the [[Altar]].
 	- Place the [[Hockey Puck Mic]] just in front of the [[Missal Stand]] and unmute it.
-	- Bring the [[Burse]] and spread the [[Corporal|Corporals]] on the [[Crossing Altar|Altar]]. Return the [[Burse]] to the [[Credence Table]].
+	- Bring the [[Burse]] and spread the three [[Corporal|Corporals]] on the [[Crossing Altar|Altar]]. Return the [[Burse]] to the [[Credence Table]].
 	- Return to [[Choir Stalls]].
-- When the [[Deacon]] is ready:
-	- [[Master of Ceremonies]] and [[Lucifer|Candle bearers]] precede [[Deacon]] to the Altar of Repose ([[Rosary Altar]]). [[Lucifer|Candle bearers]] take up the lit [[Processional Candle|Processional Candles]] from the niche along the way, [[Master of Ceremonies|MC]] takes up the [[Humeral Veil]].
-	- Form up and [[Genuflection|Genuflect]] with the [[Deacon]].
-	- [[Master of Ceremonies]] assists [[Deacon]] with the [[Humeral Veil]], then [[Genuflection|Genuflects]] and returns to the [[Sanctuary]].
-	- When the [[Deacon]] has the Eucharist and turns, [[Lucifer|Candle bearers]] precede him to the [[Crossing Altar]]:
-		- Upon approaching the [[Crossing Altar]], stand on either side of it and face inward.
-		- When the Eucharist is placed on the [[Corporal]], place candles on the [[Crossing Altar]], move to the front of the [[Crossing Altar]] approaching from either side, [[Genuflection|Genuflect]] together, and return to [[Choir Stalls#Low]].
-	- [[Master of Ceremonies|MC]] extinguishes the [[Rosary Altar]] sanctuary lamp, and assists [[Deacon]] and other [[Priest|Priests]] with [[Humeral Veil]] as needed.
-	- Meanwhile, [[Priest|Priests]] retrieve more Eucharist from the [[Sacristy]].
+- Meanwhile, [[Priest|Priests]] retrieve more Eucharist from the [[Sacristy]].
 - All return to [[Choir Stalls#Low]].
 - After the [[Priest]] receives communion, receive communion in two lines, letting the friars receive first. No bell is run nor [[Crotalus]] clapped.
 - After communion, a [[Minister]] takes the Eucharist to the back of the [[Tabernacle]] in the [[Sacristy]].
-- At that point:
+- [[Acolyte|Acolytes]] assist with purification of vessels, bringing water cruet **and clean [[Purificator]]** (as the [[Celebrant]] does not have one).
+- After the [[Celebrant]] drinks the water from a [[Ciborium]]:
 	- [[Acolyte|Acolytes]] take the [[Burse]] to the [[Crossing Altar]], fold up and put away the [[Corporal]], and then put them back on the [[Credence Table]].
 	- An [[Acolyte]] mutes the [[Hockey Puck Mic]] and returns it to the [[Credence Table]].
 	- [[Book Bearer]] takes the [[Missal]] and [[Missal Stand|Stand]] back to the [[Choir Stalls]].
-	- **The altar cloth and candles are left on the [[Altar]]**.
+	- **The altar cloth and lit candles are left on the [[Altar]]**.
 
 ### Prayer after Communion and Prayer over the People
 [[Book Bearer]] bears [[Missal]].
 
 ### Recession
 - [[Lucifer|Candle bearers]], empty-handed, form up at the foot of the [[Crossing Altar]] with [[Minister|Ministers]]. All four **[[Genuflection|Genuflect]]** to the [[Veneration Crucifix]], and then [[Lucifer|Candle bearers]] precede them to the [[Sacristy]] by way of the [[Lourde's Door]].
-- All other [[Altar Server|Servers]] remain in [[Choir Stalls]]. After a brief period of prayer, they begin the [[#Cleanup]].
+- All other [[Altar Server|Servers]] remain in [[Choir Stalls]]. They exit through the [[Passageway]] after the friars and choir have exited.
 
 ## Cleanup
 - [[Veneration Crucifix]] in bracket and two lit [[Processional Candle|Processional Candles]] remain.
 - Two [[Processional Candle|Processional Candles]] from the [[Crossing Altar]] move by the [[Veneration Crucifix]], so as to make a "V".
-- Altar cloth rolled up (not folded) and brought back to [[Sacristy]].
+- Altar cloth folded and brought back to [[Sacristy]].
 
 ## References
 - [S.T. III. q. 83. a. 2 ad 2.](https://www.newadvent.org/summa/4083.htm)

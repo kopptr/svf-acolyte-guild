@@ -1,0 +1,75 @@
+As for [[Roman Rite Solemn Mass#Preparation]], except:
+
+## Candles
+- [ ] Place bleached candles in every candle holder and sconce (except the oases for devotional candles that people buy).
+- [ ] Pre-light every candle, and let burn for ~5min. Fresh wicks are more difficult to light, and candles must be lit quickly during the _Gloria_.
+- [ ] Place stools to help light candles:
+	- [ ] One on either side of the [[Presbytery]], tucked behind the [[Sanctuary#Polychrome Candles]].
+	- [ ] One below the sconce by the _Porta Caeli_.
+- [ ] [[Sanctuary Lamp|Sanctuary Lamps]] lowered and unlit.
+
+- [ ] [[Presbytery]]:
+	- [ ] [[Tabernacle]] empty, unveiled, and open.
+	- [ ] [[Corporal]] open in front of [[Tabernacle]].
+- [ ] Primary [[Credence Table]]:
+	- [ ] [[Chalice Stack]]
+	- [ ] [[Ciborium|Ciboria]]
+	- [ ] Second [[Chalice]] with [[Purificator]] and [[Pall]] (for those receiving sacraments).
+	- [ ] [[Luna|Lunettes]] and [[Luna|Lunae]], with veils.
+	- [ ] [[Cruets]]
+	- [ ] [[Lavabo]]
+- [ ] Secondary [[Credence Table]]:
+	- [ ] Lemon and bread (for cleaning [[Chrism]] from [[Celebrant]]'s hand.
+	- [ ] Soap, water, and hand towel.
+	- [ ] [[Ciborium]] with _Chrism_, [[Purificator]].
+	- [ ] Several pitchers full of holy water.
+- [ ] [[Choir Stalls#Low]]:
+	- [ ] [[Ritual]]. At book bearer's seat, with all pages so that Missal is unneeded during sacraments.
+	- [ ] Many sets of [[Hand Bells]].
+	- [ ] Three [[Hand Candle|Hand Candles]] for those who carry items during the [[#Lucernarium]]: [[Master of Ceremonies|MC]], [[Thurifer]], [[Book Bearer]].
+- [ ] In front of the [[Ambo]], near the [[Paschal Candle]] stand:
+	- [ ] [[Baptismal Font]].
+	- [ ] Golden shell.
+	- [ ] _Oil of Catechumens_, [[Purificator]].
+	- [ ] [[Aspersorium]] (filled).
+	- [ ] Small table, under the [[High Ambo]]:
+		- [ ] Towels.
+		- [ ] Baptismal candles, unboxed. Place Baptismal candle boxes at Catechumens' seats.
+	- [ ] Baptismal garments, lined up hanging on the altar rail at the [[Rosary Altar]].
+- [ ] Sepulchre closed.
+- [ ] _Risen Christ_ statue tucked where [[Torch|Torches]] are kept.
+- [ ] Outside 66th St. entrance near ramp:
+	- [ ] Fire pit.
+	- [ ] Table of [[Paschal Candle]] implements:
+		- [ ] Incense grains.
+		- [ ] Stylus
+		- [ ] Follower
+		- [ ] Lighter
+		- [ ] Weenie roaster w/ 4 unlit coals. etc.
+- [ ] Statues, etc. unveiled.
+- [ ] Altar candles in place and unlit; sconces nearby and accessible, in:
+	- [ ] [[Porta Caeli]].
+	- [ ] Parish Icon.
+	- [ ] Lourdes.
+	- [ ] Pieta.
+	- [ ] [[Friars' Chapel]]
+	- [ ] St. Vincent Ferrer (statue).
+	- [ ] [[Holy Name Chapel]]
+	- [ ] [[St. Patrick Chapel]]
+	- [ ] St. Martin de Porres altar
+	- [ ] [[St. Joseph Chapel]]
+	- [ ] Guadalupe Altar
+	- [ ] Mary Statue near St. JP II (sconce)
+	- [ ] [[Rosary Altar]]
+- [ ] [[Friars' Chapel]] rood screen candles in place.
+- [ ] All florals and decorations in place.
+- [ ] [[Processional Crucifix]], unveiled, in stand in normal place (not used in entrance).
+- [ ] [[Processional Candle|Processional Candles]] in place behind [[Ambo]], unlit (not used in entrance).
+- [ ] Four [[Taper|Tapers]] near [[Choir Stalls#Low]], all with full, once-lit, wicks.
+	- [ ] Extra wicks on [[Presbytery#Lip]] in case more are needed lighting things in the [[Presbytery]].
+	- [ ] Extra wicks near [[Choir Stalls#Low]] in case we need to use them without tapers.
+- [ ] Short [[Taper]] in the [[Sacristy]] near light panel, with a full, once-lit, wick and a nearby lighter.
+- [ ] [[Thurible Stand]]:
+	- [ ] **Both** [[Incense Boat|Incense Boats]] full, one on stand, other on floor nearby.
+	- [ ] [[Thurible]], empty.
+	- [ ] Tongs, lots of extra charcoal, blowtorch.
