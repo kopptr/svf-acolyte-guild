@@ -60,11 +60,11 @@ The Host is exposed in a [[Monstrance]]:
 All gather needed items and form up for the [[Exposition of the Blessed Sacrament|Exposition]] in the [[Sanctuary]]. The [[Master of Ceremonies]] directs traffic, particularly for the [[Concelebrant|Concelebrants]] and other Friars. All face the Eucharist. The order of the formation allows a seamless transition to the procession.
 
 ### Formation
-From furthest from the [[Crossing Altar|Altar]] to closest:
+From closest to the [[High Altar]] to farthest:
 
 1. [[Celebrant]] and [[Deacon|Deacons]]: Centered at the foot of the [[High Altar]].
-2. [[Lucifer|Torch bearers]] 1 and 3: kneeling on the first step of the [[High Altar]] centered in the black rectangles.
-3. [[Thurifer]] 1 and [[Boat Bearer]]: Behind the Epistle side [[Lucifer|Torch bearer]], waiting to [[Imposition of Incense|Impose Incense]].
+2. [[Lucifer|Torch bearers]] 1-4: kneeling on the first step of the [[High Altar]], with the inner two [[Lucifer|Torch bearers]] centered in the black rectangles.
+3. [[Thurifer]] 1 and [[Boat Bearer]]: Behind the Epistle side [[Lucifer|Torch bearers]], waiting to [[Imposition of Incense|Impose Incense]].
 4. [[Thurifer]] 2, [[Umbrellino Bearer]], [[Master of Ceremonies]]: Kneeling in [[Presbytery]] off to the Epistle side, in the area between the [[Sedilia]] and the [[Sanctuary#Polychrome Candles|Polychrome Candle]].
 5. [[Concelebrant|Concelebrants]] and other Friars in choir dress: Will likely stay in their [[Choir Stalls]].
 6. [[Crucifer]], flanked by two [[Lucifer|Candle bearers]]: Between [[Choir Stalls#Low]] and [[Ambo]], standing, facing the Eucharist.

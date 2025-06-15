@@ -13,22 +13,31 @@ _The Feast of the Body and Blood of Christ_.
 [[Altar Server|Servers]] will clean everything up at the start of Holy Hour. Returning to [[Saint Catherine of Siena Church|SCS]] for the rest of Holy Hour and [[Benediction]] is optional; we will not serve either.
 
 ## Roles
-[[#Mass]] and [[#Eucharistic Procession]]:
+[[#Mass]]:
 
 - [[Master of Ceremonies]]
-- [[Umbrellino Bearer]], [[Book Bearer]], [[Acolyte]] 1
-- [[Crucifer]], [[Bell Ringer]]
-- [[Lucifer|Candle bearer]] 1, [[Lucifer|Torch bearer]] 3 ([[Mass]])
-- [[Lucifer|Candle bearer]] 2, [[Lucifer|Torch bearer]] 4 ([[Mass]]), [[Acolyte]] 2
-- [[Thurifer]] 1 ([[Mass]], [[#Eucharistic Procession]], [[Exposition of the Blessed Sacrament|Exposition]])
-- [[Thurifer]] 2 ([[Eucharistic Procession]])
+- [[Book Bearer]], [[Crucifer]], [[Bell Ringer]]
+- [[Acolyte]] 1, [[Lucifer|Candle bearer]] 1, [[Lucifer|Torch bearer]] 1
+- [[Acolyte]] 2, [[Lucifer|Candle bearer]] 2, [[Lucifer|Torch bearer]] 2
+- [[Thurifer]] 1
 - [[Boat bearer]]
 - [[Lucifer|Torch bearer]] 1 ([[Mass]], [[Eucharistic Procession]])
 - [[Lucifer|Torch bearer]] 2 ([[Mass]], [[Eucharistic Procession]])
-- [[Canopy]] Bearer 1
-- [[Canopy]] Bearer 2
-- [[Canopy]] Bearer 3
-- [[Canopy]] Bearer 4
+
+[[#Eucharistic Procession]]:
+
+- [[Master of Ceremonies]]
+- [[Umbrellino Bearer]]
+- [[Crucifer]]
+- [[Lucifer|Candle bearer]] 1
+- [[Lucifer|Candle bearer]] 2
+- [[Thurifer]] 1
+- [[Thurifer]] 2
+- [[Boat bearer]]
+- [[Lucifer|Torch bearer]] 1
+- [[Lucifer|Torch bearer]] 2
+- [[Lucifer|Torch bearer]] 3
+- [[Lucifer|Torch bearer]] 4
 
 ## Preparation
 [[Saint Vincent Ferrer Church|SVF]], [[Roman Rite Solemn Mass#Preparation]] as usual, except:
@@ -62,9 +71,7 @@ The Alleluia is followed by a sung Sequence. The Gospel Procession should not be
 As usual, except the Sacred Heart Novena is said after the Universal Prayer.
 
 ### Eucharistic Prayer
-- [[Lucifer|Torch bearers]] 1-4  hold [[Torch|Torches]].
-- [[Thurifer]] 1 does incense as usual.
-- [[Boat Bearer]] is positioned to [[Thurifer]] 1's right, to add incense just before the Epiclesis.
+See [[Eucharistic Prayer#Formation]] with four [[Lucifer|Torch bearers]] and a [[Boat Bearer]].
 
 ### Pater Noster through Agnus Dei
 As usual.
