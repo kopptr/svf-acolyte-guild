@@ -29,7 +29,7 @@ Use [[Procession#Short Cloister Walk Procession to Crossing Altar]], do **not** 
 - The [[Celebrant]] reverences the [[Altar]].
 - Assisted by the [[Thurifer]] (and [[Deacon]], if present), the [[Celebrant]] incenses the [[Altar]] as at [[Roman Rite Solemn Mass#Reverence to the Altar]].
 
-## Special Collect
+### Special Collect
 The _Penitential Rite_ is omitted. Immediately following the [[#Reverence to the Altar]], the [[Book Bearer]] holds the [[Missal]] for the [[Celebrant]]. When finished, he returns to his seat and deposits the [[Missal]].
 
 ### Litany of the Saints Procession

@@ -60,7 +60,7 @@ Cue: _Let us proceed in peace_. **In the name of Christ. Amen.**
 	- [[Lucifer|Candle bearer]] 1, [[Crucifer]], [[Lucifer|Candle bearer]] 2
 	- [[Master of Ceremonies|MC]] (If not holding [[Cope]])
 	- [[Concelebrant|Concelebrants]] (if any)
-	- Cope holder 1, [[Celebrant]] with relic, Cope holder 2
+	- Cope Holder 1, [[Celebrant]] with relic, Cope Holder 2
 - Route:
 	- Past the [[Crossing Altar]].
 	- West down the main aisle.

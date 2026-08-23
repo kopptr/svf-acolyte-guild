@@ -3,7 +3,7 @@
 [[Roman Rite Low Mass|Roman Rite Sung Mass]], with a [[Procession]] following it.
 
 ## Preparation
-[[Roman Rite Low Mass#Preparations]], plus:
+[[Roman Rite Low Mass#Preparation]], plus:
 
 - [ ] [[Cope]] on the [[Choir Stalls]] near the [[Celebrant]]'s seat.
 - [ ] Relic of St. Martin de Porres on the [[High Altar]].

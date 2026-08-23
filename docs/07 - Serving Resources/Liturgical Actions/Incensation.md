@@ -1,6 +1,3 @@
----
-aliases: ["Incensation"]
----
 We use the [[Preservation of Dominican Customs|Customary]] Dominican manner of incensation, which involves solemnly lifting and lowering the [[Thurible]], rather than swinging it as in the [[Roman Rite]].
 
 ### Incensing

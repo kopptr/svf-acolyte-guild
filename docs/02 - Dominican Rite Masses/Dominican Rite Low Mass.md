@@ -31,7 +31,7 @@ Begin in [[Sacristy]] with [[Pre-Mass Prayer with Ministers]]:
 
 - Carry [[Missal]].
 - Use right hand to touch holy water, touch [[Celebrant]]'s hand to give him holy water.
-- Ring bell on entering the sanctuary.
+- Ring bell on entering the [[Sanctuary]].
 - Process until crossing the [[Tabernacle]], wait for [[Celebrant]] and [[Genuflection|Genuflect]] together[^entrance].
 - Lead [[Celebrant]] to the right of the stand, down the center of the [[Sanctuary]], and then through the doorway to the [[Rosary Altar]].
 - Step away from the [[Altar]] so the [[Celebrant]] can walk past you.

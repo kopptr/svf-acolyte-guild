@@ -9,7 +9,7 @@
 >Kyrie eleison.
 
 ## Dominican Rite
-In the [[Dominican Rite]], each part is repeated thrice, and in a call-and-response with the celebrant. Thus:
+In the [[Dominican Rite]], each part is repeated thrice, and in a call-and-response with the [[Celebrant]]. Thus:
 
 - [[Celebrant]]: _Kyrie eleison_.
 - [[Altar Server|Servers]]: **Kyrie eleison**.

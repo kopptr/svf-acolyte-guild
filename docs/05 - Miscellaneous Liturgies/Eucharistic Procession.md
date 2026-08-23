@@ -15,10 +15,10 @@ Up to 16 roles, can omit / double up some roles if needed.
 - [[Thurifer]] 2
 - [[Boat Bearer]]
 - [[Umbrellino Bearer]]
-- [[Lucifer|Torch bearers]] 1
-- [[Lucifer|Torch bearers]] 2
-- [[Lucifer|Torch bearers]] 3
-- [[Lucifer|Torch bearers]] 4
+- [[Lucifer|Torch bearer]] 1
+- [[Lucifer|Torch bearer]] 2
+- [[Lucifer|Torch bearer]] 3
+- [[Lucifer|Torch bearer]] 4
 - 4 [[Canopy]] bearers, these need not be vested [[Altar Server|Servers]].
 - Some number of Banner bearers, these are not vested [[Altar Server|Servers]].
 

@@ -319,24 +319,24 @@ The [[Senior Acolyte]] assists the [[Celebrant]] and [[Deacon]] with the Epistle
 - [[Thurifer]] walks forward to retrieve [[Thurible]] from [[Deacon]], [[Genuflection|Genuflects]], returns the [[Thurible]] to the [[Thurible Stand]], and returns to [[Choir Stalls#High]].
 - [[Preface Formation]] (no [[Thurifer]]) through _Great Amen_. #liturgy-todo  should this be [[T-Formation]]?
 
-## Pater Noster
+### Pater Noster
 - Stand in place.
 - Toward end of _Pater Noster_, [[Junior Acolyte|JA]] helps [[Subdeacon]] remove and fold the [[Humeral Veil]].
 - [[Preface Formation]].
 
-## Agnus Dei
+### Agnus Dei
 - [[Celebrant]] intones _Pax domini sit semper vobiscum_, respond **Et cum spiritu tuo**.
 - [[Junior Acolyte|JA]] will ring the [[Hand Bells]] once at the start of the [[Celebrant]]'s _Agnus Dei_. He doesn't need to set them back down.
 - Both [[Acolyte|Acolytes]] recite the _Agnus Dei_.
 - Kiss of peace: [[Acolyte|Acolytes]] kiss the [[Pax Tablet]] when the [[Subdeacon]] presents it, [[Senior Acolyte|SA]] first.
 - After last kiss of peace, [[Acolyte|Acolytes]] stand facing the [[High Altar]].
 
-## Priest's Communion
+### Priest's Communion
 - Cue: [[Subdeacon]] moves to the Gospel side
 	- [[Junior Acolyte|JA]] takes [[Hand Bells]], walks around [[High Altar]] to Gospel side, puts them away, then ascends and kneels next to [[Subdeacon]], facing [[Celebrant]].
 	- [[Senior Acolyte|SA]] mirrors the [[Junior Acolyte|JA]] on the Epistle side, leaving space for the [[Deacon]] to kneel next to him (he won't be there yet).
 
-## Choir's Communion
+### Choir's Communion
 - Everyone says **Domine non sum dignus** three times.
 - [[Acolyte|Acolytes]] kneel. [[Deacon]] and [[Subdeacon]] may receive Communion, but often they won't.
 - [[Senior Acolyte|SA]] receives Communion, then immediately descends the Epistle side and goes [[Approach Formation]] to wait for the [[Junior Acolyte|JA]].
@@ -356,12 +356,12 @@ The [[Senior Acolyte]] assists the [[Celebrant]] and [[Deacon]] with the Epistle
 	- Designated [[Paten]] holders (usually just the [[Crucifer]]) ready [[Paten|Patens]] and wait at foot of [[Presbytery]] for their [[Minister|Ministers]].
 	- Anyone else returns to their seats in [[Choir Stalls#High]].
 
-## Peoples' Communion
+### Peoples' Communion
 - [[Paten]] holders accompany their [[Minister|Ministers]] and hold [[Paten|Patens]]. Everyone else remains kneeling in their places.
 - When there are no more communicants, [[Paten]] holders accompany [[Minister|Ministers]] to foot of [[Presbytery]], give [[Paten|Patens]] to [[Minister|Ministers]], and return to seats in [[Choir Stalls]].
 - After Peoples' Communion, all [[Altar Server|Servers]] except the [[Acolyte|Acolytes]] remain in choir through the end of [[Mass]].
 
-## Ablutions
+### Ablutions
 - **Cue**: No communicants remain. The [[Minister|Ministers]] approach the [[Presbytery]].
 - [[Acolyte|Acolytes]] stand, move to two-person [[Approach Formation]], [[Major Inclination|Profound Bow]], then walk in a pair to the [[Presbytery#Niche]].
 - [[Senior Acolyte|SA]]:
@@ -376,7 +376,7 @@ The [[Senior Acolyte]] assists the [[Celebrant]] and [[Deacon]] with the Epistle
 - [[Acolyte|Acolytes]] walk in a pair to [[Approach Formation]] and [[Major Inclination|Profound Bow]].
 - Immediately leave [[Approach Formation]] to snuff Sanctus candles, then return to [[T-Formation]].
 
-## Communion Verse
+### Communion Verse
 - [[Celebrant]], [[Deacon]], and [[Senior Acolyte|SA]]: [[Swing Movement]] to [[Epistle and Gospel-side Formation|Epistle-side Formation]]. [[Subdeacon]] will stay behind to attend to the [[Chalice]].
 	- [[Celebrant]] and [[Deacon]] may already have already completed their [[Swing Movement]]. If so, the [[Senior Acolyte|SA]] does his own [[Swing Movement]] to join them.
 - [[Subdeacon]] attends to the [[Chalice Veil]], [[Junior Acolyte|JA]] waits for him in [[Approach Formation]]:
@@ -388,7 +388,7 @@ The [[Senior Acolyte]] assists the [[Celebrant]] and [[Deacon]] with the Epistle
 - [[Senior Acolyte]]:
 	- When Communion Verse is finished. [[Swing Movement]] back to [[T-Formation]]. [[Subdeacon]] and [[Junior Acolyte]] will likely be missing.
 
-## Post-Communion Prayer and Dismissal
+### Post-Communion Prayer and Dismissal
 Depending on the timing, the [[Subdeacon]] and [[Junior Acolyte|JA]] might not have returned. They just [[Genuflection|Genuflect]] and join the formation wherever they are.
 
 - **Cue**: [[Celebrant]] intones _Dominus Vobiscum_.
@@ -397,13 +397,13 @@ Depending on the timing, the [[Subdeacon]] and [[Junior Acolyte|JA]] might not h
 - [[Celebrant]]: _Dominus Vobiscum_. [[Deacon]]: _Ite missa est_.
 - **Cue**: _Benedictio_. [[Acolyte|Acolytes]] bow for the blessing and make the sign of the cross.
 
-## Last Gospel
+### Last Gospel
 - [[Swing Movement]] to [[Epistle and Gospel-side Formation|Gospel-side Formation]].
 - Response and crosses at start of Gospel.
 - [[Genuflection|Genuflect]] at appropriate time with [[Minister|Ministers]].
 - [[Swing Movement]] to [[T-Formation]].
 
-## Recession
+### Recession
 - Immediately break [[T-Formation]] to retrieve [[Processional Candle|Processional Candles]].
 - Return to [[Approach Formation]], [[Minister|Ministers]] will have descended the [[High Altar|Altar]] and joined.
 - [[Genuflection|Genuflect]] with Ministers.

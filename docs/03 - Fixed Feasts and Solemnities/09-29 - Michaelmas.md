@@ -1,6 +1,7 @@
 # 09-29 - Michaelmas
 
-The _Feast of Saints Michael, Gabriel, and Raphael.
+The _Feast of Saints Michael, Gabriel, and Raphael_.
+
 ## Overview
 [[Roman Rite Solemn Mass at the High Altar]], with:
 

@@ -60,7 +60,7 @@ Mass is preceded by a Solemn Procession of the Three Kings Figurines to the mang
 	- Form up and head North out of the [[Holy Name Chapel]].
 	- Turn right and head East up the main aisle, and proceed as usual for [[Roman Rite Solemn Mass]]. However, **do not wait for the hymn to end and the Introit to begin**. Instead immediately [[Reverence]] and enter the [[Sanctuary]]. This is to account for the larger number in the procession.
 
-### Order of Mass
+### Rest of Mass
 The remainder is as usual for [[Roman Rite Solemn Mass]], except:
 - All four [[Lucifer|Lucifers]] plant [[Torch|Torches]] during the [[Eucharistic Prayer]].
 - The [[Schola Cantorum]] sings and additional hymn during the [[Ablutions]].

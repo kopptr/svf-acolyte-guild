@@ -58,13 +58,13 @@ Cue: _Let us proceed in peace_. **In the name of Christ. Amen.**
 - Other [[Altar Server|Servers]] go to [[Passageway]]. [[Lucifer|Candle bearers]] retrieve [[Processional Candle|Processional Candles]], [[Crucifer]] retrieves [[Processional Crucifix]].
 - When the [[Celebrant]] enters the [[Presbytery]], form up:
 	- [[Crucifer]] and [[Lucifer|Candle bearers]] at the foot of the [[Presbytery]].
-	- Cope holders at the foot of the [[High Altar]], one standing on each rectangle tile where the [[Torch|Torches]] go during the [[Eucharistic Prayer]].
-- The [[Celebrant]] will retrieve the relic from the [[High Altar]], and then descend to the foot. All [[Reverence]] with him, then turn and begin the procession. The Cope holders each take hold of one side of the [[Cope]].
+	- Cope Holders at the foot of the [[High Altar]], one standing on each rectangle tile where the [[Torch|Torches]] go during the [[Eucharistic Prayer]].
+- The [[Celebrant]] will retrieve the relic from the [[High Altar]], and then descend to the foot. All [[Reverence]] with him, then turn and begin the procession. The Cope Holders each take hold of one side of the [[Cope]].
 - Order:
 	- [[Thurifer]]
 	- [[Lucifer|Candle bearer]] 1, [[Crucifer]], [[Lucifer|Candle bearer]] 2
 	- [[Concelebrant|Concelebrants]] (if any)
-	- Cope holder 1, [[Celebrant]] with relic, Cope holder 2
+	- Cope Holder 1, [[Celebrant]] with relic, Cope Holder 2
 - Route:
 	- Past the [[Crossing Altar]].
 	- West down the main aisle.
@@ -74,7 +74,7 @@ Cue: _Let us proceed in peace_. **In the name of Christ. Amen.**
 - [[Thurifer]] breaks to the right and faces inward.
 - [[Crucifer]] break off the left, deposits [[Processional Crucifix]], and stands facing inward.
 - [[Lucifer|Lucifers]] break off the left, extinguish and deposit [[Processional Candle|Processional Candles]], and then stand off to the side, facing inward.
-- Cope holders attend [[Celebrant]] to the foot of the [[Altar]], then release the [[Cope]] and break off to the right, facing inward.
+- Cope Holders attend [[Celebrant]] to the foot of the [[Altar]], then release the [[Cope]] and break off to the right, facing inward.
 - [[Thurifer]] joins the [[Celebrant]] on his right side. Then they act as if at [[Exposition of the Blessed Sacrament|Exposition]]:
 	- [[Celebrant]] imposes incense.
 	- [[Celebrant]] and [[Thurifer]] kneel.

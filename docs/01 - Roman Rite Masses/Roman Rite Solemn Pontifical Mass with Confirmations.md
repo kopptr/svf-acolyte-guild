@@ -24,9 +24,9 @@ Northeast Choir Stalls:
 As usual for [[Roman Rite Solemn Pontifical Mass]].
 
 ### Rite of Confirmation
-- [[Crozier Bearer]] and [[Mitre Bearer]] assist [[SVF Acolyte Guild/Rubrics/Roles/Bishop|Bishop]] [[Celebrant]] as needed.
-- [[Oil Bearer]] assists [[SVF Acolyte Guild/Rubrics/Roles/Bishop|Bishop]] [[Celebrant]] with [[Chrism]].
-- After the [[SVF Acolyte Guild/Rubrics/Roles/Bishop|Bishop]] [[Celebrant]] is finished with the Confirmations, [[Acolyte|Acolytes]] 1 & 2 assist with washing his hands:
+- [[Crozier Bearer]] and [[Mitre Bearer]] assist [[Bishop]] [[Celebrant]] as needed.
+- [[Oil Bearer]] assists [[Bishop]] [[Celebrant]] with [[Chrism]].
+- After the [[Bishop]] [[Celebrant]] is finished with the Confirmations, [[Acolyte|Acolytes]] 1 & 2 assist with washing his hands:
 	- Bring him lemons and bread, and then if he wants it, the standard [[Lavabo]].
 
 ### Credo through Recession

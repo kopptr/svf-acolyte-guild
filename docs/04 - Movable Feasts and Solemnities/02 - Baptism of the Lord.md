@@ -13,10 +13,10 @@ Celebrated on the first Sunday after January 6th (the traditional date of [[01 -
 
 ## Order of Mass
 
-## Entrance, Introit
+### Entrance, Introit
 As usual for [[Roman Rite Solemn Mass]].
 
-## Aspersion Rite
+### Aspersion Rite
 This takes the place of the [[Kyrie]]. **Cue**: The Cantor starts singing the antiphon, and an [[Acolyte]] assists the [[Celebrant]] with the _Aspersion Rite_:
 
 - Collect the [[Aspersorium]], then precede the [[Celebrant]] out of the [[Sanctuary]], and then accompany the priest on his right side, holding the [[Aspersorium]] for him. Likely route:
@@ -26,5 +26,5 @@ This takes the place of the [[Kyrie]]. **Cue**: The Cantor starts singing the an
 	- Turn left, East up the aisle.
 - Precede the [[Celebrant]] back into the [[Sanctuary]], deposit the [[Aspersorium]] and return to [[Choir Stalls#Low]].
 
-## Gloria through Dismissal
+### Gloria through Dismissal
 As usual for [[Roman Rite Solemn Mass]].

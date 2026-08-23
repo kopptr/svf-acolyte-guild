@@ -21,7 +21,7 @@ Up to eight servers:
 
 - [[Master of Ceremonies]]
 - [[Thurifer]]
-- [[Boat bearer]]
+- [[Boat Bearer]]
 - [[Acolyte]] 1, [[Book bearer]], [[Lucifer]] 1 ([[Torch]] during [[Eucharistic Prayer]])
 - [[Acolyte]] 2, [[Holy Water Bearer]], [[Lucifer]] 2 ([[Torch]] during [[Eucharistic Prayer]])
 - [[Crucifer]], [[Bell Ringer]]

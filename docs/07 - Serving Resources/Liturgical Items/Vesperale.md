@@ -1,7 +1,7 @@
 The _Vesperale_ is the cloth that covers the [[High Altar]] when [[Mass]] is not being said at it. It serves to:
 
-- Protect the [[Altar cloth]] from damage due to falling wax / embers
-- Prevent dust build-up on the [[Altar cloth]].
+- Protect the [[Altar Cloth]] from damage due to falling wax / embers
+- Prevent dust build-up on the [[Altar Cloth]].
 
 Consequently, when serving a [[Mass]] at the [[High Altar]]:
 

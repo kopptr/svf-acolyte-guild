@@ -20,7 +20,7 @@ _The Feast of the Body and Blood of Christ_.
 - [[Acolyte]] 1, [[Lucifer|Candle bearer]] 1, [[Lucifer|Torch bearer]] 1
 - [[Acolyte]] 2, [[Lucifer|Candle bearer]] 2, [[Lucifer|Torch bearer]] 2
 - [[Thurifer]] 1
-- [[Boat bearer]]
+- [[Boat Bearer]]
 - [[Lucifer|Torch bearer]] 1 ([[Mass]], [[Eucharistic Procession]])
 - [[Lucifer|Torch bearer]] 2 ([[Mass]], [[Eucharistic Procession]])
 
@@ -33,7 +33,7 @@ _The Feast of the Body and Blood of Christ_.
 - [[Lucifer|Candle bearer]] 2
 - [[Thurifer]] 1
 - [[Thurifer]] 2
-- [[Boat bearer]]
+- [[Boat Bearer]]
 - [[Lucifer|Torch bearer]] 1
 - [[Lucifer|Torch bearer]] 2
 - [[Lucifer|Torch bearer]] 3

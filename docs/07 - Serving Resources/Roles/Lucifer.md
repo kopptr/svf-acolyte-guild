@@ -16,9 +16,9 @@ Latin for _Light bearer_.
 - Inside hand under the candle stick, carrying it from the bottom between the feet.
 - Outside hand under the node of the candle stick.
 - Attempt to hold the candle at the same height as the other paired Lucifer.
-- During [[Inclination]]s and [[Genuflection]]s:
-	- _While flanking the [[Processional Crucifix]]_, only perform a [[Inclination#Minor Inclination]].
-	- _While **not** flanking the [[Processional Crucifix]]_, perform the appropriate [[Inclination]] or [[Genuflection]] as normal.
+- During [[Reverence|Inclination]]s and [[Genuflection]]s:
+	- _While flanking the [[Processional Crucifix]]_, only perform a [[Minor Inclination]].
+	- _While **not** flanking the [[Processional Crucifix]]_, perform the appropriate [[Reverence|Inclination]] or [[Genuflection]] as normal.
 
 ## Manner of holding the [[Torch]]
 

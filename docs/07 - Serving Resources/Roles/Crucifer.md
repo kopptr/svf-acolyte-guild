@@ -6,7 +6,7 @@ Attend to the [[Processional Crucifix]]:
 
 ## Manner of holding the [[Processional Crucifix]]
 - Hold with two hands during [[Procession]]s.
-- During [[Inclination]]s and [[Genuflection]]s, only perform a [[Minor Inclination|Head Bow]]. The idea is that Christ should bow to no one.
+- During [[Reverence|Inclination]]s and [[Genuflection]]s, only perform a [[Minor Inclination|Head Bow]]. The idea is that Christ should bow to no one.
 - Hold the [[Processional Crucifix]] as high as you can _while maintaining control of it_. Do not hold it so high so that it wobbles, or is not vertical, or is too difficult.
 - It is occasionally acceptable to rest the [[Processional Crucifix]] on the ground and hold it with the right hand, keeping it vertical, and keeping the left hand on the breast, such as during stations in the [[Stations of the Cross]].
 

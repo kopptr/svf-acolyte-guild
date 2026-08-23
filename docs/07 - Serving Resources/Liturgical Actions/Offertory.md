@@ -32,15 +32,15 @@ If there is no [[Deacon]], the [[Altar Server|Servers]] are responsible for all 
 3. The [[Celebrant]] offers the bread on the [[Paten]].
 4. The [[Acolyte|Acolytes]] assist the [[Celebrant]] with preparing the [[Chalice]]:
 	- The [[Acolyte]] on the right takes the wine [[Cruets|Cruet]], the one of the left takes the water [[Cruets|Cruet]]. Both wait in [[Standby Formation]].
-	- **Cue**: The [[Celebrant]] [[Inclination|Bows]] after raising the bread.
+	- **Cue**: The [[Celebrant]] [[Reverence|Bows]] after raising the bread.
 	- The [[Acolyte|Acolytes]] approach in a pair, each holding one [[Cruets|Cruet]]. Wine on the right, water on the left. They offer the wine [[Cruets|Cruet]] first, then the water [[Cruets|Cruet]]:
 		- Hold the [[Cruets|Cruet]] at an appropriate level so as to make it visible to the People and easily taken by the [[Celebrant]]. The handle should face the [[Celebrant]]. The caps of the [[Cruets]] should be removed at the [[Credence Table]] and left there.
 	- After receiving the water [[Cruets|Cruet]] back, [[Acolyte|Acolytes]] [[Minor Inclination|Head Bow]] and return the [[Cruets]] to the [[Credence Table]].
 5. The [[Thurifer]] assists with the [[Incensation]]:
-	- **Cue**: [[Celebrant]] [[Inclination|Bows]] after raising the [[Chalice]].
+	- **Cue**: [[Celebrant]] [[Reverence|Bows]] after raising the [[Chalice]].
 	- [[Thurifer]] assists [[Celebrant]] in [[Imposition of Incense]], then returns [[Incense Boat]] and waits in [[Standby Formation]].
 	- [[Celebrant]] incenses the [[Altar]].
-	- **Cue**: [[Celebrant]] [[Inclination|Bows]] to the [[Altar]] after incensing it.
+	- **Cue**: [[Celebrant]] [[Reverence|Bows]] to the [[Altar]] after incensing it.
 	- [[Thurifer]] retrieves [[Thurible]] from the [[Celebrant]] and stays in front of him.
 	- [[Thurifer]] incenses the [[Celebrant]] three times, center, left, then right[^incense_direction].
 	- If there are [[Concelebrant|Concelebrants]], [[Thurifer]] incenses them in groups in the same manner.

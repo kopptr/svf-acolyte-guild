@@ -183,18 +183,18 @@ After the [[Priest]] finishes reading the _Gradual_, while it is still being sun
 - [[Thurifer]] [[Genuflection|Genuflects]] and leaves to deposit [[Thurible]] and return to [[Choir Stalls]].
 - [[Acolyte|Acolytes]] [[Major Inclination|Profound Bow]] and remain in [[Preface Formation]].
 
-## Pater Noster
+### Pater Noster
 - [[Preface Formation]].
 
-## Agnus Dei
+### Agnus Dei
 - [[Celebrant]] intones _Pax domini sit semper vobiscum_, respond **Et cum spiritu tuo**.
 - [[Junior Acolyte|JA]] will ring the [[Hand Bells]] once at the start of the [[Celebrant]]'s _Agnus Dei_. He doesn't need to set them back down.
 - Both [[Acolyte|Acolytes]] recite the _Agnus Dei_.
 
-## Priest's Communion
+### Priest's Communion
 - While reciting the _Agnus Dei_, [[Acolyte|Acolytes]] break to the sides and ascend the [[High Altar]] to kneel on the [[Predella]], facing inward, on their respective sides. [[Senior Acolyte|SA]] gets the [[Paten]] along the way.
 
-## Choir's Communion
+### Choir's Communion
 - Everyone says **Domine non sum dignus** three times.
 - [[Senior Acolyte|SA]] receives Communion holding the [[Paten]] for himself. Then he precedes the [[Celebrant]] to the Gospel Side, walking on his step and not stopping to reverence, and holds to the [[Paten]] while [[Junior Acolyte|JA]] receives Communion.
 - If there are Dominicans present, do Choir Communion with the [[Communion Cloth]]:
@@ -220,12 +220,12 @@ After the [[Priest]] finishes reading the _Gradual_, while it is still being sun
 	- [[Senior Acolyte|SA]] gives [[Paten]] to a [[Altar Server|Server]], who assists with Communion. If multiple are needed, other [[Altar Server|Server(s)]] may retrieve more [[Paten|Patens]] from the [[Presbytery#Niche]].
 	- [[Senior Acolyte|SA]] returns to the foot of the [[High Altar]], [[Major Inclination|Profound Bow]], goes to the Gospel Side, ascends the Gospel Side, and kneels on the [[Predella]].
 
-## Peoples' Communion
+### Peoples' Communion
 - [[Paten]] holders accompany their [[Minister|Ministers]] and hold [[Paten|Patens]]. Everyone else remains kneeling in their places.
 - When there are no more communicants, [[Paten]] holders accompany [[Minister|Ministers]] to foot of [[Presbytery]], give [[Paten|Patens]] to [[Minister|Ministers]], and return to seats in [[Choir Stalls]].
 - After Peoples' Communion, all [[Altar Server|Servers]] except the [[Acolyte|Acolytes]] remain in choir through the end of [[Mass]].
 
-## Ablutions
+### Ablutions
 - **Cue**: No communicants remain. The [[Minister|Ministers]] approach the [[Presbytery]].
 - [[Acolyte|Acolytes]] stand, move to two-person [[Approach Formation]], [[Major Inclination|Profound Bow]], then walk in a pair to the [[Presbytery#Niche]].
 - [[Senior Acolyte|SA]] readies the [[Cruets]], ascends, assists with the first ablution, and descends.
@@ -233,23 +233,23 @@ After the [[Priest]] finishes reading the _Gradual_, while it is still being sun
 - [[Senior Acolyte|SA]] ascends, assists with the second ablution, descends, deposits the [[Cruets]], and returns to [[T-Formation]].
 - [[Acolyte|Acolytes]] [[Major Inclination|Profound Bow]], extinguish [[Sanctus Candle|Sanctus Candles]], and return to [[T-Formation]].
 
-## Communion Verse
+### Communion Verse
 - [[Acolyte|Acolytes]] [[Swing Movement]] to [[Epistle and Gospel-side Formation|Epistle-side Formation]] with the [[Celebrant]] if able. He may already be there, in which case swing to join him.
 - [[Swing Movement]] to [[T-Formation]].
 
-## Post-Communion Prayer and Dismissal
+### Post-Communion Prayer and Dismissal
 - [[Swing Movement]] to [[Epistle and Gospel-side Formation|Epistle-side Formation]].
 - At **Amen**, [[Swing Movement]] to [[T-Formation]].
 - [[Celebrant]]: _Dominus Vobiscum_. [[Deacon]]: _Ite missa est_.
 - **Cue**: _Benedictio_. [[Acolyte|Acolytes]] bow for the blessing and make the sign of the cross.
 
-## Last Gospel
+### Last Gospel
 - [[Swing Movement]] to [[Epistle and Gospel-side Formation|Gospel-side Formation]].
 - Response and crosses at start of Gospel.
 - [[Genuflection|Genuflect]] at appropriate time with [[Celebrant]].
 - [[Swing Movement]] to [[T-Formation]].
 
-## Recession
+### Recession
 - [[Acolyte|Acolytes]] immediately break [[T-Formation]] to retrieve [[Processional Candle|Processional Candles]].
 - Return to [[Approach Formation]], [[Celebrant]] will have descended the [[High Altar|Altar]] and joined.
 - [[Genuflection|Genuflect]] with [[Celebrant]].

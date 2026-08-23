@@ -9,7 +9,7 @@ The Thurifer is the server in charge of the [[Thurible]].
 - [[Imposition of Incense]]
 - [[Incensation]]
 
-## Common mistakes and pitfalls
+## Common Mistakes and Pitfalls
 - Attempting to hand the [[Deacon]] the [[Thurible]] after charging it during the Gospel Procession.
 - Stepping forward to receive the [[Thurible]] after the [[Celebrant]] has incensed the [[Altar]] during the Offertory, instead of waiting for the [[Deacon]] to incense the [[Celebrant]], [[Concelebrant|Concelebrants]], and [[Congregation]].
 - If no [[Deacon]] is present, forgetting to incense the [[Celebrant]], [[Concelebrant|Concelebrants]], and [[Congregation]] after the [[Celebrant]] incenses the [[Altar]] during the Offertory.

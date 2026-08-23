@@ -1,7 +1,7 @@
 ## English Text
->Lamb of God, you take away the sins of the work, have mercy on us.
->Lamb of God, you take away the sins of the work, have mercy on us.
->Lamb of God, you take away the sins of the work, grant us peace.
+>Lamb of God, you take away the sins of the world, have mercy on us.
+>Lamb of God, you take away the sins of the world, have mercy on us.
+>Lamb of God, you take away the sins of the world, grant us peace.
 
 ## Latin Text
 >Agnus Dei, qui tollis peccata mundi, miserere nobis.
