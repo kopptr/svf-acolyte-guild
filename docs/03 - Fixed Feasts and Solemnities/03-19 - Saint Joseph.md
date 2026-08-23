@@ -1,7 +1,7 @@
 # 03-19 - Saint Joseph
 _The Solemnity of Saint Joseph_.
 
-This is a solemnity at [[Preservation of Dominican Customs|Dominican]] parishes in the [[Province of St. Joseph]], as St. Joseph is the provincial patron. When St. Joseph's day falls on a Sunday, this solemnity is transferred to Monday March 20th.
+This is a solemnity at [[Preservation of Dominican Customs|Dominican]] parishes in the [Province of St. Joseph](https://opeast.org/), as St. Joseph is the provincial patron. When St. Joseph's day falls on a Sunday, this solemnity is transferred to Monday March 20th.
 
 ## Overview
 [[Roman Rite Solemn Mass at the High Altar]] & [[#Procession]].
