@@ -1,0 +1,77 @@
+{
+  "name": "devcontainer-template",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "features": {
+    "ghcr.io/devcontainers/features/node:1": {
+      "version": "lts"
+    },
+    "ghcr.io/anthropics/devcontainer-features/claude-code:1.0": {}
+  },
+
+  // Rootless podman maps container UIDs into a subordinate range by default,
+  // so files created in the workspace show up owned by a stranger UID on the
+  // host. --userns=keep-id makes the container's user map 1:1 to the host
+  // user that started podman. See DEVCONTAINER.md for the caveat when your
+  // host UID isn't 1000. This flag is podman-specific; drop it for Docker.
+  //
+  // --env-file loads .devcontainer/.env (gitignored, per-clone secrets) into
+  // the container. See DEVCONTAINER.md > "Secrets and per-clone environment
+  // variables".
+  "runArgs": [
+    "--userns=keep-id",
+    "--env-file", "${localWorkspaceFolder}/.devcontainer/.env"
+  ],
+
+  // Auto-creates .devcontainer/.env from .env.example on first build, on the
+  // host, without ever overwriting an existing .env.
+  "initializeCommand": "[ -f \"${localWorkspaceFolder}/.devcontainer/.env\" ] || cp \"${localWorkspaceFolder}/.devcontainer/.env.example\" \"${localWorkspaceFolder}/.devcontainer/.env\"",
+
+  "remoteUser": "vscode",
+
+  // Skip the CLI's built-in UID/GID remap stage: --userns=keep-id (above)
+  // already maps the container user to the host user 1:1 at the Podman
+  // user-namespace level, so this would be redundant work. It also avoids a
+  // Podman "SHELL is not supported for OCI image format" warning that stage
+  // triggers. This assumes Podman + --userns=keep-id; re-enable if this
+  // devcontainer is ever run under plain Docker.
+  "updateRemoteUserUID": false,
+
+  // Bind-mounting the workspace explicitly (rather than relying on the
+  // default) lets us add relabel=private, which is podman's SELinux
+  // equivalent of the ":Z" suffix. Without it, Fedora/RHEL hosts with
+  // SELinux enforcing get "Permission denied" inside the container.
+  "workspaceMount": "source=${localWorkspaceFolder},target=/workspaces/${localWorkspaceFolderBasename},type=bind,relabel=private",
+  "workspaceFolder": "/workspaces/${localWorkspaceFolderBasename}",
+
+  "mounts": [
+    // Named volume, not a host bind mount: keeps Claude Code's OAuth token
+    // and settings out of the repo/host filesystem and persists them across
+    // container rebuilds. Scoped per-devcontainer via ${devcontainerId}.
+    "source=claude-code-config-${devcontainerId},target=/home/vscode/.claude,type=volume"
+
+    // Uncomment to inherit your host git identity (name/email, not secrets).
+    // Requires ~/.gitconfig to already exist on the host before the first
+    // build, or podman will create an empty directory in its place.
+    // "source=${localEnv:HOME}/.gitconfig,target=/home/vscode/.gitconfig,type=bind,relabel=private,readonly"
+  ],
+
+  // Uncomment to apply baseline Claude Code policy for everyone using this
+  // container: skip non-essential network calls (telemetry/error reporting)
+  // and pin the CLI version installed at build time instead of auto-updating
+  // in place. See DEVCONTAINER.md > "Customizing for your project".
+  // "containerEnv": {
+  //   "CLAUDE_CODE_DISABLE_NONESSENTIAL_TRAFFIC": "1",
+  //   "DISABLE_AUTOUPDATER": "1"
+  // },
+
+  // Some devcontainer features (claude-code, pnpm via corepack) install
+  // their npm global package as root and never hand ownership to the
+  // non-root remoteUser, unlike the node feature's own npm/corepack dirs.
+  // That leaves those specific packages un-writable by vscode, so
+  // `claude update` (manual or background auto-update) fails with
+  // "Insufficient permissions" on every fresh build. Reclaim ownership of
+  // the whole global node_modules dir once, right after creation.
+  "postCreateCommand": "sudo chown -R vscode:$(id -gn) \"$(npm -g root)\" && claude --version"
+}

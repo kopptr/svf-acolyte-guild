@@ -1,2 +1,32 @@
-.vscode/settings.json
+# --- Secrets & credentials ---
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+secrets/
+credentials.json
+*.credentials
+
+# Claude Code local/personal settings (project-shared settings.json is tracked)
+.claude/settings.local.json
+.mcp-local.json
+
+# --- Dependencies ---
+node_modules/
+vendor/
+
+# --- Logs & runtime data ---
+*.log
+.cache/
+
+# --- Editor / OS ---
+.vscode/*
+!.vscode/extensions.json
+.idea/
+.DS_Store
+Thumbs.db
+
+# --- Project-specific ---
 .obsidian/*
