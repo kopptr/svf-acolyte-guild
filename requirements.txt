@@ -1,4 +1,4 @@
 mkdocs==1.6.1
 mkdocs-material==9.7.7
-mkdocs-wikilinks-plugin==0.1.2
+mkdocs-wikilinks-plugin==0.1.3
 mkdocs-awesome-nav==3.3.0
